@@ -6,6 +6,6 @@ Messy but it works somehow
 Just run extract.py
 
 To-Do;
-- read all text files from separate folder (Prob have to import os)
-- output text files to separate folder
+- read all dialogue text files from separate folder (Prob have to import os)
+- output specific character dialogue text files to separate folder
 - handle ascii characters or at least this thing: �
