@@ -4,3 +4,6 @@ Personal python code to extract dialogue from a certain character given a list o
 Messy but it works somehow
 
 Just run extract.py
+
+To-Do;
+- read all text files from separate folder (Prob have to import os)
