@@ -24,6 +24,7 @@ for eventName in allEvents:
 ak12Lines = []
 ak12LinesNoAK12 = []
 
+# Output text files
 outputWith = open('ak12dialogueWithAK-12.txt', 'w')
 outputWithout = open('ak12dialogueWithoutAK-12.txt', 'w')
 
@@ -35,7 +36,7 @@ for line in readAllEvents:
         ak12Lines.append(line.rstrip('\n'))
         ak12LinesNoAK12.append(line.rstrip('\n')[7:])
 
-# Manually adding adjutant lines to list because my code does not want to for some unknown reason, stupid fucking code work dammit
+# Manually adding adjutant lines to ak12 lists because my code does not want to for some unknown reason, stupid fucking code work dammit
 for line in adjutant:
     if line.startswith("AK-12:"):
         ak12Lines.append(line.rstrip('\n'))
@@ -45,7 +46,7 @@ for line in adjutant:
 for line in ak12Lines:
     outputWith.write(f"{line}\n")
 
-# Write AK-12 lines to text file but excludes AK-12: part
+# Write AK-12 lines to text file and exclude AK-12: part
 for line in ak12LinesNoAK12:
     outputWithout.write(f"{line}\n")
 
