@@ -13,3 +13,5 @@ To-Do:
 - ~~handle ascii characters or at least this thing: �~~ done
 - figure out how to convert from text file to csv without errors
 - dynamic character dialogue extracting, specify which character to extract dialogue for on program start
+
+![AK-12](https://cdn.discordapp.com/attachments/923718033942401065/1106834144849313792/upscaledAK12edit_2.png)
