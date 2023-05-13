@@ -1,5 +1,5 @@
 # Girl's Frontline (GFL) AK-12 dialogue extract
-Personal python code to extract dialogue spoken by the character AK-12 from the hit game Girl's Frontline
+Python code to extract dialogue spoken by the character AK-12 from the hit game Girl's Frontline
 
 Just run extract.py
 
