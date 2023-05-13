@@ -6,6 +6,7 @@ Just run extract.py
 In theory this also works for other characters if you edit the code a bit
 
 All event text copy pasted from https://gfl.amaryllisworks.pw/
+- Disclaimer: All chapters not included yet, im lazy
 
 To-Do:
 - ~~read all dialogue text files from separate folder (Prob have to import os)~~ done
