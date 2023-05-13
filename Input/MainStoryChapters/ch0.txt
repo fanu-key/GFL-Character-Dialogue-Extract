@@ -1,0 +1,286 @@
+A month ago, in a territory of dispute in Area S09...
+
+M4A1: Current time is 0559, the sky is clear.
+
+M16A1: Let's get cracking, M4.
+
+M4A1: Persica, this is the AR Team.
+
+M4A1: We have already reached coordinates V6J69-HJYRV, Rendezvous Point A in Sangvis territory. There is no wind, and the view is clear.
+
+M4A1: Repeating mission objective——Search for all histories and research data signed with the name ‘Lyco' and bring them back to 16LAB.
+
+M4 SOPMOD II: Then...where should we start?
+
+ST AR-15: We'll take over a command post first and hack into the Sangvis database for the information.
+
+M4A1: Our target is the command post over there. AR Team, operation commence.
+Part 2
+
+    2chevron_right
+
+M4A1: Command post successfully taken over. Hacking into the database.
+
+ST AR-15: ...Have you guys thought about the objective of our mission this time?
+
+M16A1: Got something to say, AR-15?
+
+ST AR-15: The mission Persica originally requested was to 'collect research data'.
+
+ST AR-15: But now we're all the way here in Sangvis territory, looking for stuff left behind by some dead guy...
+
+M4A1: As tactical T-Dolls, we only have to accomplish our missions.
+
+ST AR-15: Yeah... I'm just curious.
+
+M4 SOPMOD II: Hey, I got into the database. Come and have a look!
+
+M16A1: ...Oh?
+
+M16A1: This building designated as Safe House 3 holds a computer main frame used by Lyco to store data back when he was alive.
+
+M4A1: OK. Target confirmed. Let us continue our mission.
+
+M4A1: Persica, this is the AR Team. We have targeted a safe house and are currently heading for our destination.
+
+M4 SOPMOD II: Let's get going! Tasty Sangvis are waiting for us!
+
+ST AR-15: Behave. We're not here for fun!
+
+M16A1: Stay hidden and finish off the Sangvis scouts. Let's go!
+Part 2
+
+2
+
+M4A1: Calling Persica. The operation is going smoothly. The AR Team has reached Safe House 3.
+
+Persica: Woo-hoo! Can you find Lyco's stuff?
+
+M4A1: We have probed the interface, but the system is so archaic we cannot break the verification structure.
+
+M4A1: We will need a passcode to activate the system promptly.
+
+Persica: Hmm... Try '90WISHROCK', followed by the letter 'X', all in caps.
+
+M4A1: ...Verified. Browsing database.
+
+Persica: Splendid! Copy everything into your memory bank and bring them back.
+
+M4A1: Understood. Copying data. Comms system will be shut off temporarily.
+
+ST AR-15: ...So, we're messing with a Sangvis database in Sangvis territory, looking for information that even Sangvis Ferri have no idea they have?
+
+M4 SOPMOD II: Haha♪ Isn't that fun? It's like a treasure hunt!
+
+??: Indeed. Thanks to you, the treasure is finally ours.
+
+Agent: 'Agent', Sangvis Ferri Manufacture. I have been awaiting your arrival.
+
+M16A1: ...Agent?!
+
+M16A1: Why would such a high-ranking Sangvis unit be here?!
+
+Agent: This safe house holds something 'Master' seeks.
+
+Agent: Unfortunately, the system is from a bygone time so even we were not able to crack it.
+
+M4 SOPMOD II: And so...we've done you a huge favor, haven't we?
+
+Agent: Master said you would come for sure.
+
+Agent: I just have to capture you, dismember you, and extract your memory banks, and Master will have the 'answer'.
+
+ST AR-15: Detecting signals of numerous Sangvis units! This bitch... She's for real!
+
+M4A1: Copying still in progress. We must persist until it is complete.
+
+M4A1: Everyone, prepare for defensive maneuver!
+Part 3: Unused part? (Not viewable in index, does not seem to match story)
+
+    3chevron_right
+
+M16A1: Oh? There are Griffin T-Dolls nearby. Looks like they're having a go at Sangvis Ferri.
+
+M4A1: They are at a disadvantage, but there is nothing we can do.
+
+M4 SOPMOD II: Hmm? Can't we pop over and lend a hand?
+
+ST AR-15: Save it, SOP-II. You only want to debone some Sangvis.
+
+M4 SOPMOD II: Heheh♪ Busted.
+
+M4A1: They have surrounded the safe house! Get into positions and prepare for battle!
+
+M16A1: There are too many of them! Mind your surroundings and save ammo, especially you, SOP-II!
+
+M4 SOPMOD II: I will! AR-15, watch my back!
+
+ST AR-15: Leave it to me! M4, will that affect your ability to issue commands?
+
+M4A1: No, the transfer does not take up too much RAM. Still, you will have to keep an eye on enemy movements for me, M16.
+
+M16A1: Piece of cake. Just hang on for a little longer, and we'll all go home together!
+Part 2
+
+    2chevron_right
+
+M16A1: The first wave is over. Let's catch our breath.
+
+M4 SOPMOD II: Dammit! There's no end to this! Can't we contact Persica?
+
+M16A1: Sangvis Ferri has already sniffed us out. All pre-set communications modules have been automatically deactivated to avoid leaking 16Lab's intelligence.
+
+M4A1: Transfer only at 50%. Can you hold on till it is complete?
+
+ST AR-15: No, we're too outnumbered. Another round and we're sitting ducks.
+
+M16A1: ...Guys, there is a way.
+
+M16A1: A backup squad from Griffin is in the area. They've been on stand-by for a long time, so they were most likely left behind.
+
+M16A1: M4, change our authorization signals and make it their priority to support us.
+
+M4A1: Understood. AR-15, SOP II.
+
+M4A1: Please direct the squad in repelling enemy forces. M16, stay here and protect me.
+
+M4 SOPMOD II: Got it. Make sure you hang in there till we come back for you!
+
+Half an hour later.
+
+M4A1: ...Transfer complete!
+
+M16A1: Phew!
+
+M16A1: The backup squad seems to be working.
+
+M4A1: Yes. Get AR-15 and SOP-II. We are getting out of here.
+
+Agent: No, you aren't...
+
+M16A1: Agent's signal is fast approaching!
+
+Agent: ...Rubbish T-Dolls that can only wield useless metal sticks in petty fights against maggots in the kitchen!
+
+...!!
+
+...
+
+M4A1: ...Cough...cough! M16...cough...where are you...
+
+Agent: You don't have time to worry about someone else, M4A1.
+
+M4A1: Ugh!
+
+Agent: ...Because...I have brought Death to your doorstep.
+
+Agent: I have brought Death to your doorstep.
+
+Agent: Now, open your eyes...
+
+Agent: Look at me, Tactical Doll M4A1, look at me.
+
+Agent: It's time for your finale, and you must stay till the show is over.
+
+M4A1: Cough...
+
+M4A1: A...gent...
+
+Agent: Interesting. Even the look in your eyes is different from theirs in the face of Death.
+
+Agent: But this is the look I want. Show more shock! More indignation! More hatred!
+
+M4A1: Cough...cough...
+
+Agent: You've stolen something that's very important to Master. Do you think you can just leave?
+
+Agent: I'll kill you first, then your AR Team, and those Griffin T-Dolls still slaving away for you.
+
+Agent: Very soon, they'll be completely at a loss, like infants who've lost their parents.
+
+Agent: They'll struggle blindly on the battlefield, and fall prey to us...
+
+Agent: You just have to die... And you will, in just a few more seconds!
+
+M16A1: ...Sorry, but she won't be dying here.
+
+Agent: ...!
+
+M16A1: I'll spare you the wait! Go to hell right now,
+
+M16A1: Sangvis scum!
+
+M4A1: Cough...cough...
+
+M16A1: Yeah, thank me. Death's scythe missed you by a hair's breadth yet again.
+
+M4A1: Phew... M16, how is the situation outside? AR-15 and SOP-II are still...
+
+ST AR-15: We're back, but Sangvis reinforcements are here. We have to retreat soon.
+
+M4 SOPMOD II: The backup squad can hold them off for a while. Let's go!
+
+M16A1: M4, you all right issuing commands? You seem to be in pretty bad shape.
+
+M4A1: I am fine...cough... M16, please do some repairs on me. I will run a diagnostic on my command system first.
+
+M4A1: It is fine. The tactical maps are intact. What about the comms system?
+
+Skorpion: Comms are functioning normally! We're hearing you loud and clear!
+
+M4A1: (...So they are the squad that stayed behind.)
+
+M4A1: ...I am so sorry, but you will have to bring up the rear.
+
+PPSh-41: No problem, comrade. It's our duty.
+
+M4A1: (...They...still have no idea they are being left behind.)
+
+M4A1: Thank you. We will finish evacuating as soon as possible.
+
+ST AR-15: The backup squad can't hold them off forever. We have to hurry!
+Part 2
+
+    2chevron_right
+
+M4 SOPMOD II: Phew... Can we catch our breath yet?
+
+ST AR-15: Not yet! There are still too many of them! We can't make it out!
+
+M16A1: Then let's switch to backup Plan C, just as we've agreed.
+
+M4A1: You mean...I return to Griffin HQ alone and ask for help?
+
+M16A1: Yeah. We'll scatter to draw their fire. That'll buy you some time.
+
+M4A1: But...if that Sangvis is still alive, you'll...!
+
+ST AR-15: Stop dawdling, M4! This is the safest way!
+
+M4 SOPMOD II: That's right, you're our only hope!
+
+M4A1: ...Understood. Be careful.
+
+M16A1: All right! Everyone scatter and draw away the Sangvis troops!
+
+M4A1: I WILL find a dependable field commander. Wait for me.
+
+M4A1: I have to, for everyone's sake.
+
+M4A1: That is what happened.
+
+M16A1: Some things are inevitable.
+
+M16A1: If what UMP45 said is true, then this place will soon turn into a real battlefield, just like last time.
+
+M4A1: Just like last time... But with more fire and blood.
+
+M16A1: Haha. Scared, M4?
+
+M4A1: The AR Team has reunited. Nothing can be more reassuring.
+
+M4A1: Let them come, whoever they are.
+
+M4A1: Whether we win or die, so long as we are together...
+
+M4A1: I can ask for no better ending.

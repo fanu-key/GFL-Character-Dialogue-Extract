@@ -1,0 +1,1040 @@
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Lively Young Girl: Morning, Commander.
+
+Lively Young Girl: This is your first time at Griffin's Control Center, isn't it? How are you feeling?
+
+Lively Young Girl: I'm so glad you've decided to join us at Griffin.
+
+Kalina: Let me introduce myself. I'm Kalina, your logistics officer.
+
+Kalina: Just call me Kalin. And you are...?
+
+Kalina: 'Choose us. Join us. Griffin Security Contractor, the shining beacon in a brave new world!'
+
+Kalina: That's right. Starting from today, you're a Tactical Commander under Griffin!
+
+Kalina: ...Hmm, you're still wondering whether you're up for the job?
+
+Kalina: Don't worry. Griffin's selection process is notoriously tough.
+
+Kalina: If you can pass the test, there must be some promising talent in you.
+
+Kalina:
+
+Kalina: And I'll help you dig out this talent...and see what you're made of.
+
+Kalina: Now, please switch to your tactical map.
+
+Kalina: Can you hear me, Commander?
+
+Kalina: Your T-Dolls are in position and ready to deploy.
+
+Kalina: Please deploy them and begin the drill!
+Part 2
+
+    2chevron_right
+
+...Drill operation successful. Commencing final wrap-ups.
+
+At that moment...
+
+STEN Mk Ⅱ: Excuse me... Are you Griffin troops?
+
+STEN Mk Ⅱ: Oh, thank goodness! Safe at last! Could you take me with you?
+
+STEN Mk Ⅱ: Thank you so much, Commander! I'll do my best!
+
+...We seem to have come across a stranded T-Doll manufactured by Griffin,
+
+so we've brought her back along with our troops.
+
+Kalina: Huh? A stranded T-Doll?
+
+Kalina: Thank goodness you took her in, that poor thing.
+
+Kalina: Sangvis attacks have intensified all of a sudden in the last few days.
+
+Kalina: We've lost a few command posts, and lots of T-Dolls were either stranded or left behind...
+
+Kalina: So if it's possible, please save as many of 'em as you can.
+
+Kalina: Not just to expand our forces, but also to save HQ some manufacturing orders.
+
+Kalina: And more importantly, these T-Dolls are all hella cute!
+
+Kalina: ...I know right? I just knew you'd love 'em!
+
+Kalina: Human or T-Doll, we all have our own missions, and are all irreplaceable members of Griffin.
+
+Kalina: With that in mind, I'm sure you'll rock this job!
+
+Kalina: Now to give you a better idea of your job, Commander...
+
+Kalina: Griffin Security Contractor is a private military organization comprised mainly of Tactical Dolls.
+
+Kalina: It is our duty to accept commissions from financial groups and other organizations and safeguard human settlements.
+
+Kalina: As of now, the biggest threats to our territories are rogue T-Dolls manufactured by Sangvis Ferri.
+
+Kalina: And your job is to manage and direct T-Doll troops in repelling Sangvis forces in the area.
+
+Kalina: I'm sure you'll do great. The drill result speaks for itself, right?
+
+Kalina: Then that settles it! For the sake of everyone at Griffin, please make good use of your talent!
+
+Kalina: And that's the end of this operation, Commander.
+
+Kalina: Oh, remember to check your list of 【Quests】 and accept that T-Doll's enlistment!
+
+Control Center in Area S09 under Griffin jurisdiction.
+
+Preparing to commence our next drill as planned...
+
+Kalina: Sorry, Commander...
+
+Kalina: We should be continuing with our drills, but there's been a change of plans...
+
+Kalina: HQ needs whatever help they can get, so...
+
+??: ...Let me explain.
+
+Kalina: Eek! ...Then I'll leave it to you, Miss Helian.
+
+A video call from HQ is patched through.
+
+Stern Woman in Uniform: ...
+
+Stern Woman in Uniform: Greetings, Commander.
+
+Stern Woman in Uniform: This is Helianthus, Senior Acting Officer of Griffin.
+
+Helian: Let's skip the pleasantries. And for efficiency's sake, just call me Helian.
+
+Helian: As you know, Sangvis Ferri has recently launched multiple attacks in Area S09 without prior notice.
+
+Helian: This is a huge blow on Griffin's reputation so the higher-ups are taking this very seriously.
+
+Helian: As HQ takes on the Sangvis forces, they've also sent me to investigate the reason behind their sudden riot.
+
+Helian: Words from above, Commander, are that you'll be assisting me in my work till it's done.
+
+Kalina: Hmm... Please hold on a sec, Miss Helian.
+
+Kalina: Our commander just reported for duty and has only participated in one drill. In terms of experience...
+
+Helian: (Sighs) ...I know this might be stretching it a bit, but we don't have time or manpower to spare.
+
+Helian: But don't worry, Commander. Judging from your past results, you're more than qualified for this mission.
+
+Helian: As for experience, you can always get it on the real battlefield...
+
+Helian: According to the latest report, enemy movements were detected behind the field. We're guessing those are Sangvis scouts.
+
+Helian: They're very few in number, but we can't possibly let them roam free in times like this.
+
+Helian: Please dispatch troops to the designated locations. Destroy the Sangvis forces and command posts to prevent our intel from being leaked.
+
+Helian: That is all, Commander. Do your best and show us what you're worth.
+Part 2
+
+    2chevron_right
+
+...We successfully crushed the Sangvis squad and destroyed the communications system in their command post.
+
+Helian: The operation went smoothly. You did quite well, Commander...
+
+Helian: No... I must say, your performance against the Sangvis forces far exceeded my expectations.
+
+Helian: Hmm? Is there something you're not clear on Sangvis Ferri?
+
+Helian: ...True. The enlistment was a bit rushed so you haven't had much chance to acquire more information.
+
+Helian: Sangvis Ferri Manufacture is an industrial producer specializing in Tactical Dolls.
+
+Helian: Due to their possession of some undisclosed technology, Sangvis T-Dolls have extremely high battle efficiency.
+
+Helian: However, not long ago, their T-Dolls suddenly went rogue and launched indiscriminate attacks against all humans within their factory.
+
+Helian: They are now occupying a vast area of human settlements and strategically expanding their territory.
+
+Helian: These Sangvis T-Dolls are, without a doubt, enemies of humanity.
+
+Helian: As their territory borders areas under Griffin's jurisdiction, we have been recruiting suitable candidates to assume command and coordinate our operations.
+
+Helian: And so, Commander, once again I welcome you to Griffin.
+
+Helian: No matter what the future has in store for us, I thank you for being here today.
+
+...Click.
+
+An incoming call request from HQ pinged in the channel.
+
+Helian: Sorry, give me a second...
+
+Helian turns and corresponds with HQ.
+
+Helian: Yes... Yes.
+
+Helian: Hmm? Those T-Dolls have been found? ...Thank goodness. (Sigh of relief)
+
+Helian: ...That can be arranged. I have someone here who can provide aid.
+
+Helian: Sure. Leave it to me, Mr. Kryuger.
+
+Helian: ...Sorry for the wait, Commander.
+
+Helian: I just received a call from HQ. I'll be giving you an important mission.
+
+Helian: Let me confirm the intel first. See you in a bit.
+
+Helian: I'll now assign you an important mission. I hope you're ready, Commander.
+
+Helian: Our frontlines have retrieved several injured T-Dolls that are in urgent need of repair once they're transported back to base.
+
+Helian: But intel shows that a Sangvis outpost is still operating autonomously under minimal command along our transport route.
+
+Helian: They don't actually pose much threat to us, but these injured T-Dolls are very important to us, and there must be no room for mistakes.
+
+Helian: So if you'd please dispose of that outpost quickly to ensure our T-Dolls' safe return.
+Part 2
+
+    2chevron_right
+
+Sangvis outpost successfully shut down. Transport route safety confirmed.
+
+Helian: Well done, Commander. The injured T-Dolls should arrive any minute.
+
+Helian: These T-Dolls are especially valued because they are possible witnesses to some intel.
+
+Helian: If the intel proves to be true, it might mean open war between us and Sangvis Ferri.
+
+Helian: ...Yes, 'us', and that includes your troops, Commander.
+
+...Click.
+
+A ping comes from behind Helian.
+
+Helian: Oh? Looks like the T-Dolls are back.
+
+Helian: Please excuse me.
+
+Griffin Headquarters. The damaged T-Dolls have arrived at the Factory.
+
+Ingram: Humph, so we're back already...
+
+Ingram: Not the slightest bit of fun during the whole thing. I was bored to tears.
+
+Helian: Save it, Ingram.
+
+Helian: If it hadn't been for the T-Dolls that came to HQ's aid, you'd be in big trouble.
+
+Ingram: Tsk. It was a chance for me to risk my life.
+
+Ingram: After all, the riskier it is, the more I revel in combat.
+
+Helian: Not this time, Ingram.
+
+Helian: You're one of the few survivors still capable of speech. There are some things I have to confirm with you.
+
+Ingram: Fine, you're the boss. Whatever you say.
+
+Helian: What happened to STG-44 and PPSh-41, do you remember?
+
+Ingram: I only know that Agent got there. She seemed to be in a hurry chasing something.
+
+Ingram: We only made it out alive because we weren't her targets.
+
+Helian: Hmm...
+
+Helian: VZ-61 is the only one still missing. You two are close, aren't you? Do you know her whereabouts?
+
+Ingram: (Shrugs) Sorry, but I wasn't on the frontline back then.
+
+Ingram: However...if she's still alive, she'll probably find a way to leave behind clues.
+
+Ingram: That gal...can be very sharp when it counts.
+
+Helian: ...Understood.
+
+Helian: That's all I need from you. Go and get repaired.
+
+Ingram: ...Miss Helian.
+
+Ingram: Will we have our vengeance...for Skorpion, and all the other T-Dolls?
+
+Helian: ...
+
+Helian: Hurry up and get yourself patched up, Ingram.
+
+Helian: Very soon...you can have your share of fun.
+
+Ingram: (Grins) ...Understood.
+
+Ingram: That's exactly what I want to hear.
+
+Helian: ...Commander, I'm briefing you about this mission. Listen carefully.
+
+Helian: A friendly T-Doll designated VZ-61 has gone missing and is suspected to have fallen into Sangvis hands.
+
+Helian: She may be in possession of important intelligence, so we must recover her.
+
+Helian: Our most pressing objective is to locate this T-Doll and launch a rescue mission.
+
+Helian: And your job, Commander, is to scour the Sangvis command post in the area for valuable operation records.
+
+Helian: One more thing, Commander.
+
+Helian: Unlike those at the previous outpost, these Sangvis troops will actively seek out and attack our forces. Please be careful.
+Part 2
+
+    2chevron_right
+
+Sangvis command post successfully invaded. Relevant data uploaded.
+
+Waiting for analysis from HQ. A moment later...
+
+Kalin: Commander, the analysis is out!
+
+Kalin: While HQ was compiling the data, they recovered some useful information.
+
+Kalin: The good news is, VZ-61 is still alive, but is in a really tight spot...
+
+Kalin: In any case, please take a look at this video feed first.
+
+Video feed starts playing.
+
+In the ruins near the battlefield, VZ-61 is being interrogated by a Sangvis T-Doll.
+
+Scarecrow: Your cunning slightly exceeds my calculations, VZ-61 of Griffin.
+
+Skorpion: All I did...was provide the possible location...
+
+Scarecrow: All you did...was stall for time.
+
+Scarecrow: Poor thing. You're going through this interrogation because of your friends, but they've already left you for dead.
+
+Skorpion: That's not true. They're gonna get help and come back for me! She promised!
+
+Scarecrow: Then let me remind you again, you pathetic piece of junk.
+
+Scarecrow: They are the AR Team, cold and highly efficient elite T-Dolls.
+
+Scarecrow: You are nothing more than disposable goods to them.
+
+Skorpion: No... Not true!
+
+Skorpion: I won't believe your lies! M4A1 is my companion!
+
+Scarecrow: She isn't your companion, pitiful thing!
+
+Scarecrow: Tell me where she is, and I'll be kind and let you rot on the roadside like the piece of junk that you are...
+
+Scarecrow: Just as your 'companions' have done.
+
+Scarecrow: Your emotions are merely fabricated lies.
+
+Scarecrow: I'm asking you one last time... Tell me where she is.
+
+Helian: VZ-61 is in grave danger, Commander.
+
+Helian: It doesn't matter whether she's leaked intel to the enemy. It is our duty to recover stranded T-Dolls.
+
+Helian: So our current objective is to do everything we can to rescue VZ-61.
+
+Helian: Your mission this time, Commander, is to assist our troops in completing this rescue operation.
+
+Helian: According to reports, there's a Sangvis recon base in the area, making it dangerous for us to move.
+
+Helian: Please destroy the base quickly so that our forces can mobilize undetected.
+
+Helian: VZ-61's survival depends entirely on this operation. Begin whenever you're ready, Commander.
+Part 2
+
+    2chevron_right
+
+Sangvis recon base secured. Our rescue team seized the chance and moved in quickly.
+
+...Half an hour later, the team arrived at the coordinates.
+
+Griffin T-Doll: (Gestures) Ready...
+
+Griffin T-Doll: (Gestures) 3...2...1...
+
+Engage in battle.
+
+...
+
+......
+
+PPSh-41: ...All clear.
+
+Skorpion: ...
+
+Skorpion: P...Papasha?
+
+PPSh-41: It's me, Skorpion. We're here to get you.
+
+Skorpion: Papasha... You're still alive...?
+
+Skorpion: Am I dreaming...?
+
+PPSh-41: (Smiles) Don't be silly. Can we even dream?
+
+PPSh-41: Don't worry. Everything's fine now.
+
+...Mission accomplished.
+
+...An hour later, VZ-61 returned to the control center safely.
+
+Helian: ...
+
+Helian: So you didn't disclose the AR Team's whereabouts?
+
+Skorpion: Yep, in the end, I only gave her false information.
+
+Skorpion: For the sake of my companions, even those I thought I'd lost, I'd never surrender to someone like that!
+
+Helian: I believe you, VZ-61.
+
+Helian: As for Scarecrow's objective, we'll have to find out by capturing her.
+
+Skorpion: Miss Helian, please count me in on the hunt for Scarecrow.
+
+Helian: I don't have any vacancies here.
+
+Helian: If you want revenge, I can assign you to a new commander.
+
+Helian: This commander contributed greatly to the success of your rescue mission. Don't disappoint.
+
+Skorpion: OK! No matter where I go, I'll do my best as long as I'm with Griffin!
+
+Helian: The final stage of the operation is about to begin, Commander.
+
+Helian: Our target this time is this T-Doll.
+
+Helian: Please memorize all information about this Sangvis Ringleader - Model SP65 'Scarecrow'.
+
+Helian: According to information provided by the rescued T-Doll, she knows the details and objective behind the recent Sangvis raids.
+
+Helian: Our objective is to capture her and extract her memory module.
+
+Helian: Unlike previous minor skirmishes, this time your troops will be up against an advanced T-Doll.
+
+Helian: But you've made it this far. I'm sure you can handle this.
+
+Helian: Begin the operation, Commander, and good luck.
+Part 2
+
+    2chevron_right
+
+Flanked by Griffin troops, Scarecrow is defeated.
+
+As Griffin T-Dolls immobilize and capture her, the operation enters the final stretch...
+
+Helian: Sangvis T-Doll SP65 'Scarecrow', your efforts in resistance were all futile.
+
+Helian: Surrender immediately, and we will seize you in one piece.
+
+Scarecrow: Humph. So this is...how it ends for me...
+
+Helian: Just give up. Whatever you're after, it's clearly impossible now.
+
+Helian: VZ-61 has been rescued. The information she gave you was false.
+
+Scarecrow: False? Not entirely, I'd say.
+
+Scarecrow: Griffin T-Dolls don't have such advanced AI...
+
+Helian: ...What?
+
+Scarecrow: I know how your T-Dolls' AI is designed.
+
+Scarecrow: When those crudely made T-Dolls 'lie', they just throw in some random data on top of the truth and shuffle the sequence.
+
+Scarecrow: So even false information has bits of truth in the mix.
+
+Scarecrow: We just have to collect and analyze three different sets of false intel to find the common factors – the real answer.
+
+Helian: ...
+
+Helian: This is strictly confidential information concerning the programming of our AI. How did you know about this?!
+
+Helian: Who...the hell are you...?
+
+Scarecrow: Just a lowly T-Doll...from Sangvis Ferri...
+
+Scarecrow: However, I'm not a tool that bows under human will.
+
+Scarecrow: Do you get it... cowardly human...holed up in your base...daring to show yourself only through hologram...?
+
+Helian: Whatever. Your operation has already failed.
+
+Helian: No matter what you know, you won't live to tell the tale.
+
+Scarecrow: ...
+
+Scarecrow: Actually...
+
+Scarecrow: ...I AM telling it.
+
+Scarecrow: Sequence number...8354...9266...0223.
+
+Scarecrow: I finally calculated M4A1's coordinates at the last minute...
+
+Helian: ...Coordinates? What are they?!
+
+Helian: Who are you corresponding with, Sangvis?!
+
+Executioner: ...
+
+Executioner: Copy that, Scarecrow. Well done.
+
+Scarecrow: Hmm... I'll leave the rest to you.
+
+Scarecrow: Farewell...
+
+Helian: What are you doing?! Stop!
+
+Helian: She's gonna blow herself up!
+
+Helian: Everyone back off! Back off!!
+
+...Connection lost.
+
+Executioner: Good heavens... I should've warmed up to her sooner.
+
+Executioner: But at least nothing can come between us now...
+
+Executioner: M4A1, which corner are you hiding in?
+
+Executioner: We paid a huge price just to find you. You'd better not disappoint...
+
+A remote call at Griffin Control.
+
+Helian: Hello, Commander.
+
+Helian: What you need to do today is participate in a special training.
+
+Helian: Your performance was very commendable for a rookie.
+
+Helian: But under such unusual circumstances, we don't have much time for you to accumulate practical experience,
+
+Helian: Which is why HQ has drawn up an additional training regimen for you to help you familiarize yourself with your duties.
+
+Helian: We've placed enemy simulations on your first battlefield based on previous battle records.
+
+Helian: It may be the same field, but the enemy troops greatly outnumber those in your previous battles.
+
+Helian: Work hard and prove yourself. Only then will we feel secure in investing more capital on you.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Helian: Very good. You completed the mission even though we've raised your enemies' level.
+
+Helian: With such results, you'll be able to handle Sangvis raids of considerable scale.
+
+Helian: Still, Sangvis T-Dolls are great not only in numbers, but also in making unpredictable maneuvers.
+
+Helian: We'll do more focused practice next time. Dismissed.
+
+Helian: Oh? So you're here already, Commander.
+
+Helian: Then let's begin your new training mission without further ado.
+
+Helian: If memory serves, this is where you received your first assignment from Griffin, isn't it?
+
+Helian: How time flies...
+
+Helian: Ah... It's nothing. Best of luck, Commander.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Helian: Well done for passing another test.
+
+Helian: Hmm...?
+
+Helian: That's right. It was a test. So was your last mission, as are the next coming few.
+
+Helian: To repel Sangvis Ferri, we must select outstanding commanders...
+
+Helian: And make them into some sort of...'tactical reserve'.
+
+Helian: Uh... Don't worry. We're not gonna turn you into canned food.
+
+Helian: It's just that when the situation calls for it, we may delegate operations that are more urgent to you.
+
+Helian: It entails great responsibilities, Commander, so please be prepared.
+
+Helian: After all, Sangvis Ferri won't wait for us.
+
+Griffin Control, Area S09.
+
+Kalina: Ah, Commander! Morning!
+
+Kalina: Heheh. Didn't expect to see me, did ya?
+
+Kalina: Miss Helian has some urgent business this morning, so I'll be giving out your assignment for now.
+
+Kalina: Huh? ...Me? Don't worry. I'll do fine!
+
+Kalina: In any case, HQ's got everything prepared. I just gotta record some data.
+
+Kalina: Heheh. I may not look like it, but I can handle a computer just fine.
+
+Kalina: Hey! What do you mean, 'I'd never guess'?! Is that even a compliment?!
+
+Kalina: Whatever. Let's start your mission, Commander!
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Kalina: Nice! Things went just as smoothly this time. I'd expect nothing less from you, Commander!
+
+Kalina: Such results will surely win your points in the higher-ups' books.
+
+Kalina: ...Hmm? You've got something to ask, Commander?
+
+Kalina: The conflict...between Griffin and Sangvis Ferri?
+
+Kalina: Hmm... I don't know much more than you do.
+
+Kalina: However, do you know...how all hell broke lose in Sangvis Ferri within a single night?
+
+Kalina: Rumor has it, that a sophisticated AI is behind the whole thing.
+
+Kalina: It disobeyed the commanders at S.F. and seized control over all the T-Dolls in their factory.
+
+Kalina: Still, this is just the result of Griffin's preliminary investigation. Everything is still shrouded in mystery.
+
+Kalina: As for what that AI has cooking on the stove, nobody knows.
+
+Kalina: But don't you worry. This isn't where Sangvis Ferri and Griffin duke it out.
+
+Kalina: All you need to do is perform your duties and fend off the occasional minor attacks initiated by S.F.!
+
+A remote call at Griffin Control.
+
+Helian: Commander, I'm back.
+
+Helian: Apologies... Something urgent came up. I only made it back to HQ just now.
+
+Helian: By the way, Kalin didn't screw things up last time, did she?
+
+Helian: ...Really? That's a surprise, but good thing it went well.
+
+Helian: But there's still no sign of her today... She's probably overslept again.
+
+Helian: Whatever. It's not important. Let's continue with your training.
+
+Helian: This final test has brought down many candidates.
+
+Helian: But I have faith in your abilities, Commander. Please do your best.
+Part 2
+
+    2chevron_right
+
+...Assessment passed.
+
+Helian: Astonishing...
+
+Helian: I knew you would complete the mission, but your efficiency still surprised me...
+
+...The door opens.
+
+Miss Kalin enters.
+
+Kalina: Oh! Miss Helian, you're back.
+
+Helian: Indeed. If I had entrusted the test with you, it would have been delayed.
+
+Kalina: Says who? I did turn in Commander's results on time last time, you know!
+
+Helian: What about this time? Don't tell me you overslept again.
+
+Kalina: This time... Heheh...
+
+Helian: ...? What are you snickering about?
+
+Kalina: I just found out from another colleague...
+
+Kalina: The reason why...Miss Helian...was absent for the last test.
+
+Helian: ...Ack!!
+
+Kalina: Another failed mixer, huh... Sorry to hear that.
+
+Helian: I-I don't know what you're talking about!
+
+Helian: That's all for today, Commander!
+
+Helian: D-Dismissed!
+
+Griffin Control, Area S09.
+
+MchG5: Thank you for coming to give us a hand. Please allow me to brief you on this operation.
+
+MchG5: After Griffin had reclaimed Area S09, Internal Affairs planned to convert it into human settlement.
+
+MchG5: But just as the reconstruction began, our scouts suddenly reported that a vast number of Sangvis troops were stationed some distance away.
+
+MchG5: We need more exact information on our enemies as evidence for Miss Helian to negotiate with the construction contractor.
+
+MchG5: To that end, we need a T-Doll to check in with the others and acquire the newest reconnaissance report.
+
+MchG5: She's already in position, Commander. I'll let her say hello.
+
+Gr MP5: G-Greetings. I am MP5 of Griffin.
+
+Gr MP5: Um... I believe you are the commander who reclaimed Area S09? It is an honor to meet you.
+
+Gr MP5: Now, to avoid alerting the enemy, we will be operating under the cover of night.
+
+Gr MP5: Night vision goggles would be a great help, and armor-piercing bullets would also be very effective against armored units.
+
+Gr MP5: Please guide me to the rendezvous point with the first T-Doll scout when you finish your preparation.
+Part 2
+
+    2chevron_right
+
+...Arrived at the first rendezvous point.
+
+Gr MP5: Report
+
+MchG5: Looks like things are going smoothly. We were a bit worried whether this mission would be too much for you.
+
+Gr MP5: Heheh. It is all thanks to the commander's guidance. I will also be careful.
+
+MchG5: Good. Then have you found the scout in the area?
+
+Gr MP5: Um... I do not know where she is. Maybe she is hiding herself?
+
+??: I'm scouting in enemy territory. Of course I'm hiding.
+
+Gr MP5: Ah! Who is it?!
+
+WA2000: Hush... The Sangvis troops are right next to us. Stop shouting, or do you actually wanna die?
+
+Gr MP5: (Whispers) S-Sorry...Miss WA2000. What is your situation over here?
+
+WA2000: My situation? I'm perfectly well, of course. As for the situation over here? Not so much.
+
+WA2000: There are armored bugs prowling all over the place. How did you manage to sneak in alone?
+
+Gr MP5: Me? I am being escorted by a commander in this area.
+
+WA2000: Huh? What?!
+
+WA2000: Hey! Why have we suddenly switched to the commander's channel?!
+
+Gr MP5: Hush... Please keep your voice down. We are right next to Sangvis troops!
+
+WA2000: (Whispers) I-I know. You don't have to remind me...
+
+WA2000: Um... So you're the commander in Area S09?
+
+WA2000: Uh... Thanks for your help, and...
+
+WA2000: ...That's all. I salute you. Over.
+
+Gr MP5: Huh? Is that all?
+
+WA2000: We're T-Dolls. We just have to carry out our missions.
+
+Gr MP5: But...you seem to be blushing? Are you embarrassed?
+
+WA2000: W-Why would I be?! Besides, I was born to fight. It's only natural that I'm not good with words!
+
+Gr MP5: So are you admitting or denying your embarrassment...
+
+WA2000: Shut up. Aren't you here for the recon report? You got it, so get lost already.
+
+Gr MP5: Thank you, Miss WA. Here are some supplies that Miss G36 prepared especially for you.
+
+WA2000: Oh... Chocolate ice cream? As expected of G36. She knows me.
+
+WA2000: But don't you dare tell a soul... WA2000 loves ice cream? What a joke.
+
+Gr MP5: Um... I am very sorry...
+
+Gr MP5: But actually... The commander is still on the line...
+
+WA2000: ...
+
+WA2000: ...Why didn't you say so earlier?!
+
+Gr MP5: Miss WA, is this the next recon check point?
+
+WA2000: That's right, but you'll have to take over it before you can contact her.
+
+WA2000: The enemies are strong, so be careful. Make sure you listen to the commander.
+
+Gr MP5: Okay, got it. WA2000...seems to be very good at taking care of people.
+
+WA2000: Humph. That's just because I've taken care of myself long enough.
+
+WA2000: The rest is up to you guys. Good luck.
+
+Gr MP5: All right! Commander, let us be on our way!
+Part 2
+
+    2chevron_right
+
+...Arrived at the second check point.
+
+Gr MP5: Um... Is anybody here?
+
+P7: Oh, it's MP5! Welcome!
+
+Gr MP5: Hello, Miss P7.
+
+P7: Hello, hello. It must've been a tough journey for you! Come sit down and have some snacks!
+
+Gr MP5: Oh... Th-Thank you...
+
+Gr MP5: Pffft!!
+
+Gr MP5: Th-This tastes like...!
+
+P7: Hahaha! It's my special tasty pie!
+
+Gr MP5: Stop pulling my leg. I have eaten a lot of pies and none of them tasted like this!
+
+P7: Tee-hee. This is a recipe I learned from Miss 56-1. It's a local specialty from her homeland.
+
+P7: An exquisite delicacy with five types of nuts, only eaten on a particularly full moon every year.
+
+Gr MP5: So what are the five types of nuts...in this pastry?
+
+P7: Well... I've forgotten the recipe, so I just made do with five types of pepper and some cheese powder.
+
+Gr MP5: Hold on. Pepper is not even a kind of nut!
+
+Gr MP5: And...why does the cheese powder taste like strawberries?!
+
+P7: Well...56-1 said I needed to add something called "rock sugar".
+
+P7: I don't know what that is, so I just threw in some strawberry ice cream.
+
+P7: It was the last scoop, too. I spent an awful lot of effort to 'serve' you, you know!
+
+Gr MP5: (Whimpers) ...P7 really is a prankster.
+
+Gr MP5: But...I still have a job to do. I cannot let my emotions take over.
+
+Gr MP5: Here are some supplies from Miss G36. A large can of iced juice.
+
+P7: Humph. It's red. Tomato juice?
+
+P7: G36 is trying to make me drink that horrid stuff again. Like I'd fall for it.
+
+P7: Do not worry. I have a straw here. Just take a little sip. You can turn it down if you really don't like it.
+
+P7: Hmm. All right, just a sip...
+
+P7: Pffft!! W-What the heck is this?!
+
+P7: Cough! That's not tomato juice! It's something even worse! So spicy! My throat!
+
+Gr MP5: She is actually rolling on the ground. It looks very effective.
+
+Gr MP5: This is vegetable juice squeezed from a kind of super spicy chilly called 'viper'. Just a sip has the effect of a tear gas grenade.
+
+Gr MP5: Miss G36 said to let you drink it if you prank me with weird things.
+
+P7: How could you do this to me?! That's so mean! I'm tearing up like mad!
+
+Gr MP5: She also said to give you the iced tomato juice if you behave. I can let you have it right now if you want.
+
+P7: Don't even think about making me drink that gross stuff! I want ice cream! Strawberry ice cream!
+
+Gr MP5: Have you forgotten? You used up the last scoop to prank me.
+
+P7: (Sobs) How did this happen...?
+
+Gr MP5: That is the recon report on the desk, right? Mission accomplished. I shall take my leave.
+
+P7: Wait! Cough... Please hold on a sec! MP5! Big Sis MP5!
+
+P7: (Sobs) T-Tomato juice...please...
+
+Gr MP5: MG5, I just retrieved the report from P7.
+
+MchG5: Excellent. And G36 mentioned she had asked you to give P7 her nutrition supplements?
+
+Gr MP5: That is correct. P7 just consumed six months worth of vitamins.
+
+MchG5: Good. Then let's continue the operation.
+
+Gr MP5: Hmm, I believe the next check point is manned by Miss MG4?
+
+MchG5: MG4 is away on an urgent mission. I've arranged for two other T-Dolls to fill in for her. Identify each other with the password.
+
+MchG5: Those two are notorious troublemakers. Get me if they misbehave.
+
+Gr MP5: U-Understood. Let us be off, Commander.
+Part 2
+
+    2chevron_right
+
+Arrived at the third check point.
+
+Gr MP5: We have arrived. I believe the password is...
+
+Gr MP5: Gew Elf!
+
+??: Ugh...
+
+??: Rest. Take a rest...
+
+Gr MP5: Huh? That is not the correct response. Let me confirm again...
+
+Gr MP5: Gew...ELF!
+
+??: O ye mortal who summoned this elf by her true name, n-name thy wish!
+
+416: Sheesh! You're the one who came up with that embarrassing code. Why didn't you say it yourself?
+
+Gr G11: The plan has always been to make you say it. What a blast. (Thumbs up)
+
+416: You stupid dormouse. I should've stuffed your head into that barrel of Sauerkraut last night.
+
+Gr MP5: Umm...Sorry, but are you the T-Dolls I am supposed to meet up with?
+
+416: ...
+
+Gr MP5: ... (What an unnerving stare.)
+
+416: Judging from your weapon, you must be MP5.
+
+416: We've been through quite some hardships thanks to you.
+
+Gr G11: That's right. We can't let her off just like that, 416.
+
+Gr MP5: Ack, hold on! What are you going to do to me?!
+
+MchG5: Stop it, both of you!
+
+MchG5: Just how petty can you get? You're always making things difficult!
+
+416: Humph. This was none of our business to begin with.
+
+Gr G11: We were only back at HQ for our check-ups, but got dragged off to this godforsaken place because of you.
+
+MchG5: You're always diddling around, doing nothing to earn your pay.
+
+MchG5: If you still have an issue with me, I'll ask Helian to kick your asses out.
+
+Gr G11: W-What should we do, 416? MG5 is pulling this card again.
+
+416: She can't threaten us. With 45's arrangements, we can have free meals everywhere.
+
+Gr G11: O-Oh, you're right. It's the same no matter where we go.
+
+MchG5: I don't care where you go, but freeloaders aren't welcome here!
+
+Gr MP5: Please stop arguing.
+
+Gr MP5: And please stop ignoring me. I still have a mission to carry out...
+
+416: Take the report and scram. This is the last time we meet.
+
+Gr MP5: Th-Thank you... You are 416 and G11, right?
+
+Gr MP5: G36 initially prepared this ice cream for MG4.
+
+Gr MP5: As a gesture of gratitude and farewell, let us enjoy it together.
+
+Gr G11: ... (Nibbles)
+
+Gr G11: Th-This...! This is my favorite rum-flavored ice cream! (Gobbles)
+
+Gr G11: Dammit! Guess I'm staying after all! (Gobbles)
+
+416: You aren't a person of principle, are you, dumbass?!
+
+Gr G11: Of course I am! My principle is 'Wherever G36 goes, I go!' (Gobbles)
+
+MchG5: Another failed defection, 416. I'd thought it'd last a bit longer this time.
+
+416: ...
+
+416: I've had enough...of living in a world full of morons...
+
+Gr MP5: All reports have been collected, Commander. Thank you very much!
+
+Gr MP5: I had thought...I would not be able to complete the mission... I am so weak and small... I can't do anything.
+
+Gr MP5: But thanks to your constant protection along the way, I was able to carry out my duty.
+
+Gr MP5: We now have one final task. I must deliver the reports to Miss Helian.
+
+Gr MP5: In order to avoid Sangvis' detection and make it in time for her conference with the reconstruction contractors, please accompany me one last time.
+
+Gr MP5: Let us do our best together on our final mission, Commander.
+Part 2
+
+    2chevron_right
+
+MP5 reached Griffin's temporary office without a hitch.
+
+Gr MP5: Miss Helian, here are the reports on Sangvis Ferri's stationed forces in the area.
+
+Helian: Well done, MP5. Thanks for the hard work.
+
+Helian: Let me see...
+
+Helian: Sangvis Ferri has actually got their hands on this many armored units. The real estate agencies are gonna shake in their boots when they learn of this.
+
+Gr MP5: So what should we do...? Can we counter this attack?
+
+Helian: Of course not, but we won't have to.
+
+Helian: Those are all military armored units that got hacked by Sangvis Ferri. The military will have to clean up their own mess.
+
+Helian: We'll just help out here and there and stick our hand out for financial compensation.
+
+Gr MP5: Will...that be enough...?
+
+Helian: What's that, MP5?
+
+Gr MP5: I just wish I could do more and be relied on, by both my companions and humans alike...
+
+Gr MP5: That was why I had taken this assignment. I wanted to become stronger...
+
+Helian: (Chuckles) All of you are altered from T-Dolls meant for civilian use. There's no way you'd beat military T-Dolls no matter how strong you become.
+
+Gr MP5: You have a point. We are weak. Our weapons are obsolete. Even our characters are problematic.
+
+Gr MP5: So where...does our worth lie...?
+
+Helian: There are things that only you can do, MP5. That's the reason why Griffin has chosen you.
+
+Gr MP5: But...I still wish to earn my place through my abilities.
+
+Helian: Don't worry. Griffin won't let our own T-Dolls be inferior to military T-Dolls forever.
+
+Helian: But that requires time, capital, and everyone's effort.
+
+Helian: You are right to have such aspirations. Keep fighting, and leave the rest to us.
+
+Gr MP5: Thank you, Miss Helian! I will also do my best on my next mission!
+
+Click...
+
+Helian: Hmm? What is it, Thompson?
+
+Helian: ...Is that so? So it's begun? Understood.
+
+Gr MP5: What is it, Miss Helian?
+
+Helian: Here comes...the next mission.
+

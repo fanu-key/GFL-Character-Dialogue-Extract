@@ -1,0 +1,897 @@
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Helian: ...In hindsight, that was quite a close shave. Thank goodness no one was hurt.
+
+Helian: Sadly, that Sangvis' memory module was destroyed. We could barely recover any data from it.
+
+Helian: I have to compile a report, and I need your help on several matters.
+
+Helian: 'Sequence no. 835492660223' - one of the few pieces of important information recovered just now.
+
+Helian: According to analysis from the Intelligence Department, there are some coordinates hidden in there. Please investigate the situation in the vicinity.
+
+Helian: Don't hesitate to report whatever you find out of the ordinary.
+Part 2
+
+    2chevron_right
+
+Combat over. Report submitted to Helian.
+
+Helian returned to HQ.
+
+Helian: Things look more serious than we imagined, Mr. Kryuger.
+
+Helian: According to that commander's investigation, Sangvis Ferri was again one step ahead of us.
+
+Kryuger: ...
+
+Kryuger: In other words, they've been beating us to intelligence regarding M4A1.
+
+Helian: Yes. My guess is that they have a T-Doll skilled at breaking codes.
+
+Kryuger: Or...they've been acquiring intelligence from one of our own.
+
+Helian: That's...
+
+Helian: I believe...everyone at Griffin to be trustworthy, and the T-Doll safety system impeccable.
+
+Kryuger: Safety and trustworthiness are relative.
+
+Kryuger: We can't begin to guess what cards our enemies have up their sleeve.
+
+Kryuger: Halt your operations for now, Helian, just to be safe.
+
+Kryuger: There's no need to follow up on that commander's mission either.
+
+Helian: Then...should we continue the operation to rescue the AR Team?
+
+Kryuger: Certainly, but we're changing our strategies. I'll find someone more suitable for the task.
+
+Kryuger: Speaking of which, Helian, does the commander working for you...like cats?
+
+Helian: Huh?
+
+Helian: Well... I never asked, but...I hope so.
+
+Helian: Don't tell me, Mr. Kryuger, you intend to...
+
+Kryuger: Yes. Since we can't solve the current problem, let's start from the roots.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Kalina: Commander, I'm back!
+
+Kalina: Gosh, I've been working at the warehouse all this time. I'm dead tired.
+
+Kalina: Huh? Who am I?
+
+Kalina: C'mon, Commander, stop pulling my leg. We just said hi at the mall, didn't we?!
+
+Kalina: Back to business. After Miss Helian left, HQ sent us a new assignment. Please take a look.
+
+Kalina: Though Scarecrow's destruction has been confirmed, a Griffin command post is still under Sangvis control.
+
+Kalina: Our squad in the area is surrounded by Sangvis troops. We must bust them out as soon as possible.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Kalina: Everything went smoothly. Good work, everyone!
+
+Kalina: Huh? Commander, you don't look...very happy, do you?
+
+Kalina: That's true.
+
+Kalina: We were put in charge of a huge operation, but it got terminated all of a sudden.
+
+Kalina: And now...we're just cleaning up here and there. Of course it'd take some getting used to.
+
+Kalina: S-Still, you're doing great as a new commander!
+
+Kalina: Just take it one step at a time, and opportunities will eventually show up, right?
+
+Kalina: ...That's the spirit! Cheer up. We've still got loads to do!
+
+In a corner out in the battlefield, a T-Doll squad...
+
+FF-49: No enemies spotted...here...
+
+FN FNC: That's weird. We did receive some suspicious signals. Don't tell me we've come all this way for nothing.
+
+FF-49: Well... That's all good. Let's head back soon.
+
+FN FNC: You scared, 49?
+
+FN FNC: But if we go back just like that...
+
+FF-49: Oh! Someone's over there!
+
+M4A1: ...!
+
+FF-49: Hmm? She seems to be...one of our own!
+
+FF-49: What should we do? Do I shoot?!
+
+FN FNC: How should I know? Let me ask for instructions!
+
+FF-49: Oh, she's gone already...
+
+FN-FNC: Hmm... Isn't she quick...
+
+FF-49: Or maybe we're just slow...
+
+FF-49: FFC, are we too slow...?
+
+FN-FNC: Of course not. We're a new generation of T-Dolls, you know.
+
+FN-FNC: But does that mean...she isn't an enemy?
+
+FF-49: Why would she run though, if she's on our side?
+
+FF-49: Just... What is going on?
+
+Kalina: Here comes our new mission, Commander.
+
+Kalina: Sorry, it doesn't have anything to do with our last case either.
+
+Kalina: S-Still, quiet days aren't so bad. Plus, the pay is very good!
+
+Kalina: According to our sources, Sangvis troops didn't evacuate immediately after Scarecrow's destruction.
+
+Kalina: They've formed into several guerrilla squads and remained active in Griffin territory.
+
+Kalina: Their objective is unclear. At the very least, they haven't taken the initiative to attack us up to this point.
+
+Kalina: However, we can't just sit here and do nothing. Chase them away, Commander!
+Part 2
+
+    2chevron_right
+
+Meanwhile, a T-Doll squad on the battlefield...
+
+MG3: Cleanup complete. That was the last wave, right?
+
+Gr MP5: Shall we double-check? There is no such thing as too much caution.
+
+MG3: It should be fine. I've already done several rounds. Unless there are more Sangvis passing by...
+
+Gr MP5: Um... Please hold on!
+
+Gr MP5: I am reading a strong Sangvis signal. It is very close!
+
+MG3: What?! Where? Locate it, quick!
+
+Executioner: No need for that. I'm right here!
+
+Executioner: Morning, Griffin.
+
+MG3: What do you want?! We won't go down without a fight!
+
+Gr MP5: Hold it, MG3!
+
+Executioner: Relax. You two aren't worth my effort.
+
+Executioner: I'm looking for a T-Doll. Black hair, skull bandana...
+
+Executioner: Armed with an M4A1 assault rifle and looks like an airhead. Have you seen her?
+
+Gr MP5: M4A1...? We have not seen any T-Doll by that description...
+
+Executioner: ...
+
+Executioner: Humph. She kept running rather than to put you in danger.
+
+Executioner: I get it. So she fears my might.
+
+Executioner: Then we shall see how far you can run, M4! Hahahahaha!
+
+Gr MP5: She...she ran off...
+
+MG3: What...was that all about?
+
+Gr MP5: Phew... (Sigh of relief)
+
+Gr MP5: In any case, we are safe. Let us return and report this incident.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Kalina: Commander, our mission this time was issued by 16Lab—
+
+Persica: Ah... So you're the commander. Pleased to meet you.
+
+Kalina: Huh? Don't you need introductions?!
+
+Persica: Persica, researcher at 16Lab.
+
+Kalina: Miss Persica is actually the head researcher.
+
+Kalina: 16Lab is Griffin's technology supplier. The weapons and network technology of our T-Dolls are all Miss Persica's great work.
+
+Persica: Hmm... Your mission this time is to eradicate Sangvis forces in the area and retrieve some research data.
+
+Kalina: Miss Persica wishes to recover some data stored in a database. This order has been approved by Griffin.
+
+Persica: Yeah... It's annoying how Sangvis Ferri keeps sitting on the database.
+
+Persica: I'll go make some coffee. I'm leaving everything to you...
+
+Kalina: And that's that, Commander. Let's begin.
+Part 2
+
+    2chevron_right
+
+Combat over. Report submitted to Persica.
+
+A short while later, at the Factory at Griffin HQ...
+
+Helian: Here you are, Mr. Kryuger.
+
+Kryuger: Our next battle is about to begin, so I've come to check up on our T-Dolls.
+
+Kryuger: I've read your investigation report. Thanks for the hard work, Helian.
+
+Helian: It's my duty.
+
+Helian: On another note, I just received a report from Persica. She's analyzing M4A1's database.
+
+Helian: But the data extracted so far is insufficient. We may need to expand our search area.
+
+Kryuger: Let her do it herself. We simply aren't capable of organizing any bigger operations.
+
+Kryuger: Our contract states that we should focus our work on things that are so-called...'tactically valuable'.
+
+Helian: Another order from the client, huh...
+
+Helian: It's almost impossible to get information regarding the AR Team on time when our main forces are left in the wealthy area so far away...
+
+Kryuger: At least we got something. Those two reports have been very helpful.
+
+Helian: Those two reports... You mean the ones about our units stationed in Area S09 encountering M4A1 and a Sangvis Ringleader?
+
+Kryuger: The AR Team is still surrounded by Sangvis troops in that area. We know that for certain.
+
+Kryuger: Now it's up to Persica.
+
+Helian: Then is rescuing the AR Team still our main objective?
+
+Kryuger: The AR Team... Or M4A1, at least, must have discovered something very important to Sangvis Ferri.
+
+Kryuger: We still know next to nothing about S.F. Retrieving M4A1 will prove immensely helpful.
+
+Helian: But we can't breach our contract with the client and station our main forces in areas beyond our jurisdiction...
+
+Kryuger: We don't need to send out our main forces.
+
+Kryuger: The commander you mentioned just now is still a rookie, I hear.
+
+Helian: Yes. With very dependable abilities.
+
+Helian: Someone worth grooming.
+
+Kryuger: And I believe here's the first grooming session.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Kalina: How long do we have to keep looking, Miss Persica?
+
+Persica: Just...a little longer...
+
+Persica: (Whispers) According to my sources, this is the last possible location...
+
+Kalina: Huh? Come again? The last?
+
+Persica: Yeah... As promised, this will be my last commission.
+
+Persica: I'm guessing this place has what I'm looking for...
+
+Kalina: HVVQJ in Area S09? But it's all ruins. No sign of any databases there.
+
+Kalina: Seriously, what are you looking for, Miss Persica?
+
+Persica: Hmm... Nothing important.
+
+Persica: Could be just "sugar cubes" I left behind the last time I moved?
+
+Kalina: WHAT?!
+
+Persica: Just take a look. It's the last location. Thanks a bunch.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Kalina: Finally. That's the last time, right? That's what you said, Miss Persica.
+
+Kalina: But we didn't find much, just this tape...
+
+Persica: Ah! The tape! Show...Show it to me!
+
+Kalina: Huh? Well... Could you play it, Commander?
+
+Kalina: All right, here it goes...
+
+...
+
+M4A1: Day 70 on the run. No progress at all... Or rather, the operation is in jeopardy...
+
+M4A1: ...As I am being targeted by Sangvis troops.
+
+M4A1: I did expect Sangvis pursuit, but they are coming hot on my heels. Things are looking very bad...
+
+M4A1: I do not know how much longer I can keep this up. I have to get in touch with someone from Griffin as soon as possible.
+
+End of recording.
+
+Kalina: What...is this? Is it what you're looking for, Miss Persica?
+
+Persica: ...
+
+Kalina: Miss Persica?
+
+Persica: AH!
+
+Persica: Oh... Well...
+
+Persica: In any case, thank you, Commander.
+
+Persica: As expected of the ace that Helian thinks highly of. Hats off to you.
+
+Helian: It doesn't matter how highly I think of the commander. It's up to Kryuger to decide who to focus on training.
+
+Persica: Ah! True, the boss has the final say in everything. By the way...
+
+Helian: By the way, Persica...
+
+Helian: Was your mission accomplished?
+
+Persica: Uh... Don't worry.
+
+Persica: I've got the data. The results will be out in a mo.
+
+Helian: Then please make haste. We're running out of time, as you well know.
+
+Helian: Besides, we're not training the commander to help you find your beakers.
+
+Persica: Hmm... Commander... Thanks for this time...
+
+Persica: Next time I'll treat you to coffee...in my lab...
+
+Persica terminated the call.
+
+Helian: (Sighs) Unless you fancy drinking dirty water used for doing the dishes while sitting in a freezer, I'd suggest you forget it.
+
+Helian: Let's get back on track, Commander.
+
+Helian: Griffin is now assigning an important mission to you. I'll give you a detailed explanation...
+
+Helian: Commander, I'm sure you've had your own suspicions.
+
+Helian: The Sangvis invasion in Area S09 is by no means a random conflict.
+
+Helian: A Sangvis Ringleader is in fact searching for a T-Doll known as M4A1.
+
+Helian: She is part of the AR Tactical Unit under Griffin and has been collecting some research data under the commission of Persica, researcher at 16Lab.
+
+Helian: According to our sources, her neural cloud, i.e. memory bank, seems to be carrying extremely important confidential intelligence.
+
+Helian: M4A1 is currently lost in Area S09. We must bring her in safely with all possible haste.
+
+Helian: But due to certain agreements, we cannot openly interfere with the situation.
+
+Helian: After some discussion, Griffin HQ has decided to delegate this mission to you.
+
+Helian: Launch an immediate search in Zone T6, Area S09 and secure M4A1 before Sangvis forces get to her.
+
+Helian: The Ringleader in the area has been confirmed to be Model No. SP524, an advanced T-Doll widely known as 'Executioner'.
+
+Helian: Though she is currently hellbent on chasing one target, she'll still attack if approached rashly. Please exercise caution.
+
+Helian: Occupy the enemy's command post, disrupt their communication channel, and find M4A1.
+
+Helian: This mission is of utmost importance, Commander. The higher-ups at Griffin expect much from you.
+
+Helian: Don't let them down. Now begin.
+Part 2
+
+    2chevron_right
+
+Somewhere on the battlefield.
+
+M4A1: Is something wrong, Executioner? An unexpected situation has arisen, has it not?
+
+Executioner: Tsk. How...
+
+Executioner: How come...Griffin T-Dolls attacked my command post before HQ gave the order...?
+
+M4A1: That is because a human commander is capable of mobilizing our troops independently.
+
+Executioner: So you've been waiting for this all along?
+
+M4A1: It was a gamble.
+
+M4A1: I have no choice but to have faith in them.
+
+M4A1: Now, let us discuss your ending.
+
+Executioner: Ending? Do you seriously think that's the end?
+
+Executioner: Even if you hide among Griffin troops, we have other ways to get you.
+
+M4A1: What?
+
+Executioner: Don't forget. You still have three companions stranded on the battlefield...
+
+Executioner: And we both know they make excellent bargaining chips...
+
+M4A1: ...
+
+M4A1 pulled the trigger.
+
+M4A1: You should not have brought them up, Sangvis scum.
+
+Executioner: Humph... Whatever...
+
+Executioner: You know, we won't...disappear...so easily...
+
+Five minutes later.
+
+Our troops reached the rescue zone.
+
+M4A1: ...
+
+M4A1: Is that you...Commander?
+
+M4A1: Are you the commander...that Miss Persica mentioned?
+
+M4A1: Excuse me... Allow me to introduce myself.
+
+M4A1: Designation M4A1. Please call me by this name.
+
+M4A1: I am a Griffin T-Doll under the AR special unit. Due to certain reasons, I am currently under Sangvis pursuit.
+
+M4A1: Miss Persica told me a tactical commander will provide me with backup...
+
+M4A1: And the watchword is...
+
+M4A1: Um... "Sugar cubes"?
+
+M4A1: Yes, thank you very much for your timely rescue.
+
+M4A1: Right now, I only have a single request...
+
+...Save us.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Persica: Ah, Commander... We meet again...
+
+Persica: I'm calling today because I need you to take care of something.
+
+Persica: First of all, don't worry - this is a closed channel.
+
+Persica: Second of all, don't worry - I'm not asking you to do bad things.
+
+Persica: The thing is...I need some samples of dummy units.
+
+Persica: Sangvis...and Griffin units. I need both.
+
+Persica: They've been fighting all this time, there must be quite a lot of scattered parts.
+
+Persica: Please get me some - for research purposes.
+
+Persica: There...might be Sangvis Ringleaders lurking about...
+
+Persica: Those are a Ringleader's dummies. They're activated when a Ringleader is destroyed...
+
+Persica: Be careful, and...thank you.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Persica: Wow! You got so many. Awesome.
+
+Persica: As expected of M4A1's trusted commander. Hats off to you...
+
+Persica: Heheh ♪
+
+Persica: As you've probably learned, I'm M4A1's boss.
+
+Persica: Still, you actually found her. That's really...brilliant of you.
+
+Persica: I won't say any more for now. It's not the right time, and it's not important at the moment.
+
+Persica: M4 is safe. That's all that matters.
+
+Persica: Let's leave it at that. Thanks again, Commander.
+
+Persica: Ah, Commander...
+
+Persica: Yep, here I am again. Am I a welcome sight?
+
+Persica: Same old request. More samples.
+
+Persica: Oh my... What research is it?
+
+Persica: You can say it's a research that'll be useful for Griffin.
+
+Persica: This was where you engaged a Sangvis Ringleader before, right, Commander?
+
+Persica: Then...please begin.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Persica: Oh! Awesome. These are gonna be very helpful.
+
+Persica: Hmm? Why...don't I get in touch with M4...?
+
+Persica: I'm just lazy. No reason, really...
+
+Persica: I have no use for her at the moment anyway. Just say hello for me...
+
+Persica: Why...am I not using her?
+
+Persica: Because I have you, haha...
+
+Persica: That child is a bit peculiar. Make sure you take good care of her.
+
+Persica: It's all right. You'll understand, Commander. Probably...
+
+Persica: The mission this time...mostly concerns Sangvis samples.
+
+Persica: The Sangvis troops here have been upgraded...
+
+Persica: But that's not gonna be a problem, Commander, is it?
+
+Persica: Do your best. I'll be waiting for good news!
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Persica: Oh, Commander. Well d...
+
+M4A1: Why so shocked, Miss Persica?
+
+Persica: Ah! M...M4!
+
+M4A1: Commander told me, so I have come to see you.
+
+Persica: I'm sorry... It was all because of me that you...
+
+M4A1: Please do not say that.
+
+M4A1: We were merely carrying out our employer's orders as T-Dolls.
+
+Persica: Hmm...
+
+Persica: Well, you're safe now. Applause applause.
+
+M4A1: Yes. Commander is very good to me. I will continue serving under Griffin.
+
+Persica: By the way...
+
+Persica: M4A1, I'm so happy...to see you again...
+
+M4A1: ... (Smiles)
+
+M4A1: Yes, so am I, Miss Persica.
+
+Persica: This mission will be the last...
+
+Persica: Please refer to the map...
+
+Persica: Ah, sorry. My channel seems to be in the way...
+
+Persica: But...it's roughly around here.
+
+Persica: ...Hmm? What samples?
+
+Persica: I'll tell you later. It doesn't matter for now.
+
+Persica: Do your best, Commander. I'll leave it all to you.
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Persica: That went well. We're finally done.
+
+Persica: Heheh. Curious, Commander?
+
+Persica: It's nothing special. Just a study...
+
+Persica: ...To compare Sangvis T-Dolls with our own.
+
+Persica: The conclusion is that... the technologies used in building them are...almost...
+
+Persica: Completely different.
+
+Persica: Just how...are Sangvis units made...?
+
+Persica: And what does it have to do with that plan the AR Team found in Safe House 3...?
+
+Persica: ...Ah, nothing. Just talking to myself...
+
+Persica: In any case, thanks for your help, Commander.
+
+Persica: Take care of M4. If more T-Dolls show up, do the same for them...
+
+Persica: Then... See you, Commander.
+
+Persica: Next time, I'll treat you to coffee for real.
+
+Persica: I believe that's gonna be sooner than you think...
+
+Thompson: Good evening, Boss. You're right on time.
+
+Thompson: As indicated on the map, Sangvis troops have already set up a defense line in the area.
+
+Thompson: To coordinate with the military's operation to eradicate them, we need to clandestinely station some men in a few bases.
+
+Thompson: Infiltration requires the use of brains. We're planning to leave it to a pro like you.
+
+Thompson: You're in great demand at Griffin these days, y'know? It took quite some effort just to borrow you.
+
+Thompson: So do your best, Boss. Everyone's counting on you.
+Part 2
+
+    2chevron_right
+
+Griffin troops arrived at a base.
+
+Thompson: Beautifully done, Boss. Now let me discuss our next step with the PIC of this mission.
+
+Thompson: 1911, do you copy?
+
+M1911: You've come way ahead of time. Looks like the commander can't wait to see me.
+
+Thompson: Oh, please. I need to put someone here. Any suggestions?
+
+M1911: This base is used mainly for recon work. Best leave it to a handgun T-Doll.
+
+Thompson: A handgun, huh. Other than you, who else is up to the job...
+
+M9: Let me do it, Miss Thompson! I'll do even better than 1911!
+
+Thompson: That's some nice verve you've got there. Griffin needs enthusiastic T-Dolls like you.
+
+M9: Humph. I'll take every chance to prove that I'm better than a certain old hag!
+
+M1911: I heard that, M9...
+
+Thompson: Anyway, I'm leaving scouting duties to you, M9. Now, a T-Doll to guard you...
+
+M9: That won't be necessary. We're understaffed enough as it is, right?
+
+M9: I'll be fine on my own if it's just scouting. Don't underestimate my skill in making great escapes.
+
+Thompson: Don't try too hard to be brave, M9. The battlefield is unpredictable.
+
+M9: I've fought a bunch of Sangvis with the commander. Don't worry about me.
+
+Thompson: All right. Be careful then. Let's keep going.
+
+M1911: Everything's going smoothly so far, Thompson.
+
+Thompson: Ha, of course, seeing that I'm the one on the field.
+
+M1911: Don't let it get to your head. There are still several bases to go.
+
+Thompson: I've got a pro with me. Sneaking in will be a piece of cake.
+
+M1911: With dear Commander on our side, I have no doubt about winning.
+
+M1911: (Whispers) I'm talking about a T-Doll... The infamous troublemaker among our ranks.
+
+Thompson: Humph, I know. She probably isn't very thrilled to be assigned a mission like this.
+
+M1911: Have you thought about how to deal with her? Don't let her sour the whole thing for everyone...
+
+Thompson: Haha. I'm not Springfield. I'll just have to think of something.
+
+Thompson: Let's go, girls. Don't keep the boss waiting.
+Part 2
+
+    2chevron_right
+
+Griffin troops arrived at a base.
+
+Thompson: Ingram, I'm leaving this place to you. Prepare for your stationing.
+
+Ingram: Huh? Me?
+
+Ingram: Seriously... How long do I have to stay here?
+
+Thompson: Probably quite a while. The military is still deploying their T-Dolls. They didn't say when the action will take place.
+
+Ingram: So why did we have to involve the military? We can handle those stupid tin men on our own just fine.
+
+Thompson: We're a business. We should always avoid splurging ourselves if we can spend someone else's money.
+
+Ingram: (Sighs) I'm not here to make money. What I want is a bloodbath, Thompson.
+
+Ingram: I only joined your team after hearing about you.
+
+Thompson: Then you're gonna be sorely disappointed. All my actions were taken under Griffin's instruction, never on a reckless whim.
+
+Ingram: Then what about the unspeakable things you did under the table?
+
+Thompson: They were all within permissible range... Here, take this.
+
+Ingram: What... A detonator?
+
+Thompson: This is your job. Once you get it over with, I don't care if you go batshit crazy.
+
+Ingram: Humph. So you're not as dull as you claim to be.
+
+Thompson: Make an effort, Ingram. Be glad it's Griffin you're working for.
+
+Thompson: Party to your heart's content - within permissible range of our contract.
+
+M1911: Thompson, did you hear the barrage from this side?
+
+Thompson: Humph. The military seems to have opened fire ahead of schedule.
+
+M1911: (Sighs) They had never trusted us.
+
+Thompson: We stick to our plan. The frontline isn't here. It'll be fine as long as we don't get caught up in the fight.
+
+M1911: Well... Here's a tiny problem.
+
+M1911: The frontline happens to be where M9 is. And military T-Dolls can be very... you know, destructive...
+
+Thompson: I have no time to babysit her. Surely you've made your own preparations?
+
+M1911: Boss, continue the operation and lead us to the next base.
+Part 2
+
+    2chevron_right
+
+Griffin troops arrived at a base.
+
+M1911: Thompson, you've got a good field of vision over there. Have you picked your sniper?
+
+Thompson: M21, you're up. Give me some bullseyes.
+
+M21: Sure. But who should I aim for, the military or Sangvis Ferri?
+
+Thompson: Now is not the time for jokes...
+
+Thompson: Still, seeing that you're a civilian T-Doll, occasional mistakes are unavoidable, aren't they?
+
+M21: Heheh. How about...raising the barrel by 1cm on the premise of not endangering the operation?
+
+Thompson: As long as it's within permissible range of the contract, you can have all the fun you want.
+
+M9: Hello?! Thompson, are you listening?!
+
+M9: Um... They've started fighting over here all of a sudden! Where are you? Come and get me, quick!
+
+Thompson: Hey... You said you'd be fine on your own.
+
+M9: But the military opened fire without even a word! Even my base got hit by shells!
+
+M9: There are Sangvis everywhere! I can't hold on for much longer!
+
+Thompson: It's no use asking me for help since I'm also on the field myself. Go and beg 1911.
+
+M9: (Sobs) ...1911, I'm sorry! You win this time!
+
+M1911: (Sighs) ...I never even thought of it as a competition.
+
+M1911: Then time to move, backup team.
+
+...
+
+M9: Huh? All the Sangvis...are destroyed?
+
+M9: A-Are you one of us?
+
+Super SASS: SuperSASS, new recruit at Griffin. Glad to be of help, Miss M9.
+
+M9: Th...Thank goodness...
+
+M9: You're my hero, Super...whatever!
+
+Super SASS: It's SuperSASS, Miss M9.
+
+Super SASS: And you're squishing the breath out of me...
+
+Thompson: Phew, thank goodness you'd prepared for backup beforehand. Otherwise things wouldn't have ended pretty for M9.
+
+M1911: (Sighs) It only worked because it had quieted down where M9 was, Thompson.
+
+Thompson: True. But SuperSASS is right on time. I was just thinking who to send this time.
+
+Super SASS: Hmm? Where to?
+
+Thompson: To bring Griffin honor and glory, SuperSASS. The organization needs you.
+
+Super SASS: Huh? What? ...Me?
+
+Thompson: Boss, hope you've had enough rest?
+
+Thompson: Everyone's been working hard all this time. Now's the final step.
+
+Thompson: All the girls are in position, except me, the one who's been giving orders.
+
+Thompson: So I need to enter the site from the back to aid the military in this operation.
+
+Thompson: Please lead me to our destination, Boss. Then it'll be time for me to repay the organization.
+Part 2
+
+    2chevron_right
+
+Battle against Sangvis Ferri commenced at M9's temporary base.
+
+M9: Dummy of a Sangvis Ringleader detected! M21, get ready!
+
+M21: Here, say 'cheese', Sangvis scum!
+
+M1911: Their armored unit can't react in time! Now, Ingram!
+
+Ingram: HAHAHAHAHA! BOOM! GET BLOWN TO PIECES, SUCKERS!
+
+Thompson: Now, SuperSASS! Storm the control room!
+
+Thompson: The military are entering from the front. Don't let them take the glory!
+
+Super SASS: Roger. Moving in!
+
+Ingram: HAHA! RUN, SUPERSASS, RUN!
+
+Sangvis troops started retreating.
+
+M21: Make sure you beat the military to it, or we'll have no choice but to kill them off.
+
+M1911: Don't make that kind of joke, M21. What if they're humans?
+
+Ingram: Humph. Didn't the humans make guns to kill each other?
+
+M9: Don't listen to her, SuperSASS.
+
+M9: We're adorable T-Dolls for civilian use, after all. We just have to act cute when we run into humans!
+
+Super SASS: (Forced laughter) Sorry, but I haven't undergone such training.
+
+M21: Damn, you newbies have it easy. Back in my time, we had to take exams on making jokes.
+
+Ingram: Ha, Then you must've joined Griffin only 'cause you screwed up your standup comedy or something.
+
+M1911: You shouldn't ask your companions about their backgrounds, Ingram.
+
+M1911: We are all part of Griffin now. That's the only thing that matters.
+
+Super SASS: SuperSASS has seized the control room. Repeat, SuperSASS has seized the control room!
+
+M21: The sun is up, and victory is ours.
+
+Thompson: 1911, make sure you ask for more dividends from Helian. That was exhausting.
+
+M1911: You'll have to wait till I give the commander the kiss of victory.
+
+M21: So 1911 won the competition?
+
+M1911: There was no competition to begin with, was there?
+
+M1911: Speaking of which, where's M9? Has she gone offline already?
+
+M1911: M9? Are you there?
+
+Ingram: You're too late, 1911. M9's already rushing to the control center.
+
+Thompson: Haha, you really shouldn't have saved her, my dear.
+
+M1911: ...
+
+M1911: These Griffin T-Dolls...could really use some further grooming...

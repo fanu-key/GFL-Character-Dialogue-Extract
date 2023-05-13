@@ -1,0 +1,886 @@
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Helian: Congratulations on the success of your last mission, Commander.
+
+Helian: I received the report about it while I was on the way.
+
+Helian: Firstly, your effort in exterminating Executioner and rooting out Sangvis troops in the area was highly commendable.
+
+Helian: On top of that, you've successfully recovered M4A1 and uploaded a copy of her memory logs, which HQ will start to analyze immediately.
+
+Helian: And now, we need to push our front forward so as to completely eradicate Sangvis influence in the area.
+
+Helian: Due to the limitations of our contract, Griffin cannot actively participate in the operation at this point.
+
+Helian: We need you to prepare for future operations by clearing the road leading to this area.
+Part 2
+
+    2chevron_right
+
+Combat over. In an unmonitored corner at Griffin Control...
+
+M4A1: AR... This is M4A1. Please respond if anyone copies.
+
+M16A1: Nice timing, M4. You wouldn't reach me if you were late by a minute.
+
+M4A1: M16! What happened?
+
+M16A1: A few Sangvis units are very close by. I'll have to turn off the comm soon.
+
+M4A1: Then long story short, I got away and am currently working under a commander.
+
+M4A1: Our troops are stationed near the frontline. We can provide backup for you whenever you need it.
+
+M4A1: M16, how is the AR team doing?
+
+M16A1: We got separated when I was bringing up the rear. But they were safe the last time we got in touch.
+
+M16A1: Leave me for now, M4A1. Find AR-15 and SOP-II first.
+
+M4A1: No problem, M16. But be careful yourself.
+
+M16A1: Sorry, they're coming. We'll talk next time.
+
+M16A1: Don't worry. We'll meet again.
+
+Helian: Commander, M4A1 reported the situations of the other members on the AR Team.
+
+Helian: HQ wants you to give them reinforcement. We will assist you to a certain extent by providing intelligence.
+
+Helian: The AR Team can only safely evacuate if the Sangvis communication outpost in the area is secured and shut down.
+
+Helian: When taking over the outpost, Commander, please upload the data stored in the system. We might find information about the local Ringleader.
+
+Helian: All right, please move out. Godspeed.
+Part 2
+
+    2chevron_right
+
+Somewhere at Griffin Control...
+
+...Click.
+
+ST AR-15: Do you copy, M4? This is AR-15.
+
+M4A1: Copy! Are you all right, AR-15?
+
+M4 SOPMOD II: What about me, M4?! I was worried sick about you but you didn't even ask about me!
+
+M4A1: SOP-II! Are you there too?
+
+M4 SOPMOD II: We're both fine. We've come to rendezvous after receiving your signal.
+
+M4A1: Good. M16 is still on the way, so we are to focus on getting to you first.
+
+M4A1: AR-15, shall we make this our rendezvous point?
+
+ST AR-15: ...
+
+M4A1: AR-15?
+
+ST AR-15: ...Ah, sure. Over.
+
+M4 SOPMOD II: What? Wait, wait, wait! I haven't finished talki...
+
+AR-15's hiding place...
+
+M4 SOPMOD II: Sheesh, AR-15! We finally got in touch with M4!
+
+ST AR-15: Shut up. You can talk all you want after you meet up.
+
+ST AR-15: Also, now isn't the time...to keep up communication.
+
+M4 SOPMOD II: Huh?
+
+M4 SOPMOD II: AR-15... You mean...
+
+ST AR-15: That's right... Our call was being monitored.
+
+ST AR-15: We're targeted...by someone dangerous...
+
+M4 SOPMOD II: Wait! Where are you going?
+
+ST AR-15: Don't follow me, SOP-II.
+
+ST AR-15: You have your own mission - to meet up with M4.
+
+ST AR-15: While I...have something else to settle.
+
+M4A1: Welcome, Commander.
+
+M4A1: I am taking the liberty to brief you on this operation as a member of the AR Team. Please pardon the presumptuousness.
+
+M4A1: Apart from me, the AR Team is comprised of three other T-Dolls, two of which are our current reinforcement targets.
+
+M4A1: Our objective is to fend off Sangvis troops in the area so that they can transit to the rendezvous point.
+
+M4A1: Even though I have only come under your command recently, your previous operations have convinced me that you are an outstanding commander.
+
+M4A1: Thank you very much for your help. Let us be on our way.
+Part 2
+
+    2chevron_right
+
+Under the cover of our troops, M4A1 reached the rendezvous point...
+
+M4A1: AR-15, SOP-II. M4A1 has reached the destination. Are you here yet?
+
+M4 SOPMOD II: I'm here, M4!
+
+M4 SOPMOD II: Hahahaha, thank goodness!
+
+M4 SOPMOD II: You had me so worried!
+
+M4A1: Phew... I am glad you are okay. Where is AR-15?
+
+M4 SOPMOD II: AR-15...
+
+M4A1: ...Hmm? What happened to her?
+
+M4 SOPMOD II: M4, keep calm and listen to me.
+
+M4 SOPMOD II: Our call was somehow tapped by a Sangvis Ringleader...
+
+M4 SOPMOD II: AR-15 is disrupting enemy pursuit to buy us time.
+
+M4A1: Time? Time for what?
+
+M4 SOPMOD II: They...are already en route... to your control center.
+
+M4A1: What? You mean...Sangvis troops?
+
+M4 SOPMOD II: Yes, the local Ringleader is already on the move.
+
+M4 SOPMOD II: Take me back right now and I'll explain!
+
+M4A1: Commander, this is another member of the AR Team, M4 SOPMOD...
+
+M4 SOPMOD II: M4 SOPMOD II!
+
+M4 SOPMOD II: Commander, there's no time to explain. Get in the car!
+
+M4A1: What are you doing? The commander has no plan of escaping!
+
+M4 SOPMOD II: But AR-15 said that Sangvis troops are gonna invade Griffin Control soon.
+
+M4 SOPMOD II: We can't hold off so many units with just the two of us, M4!
+
+M4A1: Do not worry, SOP-II. We are not on our own this time.
+
+M4A1: The Commander and all the T-Dolls at the control center will fight together with us.
+
+M4 SOPMOD II: Oh? We finally...have companions?
+
+M4A1: (Nods) Yes. It is what you have always wanted, is it not?
+
+M4A1: Are you ready to work hard alongside new companions?
+
+M4 SOPMOD II: (Grins) Always! Commander, please give the order!
+Part 2
+
+    2chevron_right
+
+Sangvis invasion deflected. Mission accomplished.
+
+M4 SOPMOD II: Sangvis is retreating! I did it!
+
+M4A1: Do not cheer only for yourself, SOP-II. This is the fruit of everyone's labor.
+
+M4 SOPMOD II: I contributed, Commander! Praise me!
+
+M4A1: (Sighs) Look at you, wagging your tail only at the commander. Is it really so bad when I give orders?
+
+M4 SOPMOD II: Oh my, so even M4 gets jealous?
+
+M4 SOPMOD II: I just find the commander the most dependable.
+
+M4A1: Fair enough. Then do your best serving under the commander.
+
+M4 SOPMOD II: Okay! I'll be good!
+
+M4 SOPMOD II: I'll do whatever Commander says as long as...I can tear that 'Hunter' to pieces!
+
+M4A1: Hunter?
+
+M4 SOPMOD II: SP721 'Hunter', the Sangvis Ringleader in this area according to AR-15's investigation.
+
+M4A1: Then...where is AR-15?
+
+M4 SOPMOD II: She...drew Hunter away so that I could retreat.
+
+M4 SOPMOD II: Commander, Hunter is a wily bastard. AR-15 won't last long on her own!
+
+Sangvis Control.
+
+ST AR-15: ...
+
+Hunter: Is that all you've got? I thought you'd at least have something up your sleeve, coming here to die alone.
+
+ST AR-15: My carelessness has put everyone at risk. If I can somehow make up for my mistake...
+
+Hunter: The AR Team is a group of Griffin T-Dolls that can operate independently without human direction, and you are part of it.
+
+Hunter: You seem so rational you almost come off as ruthless on my record, yet you turn out to be so impulsive.
+
+Hunter: I had thought we could understand each other. How disappointing...
+
+ST AR-15: Your intel is too superficial. Perhaps it's time to upgrade your database.
+
+Hunter: Sure we will. All the problems will be solved once I get my hands on my prey.
+
+ST AR-15: M4A1... Why do you want her so badly?!
+
+Hunter: That's not important, AR-15. The point is, you're gonna be the bait that lures M4 here.
+
+ST AR-15: ...
+
+Hunter: You must pay for your impulsiveness, AR-15.
+
+Hunter: A true hunter would have chosen to remain silent.
+
+Helian: Commander, I'm calling you to give you a new mission.
+
+Helian: Thanks to you, the Sangvis Ringleader lurking in Area S09 has finally been identified.
+
+Helian: SP721 'Hunter' is a highly dangerous Sangvis T-Doll.
+
+Helian: We must launch an immediate search and make preparations for follow-up actions.
+
+Helian: Other Griffin troops will also prepare to surround her.
+
+Helian: We're handing this important mission to you
+
+Helian: Scout the surroundings of Hunter's lair and report its defense to HQ.
+Part 2
+
+    2chevron_right
+
+Scouting in progress...
+
+Hunter: Humph. You really did show up, M4A1.
+
+M4A1: Someone has entered the channel. That voice...
+
+M4 SOPMOD II: Hunter! It's that Sangvis!
+
+Hunter: Oh? Is that brat here as well?
+
+Hunter: In any case, as you've probably guessed, I have AR-15.
+
+M4 SOPMOD II: Struggling till your last breath, bitch?!
+
+Hunter: Humph. More like it's part of my hunting strategy.
+
+Hunter: Griffin can't take this place in short notice anyway. There's no point in keeping up this stalemate.
+
+Hunter: Drop your weapon and surrender to me, M4A1, and you can have AR-15.
+
+Hunter: Now here's some proof...
+
+Click.
+
+ST AR-15: Don't listen to her, M4! It's all my...
+
+Click.
+
+Hunter: I believe her words will make you give the response that I want.
+
+Hunter: Don't put your money on Griffin. They have no way of coming in.
+
+Hunter: Make your choice soon. Griffin isn't giving us much time.
+
+M4 SOPMOD II: Have you made up you mind, M4?
+
+M4A1: I cannot abandon my companion...
+
+M4A1: If it were AR-15, she'd do the same.
+
+M4 SOPMOD II: She definitely would, but you're not her.
+
+M4 SOPMOD II: You're the commander of the AR Team. You have the responsibility to lead us, don't you?
+
+M4A1: I...
+
+...!! An alarm went off in the control center.
+
+M4A1: That is...the emergency assemble signal!
+
+M4 SOPMOD II: Hmm? What could it be at a time like this?
+
+Meanwhile, Griffin Control, Area S09.
+
+Helian: ...So that's the gist of it, Commander.
+
+Helian: The Sangvis troops suddenly went out of control, taking most of their units out of action.
+
+Helian: We don't know the cause of their malfunction, but this is undoubtedly the perfect chance to attack.
+
+Helian: Move out immediately. Find Hunter and finish her!
+
+Helian: It's up to you to deal a fatal blow on Sangvis Ferri, Commander!
+Part 2
+
+    2chevron_right
+
+Sangvis Control.
+
+ST AR-15: What an unsightly defeat, Hunter.
+
+Hunter: I don't understand. How...
+
+ST AR-15: I modified your command from within your own system, causing this mayhem.
+
+Hunter: Impossible. You don't have Sangvis authorization!
+
+ST AR-15: It's a skill I picked up without even noticing. Came in quite handy, didn't it?
+
+ST AR-15: Maybe I'm actually special. What do you think, Hunter?
+
+Hunter: ...
+
+Hunter: Don't tell me...you deliberately let yourself get caught.
+
+ST AR-15: ...
+
+ST AR-15: You said it yourself. 'A true hunter would have chosen to remain silent.'
+
+ST AR-15: Of course, now you will be thoroughly silenced, Sangvis.
+
+One hour later, at the rendezvous point.
+
+M4 SOPMOD II: Look!! It's AR-15! She's here!
+
+ST AR-15: You two sure took your sweet time. God knows how long I'd be stuck in there if I had been counting on you.
+
+M4A1: AR-15... Glad you are okay.
+
+ST AR-15: M4, if this commotion hadn't happened, were you really going to trade yourself for me?
+
+M4A1: I...I do not know...
+
+ST AR-15: I don't care what you were thinking, M4A1. You're the leader. Don't make stupid decisions next time.
+
+M4A1: But I...
+
+ST AR-15: We each have our own responsibilities, M4A1, and that means sometimes we don't have a choice.
+
+ST AR-15: Not to mention M16 is still awaiting rescue.
+
+M4A1: Yes... I will think things through more carefully next time.
+
+M4 SOPMOD II: Ooooh, AR-15 just said something really cool.
+
+ST AR-15: ...Come here. Let me tell you something.
+
+M4 SOPMOD II: Wait! I haven't even said anything!
+
+ST AR-15: You won't need to. I'm gonna shut you up for good.
+
+M4 SOPMOD II: M4! Commander! Help!
+
+M4A1: ... (Sighs)
+
+M4A1: Only you left, M16.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Kalina: Mornin', Commander!
+
+Kalina: So, Griffin has another important mission for us
+
+Kalina: No other commander knows Area S09 better than you, so no one could possibly beat you to the job.
+
+Kalina: Like I said, we have a real edge here!
+
+Kalina: That's right. This is where we engaged Hunter's forces.
+
+Kalina: But of course, Hunter isn't here anymore. Unless she could backup her neural cloud like our T-Dolls, that is.
+
+Kalina: Anyway, time to roll up your sleeves, Commander!
+Part 2
+
+    2chevron_right
+
+...Combat over.
+
+Kalina: Uh... Why...are there so many enemy units...?
+
+Kalina: ...Could it be a new Ringleader?!
+
+Kalina: I'm sorry... I shouldn't have taken a job without your permission, Commander.
+
+Kalina: I didn't expect this to happen...
+
+Kalina: Huh? It's okay?
+
+Kalina: It's an opportunity...?
+
+Kalina: You're right, it's an opportunity! An opportunity to get stronger!
+
+Kalina: Never thought you'd be the one to encourage me.
+
+Kalina: We can take it one step at a time. Let's do our best together!
+
+Kalina: Commander, this time we need to collect data in this area.
+
+Kalina: The new Sangvis troops are quite a handful, but...don't panic.
+
+Kalina: Let's begin...the operation...slowly...calmly...
+
+Kalina: Huh? I-I'm very calm, you know!
+
+Kalina: All right. I'll take care of the logistics. Go and look after the T-Dolls on the frontline!
+Part 2
+
+    2chevron_right
+
+Kalina: We won! You were awesome, Commander!
+
+Kalina: Then shall we take a look at our next task?
+
+Kalina: Hmm?
+
+Kalina: You wanna see...our spoils?
+
+Several large military hard drives were moved in.
+
+Kalina: Here you go.
+
+Kalina: We can't see what's stored inside without technicians though.
+
+Kalina: ...Ok. Then I'll put them back into the storage.
+
+Kalina: At this rate, everything's gonna be fine, Commander!
+
+Kalina: You're here already, Commander?
+
+Kalina: As always, do your best. Come with me!
+
+Kalina: These are the new coordinates. Griffin wants us to retrieve the data here.
+
+Kalina: Hopefully it's the last. We should be nearing the end.
+
+Kalina: Okay, Commander. Get ready to move out!
+Part 2
+
+    2chevron_right
+
+Kalina: Great! That's the last of them.
+
+Kalina: Now we just have to wait for our teams to transport the hard drives here, and we're done.
+
+Kalina: Huh? What's that alarm...?
+
+Kalina: ...W-What?!
+
+Kalina: Oh no, Commander!
+
+Kalina: A unit just reported a Sangvis ambush on their way back to base!
+
+Kalina: Our T-Dolls are uninjured, but all our spoils were taken away by a Sangvis convoy!
+
+Kalina: What...do we do now?
+
+Kalina: ...Yeah. Our only choice is to track their movements for now. We'll think about the rest later.
+
+Kalina: But...as you've said, it's a bit odd.
+
+Kalina: What exactly...is so important that Sangvis Ferri would guard with such heavy forces...?
+
+Kalina: Commander, we've got a hold on enemy movement.
+
+Kalina: Oddly enough, they haven't gone very far. They've actually set up camp somewhere close by.
+
+Kalina: We've defended against their attack here before, do you remember?
+
+Kalina: In any case, it's time to take back our trophies!
+
+Kalina: Give the order, Commander!
+Part 2
+
+    2chevron_right
+
+Kalina: Congrats, Commander! We got them back!
+
+Kalina: Our technicians have also had new breakthroughs with extracting data from the hard drives we acquired before...
+
+Kalina: Here's the recording, Commander. Listen to it when you have time.
+
+Kalina: I'm submitting the report to HQ first.
+
+Kalina: It's a huge victory this time! We gotta celebrate properly!
+
+Kalin took off.
+
+Loading recording data. Start playing...
+
+...
+
+The voice belongs to the Sangvis T-Doll Hunter.
+
+Hunter: ...That's everything I've learned.
+
+Hunter: With that, all intelligence collected by Scarecrow, Executioner and me has been uploaded.
+
+??: ...
+
+??: In other words, the data in Safe House 3 are still on M4A1?
+
+??: How careless of them. Griffin doesn't seem to realise just how valuable these data are.
+
+??: They simply have no clue about 'Parapluie' or 'Relique'...
+
+Hunter: Humph. In any case, my job here is done.
+
+Hunter: I'm going back to my hunt.
+
+??: Hunting again...? How savage.
+
+??: Why can't any of my subordinates have a little taste?
+
+Hunter: Unlike you, Intruder, I don't fancy awaiting my death sitting on a chair, dressed in a ballgown.
+
+Intruder: And that's why...a chess piece for me to sacrifice is all you'll ever be.
+
+Intruder: Do you regret serving under my command?
+
+Hunter: Humph... It's not like I had a choice.
+
+Hunter: If dying means getting away from you, then I'm in luck.
+
+Intruder: Don't worry. I'll keep the data safe.
+
+Intruder: After all, my next objective is to give them all a spectacular finale.
+
+Hunter: (Sighs) You're sick. Just how obsessed are you with finales?
+
+Hunter: Thank goodness the operation is about to begin. I can finally get away from you.
+
+...
+
+Intruder: That's all right. I'll be waiting for you.
+
+Intruder: You'll all be waking up together, everyone.
+
+Griffin Control, Area S09.
+
+Makarov: Zdravstvuyte, Commander. Griffin unit Makarov salutes you.
+
+Makarov: Though this mission is a disgrace in itself, it is my honor to serve under your command.
+
+M1895: Hey, what do you mean, 'a disgrace'?! You're to rescue a veteran with very venerable history!
+
+Makarov: As you can see, this is our rescue target this time - a T-Doll designated 'Nagant M1895'.
+
+Makarov: You probably already know her... Or should I say, you can't possible NOT know her...
+
+M1895: Haha, why would the commander not know me? Remember how our friendship burgeoned on the very first battlefield?
+
+Makarov: You probably find it hard to understand the point in rescuing such an old, weak, noisy and commonplace T-Doll.
+
+M1895: Hey, watch it! Or I'll appeal to Gospozha Helian to demote you! A demotion, you hear?!
+
+Makarov: However, during our last operation, she inadvertently discovered an important object that needs to be brought to HQ post-haste.
+
+M1895: Hurry up already, Makarov! I'm still holed up in a Sangvis warehouse!
+
+Makarov: Nagant M1895, do you remember the number of the warehouse? Or at least give me some description to work with.
+
+M1895: I told you. I rushed right in so I didn't pay attention. It's crawling with Sangvis mechanical units outside. I'm dead meat if I go out!
+
+Makarov: (Sighs) Then please stand by. We'll come as quickly as we can.
+
+Makarov: In any case, let's make our first move.
+
+Makarov: As Griffin's main forces are aiding in a military operation, we are severely understaffed here.
+
+Makarov: We'll have to join up with the T-Dolls stationed in the area and rely on their assistance.
+
+Makarov: Commander, please guide us on our way.
+Part 2
+
+    2chevron_right
+
+Arrived at the designated location.
+
+Makarov: Calling Mosin-Nagant. We've reached our destination.
+
+Mosin-Nagant: Copy that. I've sent two T-Dolls to meet up with you. They should be there any minute.
+
+Makarov: You're not coming? It's your little sister we're rescuing, you know.
+
+Mosin-Nagant: (Forced laughter) All elite T-Dolls have been sent out to provide backup on the military's request.
+
+Makarov: Humph. All for show...
+
+Makarov: In other words, the T-Dolls you're sending me aren't very good, are they...?
+
+??: Hey, they're over there! Hurry!
+
+??: Oh, I see them! Coming!
+
+Makarov: That sounds like...
+
+Makarov: (Sighs) Oh dear...
+
+AK-47: Haha! Long time no see, Makarov!
+
+SKS: So what important mission do you have for a combat expert like me?
+
+Makarov: None. Screw off.
+
+AK-47: Oh c'mon, don't be so cold. We're still seasoned veterans, okay?
+
+Makarov: Sorry. We're looking for infiltrators, not a pair of crazy Ivans.
+
+SKS: Don't underestimate us. We didn't trigger a single alarm on our way here.
+
+AK-47: 'Cause we shot everyone who saw us full of holes, haha!
+
+Makarov: ...
+
+Makarov: I still think we're better off without you two.
+
+AK-47: That won't do. Nagant is our dear friend. We can't just sit here and do nothing!
+
+SKS: At least let us do something. It's not like you have anyone else.
+
+Makarov: Humph. Khorosho.
+
+Makarov: Even bad students are students. I'll make do with you.
+
+Makarov: Behave. If you don't wanna be cannon fodder, you'd better obey my orders.
+
+Makarov: Commander, our rescue mission has now officially commenced.
+
+Makarov: We have to take over a local Sangvis outpost to locate the warehouse we're looking for.
+
+Makarov: The nearest outpost is as indicated. Please guide us on our way.
+Part 2
+
+    2chevron_right
+
+Outpost secured.
+
+Makarov: Outpost secured. Flawlessly done, Commander.
+
+Makarov: I shall start decoding the data. Get me a chair, SKS.
+
+SKS: Ha, and where do you suggest I get a chair? We couldn't even find the door knob when we came in.
+
+AK-47: Hmm... How can Sangvis units bear rotting in this dumpster?
+
+SKS: This place is only for those in the lower ranks. You should be glad there's a charging port.
+
+AK-47: Ha, I pity those pugs and angelfish.
+
+SKS: You aren't a fish. How do you even know they're pitiful?
+
+AK-47: Just look at this place. Not a single drop of vodka. I can't stand being in here for even half an hour.
+
+SKS: See, AK47, that's your problem. You mustn't indulge in such worldly material gratification.
+
+SKS: You should always be contemplating the purpose of our existence as T-Dolls.
+
+AK-47: Tch. So you're saying, those Sangvis trash have a higher form of existence than me?
+
+Makarov: What kind of nonsense are you two prattling about?
+
+SKS: Aren't you the least bit intrigued, Makarov? About the origin and objective of Sangvis T-Dolls?
+
+Makarov: They are enemies who threaten Griffin's interests. We just have to destroy them.
+
+SKS: Humph. Surely you know quite a lot, Makarov, since you're such good buddies with OTs-14.
+
+AK-47: That's right. C'mon, give us some insider story!
+
+Makarov: ...
+
+Makarov: There, target location acquired. Break time's over.
+
+SKS: Hey! You know something, don't you?! You must know quite a lot, Makarov!
+
+Makarov: ...What difference does knowing make?
+
+Makarov: AK47, SKS, no matter what we know, our order as T-Dolls will never change.
+
+Makarov: Destroying Sangvis Ferri is all we have to do. So let's continue our mission.
+
+Makarov: Commander, our next move is key.
+
+Makarov: We've confirmed Tovarishch Nagant's whereabouts, and must rescue her immediately.
+
+Makarov: Our target is in a warehouse abandoned by Sangvis Ferri, as you probably remember.
+
+Makarov: Let's go. Tovarishch Nagant is waiting for us.
+Part 2
+
+    2chevron_right
+
+Entering the warehouse in which Nagant has taken refuge.
+
+Makarov: We've entered the warehouse. Now searching for our target.
+
+AK-47: Found her. Over here!
+
+M1895: Ugh...
+
+M1895: AK...47?
+
+AK-47: Oh? So you've still got your brains with you. How many fingers?
+
+M1895: That was so fast no one could've counted! You're confusing me!
+
+AK-47: Makarov, I got the devochka!
+
+AK-47: But her eyes and brains seem to be damaged. What should we do?!
+
+M1895: What the heck?! I'm just groggy from sleep! I'm totally fine!
+
+...!!
+
+SKS: That noise...
+
+AK-47: Oh? Sangvis sniffed us out so soon?
+
+Makarov: They're probably just probing around. They don't know our exact location yet.
+
+...The sound of heavy mechanical units approaching.
+
+M1895: Dammit! Enemy units have already reached this warehouse. We won't make it out!
+
+AK-47: SKS and I will draw their fire. Take the devochka and run, Makarov!
+
+Makarov: Acting all heroic at a time like this?
+
+AK-47: I have no interest in being a hero, but I can't just stand here and do nothing.
+
+SKS: If you wanna repay this debt, make us look cool in Griffin's battle records.
+
+Makarov: ...
+
+Makarov: Unlike those star-spangled T-Dolls, I don't like making big flashy moves.
+
+Makarov: But I'm not good at lying.
+
+Makarov: If you want to look good in the records, go back alive and write them yourselves.
+
+...!!
+
+SKS: W...What's that explosion...
+
+Makarov: ...Our last stroke of luck. Don't waste it.
+
+AK-47: Phew... Safe at last.
+
+AK-47: That was quite an explosion. Those Sangvis units didn't even have time to run.
+
+SKS: How did you know we're right next to their powder keg storage, Makarov?
+
+Makarov: I found out when I was searching for Nagant's warehouse.
+
+SKS: You've thought of everything, haven't you. As expected of the one who's earned even Mosin-Nagant's trust.
+
+M1895: Hey, Makarov only got the chance because I'd forgotten where the warehouse was! It's all thanks to me!
+
+SKS: It all started because of you... By the way, what's that thing you're clutching?
+
+M1895: No idea. It has Griffin's logo on it so I just took it with me.
+
+Makarov: ...
+
+Makarov: Enough chit-chat. We're not completely out of danger yet.
+
+Makarov: Commander, are you there? We can't go back the way we came.
+
+Makarov: Please lead us away from the battlefield.
+Part 2
+
+    2chevron_right
+
+Five hours after the end of the operation, outside the conference room at Griffin HQ.
+
+OTs-14: They're still rambling on in there. How are you doing, Mosin-Nagant?
+
+Mosin-Nagant: Hmm. I...I'll be fine.
+
+OTs-14: You must be bored out of your mind standing here like a china doll...while worrying about your sister...
+
+Mosin-Nagant: Makarov's on it so I have no reason to worry. But there's still no news...
+
+OTs-14: That area used to be an important base for Sangvis. It'd take time to figure it out.
+
+OTs-14: Don't worry. Helian has even sent a commander to help them...
+
+Mosin-Nagant: Hush... If the military catch wind of this...
+
+OTs-14: You're right. They won't want us to use the commander for something like this.
+
+OTs-14: Still... Helian actually dispatched a commander to save Nagant.
+
+Mosin-Nagant: Da, I'm very grateful for her decision.
+
+Mosin-Nagant: No matter why she did it or how it turns out...
+
+M1895: Haha, there you are, Mosin-Nagant!
+
+Mosin-Nagant: Huh...?
+
+M1895: I made it back! Did you miss me?
+
+OTs-14: Humph. Things seem to have turned out pretty well.
+
+AK-47: Gosh... We're dead beat.
+
+SKS: But this reunion scene makes it all worthwhile.
+
+Mosin-Nagant: Bolshoe spasibo, AK47, SKS...
+
+Mosin-Nagant: And...where's Makarov?
+
+M1895: She's off to see Helian. Got something important to report, I think.
+
+AK-47: Is it the thingie you had in your hand? She took it with her.
+
+SKS: What on earth is it? Is it really that valuable?
+
+M1895: That...
+
+M1895: Is just a normal communicator, as far as I know.
+
+Meanwhile, in Helian's office.
+
+Helian: The operation was a huge success. You and the commander will receive your commendations very soon.
+
+Makarov: Spasibo.
+
+Makarov: Forgive me for being presumptuous, but is there something special with this communication device?
+
+Helian: Oh? You don't usually ask such questions.
+
+Makarov: I'm just a little intrigued...by the order we received.
+
+Helian: This is an item left behind by AR-15. We have reason to believe that Sangvis might have tampered with it.
+
+Helian: 16Lab wishes to study it. It might just...become the key to our victory.
+
+Makarov: ...I see.
+
+Makarov: We couldn't have succeeded this time without the commander's guidance.
+
+Helian: I expected as much. So?
+
+Makarov: If...
+
+Makarov: If Nagant hadn't been in possession of this item, would you still have sent the commander to help us?
+
+Helian: ...
+
+Helian: Makarov, you...
+
+Helian: (Smiles) You seem to have gained an interest in your own purpose.
+
+Makarov: Da...
+
+Makarov: Or you could say, I have gained an interest...in ourselves.
+
