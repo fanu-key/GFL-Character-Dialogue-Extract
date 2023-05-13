@@ -11,5 +11,5 @@ To-Do:
 - ~~read all dialogue text files from separate folder (Prob have to import os)~~ done
 - ~~output specific character dialogue text files to separate folder~~ done... kinda
 - ~~handle ascii characters or at least this thing: �~~ done
-- figure out how to convert from text file to csv
+- figure out how to convert from text file to csv without errors
 - dynamic character dialogue extracting, specify which character to extract dialogue for on program start
