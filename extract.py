@@ -12,7 +12,7 @@ try:
     os.makedirs(pathOutputInput)
     os.makedirs(pathOutputCharacter)
 except FileExistsError:
-    print('Folders already exist.')
+    print('\nFolders already exist.')
     
 success = False
 
@@ -95,7 +95,7 @@ success=True
 
 # If success, print message to console, else print failure
 if success==True:
-    print("Extract Success. Check Output folder.")
+    print("\nExtract Success. Check Output folder.")
 
 if success==False:
     print('Extract Failure.')
