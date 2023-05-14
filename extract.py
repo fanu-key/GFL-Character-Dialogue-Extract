@@ -98,4 +98,4 @@ if success==True:
     print("\nExtract Success. Check Output folder.")
 
 if success==False:
-    print('Extract Failure.')
+    print('\nExtract Failure.')
