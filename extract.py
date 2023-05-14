@@ -13,6 +13,8 @@ try:
     os.makedirs(pathOutputCharacter)
 except FileExistsError:
     print('Folders already exist.')
+    
+success = False
 
 # path to text files to be read
 dirPath = r'Input\**\*.txt'
@@ -88,3 +90,12 @@ ak12DialogueCsvDestFolder = r'Output/CharacterLines/ak12Dialogue.csv'
 shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
 shutil.move(ak12DialogueTxtSourceFolder, ak12DialogueTxtDestFolder)
 shutil.move(ak12DialogueCsvSourceFolder, ak12DialogueCsvDestFolder)
+
+success=True
+
+# If success, print message to console, else print failure
+if success==True:
+    print("Extract Success. Check Output folder.")
+
+if success==False:
+    print('Extract Failure.')
