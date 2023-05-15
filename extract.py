@@ -4,9 +4,10 @@ import glob
 import shutil
 import pandas as pd
 import sys
+import threading
 
 # Input for which character to extract dialogue for
-character = input('Enter character name: ')
+inputCharacter = input('Enter character name: ')
 
 # Make directories for output
 pathOutputInput = './Output/InputLines'
@@ -17,7 +18,7 @@ try:
     os.makedirs(pathOutputCharacter)
 except FileExistsError:
     print()
-    
+
 success = False
 
 # path to text files to be read
@@ -63,36 +64,45 @@ shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
 # Extract all character dialogue and put into a text file and into a list
 fixedMergedPath = r'Output/InputLines/fixedMerged.txt'
 readFixedMerged = open(fixedMergedPath, 'r+', encoding='utf8')
-characterDialogue = open('{}_Dialogue.txt'.format(character), 'w+', encoding='utf8')
+characterDialogue = open('{}_Dialogue.txt'.format(inputCharacter), 'w+', encoding='utf8')
 characterLines = []
 
 characterCheck = ':'
 
+# Threadlocking so we don't have a race condition error
+
+lock = threading.Lock()
+lock.acquire()
+
 for line in readFixedMerged:
-    if line.startswith('{}:'.format(character)):
+    if line.startswith('{}:'.format(inputCharacter)):
         index = line.find(characterCheck)
         characterDialogue.write(line[index + 2:])
         characterLines.append(line[index + 2:].rstrip('\n'))
         #ak12Dialogue.write(f"{line}\n")
+        
+characterDialogue.close()
+lock.release()
 
 # Reading all lines in characterLines for debugging
 """for lines in characterLines:
     print(lines)"""
 
-# DO NOT UNCOMMENT THIS
-# This shit is the reason why some characters dont work for extraction
-"""# Check if text file is empty, if yes exit program and delete file
-if os.path.getsize('{}Dialogue.txt'.format(character)) == 0:
-    print('File is empty! Character does not exist. Check if input is typed correctly')
-    characterDialogue.close()
-    os.remove('{}Dialogue.txt'.format(character))
-    sys.exit()"""
+# This shit is the reason why some characters did not work for extraction
+# Commenting until I can fix it (May 13 2023)
+# May 15 2023 - Fixed it
+# Explanation after sleeping on it: Race condition
+# Check if text file is empty, if yes delete file and exit program
+if os.path.getsize('{}_Dialogue.txt'.format(inputCharacter)) == 0:
+    print('Character does not exist. File is empty. Check if input is typed correctly')
+    os.remove('{}_Dialogue.txt'.format(inputCharacter))
+    sys.exit()
 
 # Convert lines in list to csv file
-characterCsv = open('{}_Dialogue.csv'.format(character), 'w+', encoding='utf8')
+characterCsv = open('{}_Dialogue.csv'.format(inputCharacter), 'w+', encoding='utf8')
 
 dataFrame = pd.DataFrame(data = characterLines)
-dataFrame.to_csv('{}_Dialogue.csv'.format(character), header=False, index=False, encoding='utf8')
+dataFrame.to_csv('{}_Dialogue.csv'.format(inputCharacter), header=False, index=False, encoding='utf8')
 
 # Close files so we can move them into folders
 fixedMerged.close()
@@ -103,12 +113,11 @@ mergedInput.close()
 allText.close()
 
 # Move character_Dialogue.txt, and character_Dialogue.csv to their respective folders
-characterDialogueTxtSourceFolder = r'{}_Dialogue.txt'.format(character)
-characterDialogueCsvSourceFolder = r'{}_Dialogue.csv'.format(character)
+characterDialogueTxtSourceFolder = r'{}_Dialogue.txt'.format(inputCharacter)
+characterDialogueCsvSourceFolder = r'{}_Dialogue.csv'.format(inputCharacter)
 
-characterDialogueTxtDestFolder = r'Output/CharacterLines/{}_Dialogue.txt'.format(character)
-characterDialogueCsvDestFolder = r'Output/CharacterLines/{}_Dialogue.csv'.format(character)
-
+characterDialogueTxtDestFolder = r'Output/CharacterLines/{}_Dialogue.txt'.format(inputCharacter)
+characterDialogueCsvDestFolder = r'Output/CharacterLines/{}_Dialogue.csv'.format(inputCharacter)
 
 shutil.move(characterDialogueTxtSourceFolder, characterDialogueTxtDestFolder)
 shutil.move(characterDialogueCsvSourceFolder, characterDialogueCsvDestFolder)
