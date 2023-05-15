@@ -119,3 +119,5 @@ if success==True:
 
 if success==False:
     print('\nExtract Failure.')
+
+sys.exit()
