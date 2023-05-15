@@ -63,7 +63,7 @@ shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
 # Extract all character dialogue and put into a text file and into a list
 fixedMergedPath = r'Output/InputLines/fixedMerged.txt'
 readFixedMerged = open(fixedMergedPath, 'r+', encoding='utf8')
-characterDialogue = open('{}Dialogue.txt'.format(character), 'w+', encoding='utf8')
+characterDialogue = open('{}_Dialogue.txt'.format(character), 'w+', encoding='utf8')
 characterLines = []
 
 characterCheck = ':'
@@ -89,10 +89,10 @@ if os.path.getsize('{}Dialogue.txt'.format(character)) == 0:
     sys.exit()"""
 
 # Convert lines in list to csv file
-characterCsv = open('{}Dialogue.csv'.format(character), 'w+', encoding='utf8')
+characterCsv = open('{}_Dialogue.csv'.format(character), 'w+', encoding='utf8')
 
 dataFrame = pd.DataFrame(data = characterLines)
-dataFrame.to_csv('{}Dialogue.csv'.format(character), header=False, index=False, encoding='utf8')
+dataFrame.to_csv('{}_Dialogue.csv'.format(character), header=False, index=False, encoding='utf8')
 
 # Close files so we can move them into folders
 fixedMerged.close()
@@ -102,12 +102,12 @@ characterCsv.close()
 mergedInput.close()
 allText.close()
 
-# Move characterDialogue.txt, and characterDialogue.csv to their respective folders
-characterDialogueTxtSourceFolder = r'{}Dialogue.txt'.format(character)
-characterDialogueCsvSourceFolder = r'{}Dialogue.csv'.format(character)
+# Move character_Dialogue.txt, and character_Dialogue.csv to their respective folders
+characterDialogueTxtSourceFolder = r'{}_Dialogue.txt'.format(character)
+characterDialogueCsvSourceFolder = r'{}_Dialogue.csv'.format(character)
 
-characterDialogueTxtDestFolder = r'Output/CharacterLines/{}Dialogue.txt'.format(character)
-characterDialogueCsvDestFolder = r'Output/CharacterLines/{}Dialogue.csv'.format(character)
+characterDialogueTxtDestFolder = r'Output/CharacterLines/{}_Dialogue.txt'.format(character)
+characterDialogueCsvDestFolder = r'Output/CharacterLines/{}_Dialogue.csv'.format(character)
 
 
 shutil.move(characterDialogueTxtSourceFolder, characterDialogueTxtDestFolder)
