@@ -3,6 +3,10 @@ import os
 import glob
 import shutil
 import pandas as pd
+import sys
+
+# Input for which character to extract dialogue for
+character = input('Enter character name: ')
 
 # Make directories for output
 pathOutputInput = './Output/InputLines'
@@ -12,7 +16,7 @@ try:
     os.makedirs(pathOutputInput)
     os.makedirs(pathOutputCharacter)
 except FileExistsError:
-    print('\nFolders already exist.')
+    print('\nFolders already exist. No need to create again.')
     
 success = False
 
@@ -42,54 +46,70 @@ shutil.move(sourceFolder, destinationFolder)
 allTextPath = r'Output/InputLines/merged.txt'
 allText = open(allTextPath, 'r', encoding='utf8')
 
-# Ascii handling, replace � with a space
+# Ascii handling, replace � with a space and move to output folder
 fixedMerged = open('fixedMerged.txt', 'w+', encoding='utf8')
 
 for line in allText:
     line.replace('�', ' ')
     fixedMerged.write(line)
 
-# Extract all AK-12 dialogue and put into a text file and into a list
-readFixedMerged = open('fixedMerged.txt', 'r+', encoding='utf8')
-ak12Dialogue = open('ak12Dialogue.txt', 'w+', encoding='utf8')
-ak12Lines = []
+fixedMerged.close()
+
+fixedMergedSourceFolder = r'fixedMerged.txt'
+fixedMergedDestFolder = r'Output/Inputlines/fixedMerged.txt'
+shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
+
+
+# Extract all character dialogue and put into a text file and into a list
+fixedMergedPath = r'Output/InputLines/fixedMerged.txt'
+readFixedMerged = open(fixedMergedPath, 'r+', encoding='utf8')
+characterDialogue = open('{}Dialogue.txt'.format(character), 'w+', encoding='utf8')
+characterLines = []
+
+characterCheck = ':'
 
 for line in readFixedMerged:
-    if line.startswith('AK-12:'):
-        ak12Dialogue.write(line[7:])
-        ak12Lines.append(line[7:].rstrip('\n'))
+    if line.startswith('{}:'.format(character)):
+        index = line.find(characterCheck)
+        characterDialogue.write(line[index + 2:])
+        characterLines.append(line[index + 2:].rstrip('\n'))
         #ak12Dialogue.write(f"{line}\n")
 
 """# Reading all lines in ak12Lines for debugging
 for lines in ak12Lines:
     print(lines)"""
 
-# Convert lines in list to csv file
-ak12Csv = open('ak12Dialogue.csv', 'w+', encoding='utf8')
+# Check if text file is empty, if yes exit program and delete file
+if os.path.getsize('{}Dialogue.txt'.format(character)) == 0:
+    print('File is empty! Character does not exist. Check if input is typed correctly')
+    characterDialogue.close()
+    os.remove('{}Dialogue.txt'.format(character))
+    sys.exit()
 
-dataFrame = pd.DataFrame(data=ak12Lines)
-dataFrame.to_csv('ak12Dialogue.csv', header=False, index=False, encoding='utf8')
+# Convert lines in list to csv file
+characterCsv = open('{}Dialogue.csv'.format(character), 'w+', encoding='utf8')
+
+dataFrame = pd.DataFrame(data = characterLines)
+dataFrame.to_csv('{}Dialogue.csv'.format(character), header=False, index=False, encoding='utf8')
 
 # Close files so we can move them into folders
 fixedMerged.close()
 readFixedMerged.close()
-ak12Dialogue.close()
-ak12Csv.close()
+characterDialogue.close()
+characterCsv.close()
 mergedInput.close()
 allText.close()
 
-# Move fixedMerged, ak12Dialogue.txt, and ak12Dialogue.csv to their respective folders
-fixedMergedSourceFolder = r'fixedMerged.txt'
-ak12DialogueTxtSourceFolder = r'ak12Dialogue.txt'
-ak12DialogueCsvSourceFolder = r'ak12Dialogue.csv'
+# Move characterDialogue.txt, and characterDialogue.csv to their respective folders
+characterDialogueTxtSourceFolder = r'{}Dialogue.txt'.format(character)
+characterDialogueCsvSourceFolder = r'{}Dialogue.csv'.format(character)
 
-fixedMergedDestFolder = r'Output/Inputlines/fixedMerged.txt'
-ak12DialogueTxtDestFolder = r'Output/CharacterLines/ak12Dialogue.txt'
-ak12DialogueCsvDestFolder = r'Output/CharacterLines/ak12Dialogue.csv'
+characterDialogueTxtDestFolder = r'Output/CharacterLines/{}Dialogue.txt'.format(character)
+characterDialogueCsvDestFolder = r'Output/CharacterLines/{}Dialogue.csv'.format(character)
 
-shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
-shutil.move(ak12DialogueTxtSourceFolder, ak12DialogueTxtDestFolder)
-shutil.move(ak12DialogueCsvSourceFolder, ak12DialogueCsvDestFolder)
+
+shutil.move(characterDialogueTxtSourceFolder, characterDialogueTxtDestFolder)
+shutil.move(characterDialogueCsvSourceFolder, characterDialogueCsvDestFolder)
 
 success=True
 
