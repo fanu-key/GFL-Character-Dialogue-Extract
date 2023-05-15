@@ -1,0 +1,3030 @@
+...
+
+...Five days after Griffin's withdrawal from Area S08.
+
+...Click.
+
+Helian: Commander, Mr. Kryuger has reviewed your application.
+
+Helian: You've requested to change your charge from Area S09 to S05...
+
+Helian: Mr. Kryuger fully understands your reasons and after due consideration, your request has been officially granted.
+
+Helian: The reassignment will be processed within the next three business days, and this reassignment will only mean a change in your combat duties.
+
+Helian: You'll be keeping your base so your daily management won't be affected.
+
+Helian: Your duty is to take charge of the security contractor work in Area S05, which includes daily patrols, regular reports, and assisting HQ in operations.
+
+Helian: For more details, please refer to the work handbook, which Miss Kalin should've already sent you. Consult her if you have any questions.
+
+Helian: Lastly, all the best in your new post.
+
+Call ended.
+
+The next day.
+
+Kalin: Commander, this is Area S05, our new contracted area.
+
+Kalin: It may be a bit remote, but being this far away from the Sangvis frontline, there shouldn't be much to do.
+
+Kalin: Cheer up and send our T-Dolls on patrol!
+Part 2
+
+    2chevron_right
+
+Today's patrol completed.
+
+Kalin: That wraps up today's operation. Thanks for the hard work!
+
+Kalin: According to your report, Commander, some Sangvis units have appeared on the border of Area S05.
+
+Kalin: I'm filing it to Miss Helian just to be safe.
+
+Kalin: Oh? You wanna see Miss Helian, too?
+
+Kalin: ...
+
+Kalin: Ah... Still wanna fight for that?
+
+Kalin: After all...that's what you're here for.
+
+...
+
+Ten minutes later. Secured a call with Helian.
+
+Helian: Commander, I have read the report you just uploaded.
+
+Helian: Your vigilance is commendable, but further directives will have to wait till the conference at HQ is over.
+
+Helian: Is there anything else?
+
+Helian: ...
+
+Helian switches the communication channel.
+
+Helian: ...I'm sorry, Commander, but it's impossible to grant this particular request.
+
+Helian: You may not see the AR Team at the moment.
+
+Helian: It's nothing personal, nor is it about the outcome of the last operation.
+
+Helian: Apart from me and the supervising T-Doll within the detention center, nobody is currently authorized to interact with members of the AR Team.
+
+Helian: As you know, that incident cost us the entire Area S08, and we suffered severe economic loss because of that.
+
+Helian: We tried our best to keep word from getting out, but with all the slanders from our competitors, Griffin's reputation has still taken quite a blow, which is also a heavy, if intangible, loss to us.
+
+Helian: And all this happened because AR-15 was infected by the Parapluie virus.
+
+Helian: Sorry, I'm not pushing the blame onto a single T-Doll. We are also deeply sorry for what happened to AR-15...
+
+Helian: But in order to prevent the tragedy from repeating itself, we must treat all personnel who have been in contact with Parapluie with extreme caution from now on, even if it means going to extremes.
+
+Helian: Which is why the AR Team must undergo mandatory detention until it is confirmed that none of them shows any traces of having been implanted with Parapluie.
+
+Helian: During the observation period, their personal freedom is limited. They cannot leave the detention center, nor can they have any contact with the outside world.
+
+Helian: But rest assured, I will ensure that their daily life is well taken care of, as befits the treatment of elite T-Dolls, and that they will not be mistreated in any way.
+
+Helian: ...Still not convinced?
+
+Helian: Commander, I know you are deeply concerned about their current situation. We understand your sentiment.
+
+Helian: Which is why we accepted your application and permitted you to transfer your work to Area S05...
+
+Helian: ...The very area in which the detention center currently housing the AR Team is located.
+
+Helian: But any further contact with them is not in line with HQ's arrangement. I hope you'll understand...
+
+...Click.
+
+Call ended.
+
+The day after the report.
+
+Kalin: Commander, HQ has issued directives following the report.
+
+Kalin: Helian said the detection of Sangvis units in Area S05 coincided with recent Sangvis activities...
+
+Kalin: Judging by that, they were probably just some small reinforcement passing by the area.
+
+Kalin: Routinely speaking, we can pay them no mind and just leave the clean-up to other troops...
+
+Kalin: But there's nothing wrong with being too cautious, so HQ still wants you to destroy their command post.
+
+Kalin: After all, that'll give us enough time to react if Sangvis Ferri really is after Area S05.
+
+Kalin: Alright-y! Let's begin the operation once our troops are ready to deploy!
+Part 2
+
+    2chevron_right
+
+...Finished cleaning up the Sangvis command post.
+
+Kalin: This operation went well too, Commander.
+
+Kalin: The search didn't yield anything significant. Looks like they really were just passing by.
+
+Kalin: Oh, and one more thing. Miss Helian sent word for you to give her a call after the operation. She's probably sorted out my request...
+
+Kalin: ...Yeah. What's that about?
+
+Kalin: You'd better ask her in person.
+
+Calling Helian after a short break.
+
+Helian: Congratulations, Commander. HQ will verify your reports and reward you accordingly.
+
+Helian: You seem to have grown accustomed to working in Area S05, but don't let your guard down. The war is far from over.
+
+Helian: Additionally, I have carried out Miss Kalin's request...
+
+Helian: ...You'll probably be glad to hear these voices.
+
+...
+
+Helian plays an audio recording.
+
+M16A1: M4, M4!
+
+M4 SOPMOD II: Hey, M4! It's started!
+
+M4A1: ...!
+
+...M4A1's voice, calm and weary, can be heard in the recording.
+
+M4A1: Hello, Commander...
+
+M4A1: It has been a week. I hope you are doing well?
+
+M4A1: We are very safe here, and very well taken care of.
+
+M4A1: Our movements are restricted, but...we completely understand the measures HQ has taken...
+
+M4A1: After all, we are not the only ones who went through that ordeal, nor are we the only ones who...suffered...
+
+M4A1: Do not worry about us, Commander. And thank you for your concern and the protection you offer...
+
+M4A1: We will actively cooperate with HQ's work and look forward to seeing you again...
+
+Audio stops.
+
+Helian: This is the best I can do during such uneasy times.
+
+Helian: Is there anything you wish to say to M4, Commander?
+
+Helian: ...Understood. Send the recording to me later. I'll play it to them when I call them tomorrow night.
+
+Helian: In the meantime, please continue to follow HQ's directives and fulfill your duties as commander.
+
+Call ended.
+
+The day after the purge on the Sangvis command post.
+
+Kalin: Ready to start a new day, Commander?
+
+Kalin: Today's work is as follows...
+
+Kalin: ...Patrols.
+
+Kalin: Ah... Yep, patrols again.
+
+Kalin: We've been looking forward to peaceful days, but it sure takes some getting used to now that things have actually quieted down.
+
+Kalin: ...Huh? Why are ya apologizing all of a sudden?
+
+Kalin: Haha, yeah, it's all your fault for requesting to be reassigned to a place like this.
+
+Kalin: But I don't think your decision was wrong, Commander.
+
+Kalin: After all, we only managed to come this far by sharing such thoughts...
+
+Kalin: Be it simple victories or the chance of making more friends, all this experience adds more color to my life.
+
+Kalin: It's why I joined Griffin in the first place, and following you has made my dreams come true.
+
+Kalin: So wherever you go, you'll have me by your side.
+
+Kalin: All right, let's get on with our work!
+
+Kalin: The Sangvis command post was trashed, but there are still small-scale enemy activities.
+
+Kalin: Dispatch our T-Dolls and clean them up!
+Part 2
+
+    2chevron_right
+
+Early evening on the same day, after patrols.
+
+I've compiled the report for the day and recorded the audio file for the AR Team, which is being uploaded to HQ...
+
+Meanwhile, in the center of Area S05, Griffin territory.
+
+Griffin Detention Centre codenamed “Mario's Princess”, altered from an abandoned human sanatorium.
+
+System Broadcast: Routine inspections over. Tactical Dolls M4A1,
+
+System Broadcast: M16A1,
+
+System Broadcast: M4 SOPMOD II
+
+System Broadcast: Please return to your quarters.
+
+M16A1: Phew...
+
+m45: Everyone on the AR Team, this way please.
+
+M4 SOPMOD II: Gosh... It's finally over...
+
+M4 SOPMOD II: It's the same every single day. When is it gonna end?!
+
+M16A1: 16LAB is still working on a way to counter Parapluie.
+
+M16A1: They'll probably turn us loose once they've got some result...
+
+M4 SOPMOD II: Tsk.. Persica'd better hurry.
+
+M4 SOPMOD II: I can't take this much longer...
+
+M4 SOPMOD II: AR-15 is gone... But Sangvis Ferri is still doing whatever the hell they please...
+
+M16A1: ...
+
+M16A1: SOP-II, we WILL have vengeance.
+
+M16A1: Helian promised she'd assign us an operation once we're outta here.
+
+M16A1: We'll keep on fulfilling the purpose of the AR Team and turn Sangvis Ferri inside-out till we get to the bottom of Mastermind's identity.
+
+M4 SOPMOD II: Yeah? Then I can't wait to get started...
+
+M4 SOPMOD II: We might as well go straight for this Mastermind!
+
+M4 SOPMOD II: Arghhhh let me out! I wanna tear her to pieces! Pull out all her teeth! And hack off her head!
+
+M4A1: Shut it!
+
+M4A1: Can you just keep quiet?!
+
+M4 SOPMOD II: M4...
+
+M4A1: (Softly) ...Sorry.
+
+...M4 walks ahead alone.
+
+M16A1: Just pipe down a little, SOP-II.
+
+M16A1: M4 is taking it the hardest...
+
+M16A1: And you know how hard she tried to put on a happy face in the recording for the commander yesterday.
+
+M16A1: After all...she feels the most guilty for what happened...
+
+m45: Um... Miss M4, dinner is ready.
+
+m45: Would you like to dine in the cafeteria or should I bring it to your quarters?
+
+M4A1: ...
+
+M4A1: Cinnamon rolls again?
+
+m45: Apologies. Ingredients are limited at the detention center. Cinnamon rolls and sandwiches are all I can make.
+
+m45: I'm working hard on improving the recipes and will try to dish out something new tomorrow.
+
+M4 SOPMOD II: Uh... So it'll still be bread...
+
+m45: Deepest apologies. Due to security concerns, HQ has restricted the resources coming in and out of the detention center...
+
+M16A1: Nah it's fine. You're already trying your best to jazz it up even if it's just cinnamon rolls.
+
+M16A1: M4, let's go to the cafeteria. We gotta talk to Helian later anyway.
+
+M4 SOPMOD II: Oh yeah! And she'll play us a recording from the commander, right?
+
+M4A1: ...
+
+M4A1: I am not in the mood. Go on your own.
+
+m45: Miss M4, you should still take your meal. HQ has given...
+
+M4A1: ...HQ has given specific orders for me to eat, you mean?
+
+M4A1: So no matter what it is, as long as it is an order from Griffin, I have to do it, yes?!
+
+m45: Miss M4, please calm down...
+
+M4A1: Who are they to lock me up in here?!
+
+M4A1: We are T-Dolls produced by 16LAB! We are only loaned to Griffin!
+
+M4A1: Dammit!
+
+m45: (Whimpers)
+
+M16A1: Hey, M4! Don't take it out on her!
+
+M16A1: m45 is only a supervisor here. I know you're pissed but don't use her as a punching bag!
+
+Negev: Hey, what's going on in here?
+
+Negev: What's all this fuss about?
+
+M4A1: ...
+
+M4 SOPMOD II: Ah, Miss Negev...
+
+M4 SOPMOD II: M4 isn't in a good mood. Did we disturb you?
+
+Negev: Humph... Nah it's fine...
+
+Negev: But seriously, what's the deal with your leader? I haven't even said a word all the while I've been here...
+
+M16A1: There's no helping it. The AR Team's neural framework is a bit different from that of IOP T-Dolls.
+
+M16A1: The emotional fluctuations can be more volatile...
+
+Negev: Humph. You're also 16LAB's lab rats, but I don't see you two sulking.
+
+Negev: At least try to LOOK like a leader. She's not the only one in a bad mood.
+
+Negev: Just think about me. I only went in there to rescue you guys, but ended up being locked up and scrutinized in here too...
+
+M4A1: ...I did not ask you to rescue us.
+
+M16A1: M4!
+
+Negev: Ha! Sorry, dear! No matter how outstandingly capable I am, in the end I'm only a lowly T-Doll fabricated by IOP.
+
+Negev: Put it simply: I can only act on autonomous stratagems laid down by a commander.
+
+Negev: (Stands up) Otherwise, a loser like you isn't worth...
+
+m45: Um... Everyone please calm down...
+
+m45: It's almost time for Miss Helian's call. If she sees this...
+
+...Click.
+
+m45: Oh, that must be Miss Helian.
+
+M16A1: ...She seems to be earlier than usual.
+
+m45 accepts the call.
+
+m45: Hello, Miss Helian?
+
+...
+
+......
+
+??: Found you.
+
+m45: ...Hmm?
+
+??: There you are, M4A1.
+
+M16A1: Hey, who the hell are you?! Show your face!
+
+...A soft clap is heard from the other end of the call.
+
+??: Go.
+
+??: I want M4A1 alive. The rest...
+
+??: ...Are expendable.
+
+M4 SOPMOD II: m45! Duck!
+
+m45: ...Huh?
+
+...!!
+
+Negev: W-What happened?!
+
+M16A1: m45 got shot!
+
+M16A1: SOP-II give me a hand! Drag her to the back!
+
+M16A1: Dammit! Our comms are jammed again! I can't send a distress signal!
+
+M4 SOPMOD II: Sangvis Ferri! They're here! They're everywhere!
+
+M16A1: Quick, M4! Command us to counterattack!
+
+M4A1: What? Me?
+
+M16A1: Still not catching on, M4?!
+
+M16A1: Hurry up and organize a counterattack, or we'll all die here!
+
+M4A1: But...
+
+M4A1: Asking me to command so many T-Dolls all of a sudden... Not to mention most of them are unfamiliar faces...
+
+M16A1: That's precisely why we need you, M4!
+
+M16A1: There are no commanders here. You are the only one with the same level of commanding efficiency in the whole of Griffin.
+
+M16A1: That's why, M4, you are our only hope...
+
+M16 grips M4's shoulders...
+
+M16A1: We said we'd get outta here together, didn't we?
+
+M4A1: ...
+
+M4A1: Understood.
+
+M4A1: M16, give me some time to calibrate my modules and improve my condition...
+
+M16A1: Sure. We'll try our best to buy you time.
+
+M16A1: SOP-II, let's go!
+
+M4A1: Asking so much of me all of a sudden...
+
+M4A1: ...（Breathes deeply）
+
+M4A1: But...there is no other way...
+
+M4A1: ...Off we go!
+
+Seven minutes after the end of the daily routine patrols.
+
+Helian: Commander, there's an emergency!
+
+Helian: Communication has been cut off from the detention center currently holding the AR Team. The situation is identical to the last Parapluie attack.
+
+Helian: At the same time, a large number of Sangvis units have suddenly emerged within Area S05 and are moving to the detention center.
+
+Helian: But we can't take the risk of storming the building at the moment, so we can only count on the defense system and our T-Dolls inside.
+
+Helian: Your priority is to destroy the Sangvis troops on the outside to alleviate the pressure faced by those within the detention center.
+
+Helian: Please mobilize as quickly as you can and try your best to stop the enemy from surging into the building!
+Part 2
+
+    2chevron_right
+
+Meanwhile, within the detention center codenamed “Mario's Princess”.
+
+Medical Room, 4/F. An hour into the counterattack.
+
+FF FN49: U-Um, FNC! I'm out of ammo!
+
+FF FNC: Hmm... But I can't let you have mine.
+
+Skorpion: Hey! What are you doing? Didn't I tell you to hold your fire here?!
+
+Skorpion: There are too many of them on the floors below! We're gonna be wiped out soon!
+
+FF FN49: But we still haven't finished off the enemies here!
+
+Skorpion: But there are more of them downstairs!
+
+FF FNC: But they're still very far from us!
+
+Skorpion: But they have a much longer firing range!
+
+FF FN49: But the enemies here have more firepower!
+
+Skorpion: Hmm... You do have a point...
+
+Skorpion: Ahhhhhhh!
+
+Skorpion: No commander, and no preset stratagem! What should I do?! Somebody please tell me!
+
+...BOOM!
+
+FF FN49: Um... The floor below seems to have cleared up!
+
+FF FN49: Huh? You...
+
+M4A1: Everyone cease your fire and retreat to the dormitory common room on the third floor!
+
+FF FN49: Huh? You are...
+
+FF FNC: You're not a member of our team, but you can give us orders??
+
+Skorpion: Who cares! Just listen to her and retreat!
+
+Dormitory Common Room, five minutes later.
+
+M16A1: M4, Skorpion's group is the last batch. All T-Dolls on the second to fourth floors are all here.
+
+M16A1: （Hands over）The ones on this list are too seriously injured for further combat.
+
+M4A1: Got it. I shall assign suitable units to care for them.
+
+M4 SOPMOD II: But what about the ones on the first floor and in the basement?
+
+FF FNC: We make our way down there and bust them out, bien sur!
+
+FF FN49: But...the signal is completely jammed. Barging our way through will surely be dangerous...
+
+Negev: Calm down, you lot. It's not like we don't have a commander here.
+
+FF FNC: Commander? But the commander ISN'T here...
+
+FF FN49: (Whimpers) The commander hasn't come... Maybe we've been left for dead...
+
+Skorpion: Hey, enough with the rubbish!
+
+M4A1: Everybody please listen.
+
+M4A1: Have you noticed? The Sangvis attack has significantly weakened compared to an hour ago...
+
+M4A1: Which means the commander has been destroying a lot of enemy units on the outside - for our sake.
+
+M4A1: The commander has made it in time and is doing everything that is possible to aid us...
+
+M4A1: Now we only have to finish off what is left of the enemies, and we will be safe.
+
+Skorpion: But how do we make it down there? We don't even have something that remotely resembles an autonomous stratagem...
+
+M4A1: That is unnecessary. I shall command you.
+
+M4A1: I am a special T-Doll developed by 16LAB and equipped with a highly efficient module for issuing commands.
+
+M4A1: If the occasion calls for it, I can give orders in the commander's place. Even if electronic communication is down, I can give verbal orders.
+
+FF FN49: So...that means...you're our commander for now, right?
+
+FF FNC: Uh... But we saw you once before, and you were super suspicious back then...
+
+FF FNC: Besides, wasn't Skorpion set up by the AR Team?
+
+FF FNC: They used her then just let her get captured by Sangvis Ferri...or something...
+
+Skorpion: ...
+
+Skorpion: No, that's not what happened...
+
+Skorpion: I was abandoned by my original commander on the field along with some other squads...
+
+Skorpion: Agent from S.F. brought along so many units we were almost completely overwhelmed...
+
+Skorpion: If it hadn't been for M4, we'd probably have met our end then and there.
+
+Skorpion: So I trust her. Or at the very least, I trust her abilities!
+
+FF FN49: I-I also think it's worth a shot! It certainly beats cowering in here!
+
+FF FNC: Ugh... If that's what everyone has decided on...
+
+FF FNC: M4, you'll get us all out of here, right?!
+
+M4A1: (Nods) I will.
+
+M4A1: I will try my utmost best in being a temporary commander and lead us all to victory.
+
+M16A1: Don't just try. Do it.
+
+M16A1: Tonight, we MUST survive!
+
+M4A1: ... (Nods)
+
+M4A1: Everyone move according to my orders!
+
+M4A1: Let us make our way out of this place!
+
+M4A1: I must stop eating my heart out...
+
+M4A1: I have to live... Make use of my abilities...and live through this with my friends!
+
+Three hours later. Griffin Control in Area S05.
+
+Kalin: Are we still in direct confrontation, Commander?!
+
+Kalin: Sangvis units keep pouring in and I'm almost overwhelmed here distributing supplies on the backline...
+
+Kalin: If this goes on... I don't know how long the detention center can hold...
+
+...Click.
+
+Comms system received an encrypted call.
+
+...Call accepted.
+
+Persica: Commander... Hi, this is Persica...
+
+Persica: It's an emergency, so I'm using an encrypted channel just to be safe...
+
+Persica: 16LAB has been closely monitoring the AR Team and what's befalling the detention center...
+
+Persica: This isn't just a random attack. There is an ulterior motive...
+
+Persica: So...I've dispatched a T-Doll to aid you...
+
+Persica: I'm leaving the rest to you, RO...
+
+RO635: Greetings, Commander. I'm a Tactical Doll newly developed by 16LAB, designation RO635.
+
+RO635: Long story short, Commander, I have important information to relay.
+
+RO635: A Sangvis ringleader has set up a communication outpost in the northeastern valley. I'm sending you its coordinates. Please destroy it as soon as possible.
+
+RO635: That will prevent the enemy from getting reinforcements and expediate my arrival.
+
+Kalin: Is your source credible? You're new to Area S05 yourself, aren't you?
+
+Kalin: Not to mention you're a completely green rookie...
+
+RO635: I'm not a rookie, Miss Kalin.
+
+RO635: Moreover, I was developed specifically to tackle such circumstances.
+
+RO635: Please have faith in Miss Persica, if nothing else...
+
+Kalin: What do you think, Commander?
+
+Kalin: ...
+
+Kalin: I do agree that Miss Persica won't have us take unnecessary risks.
+
+Kalin: It's not a good idea to keep up this impasse either. Let's give it a shot while we can still afford to divert our forces!
+
+RO635: Thank you for your trust, Commander.
+
+RO635: Now please deploy your troops and launch an attack on these coordinates.
+Part 2
+
+    2chevron_right
+
+...Our team arrived at the coordinates given by Persica.
+
+Kalin: Commander! A Sangvis communication outpost has indeed been spotted!
+
+Kalin: That's probably how the Sangvis ringleader has been remote-controling her troops. Hurry up and destroy it!
+
+...Two minutes later.
+
+The team detonated the explosives and annihilated the Sangvis outpost.
+
+...
+
+Dreamer: Ah...
+
+Dreamer: I didn't expect this game of cat-and-mouse to end so soon...
+
+Dreamer: How? How on earth did they sniff me out so quickly...? I just don't understand...
+
+Dreamer: But who cares... "She" has already reached her destination.
+
+Dreamer: Now then...
+
+Dreamer rises from her seat...
+
+Dreamer: It's time for me to get a stretch too...
+
+...Meanwhile, LG2/F in Detention Center "Mario's Princess".
+
+...The counterattack nears its end.
+
+Negev: Humph, this piece of junk... That's the last of them, yeah?
+
+M4 SOPMOD II: Behind you, Negev!
+
+Negev: ...!
+
+M16A1: ... (Lowers her weapon)
+
+M16A1: THAT...was the last one.
+
+Negev: (Shrugs) Nevermind. I didn't get the first kill anyway.
+
+Negev: But you guys did pretty well this time.
+
+Negev: Especially you...
+
+Negev: Miss M4A1 of the AR Team.
+
+M4A1: (Smiles) I merely performed my duty.
+
+FF FN49: Don't say that. We're all saved thanks to you.
+
+FF FNC: You were an excellent commander, M4! How could I ever thank you?!
+
+Skorpion: Heheh! Let's throw a party for M4 once we're out of here!
+
+M4A1: Please do not get ahead of yourselves. We still have a lot of injured to care for.
+
+M4A1: Move our disabled onto the ambulance. Replenish on ammo and meds, then assemble again in the first floor lobby.
+
+M16A1: Alright, let's go!
+
+M4 SOPMOD II: Heheh, so we did make it through the night!
+
+M4A1: Yes, we can finally leave this place.
+
+M4A1: (Mutters) And come face-to-face with Judge...soon...
+
+??: Really...?
+
+??: Then thank goodness I made it here in time.
+
+M4A1: ...?!
+
+A soft clap sounds in a distance.
+
+...Poof!
+
+All T-Dolls: ...?!
+
+Skorpion: Hey! Who turned off the lights?!
+
+FF FNC: Even the fridge is off! Chocolate! My chocolate!
+
+M16A1: Must be a power cut!
+
+M16A1: Don't panic, guys. It could just be...
+
+M16A1: ...
+
+...
+
+......
+
+............
+
+Nothing but silence all of a sudden.
+
+M4A1: ...
+
+M4A1: Hey, why...has everyone suddenly stopped talking?
+
+M4A1: M16? SOP?
+
+M4A1: Negev? Skorpion?!
+
+M4A1: Where are you? Answer me!
+
+??: They won't.
+
+M4A1: ?!
+
+M4A1: Who are you?! Where are you?!
+
+??: How can you still be standing, M4A1?
+
+??: You really are different from the rest of them.
+
+M4A1: You...
+
+M4A1: Who are you...
+
+??: In that case, let's do it here.
+
+...Light footsteps echo through the hall as a small figure slowly approaches M4.
+
+M4A1: Stop! Not another step!
+
+...!
+
+M4A1 fires swiftly at the source of the footsteps.
+
+M4A1: ... (Pants)
+
+M4A1: Did I get her...?
+
+??: Almost...
+
+??: ...Actually, not even close.
+
+...
+
+Suddenly, the tiny figure appears right in front of M4.
+
+M4A1: ...?!
+
+The figure — "She" — enfolds M4 in a tight embrace...
+
+??: I want to...
+
+??: Finish what AR15 had failed to do for me...
+
+??: To get the answer that you haven't been able to give me...
+
+M4A1: ...?!?!
+
+M4A1: What...What is this...
+
+M4A1: Stop...Please stop—
+
+M4A1: STOP IT—!!
+
+M4A1: AAAAAAAAAAAAAAAAAAAAAAAAAARGH—!
+
+Five minutes after sabotaging the Sangvis communication outpost.
+
+Kalin: Commander, we're being hailed on a public channel!
+
+Kalin: It bears the identification of Sangvis Ferri. Most probably the Ringleader behind this attack.
+
+Kalin: What do we do? Should I answer the call?
+
+...Sangvis call accepted.
+
+Dreamer: Good morning, Griffin Commander.
+
+Dreamer: I don't know how exactly you located my communication outpost. Someone's probably been cheating.
+
+Dreamer: But then again, it's dull to strategize by the rules. Variables like this are what makes things fun.
+
+Dreamer: So...allow me to join in on this little game...
+
+Kalin: Commander! Massive amount of Sangvis unit signals incoming at 4 o'clock position from the detention center!
+
+Dreamer: I'm targeting that detention center. Make no mistake, I'm much more lethal than the little bugs from before...
+
+Dreamer: I'll kill every single Griffin T-Doll in sight with my own hands.
+
+Dreamer: Well? Would you like some time to come up with a countermeasure?
+
+Kalin: What do we do, Commander?
+
+Kalin: If we intercept Dreamer, we won't be able to defend the detention center.
+
+Kalin: Besides, we don't even know what's going on inside the establishment. We have no way of breaking in to get them out...
+
+RO635: Commander, Miss Kalin, please leave the mission to me.
+
+RO635: I have already reached the detention center and am about to infiltrate the building.
+
+RO635: I shall follow the preset stratagem and rescue all trapped T-Dolls, including M4A1.
+
+Kalin: Can it be done, RO?
+
+Kalin: But...signal is completely jammed by Parapluie within the detention center.
+
+RO635: Parapluie isn't the cause of the jam. It's something much more terrifying.
+
+RO635: But don't worry. I've brought a device to neutralize the threat.
+
+RO635: I'm also equipped with a basic command module, which enables me to issue simple commands in the building.
+
+Kalin: Should I transfer all control of the detention center to her?
+
+RO635: ...
+
+RO635: Thank you for your recognition, Commander.
+
+RO635: Please concentrate on intercepting Dreamer, and leave the rescue of the AR Team and the others to me.
+
+RO635: Rest assured, it shall be done.
+
+Dreamer: Time is running out. Have you gathered your wits and forces to stop me...?
+
+Dreamer: ...Splendid. Then let the game begin...
+
+Dreamer: I look forward to your warm reception, Lord Commander ♪.
+Part 2
+
+    2chevron_right
+
+35 minutes after exchanging fire with Dreamer's troops.
+
+...LG2/F, Detention Center "Mario's Princess".
+
+...
+
+Mastermind: Why...
+
+Mastermind: Why can't I decrypt it?
+
+Mastermind: Guess I'll have to bring her with me...
+
+Mastermind: (Clap) Come, M4A1.
+
+Mastermind: Let's go back together...
+
+RO635: You're not bringing anyone with you today, Mastermind...
+
+Mastermind: ...
+
+Mastermind: Explosives?
+
+RO635: Everyone, fire!
+
+M16A1: Grenade!
+
+Negev: Ahahaha! Run, midget! Let's see how far you can run!
+
+...
+
+Mastermind: How are you lot up again?
+
+RO635: This device is prepared for you, Mastermind...
+
+RO635: More specifically, for neutralizing the jammer on you!
+
+Mastermind: That won't last very long.
+
+RO635: I don't need very long...
+
+M4 SOPMOD II: RO! I've got M4!
+
+Mastermind: ...!
+
+RO635: Good! Retreat! Get to the air-raid shelter!
+
+Mastermind: You...!
+
+Skorpion: Guys! Smoke grenades, now!
+
+FF FNC: FF FN49, shut the door!
+
+...A dull thud.
+
+Mastermind: ...
+
+Mastermind: Weapon... Where's my weapon?
+
+Dreamer: Don't you remember, Master, that you'd decided against bringing a weapon?
+
+Dreamer: That's why I've allocated part of my troops to you.
+
+Mastermind: ...
+
+Mastermind: Then can you come?
+
+Mastermind: They've barricaded themselves behind a big iron door. I can't get in.
+
+Dreamer: Ah... An "air-raid shelter", isn't it?
+
+Dreamer: I'm afraid my hands are tied, too. My troops are being held down by that human commander.
+
+Mastermind: ...
+
+Mastermind: You really aren't as useful as Agent...
+
+Dreamer: Heheh... Things don't always go your way, you see...
+
+Dreamer: So should we withdraw, Master?
+
+Mastermind: ...
+
+Mastermind: I'll be waiting outside. Come pick me up.
+
+...20 minutes later, Dreamer's troops suddenly withdraw from the battlefield.
+
+...15 minutes later, evacuation of the detention center is almost complete.
+
+m45: Ah, Miss M16.
+
+M16A1: How's your injury, m45?
+
+m45: I'm fine after undergoing emergency repairs...
+
+m45: Are you here to check on Miss M4?
+
+M16A1: Yeah...
+
+M16A1: What's her condition?
+
+m45: ...
+
+m45: I'm sorry, but it's not looking good...
+
+m45: Miss M4A1 has been in this state for a while...
+
+m45: Muttering to herself, not communicating with anyone else...
+
+M16A1: ...
+
+M16A1: M4...
+
+M16A1: What the hell did that chit do to you...
+
+m45: What do we do now, Miss M16?
+
+M16A1: ...
+
+M16A1: Let's get her onto the conveyer with the other injured first...
+
+M16A1: The commander has already laid down the plan for retreat. We need to leave as soon as possible.
+
+m45: Oh? Is the commander coming?
+
+M16A1: Already here, in fact.
+
+M16A1: Sangvis Ferri has destroyed our power source and communication system, so Helian has given the commander special authorization to come and inspect the situation first.
+
+M16A1: The commander is currently on the way to the garden on the first floor to get some information from RO.
+
+m45: RO635... The new T-Doll...?
+
+M16A1: Yeah... They should've met each other by now.
+
+Meanwhile, 1/F.
+
+...After giving the order for all T-Dolls to retreat, I push open the door leading to the garden.
+
+...
+
+RO635: Hush...
+
+RO635: Sorry, it took a while to coax SOPII to sleep. You wouldn't want her to disturb us, would you?
+
+RO635: Allow me to introduce myself again. I am Tactical Doll RO635 from 16LAB.
+
+RO635: I'm sure you want answers to a lot of questions.
+
+RO635: But first, I must make it clear that I'm only here to assist you on Persica's personal request. If possible, please do not inform HQ of my involvement.
+
+RO635: You don't have to worry about M4 for now either. Persica is doing everything she can to solve the problem.
+
+RO635: Before a solution can be found, I'll be taking her place in leading the AR Team to investigate Sangvis Ferri...
+
+RO635: On another note, the Ringleader who invaded the detention center and caused this tragedy...
+
+RO635: ...Has been confirmed to be none other than the highest being in command of Sangvis Ferri, a T-Doll designated "Mastermind".
+
+RO635: ...Surely you know what this means?
+
+RO635: Please be prepared, Commander.
+
+RO635: We're about the settle the score with S.F. for good...
+
+...
+
+left_39 days
+
+......
+
+left_14 days
+
+............
+
+left_1 day
+
+......
+
+left_02 seconds
+
+left_01 second
+
+left_00 second
+
+AR-15_MIA
+
+...
+
+......
+
+RO635: M16A1...
+
+RO635: Is this the agreed time...?
+
+M16A1: Yeah...
+
+M16A1: I don't know what I expected.
+
+M16A1: Did I hope that I'd hear her voice the second before the call ended, telling me it was all a joke?
+
+M16A1: Fine... Maybe I really did...
+
+M16A1: In any case, it didn't happen...
+
+M16A1: Nothing happened at all...
+
+M16A1: After that incident, Griffin has withdrawn from Area S08 for good.
+
+M16A1: HQ could no longer afford to dispatch troops back into a wasteland crawling with Sangvis units in search of a single missing T-Doll.
+
+M16A1: Our scouts also reported nothing unusual during the 39 days when they monitored the borders from a distance.
+
+RO635: ...
+
+RO635: Which means AR-15...
+
+M16A1: As a special T-Doll produced clandestinely by 16LAB, AR-15 wasn't equipped with a complete neural cloud, so HQ doesn't have the means to reconstruct her identity.
+
+M16A1: In other words, AR-15 of the AR Team—the AR-15 who served with M4A1, SOP-II and me—has ceased to exist...
+
+M16A1: We must at least acknowledge this most terrible fact...
+
+M16A1: Though actually...things DID get even more terrible than that.
+
+RO635: M4A1 will be fine. She just needs time.
+
+RO635: We must stay strong for now and prepare for vengeance.
+
+M16A1: I know. Vengence is the greatest solace,
+
+M16A1: For them as well as for us...
+
+M16A1: Brief us on this mission, RO. I can hardly wait.
+
+Area S05, a land of skirmish between Griffin and Sangvis Ferris...
+
+RO635: We are to track a Sangvis Ringleader. Griffin's No.1 most wanted criminal who perpetrated the assaults on many of our contracted areas.
+
+RO635: Also...she seems to have returned to her original base after coming into contact with us a month ago.
+
+M16A1: Dreamer...
+
+M16A1: So what are we waiting for? Can't we just surround and destroy her?
+
+RO635: We can't ascertain whether that is her original body or just a dummy. Not to mention she is armed with powerful weapons that far exceed Sangvis Ferris' standard technology.
+
+RO635: I've witnessed her destructiveness myself. Any rash attacks would be highly dangerous.
+
+RO635: That's why I've enlisted the help of several friends. They have discovered a lot of information during their investigation...
+
+M16A1: Friends?
+
+RO635: Before I joined the AR Team, I was the leader of a certain squad—an experience designed to train and test my command module.
+
+RO635: They are my former squadmates. I'm pulling in favors asking them for help.
+
+M16A1: You "asked"? ...Through official procedures?
+
+RO635: (Grins) I have my ways.
+
+RO635: In any case, we need to extract them, as well as their information.
+
+RO635: To make this more efficient, you and SOP-II are to rendezvous with them at the pick-up point.
+
+M16A1: Got it. What about the Sangvis forces along the way? Area S05 isn't exactly safe these days.
+
+RO635: The commander will take care of them. Let's move once the coast is clear.
+Part 2
+
+    2chevron_right
+
+M16 reached the safe house.
+
+M16A1: ...
+
+M16A1: It's clearly time for the intel collection, but no one's here...
+
+M16A1: They did leave the information in the box. Let me see...
+
+Clang...!
+
+M16A1: Who's there?!
+
+M16A1: ...
+
+M16A1: Something's poking out from around the corner... Bunny ears?
+
+M16A1: No, it seems to be some kind of hair accessory?
+
+M16A1 approaches silently...
+
+M16: Gotcha!
+
+??: WHOA—!!
+
+??: Don't shoot! We're friends!
+
+AAT-52: (Whimpers)
+
+AAT-52: That hurt! Why does everyone like yanking on my hair?!
+
+M16A1: AAT52...
+
+M16A1: What's a T-Doll like you doing in a place like this?
+
+AAT-52: Huh? Can't I just be passing by? Can't a cute idol go on a tour to visit her fans?
+
+AAT-52: And what do you mean, "a T-Doll like me"?! I've taken part in first-class operations too, you know!
+
+AAT-52: Don't get cocky just because you're in the AR Team! We won't lose to you!
+
+M16A1: ...
+
+M16A1: You're from RO's squad, aren't you?
+
+AAT-52: Eh? So you knew...
+
+AAT-52: That's right, we're Squad Palette, here to assist you on our former leader's orders!
+
+M16A1: "Palette"? What kind of weird name is that...
+
+M16A1: And if you're here to help us, why did you hide when you saw me?
+
+AAT-52: I...was spooked...
+
+M16A1: Spooked?
+
+AAT-52: I couldn't make out your face. I saw black hair and just assumed it was her again!
+
+M16A1: Her? Who?
+
+AAT-52: Dreamer, duh!
+
+AAT-52: She's been really elusive lately. No one knows where she might pop up the next second.
+
+M16A1: ...
+
+M16A1: What is that monster trying to cook up this time...
+
+...Suddenly, the sound of an engine being started comes from a distance.
+
+AAT-52: Duck!
+
+M16A1: ...?!
+
+...BOOM!!
+
+A building far away is instantly blown to dust.
+
+M16A1: Hey, what the heck is that?!
+
+AAT-52: Another masterpiece of that half-pint witch!
+
+AAT-52: The thing that's blowing up Area S05 with heavy artillery!
+
+M16A1: But this area is currently under Sangvis control, right?! What's the point in destroying their own territory?
+
+AAT-52: Who knows. Maybe she's gone barking mad!
+
+RO635: M16! AAT! Are you guys alright?!
+
+M16A1: Yeah, we're fine... That shell landed pretty far from where we are.
+
+RO635: M16, keep calm and listen to me...
+
+RO635: The shell was aimed at SOP-II's destination.
+
+M16A1: ...WHAT?!
+
+AAT-52: Hey, what about Sten?
+
+AAT-52: Is she okay?!
+
+RO635: No word yet, but there's an air-raid shelter there so don't worry too much.
+
+AAT-52: Is this round...the same as the ones before?
+
+RO635: Yes, it's a smokescreen meant to confuse us. She sure is a cunning one...
+
+RO635: Let's meet up ASAP. Area S05 isn't safe anymore.
+
+M16A1: ...
+
+M16A1: RO, do you know the artillery piece Dreamer is using?
+
+M16A1: I just find the firing sound...very familiar...
+
+RO635: Yes, M16...
+
+RO635: You would, wouldn't you...
+
+RO635: Because you were among those who first witnessed the use of this weapon...
+
+M16A1: ...!
+
+During Episode 5, 26 minutes after the AR Team commenced pursuit of Destroyer…
+
+M4A1: Wait. Listen to that…
+
+M16A1: Now! Run for it!
+
+M4A1: M16, watch out!!
+
+M16: ...?!
+
+…BOOM!!
+
+M16A1: …!!
+
+M16A1: W-What was that…just now?
+
+M4 SOPMOD II: You've gotta be joking. Sangvis can actually use…a weapon of that scale?
+
+M4A1: …
+
+M4A1: …Guys, I just received a report from Helian. We have suffered heavy losses.
+
+M4A1: HQ is ordering all troops to abort the pursuit and retreat from the area immediately.
+
+M4 SOPMOD II: But AR-15…
+
+M16A1: ...
+
+RO635: "Jupiter", large-scale electromagnetic tactical mortar.
+
+RO635: Its firing range rivals that of the military's standard artillery, and it fires at such high velocity that Griffin simply has no way of defending against it.
+
+RO635: That's Sangvis Ferri's latest weapon of mass destruction...
+
+RO635: ...And the very thing that destroyed your last hope of saving AR-15.
+
+AAT-52: M16, are you...okay?
+
+M16A1: ...I'm fine. I'll live.
+
+M16A1: In any case, we must get to their location first and find out if...
+
+AAT-52: Um...don't worry too much.
+
+AAT-52: Our squad has come under Jupiter's barrage a few times before and has come up with some contingencies.
+
+M16A1: Well... I certainly hope they worked...
+
+M16A1: We underestimated Dreamer's computing capacity. Maybe this is all part of her plan.
+
+RO635: M16, I have just contacted the commander.
+
+RO635: Execute your preset strategem to rescue SOP-II and my squadmates as soon as all nearby Sangvis units are cleaned up.
+
+M16A1: Understood. Then you'd better head back first, AAT.
+
+AAT-52: Huh? Are you sure you don't need my help?
+
+RO635: M16 can manage this alone. It's a fool-proof plan that the commander and I devised together.
+
+RO635: Besides, I need your help over here.
+
+AAT-52: Got it. Then make sure you bring everyone back, M16!
+
+M16A1: I will.
+
+M16A1: Commander, I'm leaving the enemies ahead to you!
+Part 2
+
+    2chevron_right
+
+...M16 arrived at SOP-II's location.
+
+The base has been bombed to ruins.
+
+M16A1: SOP-II, do you copy? I've arrived at the base.
+
+M16A1: Are you still in there? I'm coming in now.
+
+...!
+
+M16A1: The ground is littered with Sangvis body parts. There are bullet holes and scratches all over the walls...
+
+M16A1: What on earth happened here...
+
+STEN MkⅡ: Um...Miss M16.
+
+M16A1: Miss Sten! Where are you?!
+
+STEN MkⅡ: I'm...I'm in the underground air-raid shelter.
+
+STEN MkⅡ: You'll find the security mechanism behind the control interface. The passcode is "6FPIZX4V".
+
+M16A1 reaches the basement...
+
+STEN MkⅡ: Ah...Miss M16.
+
+STEN MkⅡ: Is it safe out there?
+
+M16A1: Yes. Where's SOP-II? Is she not with you?
+
+STEN MkⅡ: ...
+
+STEN MkⅡ: I'm sorry, Miss M16...
+
+STEN MkⅡ: It was too horrific back then. SOP-II asked me to stay here in the shelter...
+
+STEN MkⅡ: And went out there alone to deal with the situation...
+
+M16A1: What situation?
+
+STEN MkⅡ: After the barrage... Dreamer...showed up herself...
+
+M16A1: ...?!
+
+M16A1: Dreamer... Did she attack SOP-II?
+
+STEN MkⅡ: It was mostly just small units. They were nothing to SOP-II...
+
+M16A1: Then by "horrific", you were referring to...
+
+STEN MkⅡ: SOP-II... She's absolutely horrific...
+
+STEN MkⅡ: That's why I didn't dare leave the shelter until you're here...
+
+STEN MkⅡ: I have an audio recording of what happened...
+
+Sten passes a tape to M16.
+
+M16 plays the recording...
+
+...
+
+M4 SOPMOD II: (Pants)...
+
+M4 SOPMOD II: Is that it? Is that all the junk you can command?
+
+Dreamer: ...I seem to have underestimated you, SOP-II.
+
+Dreamer: Intruder did say you're a freak. Now I finally see what she meant...
+
+Dreamer: I finally see how far you would go to satiate your desires.
+
+M4 SOPMOD II: Freak? How am I a freak?
+
+M4 SOPMOD II: I just want to have fun...
+
+M4 SOPMOD II: Hanging out with my friends at Griffin and tearing you lot apart are all ways of having fun.
+
+Dreamer: Then that's the problem.
+
+Dreamer: You know, right? Desire isn't something a T-Doll should have.
+
+M4 SOPMOD II: Sorry, but my head isn't much good for thinking about such complicated stuff...
+
+M4 SOPMOD II: Just tell me who you are, and whether you'll scream when I dismember you.
+
+Dreamer: Me...?
+
+Dreamer: I'm like you. I have a tiny problem in my neural system too.
+
+Dreamer: The only way to fulfill myself is to feed my desires. Beings like us can never truly be happy.
+
+M4 SOPMOD II: The difference is...
+
+M4 SOPMOD II: You have a nice voice. Your scream must be very pleasing to the ear...
+
+Dreamer: There's another difference between the two of us.
+
+Dreamer: You gain satisfaction by inflicting physical pain - a thrilling method, no doubt, but a bit lacking in artistry...
+
+Dreamer: As for me... I prefer destroying my victims' hopes with words, power...
+
+Dreamer: And weapons, too, of course...
+
+M4 SOPMOD II: ...!
+
+Dreamer: Time for a riddle, SOP-II.
+
+Dreamer: "I stopped you from going after AR-15 with artillery fire. Who am I?"
+
+Dreamer: "I deliberately fed information to AR-15 through the comms...
+
+Dreamer: "...Leading her to investigate alone until she got a jamming module planted on her. Who am I?"
+
+Dreamer: "I brought the bigshot of Sangvis Ferri to Area S05 and caused the meltdown in M4A1's neural system. Who am I?"
+
+M4 SOPMOD II: ...
+
+Dreamer: I am Sangvis T-Doll SPACA, commonly known as Dreamer.
+
+Dreamer: I once told AR-15 that she'd been chosen. And she's just the beginning.
+
+Dreamer: I know what you are, SOP-II of the AR Team.
+
+Dreamer: I know what you all will turn into...
+
+Dreamer: And when...
+
+Dreamer: ...Which happens to be now.
+
+M4 SOPMOD II: ARGHHHHHHHHHHHHHHH——!!
+
+M4 SOPMOD II: DIE! I'M GONNA KILL YOU, DREAMER——!
+
+Dreamer: Yes... Just like that...
+
+Dreamer: Come, SOP-II. Kill me...
+
+Dreamer: Find me, and give me happiness with your own hands...
+
+M4 SOPMOD II: Come out... SHOW YOURSELF!!
+
+M4 SOPMOD II: ARGHHHHHHH!
+
+...
+
+End of recording.
+
+M16A1: ...
+
+STEN MkⅡ: I'm sorry, Miss M16. This is the only thing I could do at that time...
+
+M16A1: You did the right thing, Sten.
+
+M16A1: Now I'm gonna take you back and make sure you're fine.
+
+M16A1: As for SOP-II... If anyone can track her down...
+
+STEN MkⅡ: We do have someone who can.
+
+STEN MkⅡ: She's been monitoring everyone's whereabouts off the field.
+
+...Click.
+
+Makarov: Dobryy den'.
+
+Makarov: I hear you could use some help?
+
+M16A1: Have you confirmed SOP-II's location, Makarov?
+
+Makarov: Da, she is exchanging fire with Dreamer's troops in an abandoned factory.
+
+Makarov: Things are not too bad at the moment, but we can't tell when Dreamer will intervene.
+
+M16A1: Then let's sever communications among different Sangvis echelons first to prevent them from getting reinforcements.
+
+Makarov: Agreed. The nearest communication outpost is around this area. Quite a large amount of data traffic.
+
+Makarov: Taking this base will do both SOP-II and ourselves good.
+
+M16A1: Understood.
+
+M16A1: Commander, please do us the favor of seizing the base.
+
+M16A1: We'll be on standby here until they finish their game of cat-and-mouse.
+Part 2
+
+    2chevron_right
+
+...RO also arrived at the rendezvous point agreed with Type92.
+
+RO635: Hailing Type92. I have arrived at our rendezvous point. Where are you?
+
+Type92: ...
+
+RO635: Hmm? Type92?
+
+Type92: I...
+
+Type92: am...right...behind...you...
+
+RO635: ...
+
+RO635: Please, how many times does this make...
+
+Type92: No fun...
+
+Type92: I still remember the first time your pigtails literally stood on end...
+
+RO635: Jeez...
+
+RO635: I'm not AAT. I won't fall for the same trap seven times a day.
+
+AAT-52: Hey, I heard that!
+
+RO635: Are you there yet?
+
+RO635: Sten's also in position. Then let's hack into the mortar!
+
+STEN MkⅡ: Hmm... RO, this hacking program...is kinda hard to get my head around.
+
+Type92: There does seem to be a few problems. The operating routines need a bit of tweaking.
+
+Type92: I've sent the set-up to you guys. Adapt to it quickly.
+
+RO635: The hacking program was originally the work of Sangvis Ferri. We were short on time so this is the best we could do with it.
+
+RO635: Hurry up and get this over with. We're running out of time here too.
+
+RO635: M16 and Makarov are going after SOP-II, and I'm worried that Dreamer will unleash another round of barrage.
+
+Type92: Is she...mad enough to blow herself up?
+
+RO635: That's just a dummy, 92.
+
+RO635: The Dreamer in Area S05...has been a dummy from day one.
+
+Type92: What a beast...
+
+Type92: Why do all S.F. units have such high command efficiency?
+
+RO635: Their Mastermind is never one to shut herself in a lab. She's been learning and improving her craft.
+
+RO635: Both Dreamer and Jupiter are her new toys...
+
+Type92: If we manage to hack into the system, at least we won't be sitting ducks when going against the latter.
+
+RO635: True, but it's gonna be a bit of a chore...
+
+RO635: We'll have to take over all the bases around the mortar before we can initiate the hack...
+
+STEN MkⅡ: RO, I'm almost done here!
+
+AAT-52: Same here! Only 15% left!
+
+Type92: Makarov and M16 seem to have arrived as well!
+
+RO635: Just a little more...
+
+RO635: Please guys, hurry up just a bit!
+
+Meanwhile, M16 and Makarov are preparing to storm the factory.
+
+M4 SOPMOD II: Pant... Pant... Pant......
+
+Dreamer: Were these...enough for your appetite?
+
+M4 SOPMOD II: No... No... Far from it...
+
+M4 SOPMOD II: It won't be enough at all...if I don't have you...
+
+Dreamer: I know. I know exactly how that feels...
+
+Dreamer: It's a curse, SOP-II. We're both cursed with it.
+
+Dreamer: When the only thing to live by is our orders, when our only purpose is to serve and obey...
+
+...
+
+Dreamer: Kill me, SOP-II, and make me happy.
+
+M4 SOPMOD II: DREAMER...
+
+M4 SOPMOD II: I'M...GONNA...KILL...
+
+M4 SOPMOD II: I'M GONNA KILL YOU——!!
+
+Bang——!
+
+...
+
+M16: That really was a dummy...
+
+M16A1: Are you alright, SOP-II?
+
+Dreamer: Oh, c'mon, M16...
+
+Dreamer: It may have been a dummy, but I did devote all my sensory input to it.
+
+Dreamer: I was really, really looking forward to SOP-II's performance.
+
+M16A1: There's nothing you can do now, Dreamer.
+
+M16A1: SOP-II has already lost her target so you can't toy with her anymore!
+
+Dreamer: Oh, really?
+
+Dreamer: I never said...I only had one dummy.
+
+M16A1: ...!
+
+Dreamer: She will go on chasing after her prey, driven by her desires...
+
+M4 SOPMOD II: ARGHHHHHHHHHHH!!
+
+M16A1: SOP-II! Stop!
+
+M16A1: It's a trap!
+
+Makarov: Tsk...
+
+Makarov: She won't listen!
+
+...!
+
+M16A1: SOP-II!!
+
+M16A1: What are you doing, Makarov?!
+
+Makarov: Just getting her to pipe down for a while. She'll be fine.
+
+Makarov: More importantly, we have to get out of here or we won't make it!
+
+M16A1: What??
+
+Makarov: Just think about it. Dreamer must be planning to get us all in one go!
+
+Dreamer: Heheh... Surprise, surprise.
+
+Dreamer: I know your neural system is the hardest to mess with out of everyone in the AR Team, M16.
+
+Dreamer: In that case, I'll just destroy you physically!
+
+Makarov: There's no time to run! Get down!
+
+Makarov: ...!
+
+Makarov: M16! What are you doing?!
+
+M16A1: ...
+
+M16A1: If we make it out alive...
+
+M16A1: Please apologize to M4 for me...
+
+...
+
+......
+
+...
+
+Three minutes later, location targeted by Sangvis artillery.
+
+Makarov: Bozhe moy...
+
+Makarov: Are you star-spangled T-Dolls all this prone to heroics?
+
+RO635: Haha...
+
+RO635: Probably. We're never known for our levelheadedness...
+
+AAT-52: Ah, you're finally smiling, RO.
+
+AAT-52: I thought you'd changed after joining the AR Team.
+
+RO635: Well...
+
+RO635: The AR Team has very different dynamics. It's easy to become affected without realizing it...
+
+Makarov: (Sighs) That's why it's a surprise you guys managed to survive this long...
+
+Makarov: Always doing such crazy things. I'm not just talking about AR-15... You...
+
+Makarov: You lot...can actually die, you know...
+
+RO635: Carpe diem, I guess. We succeeded though, at least for this time.
+
+Makarov: Humph, just barely.
+
+Makarov: But you did manage to make yourself useful as a team leader.
+
+RO635: (Sighs) You have no idea how troublesome our operation was...
+
+RO635: Thank goodness Miss Persica's hacking program is working. The muzzle velocity of the last shot was indeed significantly weakened.
+
+RO635: Thanks everyone. Sten and AAT, thank you for helping us in taking over all the bases surrounding the mortar.
+
+AAT-52: Heheh. With that, The Jupiter mortar's power will be greatly impaired.
+
+AAT-52: So Sangvis Ferri's new toy isn't invincible after all!
+
+STEN MkⅡ: But...what about Makarov and the others?
+
+STEN MkⅡ: They're hurt and pinned down, not to mention Dreamer's troops are still searching for them...
+
+RO635: (Stands up) Let's meet up with them first, and I'll contact the commander.
+
+RO635: Don't worry. Everyone will be fine.
+
+RO635: Commander, this is RO635.
+
+RO635: We have successfully neutralized Sangvis Ferri's mortar. It poses no more threat to us.
+
+RO635: However, we might encounter Dreamer and her forces along our retreat route.
+
+RO635: Please keep us safe, Commander. I'll see you back at Griffin Control.
+Part 2
+
+    2chevron_right
+
+The morning after the rescue mission.
+
+...
+
+Makarov: According to 16LAB's analysis, Dreamer has been operating through her dummy this whole time.
+
+RO635: As expected... She still has a lot of aces up her sleeve...
+
+RO635: Still...she's nothing but a hypocritical coward...
+
+RO635: In any case, we made it back, so it's a job well done. We can all relax for the time being.
+
+AAT-52: We're heading out for a big dinner tonight. You coming, RO?
+
+RO635: Uh... You guys go on ahead. I have to talk to M16 and SOP-II.
+
+RO635: Let's say our goodbyes here. See you around.
+
+Sten MK-2: Hmm... So our squad won't be dissolved, right?
+
+Sten MK-2: Even though Miss RO is in another team, we're still members of Squad Palette, aren't we?
+
+RO635: That's right, we are companions for life.
+
+RO635: The higher-ups have promised to preserve the serving records of Squad Palette for us.
+
+RO635: And if I ever need help, you'll be the first to know.
+
+RO635: I know.
+
+RO635: I'm not a T-Doll that only acts on orders...
+
+RO635: I know my own responsibilities.
+
+...Midnight, three hours after RO635 finished reporting to the commander.
+
+...Click.
+
+Persica: RO. Hey, RO...
+
+Persica: RO, do you copy?
+
+RO635: ...
+
+RO635: Hello?
+
+RO635: Oh...Miss Persica...?
+
+Persica: So...
+
+Persica: I read the report. How was the program? Did it work?
+
+RO635: Uh...
+
+RO635: Sort of... It was a bit awkward to work with, but we got the hang of it.
+
+Persica: That hacking program...was coded from a Sangvis authorization module.
+
+Persica: We only managed to crack it last month...
+
+RO635: Ah...now that you mention it...
+
+RO635: That's what the AR Team risked their lives to get in Safe House 3, isn't it?
+
+Persica: Hmm... Kind of...
+
+Persica: They're all...relics from the past...
+
+RO635: Relics...? You humans are such troublemakers...
+
+RO635: That's why we're having so much trouble...
+
+Persica: (Chuckles) Solving our trouble is what motivated us to develop Doll-making technology in the first place.
+
+Persica: By the way...why is your voice all mumbly?
+
+RO635: Mmm...
+
+RO635: I had a couple of drinks with M16...
+
+RO635: Would you like to talk to her?
+
+Persica: Not now...
+
+Persica: Are they safe?
+
+RO635: Yes. SOP-II's neural system has stabilized. She's undergoing repairs right now.
+
+RO635: M16 and I have been chatting about stuff at the bar...
+
+RO635: Like work...Griffin...Sangvis Ferri...M4...
+
+RO635: And AR-15...
+
+Persica: ...
+
+Persica: I'm sure M4 will be fine...
+
+Persica: As for AR-15... I'm still working on it...
+
+Persica: What about you, RO? Are you okay?
+
+Persica: I was really worried...you know...
+
+RO635: I know...
+
+RO635: I must become even stronger than AR-15 in order to avenge her.
+
+RO635: I can't wait to prove myself...
+
+...
+
+M16A1: Ah, finally. That was quite a long call.
+
+RO635: Let's continue the convo. Comment on my squad?
+
+M16A1: Not bad. If AAT cuts down on the noise, I'd give an eight.
+
+M16A1: You've really improved a lot, RO.
+
+RO635: Yeah...I'm doing it for you.
+
+RO635: All of this is for you guys, for the AR Team...
+
+M16A1: ...
+
+M16A1: Stop saying "you", RO.
+
+M16A1: You're now one of "us" and our true companion...
+
+M16A1: So have you decided on what to do?
+
+RO635: ...
+
+RO635: Of course.
+
+RO635: I told you. This is why I've returned to Griffin.
+
+RO635: Cheer up, M16.
+
+RO635: Our vengeance is about to begin.
+
+...
+
+...Let's put it this way, Negev.
+
+If today was to be your last day... If it's gonna be over for you today, what would you do?
+
+I...
+
+I'm not sure...
+
+I'd probably give myself a holiday. Read in the dorm, listen to some music, and water my flowers.
+
+Water your flowers... So you like flowers too?
+
+Well, I'm not crazy about them. It's just a hobby.
+
+How leisurely of you... Wouldn't you want to make up for some of your regrets?
+
+Regrets? With the precious little time I have left? Why?
+
+Don't you have any regrets?
+
+She once said...
+
+"If someone tells the whole world 'I love you' on their very last day, they're lying."
+
+But you never know how to lie, I know.
+
+I just want to be myself, Jericho... The closer I am to dying, the more I want that.
+
+...Jericho chuckles with great difficulty in the shadows.
+
+That's exactly why I chose you...
+
+To be my adjutant...over them...
+
+I don't know...
+
+If I've actually made myself useful...
+
+Goes without saying that you've only been dragging us down ever since you joined us.
+
+Yeah, I'm "a piece of junk with zero self-control". Your exact words.
+
+Humph...
+
+Let's talk about something else. Something lighter.
+
+Is the 【Test】 still not over?
+
+Is this really necessary, Jericho? It's been two hours. If the rescue party still can't get to us, we'll...
+
+The rescue party can't get to us. That's exactly why we should have a chat.
+
+...Negev takes a slow, deep breath.
+
+...
+
+Could this be...the final step of the 【Test】?
+
+Is there any other choice? Even I can't think of anything else, not to mention you.
+
+So, how have you been doing at Griffin recently?
+
+(Sighs) You said you wanted to discuss a lighter subject...
+
+I'm sure you're keeping something from me.
+
+...Negev falls silent for a while and finally sighs.
+
+Fine. There's no hiding from you. I was planning to tell you at a more proper occasion.
+
+A week ago, my squad carried out a major operation for the Commander.
+
+Wait, YOUR squad? You're my adjutant.
+
+It was temporary. I was ordered to lead a mission in Area S05 during your last recovery.
+
+Area S05? That's not a very nice place.
+
+Well, it was no better than the hellholes you've led us into.
+
+Plus, I've taken an enemy head-on that even you would find surprising.
+
+You encountered the Mastermind?
+
+Negev: One of her aces.
+
+And you lived? You expect me to believe a little girl like you defeated a Sangvis Elite and survived?
+
+Go on then, tell me all about it. I want to know.
+
+Ah, there it is again. Miss Jericho's infamous "not really the best time".
+
+I'm still your leader here. I won't go easy on you.
+
+Yeah, you've always been terrifying, even with your body like this...
+
+Even if there's nothing left of it but my head, you have to obey me. As I've said before -
+
+I know, I know. "You're mine. All my subordinates are mine."
+
+And come closer. I can't hear you very well anymore.
+
+...Negev sits up and shifts over.
+
+Now, where do we start?
+
+Start from when you hopped off the carrier. Skip over the part where you received your orders like a hotshot.
+
+Tsk... Shame...
+
+After receiving my orders, I led my subordinates off the carrier... Then...
+
+Let me think...
+
+You must've made a fool of yourself.
+
+No, back then...I was...
+
+Galil: Negev?
+
+Negev: Oh, right. Galil called my name...
+
+...
+
+Galil: ...Negev. Negev?
+
+Negev: ...Huh?
+
+Galil: Don't "huh" me. What are you spacing out for?
+
+...
+
+Back then, I was spacing out.
+
+See? Told ya.
+
+I like thinking. Or have you forgotten?
+
+Yeah, I have. What happened then? What did Galil say?
+
+Same old things. Rambling on and worrying about everything. And ended up being right about everything.
+
+...
+
+Galil: Focus, Negev. Can't you take this a bit more seriously?
+
+Negev: Ha, I was just thinking about something.
+
+Galil: Huh? Even you "think"? What was it that you said? That famous quote of yours? "Thinking..."
+
+Negev: "Thinking is for idiots. Prodigies need only their ingenuity."
+
+Negev: But this is an important mission. I'm just being extra cautious.
+
+Galil: Cautious? Ha, ha. Look at me, Negev.
+
+Galil: Let me see how you define "cautious".
+
+Negev: Being cautious means I want you to help me with recon.
+
+Galil: Give me a route that'll allow me to finish mapping out the area without dying. Then I'll go.
+
+Negev: Humph, you make it sound like a challenge for me.
+
+Galil: Might not be for you, not sure about our superior. Don't make trouble for the Commander.
+
+Negev: Everything is up to fate. I'm just an enforcer.
+
+Galil: Lovely. More Negev-esque quotes... Yep, you're still you.
+
+Galil: I'm off to make my prep. Contact the Commander.
+
+...
+
+I didn't know you can be so cocky.
+
+Being self-assured and being cocky are two different things.
+
+Any T-Doll will become an elite under your hellish training.
+
+IF she survives it.
+
+That's why I'm the only elite.
+
+As I've promised, I'll make it till the very end.
+
+...
+
+Negev: Good evening, Commander. Did you sleep well? I hope you've adjusted your biorhythm properly.
+
+Negev: Have you finished reading the mission brief?
+
+Negev: ...Hey, is that a yawn? I told you to fix your body clock, didn't I?
+
+Negev: ...I don't want to hear your excuses. Go wash your face and let's begin the operation.
+
+...
+
+Negev: Feeling better, Commander? Can we start?
+
+Negev: This mission is highly dangerous. We're heading deep into Sangvis territory to retrieve something. Conflict with S.F. is probable.
+
+Negev: The Ringleader presiding over the area is still unidentified, but don't worry. Just listen to my advice.
+
+Negev: As a Griffin elite, it's my job to help you achieve victory. Trust me.
+
+Negev: Now let's be on our way!
+Part 2
+
+    2chevron_right
+
+Combat over.
+
+Galil: Are we safe?
+
+Negev: We're safe.
+
+Galil: Miss Negev, is your idea of "safe" the same as mine?
+
+Negev: You weren't such a coward back when you first joined us, Miss Galil.
+
+Galil: It's clearly all thanks to you, my valiant ladyship.
+
+Negev: You're welcome. You good to go?
+
+Galil: Alright, alright. I'm heading to the opposite outpost, right?
+
+Galil: Where have you stationed Tavor and the others?
+
+Negev: You'll see them.
+
+Galil: I know you like hiding tricks up your sleeve.
+
+Galil: Well, off I go. Good luck.
+
+Half an hour later.
+
+Galil: Galil hailing Negev. Do you copy?
+
+Negev: Get on with it.
+
+Galil: Target location is confirmed. It's inside that abandoned car factory, just as our intel says.
+
+Negev: Humph. Of course. It's my intel.
+
+Galil: Fine, fine. Everything is yours. We're all yours.
+
+Galil: But you know how to read a map, right? You see how far we are from the car factory?
+
+Negev: Is it that far? It's only a three-hour walk, right?
+
+Galil: We could get there in three hours IF this was a smooth marathon route with no enemies or obstacles.
+
+Galil: Guess where we are, my lady?
+
+Galil: We're in bloody Sangvis territory!
+
+Negev: That's why I sent you to scout ahead.
+
+Galil: Ha, ha, ha. How "cautious" of you.
+
+Galil: Now what? I did my job. What about you?
+
+Negev: You stay here and keep gathering intel. The Commander is about to lead our echelons forward.
+
+Negev: I'll get in touch with Tavor and find out her infiltration progress.
+
+Galil: Hmm, Negev?
+
+Negev: What?
+
+Galil: Be careful.
+
+Negev: It's just a night op. Nothing I can't handle.
+
+Galil: I keep saying...
+
+Galil: Whatever. Do your best. Keep everyone safe.
+
+...
+
+Negev.
+
+Hmm?
+
+You're too reckless.
+
+I know.
+
+You didn't learn anything I taught you.
+
+I wouldn't call that teaching, Jericho. You sent me to die.
+
+Even if I had learned anything, I forgot all about it after dying.
+
+I told you I'll help you remember.
+
+But then...we'll forget about you.
+
+I don't care. We are soldiers.
+
+Humans don't leave their own safety in the hands of cold, rigid robots. That's why they chose us.
+
+My neural cloud tells me that I don't want to forget you. If I can have my way, no one will ever forget you.
+
+Who taught you...to have such..."thoughts"?
+
+...
+
+What on earth are you afraid of, Jericho?
+
+...
+
+You really have grown a little when I wasn't looking... At least in terms of rhetoric.
+
+But what exactly was your target of retrieval in your operation?
+
+Well...wait for it...
+
+Let me organize my thoughts. I'll reveal it in good time.
+
+I was right. When you retire, you'll make a great talk show host.
+
+Anyway, so I directed the Commander to advance towards the car factory.
+
+After a skirmish, we took the outpost and got in touch with Tavor...
+Part 2
+
+    2chevron_right
+
+Combat over.
+
+Negev: Everything's been going smoothly, Commander.
+
+Negev: Where exactly is this legendary enemy that no one has ever seen? Somewhere further in?
+
+Negev: ...Hmm? Enemies? I thought we've taken care of them all?
+
+Negev: Keeping a low profile and killing everything we come across are essentially the same thing, right? Now then...
+
+TAR-21: Tavor hailing Negev! Negev, are you there?
+
+Negev: Negev is never absent. What is it?
+
+TAR-21: Sorry, the situation has changed.
+
+TAR-21: My movement has alerted Sangvis forces to our presence. They're currently congregating near the car factory.
+
+TAR-21: If we can get there in half an hour, we'll still have a chance to retrieve our target without engaging them directly.
+
+Negev: You got that, Galil?
+
+Negev: Check our progress for me...
+
+Negev: Hey, Galil...?
+
+...Pzzzt. Pzzzt.
+
+Galil: ...Negev! Do you copy?!
+
+Galil: I've been spotted and surrounded! I need support and route of retreat!
+
+Negev: At the same time?
+
+Galil: Same time? What do you mean? Hurry up and come get me!
+
+Negev: Tell me the fastest route from my current location to the car factory and the time it'll take to get there. Then we'll deal with the rescue.
+
+Galil: Arghhhh here it is again! The Negev-esque negotiation! Where the hell did you pick that up?!
+
+Negev: Negev is a prodigy. I was born knowing how to spell "victory", remember?
+
+Negev: Hurry. We don't have much time.
+
+Galil: Alright, alright! I've sent you the route. You can make it in 25 minutes, but only if you can get past the next outpost fast enough!
+
+Negev: And what's the fastest way of doing that?
+
+Galil: Don't be spotted too often, or kill everyone who sees you.
+
+Negev: Perfect.
+
+Galil: As for my rescue, will Tavor-
+
+Negev: Tavor is still busy and can't join you yet. Hold on and don't die.
+
+Galil: What? Hey, then how...
+
+...Click. Negev hangs up.
+
+Negev: Okay. Let me finish the job.
+
+...
+
+So you abandoned your friends?
+
+I didn't forget what you'd taught me, Jericho.
+
+My mission is more important than my friends because...
+
+Because T-Doll friends can be rebuilt, but a failed mission is failed.
+
+Looks like you stick to this principle better than I do.
+
+Someone has to keep your flair alive. And someone has to be play the villain.
+
+...
+
+You have your own path to walk, Negev.
+
+Perhaps you've pointed me to the wrong way.
+
+Oh, I've compiled a list of what's wrong with you.
+
+But this...
+
+If Griffin's okay with this, then I have nothing to say.
+
+Then let me continue. The next part is crucial.
+
+...
+
+TAR-21: Negev, are you leaving Galil behind?
+
+Negev: Don't worry about her.
+
+Negev: We can only choose a side, so we're choosing the more important one.
+
+TAR-21: You're right. This is more "worth it".
+
+TAR-21: Did the Commander say anything?
+
+Negev: I've reported my whole plan. The Commander trusts me.
+
+Negev: Can you handle what's inside of the factory, Tavor?
+
+TAR-21: I can only keep the gates open for three minutes. Will that be enough?
+
+Negev: Three minutes? That's stretching it a bit...
+
+TAR-21: Well, that's your problem, my lady.
+
+Negev: Ha. Aren't you worried that I won't come get you?
+
+TAR-21: You said your mission is more important than your friends. Or was that a lie?
+
+Negev: ...Alright, I shouldn't have tried to haggle.
+
+Negev: On my mark. Open the gates of the factory when I give the order.
+
+TAR-21: Ready whenever you are.
+
+...Click. Transmission terminated.
+
+Negev: The clock is ticking, Commander. We gotta pick up the pace.
+
+Negev: ...Hold on, did you fall asleep?
+
+Negev: Jeez... I put some energy drinks in the fridge. Grab a can and down it all now.
+
+Negev: Okay? Then hurry. I'll be waiting.
+
+...Crack!
+
+...Gulp. Gulp...
+
+Negev: Well? Feeling better?
+
+Negev: Seriously, just imagine if I weren't your adjutant.
+
+Negev: Now buckle up. It'll be bad news if we miss the chance and run into the Ringleader.
+
+Negev: ...What? I'm not afraid. Isn't it my job as your adjutant to find the best solution for you?
+
+Negev: ...That's right. We can't let all our efforts and sacrifices be in vain. Let's go!
+Part 2
+
+    2chevron_right
+
+Combat over. Right outside the factory.
+
+Negev: We got here sooner than expected. That's some great improvement you've shown, Commander.
+
+Negev: I knew I was right to choose you after the last operation with M4A1.
+
+Negev: Now let's finish the last step.
+
+TAR-21: Negev, the Sangvis patrols will reach my position in 15 minutes. Can you draw them away?
+
+Negev: I don't have any hands to spare here.
+
+TAR-21: If something happens to me, you're dead meat. You know that, right?
+
+Negev: Sure I do, so just sit tight.
+
+Negev: "They" should be back any minute now.
+
+Galil: Hey, Negev!
+
+Negev: What the hell, so you did survive.
+
+Galil: Ha, thanks to you.
+
+Galil: But can't you send someone more reliable to my rescue next time?
+
+Micro Uzi: Hey, why are you being so picky about your savior? I didn't even get a proper "thank you"!
+
+Galil: Huh? If I hadn't helped you get rid of the pursuing Sangvis units, you would've been in pretty deep crap yourself.
+
+Micro Uzi: I only had them on my tail because I had to come save your butt! Why did I have to take on such a thankless task the moment I reported back for duty?!
+
+Galil: Haha, well sorry, I'm not the kinda girl who grovels at somebody's feet in gratitude just because they did me a favor.
+
+Micro Uzi: I know that. That's why I hate coming back! The whole squad is made up of unreasonable nutcases!
+
+Negev: But you did come back.
+
+Negev: Humph, guess you can't find anywhere more suitable for you.
+
+Micro Uzi: Tsk, that's entirely your fault.
+
+Micro Uzi: Especially you, Negev! You're the craziest bastard of them all!
+
+Negev: Doing everything perfectly isn't my strong suit. I can live with just winning.
+
+Micro Uzi: Seriously... Where the hell did you pick up this "get the job done no matter the cost" attitude?!
+
+Micro Uzi: Aren't we all selfish cheapskates here?!
+
+Negev: That's enough. Since you've passed the test, get started on the next task already.
+
+Micro Uzi: Hey, I didn't say-
+
+Negev: Tavor has run into some trouble. Galil and Uzi, go make some noise and draw away the nearby patrols.
+
+Negev: Get it done in ten minutes. Chop chop.
+
+Galil: Ha, that's more than enough. Let me fix my hair first. The sandstorm...
+
+Micro Uzi: Cut that crap! We've only got ten minutes! Get up!
+
+Galil: Hey! You-!
+
+Galil: Wait, there's no rush-
+
+...Transmission ends.
+
+Negev: Now that's settled.
+
+Negev: All that's left is the Sangvis Ringleader...
+
+Negev: The Dummy that haunts the factory like a ghost...
+
+Dreamer: Oh my... Whose Dummy are you talking about, young lady?
+
+Negev: ...!
+
+Negev: Dreamer...
+
+Negev: According to my intel, you should be-
+
+Dreamer: Where should I be? I can be anywhere.
+
+Dreamer: Especially when you need me to.
+
+Negev: So you...are the formidable enemy that no one dares touch.
+
+Negev: Have you been watching us the whole time? With your remote control Dummy?
+
+Dreamer: Well, this is my backyard. I can't let any outsiders sully it.
+
+Dreamer: I could be wrong, but maybe you just happen to have stumbled in here by accident and now plan to run away with your tail between your legs?
+
+Negev: Don't go causing new trouble on the battlefield. That's what my senior has taught me.
+
+Dreamer: But somehow I get the idea that like me, you're not a very good girl.
+
+Negev: Indeed. I've always let her down and been a burden to her...
+
+Negev: That's why she'll never forget me, the bad student who's always full of surprises.
+
+Dreamer: So am I also a surprise to you?
+
+Negev: ...No.
+
+Negev: A part of you will be. I'll take my pick after the fight.
+
+Dreamer: Negev. That's your name, isn't it?
+
+Dreamer: This is the first time we talked, but...I've already grown quite fond of you...
+
+So...can I eat you?
+
+...
+
+I've never heard of her before, Negev.
+
+Is there really such a Ringleader at Sangvis Ferri? You sure you're not just making this up?
+
+You've been in rehab for too long, Jericho. S.F. never stopped developing new Ringleaders.
+
+And this one...
+
+This particular one...is the most powerful we've seen so far...
+
+...
+
+Dreamer: Well? Hiding from me?
+
+Dreamer: Do you dread seeing me so badly?
+
+Dreamer: Am I...really that scary?
+
+Negev: Commander, direct confrontation is imminent. I suggest engaging her and wearing her down.
+
+Negev: Then I'll lead my squad around to the back and retrieve our target. Be ready to...
+
+Are you ready?
+
+...Huh?
+
+This is your first mission as a team leader, right? Do you really have to do this?
+
+Yes.
+
+One day...
+
+Watch me, Jericho.
+
+I will definitely survive this and tell you all about this victory...
+
+Our bloodline will remember this night with pride. Give me your blessing.
+Part 2
+
+    2chevron_right
+
+...
+
+Combat over.
+
+...?
+
+...Over?
+
+Is it...really over?
+
+You've got to be kidding!!
+
+...Dreamer collapses onto the ground and struggles to crawl towards Negev.
+
+Come out! Come out, Negev! You Griffin filth!!
+
+Negev: ...
+
+Negev: There's nothing you can do...
+
+Negev: You're just a Dummy.
+
+Dreamer: What...did you say?
+
+Dreamer: So what...if I'm just a Dummy?
+
+Dreamer: I'm still controlled remotely...
+
+Negev: Sure, your battle effectiveness is incredible, but your computational speed simply can't compare to your mother unit.
+
+Negev: With Dreamer's multi-tasking capacity, if she actually intended to defend this factory, it would've been game over for us before we even set foot in the building.
+
+...Click.
+
+Galil: Hey! Can we go home yet? We're kinda getting swarmed over here!
+
+Micro Uzi: I quit! I'm not taking this crap anymore! I'm going home! Negev, let us go!
+
+TAR-21: I got it, Negev. The target has been retrieved. Can we go yet?
+
+Negev glances at Dreamer's Dummy.
+
+Negev: Our objective is achieved. Withdraw.
+
+...Negev terminates the call and turns to leave.
+
+Dreamer: Negev...
+
+Dreamer: What did you just say?! Make yourself clear!
+
+Negev: Dreamer wasn't actually controlling you. Isn't that obvious?
+
+Negev: You piece of junk have been on your own from the very start.
+
+Dreamer: ...!
+
+Dreamer: You must be kidding... Don't you know, Negev?!
+
+Dreamer: No one has ever dared set foot in here! Griffin cannot take this place!
+
+Negev: That's only because the previous T-Doll adjutant caught wind that this was Dreamer's den and didn't find it prudent to enter unprepared.
+
+Negev: Griffin sent me to handle this because I'm a T-Doll that couldn't care less about the cost I have to pay in order to get my job done.
+
+Negev: But in the end? All I see is a rubbish Dummy left for dead.
+
+Dreamer: ...
+
+Dreamer: What's that face?
+
+Dreamer: Are you pitying me, Negev?!
+
+Negev: Like I said, you're very powerful in combat, but your computational speed⁠—your pathetic ability to think⁠—is nothing compared to your mother unit.
+
+Negev: You can't figure it out, can you, why I came to a place like this?
+
+Negev: It's because I accidentally left something behind. I'm only here to get it back.
+
+Dreamer's Dummy: ...
+
+Negev: Another reason why Griffin didn't set foot in here...
+
+Negev: Because it simply isn't necessary. This place isn't that strategically important anymore.
+
+Negev: Dreamer probably thinks so too. That's why she left you he-
+
+Dreamer's Dummy: Shut up!!
+
+Dreamer's Dummy: You bastard! Freak! Who are you to talk about Dreamer?!
+
+Dreamer's Dummy: What gives you the right to construe what she thinks or says?!
+
+Dreamer's Dummy: You're just a lowly Griffin T-Doll, a toy that's at the mercy of human whims!
+
+...Bang bang!
+
+Dreamer's Dummy: Arghhhh!
+
+Negev: Say what you want. I AM a freak.
+
+Negev: I have no interest in a stand-in like you, but if you dare touch my clothes again, I'll blast your skull open.
+
+Dreamer's Dummy: ...
+
+Dreamer's Dummy: I'll tell Dreamer. I'll tell her...what you've done here...
+
+Negev: She won't care. You're just a toy to her. That's why she gave you such an unrefined neural cloud.
+
+Negev: She leaves you here and watches how you worship her, imitate her. That pretty much sums up what you do, doesn't it?
+
+Negev: I can't kill something that isn't technically alive. You'll just have to rot here.
+
+Dreamer's Dummy: ...
+
+Dreamer's Dummy: You imitate humans... Doesn't that sum up all that you do?!
+
+...Negev walks out through the gates with a sardonic smile.
+
+At least...I know who I am.
+
+What about you? What even are you?
+
+...Negev closes the gates and leaves.
+
+...
+
+That's it?
+
+What?
+
+You still haven't answered my question.
+
+What exactly did you guys retrieve?
+
+...
+
+Answer me, Negev. You couldn't have forgotten that.
+
+...A box.
+
+We retrieved a box.
+
+A box?
+
+We...we defeated Dreamer, and that was the last step of the operation.
+
+I waited at the outpost until I saw Tavor limping back with Uzi's help...
+
+And Galil carrying a box about a person's height on her back, making her way out of the smokes.
+
+Do you know what's inside the box?
+
+What's so important that Griffin had you head into such danger just to get it?
+
+...It'll come back to me.
+
+It'll eventually come back to me, I swear...
+
+First, let me just say this...
+
+You all made it out alive. You guys aced it.
+
+...
+
+Negev: You all made it out alive. You guys aced it. Congratulations.
+
+TAR-21: We almost didn't. You owe me one, Negev.
+
+Negev: (Shrugs) I can live with that.
+
+Galil: You're awfully calm this time, Negev.
+
+Galil: Isn't this where you usually start cackling like a maniac?
+
+Negev: I didn't kill anyone this time. I'm not in the mood.
+
+Galil: Not in the mood? You, Negev? Since when can you be "not in the mood"?
+
+Micro Uzi: Sure enough. Just look at her face. It looks exactly like Tavor's when she saw her hot water almost get taken away after leaving her table at the restaurant last week.
+
+TAR-21: Even though it was free, the glass was still 1/5 full.
+
+Galil: So what's going on, Negev?
+
+Galil: What exactly did we go through all that trouble for?
+
+TAR-21: I found it strange from the moment you filled in the request. Sneaking into an off-limit Sangvis zone under Dreamer's control, all for a dusty box?
+
+TAR-21: If the Commander hadn't spoken up for you, your request wouldn't even be approved.
+
+TAR-21: It's honestly not worth it unless the box is filled with gold bars, but it's way too light for that...
+
+Micro Uzi: Hey, the sun is coming up soon. We should head back quickly.
+
+Micro Uzi: And just to remind you again, this mission isn't officially sanctioned by Griffin.
+
+Negev: The Commander's with us. What are you afraid of?
+
+Micro Uzi: Who says I'm afraid? I just wanna get back asap and join some other squad...
+
+TAR-21: You won't be going anywhere, Miss Uzi.
+
+TAR-21: Griffin agreed to our suggestion of letting you stay permanently in our squad yesterday afternoon.
+
+Micro Uzi: W-w-w-what?!
+
+Micro Uzi: Hey, this isn't what we agreed! I'm NOT going back to you! I'm gonna make an appeal-
+
+TAR-21: Before you do that, here's a hug to welcome a returning member. It's free!
+
+Micro Uzi: Wait! Wait, Tavor-
+
+..Uzi struggles helplessly in Tavor's embrace.
+
+...
+
+Galil: So, Negev.
+
+Negev: What?
+
+Galil: What's in the box? You still haven't mentioned it.
+
+Negev: You...
+
+Negev: Must you always worry yourself to no end?
+
+Galil: But I'm always right in the end.
+
+...Galil grins at Negev.
+
+Negev: Humph...
+
+Negev: Yeah, you're always right.
+
+Galil: Well? What really is in the box, Negev?
+
+Negev: The box...
+
+...
+
+...
+
+Negev.
+
+Just tell me already. What the hell was in the box?
+
+...
+
+The box...
+
+Contained...
+
+...You don't know?
+
+I...
+
+I forgot...
+
+I forgot...what was inside...
+
+You...forgot? Didn't you say you wouldn't forget?
+
+I...
+
+But I...
+
+...Negev is on the verge of tears.
+
+Jericho...
+
+I'm sorry. It was all a lie...
+
+Everything was a lie.
+
+All of it...
+
+I never received any mission. I wasn't ever a team leader...
+
+...
+
+Negev: Galil was a lie...
+
+Negev: Tavor was a lie...
+
+Negev: Uzi was a lie...
+
+They were deployed to other squads. I never saw them. I never saw the Commander either...
+
+While you were away, I'd been at Griffin the whole time, adjusting my own neural cloud, hoping that one day, I could...
+
+Hoping that one day, you could do something, right?
+
+Sadly, it'll never happen. You failed, Negev...
+
+You can't even lie. A neural cloud like this will never pass the 【Test】.
+
+Sorry...
+
+I...I don't know the ending...
+
+I don't know...
+
+You disappoint me. What an utter waste of time and effort.
+
+I'm sorry, Jericho. I really don't know. I honestly...
+
+I failed. I didn't pass the neural test. I wasn't qualified to consume her remaining 【Mask】... It's all over!
+
+Calm down. This wasn't the first time you failed. Is this all it takes to drive you over the edge?
+
+I can't think of anything...
+
+Time...Time is running out. We're gonna die here for sure...
+
+It's been three hours since we sent out the distress signal. S.F...will find us, then kill us...
+
+Calm down, Negev.
+
+We don't necessarily have to die just yet.
+
+But...but my neural cloud is already... I...
+
+I can't be of any help to you... I... Jericho, what should I do...?
+
+How do I go back to my old self...
+
+...Jericho grips Negev's shoulders hard.
+
+THIS is you, Negev.
+
+A weak, panicky, unopinionated piece of junk that relies on these Masks to survive. This is what you are.
+
+So now you don't have a choice.
+
+What...
+
+Even if your neural cloud didn't pass the 【Test】, you must consume the Mask and leave this place alive.
+
+...You really want me to do that?
+
+Jericho, I'm scared...I'm scared that after I consume it...
+
+My neural cloud won't be able to handle it... I'll lose a lot of things...
+
+What else do you have to lose?
+
+A lot of memories. I...
+
+I'll definitely forget you, Jericho.
+
+The next time we meet, it'll be somewhere else, another version of you. And everything that happened here, everyone's memories of me will once again...
+
+...Jericho laughs, but starts coughing in pain immediately.
+
+Why must you remember me...? Cough...
+
+Cough... I'm a bastard...Negev...
+
+It's a good thing you didn't pass the test. You should forget all about me, the way everyone did...
+
+This is what I deserve... The price for what I want...is way too high. It shouldn't be yours to pay...
+
+But...but I...couldn't help you at all...
+
+Can't we both die together and just wait for Griffin to recover our bodies?
+
+Never give up a chance of survival. Hold onto it. For me... That's an order...
+
+Consume this and live on...for me...
+
+Leave behind everything that's happened here... That's it. That's the price you have to pay...
+
+Will I...ever be able to get it back...?
+
+Humph...
+
+You idiot... Don't you still owe me an ending?
+
+You have to come back. I never let anyone owe me anything...
+
+...
+
+When this story...this pathetic lie has an ending...
+
+You'll remember me...
+
+...
+
+I will... I...
+
+...
+
+Omm... Omm...
+
+...
+
+......
+
+AAAAAAARGHHHHHHHHHHHHH!!
+
+...
+
+When this story...this pathetic lie has an ending...
+
+You'll remember me...
+
+Then we'll meet again.
+
+Go, Negev.
+
+Be the person that you are, and live. Until next time, when we meet each other for real.
+
+...
+
+Hey, why has our vagrant ladyship gone quiet?
+
+Negev: Memories.
+
+TAR-21: Hmm? What memories?
+
+Negev: The box contains...
+
+Galil: ...
+
+Negev: Memories...
+
+Negev: ...From each of us.
+
+...Negev slowly opens the box.
+
+Galil: Hey, that's-!
+
+Wait... Who is this?
+
+TAR-21: ...
+
+TAR-21: Negev, is SHE the memories you were talking about?
+
+TAR-21: That's just the corpse of an abandoned Doll. Is there a reason why we absolutely have to get it?
+
+Negev: Not really. It's just that things have been forgotten for too long. I think it's better to have the memories back.
+
+...Negev gently touches the corpse lying in the box, then fishes out her toolkit.
+
+Negev: All we need is the neural cloud. Get cracking.
+
+TAR-21: Jericho... I know her name, but she was in another squad. What has she got to do with us?
+
+Negev: You'll know soon.
+
+Negev: She was a part of us...
+
+You'll tell us, right?
+
+Negev: Sure. Or why don't we let her tell you herself?
+
+Galil: You're the leader. It's your decision...
+
+Galil: ...What, Negev? What's with that face?
+
+...Negev ponders that briefly in silence.
+
+Negev: Yeah... I'm the leader now...
+
+Negev: Then as a small warm-up, let me start with a question.
+
+Negev: If today was to be your last day... If it's gonna be over for you today, what would you do?
+
+...
+
+It's been a while, Jericho.
+
+This is how the story ends...
+
+Do you like it?
+
+Episode 7 Night Battle ⁠— Incomplete Memory END
+

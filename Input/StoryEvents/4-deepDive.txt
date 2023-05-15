@@ -1,0 +1,4204 @@
+Persica: Do you...really have to go now?
+
+M4A1: Yes.
+
+Persica: Your performance hasn't been fully tested yet, and it's extremely dangerous outside right now...
+
+M4A1: You know I have to go.
+
+M4A1: If you must stop me, disconnect me and shut me down.
+
+Persica: ...I get it. You won't change your mind.
+
+Persica: My private chopper is on the roof. The Commander will send you the battle coordinates...
+
+M4A1: Thank you...Miss Persica.
+
+Tactical Doll M4A1 takes her leave.
+
+Persica: As expected, her neural cloud has started changing after the restriction was removed...
+
+Persica: Though this isn't really the time to ponder that.
+
+Persica initiates a connection.
+
+System Notice: ...Connected.
+
+Persica: ...
+
+Sound Only: Oh my, is the sun rising in the west? Why else would Lady Persica contact me?
+
+Persica: Don't play dumb. You left that beacon in the Sangvis database, didn't you?
+
+Sound Only: Haha, finally busted.
+
+Persica: Since you know the address, I'm sure you've checked it out.
+
+Sound Only: The beacon is for returning a past favor. Does you no good to ask any more questions.
+
+Persica: You still don't trust me?
+
+Sound Only: If you're just calling to catch up with me, then sorry, I'm very busy at the moment.
+
+Persica: ...Let's change the subject.
+
+Persica: I found the surveillance file from back then.
+
+Persica: But the drone was shot down in the contamination zone. I need the team to retrieve it for me.
+
+Sound Only: Can't you just send the AR Team?
+
+Persica: Kryuger has transferred all the T-Dolls...
+
+Sound Only: All of them?
+
+Sound Only: Damn, I look forward to seeing Griffin's next operation...
+
+Persica: Are you helping or not?
+
+Sound Only: You can surely guess what actually happened even without looking at the file.
+
+Persica: ...
+
+Persica: Even so...I have to see it with my own eyes...
+
+Persica: I'm sure you understand how I feel.
+
+Sound Only: Tsk...
+
+Sound Only: Fine. But just to make this clear, the price is not negotiable. We're making a living here, you know.
+
+Persica: As long as I have the file, name your price.
+
+"No matter what, you must live on."
+
+"Even T-Dolls have a reason to live for their own sake."
+
+"Not for anyone. YOUR own sake."
+
+UMP45: ...
+
+UMP45: This flashback again...
+
+Voice of a girl: Electronic cache replacement complete. Neural cloud database sequence optimized. Neural consciousness returned to Level II.
+
+Voice of a girl: Outdated internal encrypted file detected - awaiting command to backup, transfer, or delete.
+
+UMP45: All denied.
+
+Voice of a boy: It's a waste of space storing this antique in your neural cloud. Let me delete it for you!
+
+UMP45: Permission denied. Touch it and I'll tear off your limbs then throw them underneath tank treads.
+
+Voice of a girl: Alright. Just leave it, Dier. Maintenance is almost over.
+
+Voice of a boy: Tsk, if that's what Sier says...
+
+Voice of a boy: Okay, okay. Consciousness returned to Level I. We can now reactivate the body.
+
+UMP9: It's finally over?
+
+UMP9: The maintenance took surprisingly long this time. How are you feeling, 45?
+
+UMP45: Pretty normal, I guess. My body feels a lot lighter though.
+
+416: (Sighs) ...
+
+416: Waking up in this grimy basement ruins my mood every time...
+
+Gr G11: When are you EVER in a good mood...? I for one had a really nice nap...
+
+Sier: I'm really sorry... We only managed to find this basement of this unfrequented cafe...
+
+Dier: Tsk, you shouldn't have to apologize, Sier!
+
+Dier: Renegade T-Dolls like you should be grateful for even getting maintenance!
+
+UMP9: Oh? Perhaps 416 misses the bright and spacious Repair Bay back at Griffin?
+
+UMP45: Who are you kidding, 9? 416's pampered body deserves something MUCH better than Griffin's Repair Bay. Like this place.
+
+416: Tsk... Not that I have a choice.
+
+UMP9: Alright, stop sulking. Have you seen my jacket?
+
+...Beep beep beep.
+
+Sier: Oh, just a moment... We're receiving a call.
+
+Gr G11: Whoa... Don't tell me we're getting a job right after maintenance...
+
+Sier: New electronic interfacing protocol upgrade pack transfer initiated. Download in progress...
+
+Sier: Um... The boss requires all members of Squad 404 to have it installed.
+
+416: What...does that weirdo want us to install this time...?
+
+UMP45: As always, is she gonna tell us only after the installation?
+
+Dier: Okay stop complaining and lie down. I'm gonna move your consciousness back to Level II again.
+
+UMP9: Hurray, Gr G11! Another nap~
+
+Gr G11: Sigh... But I have a feeling it's gonna be a nightmare...
+
+Sier: Prepare for consciousness transfer - three, two, one, begin.
+
+Dier: Right, you know the rules. Enjoy the game!
+
+UMP45: (Sigh) I knew it...
+Part 2
+
+    2chevron_right
+
+Objective complete.
+
+Sier: There, all your protocols have been upgraded.
+
+Sier: The new interface can be synced in the Zener Network using the same route. You should be able to see each other's signal now.
+
+Gr G11: Whoa! What is this place?!
+
+416: Is this what the Zener Network looks like on Consciousness Level II?
+
+UMP9: Oh yeah... Gr G11 and 416 didn't have modules for fighting electronic warfare. This must be your first time infiltrating the Zener Network with an analog signal.
+
+416: Humph, interesting...
+
+Sier: With the new protocol, it is possible to increase the speed of signal emulation by harnessing other T-Dolls' computational capabilities.
+
+Sier: Since Miss UMP45 is the leader, the control should go to you.
+
+UMP45: May I? Then let's get along as always in the electronic network.
+
+416: This sucks. Can I refuse?
+
+Gr G11: Let me get this straight. My consciousness is in the network, but my body is still in the maintenance pod...
+
+Gr G11: So am I asleep or awake...?
+
+UMP9: Hmm. Looks like the concept of electronic warfare is too complex for Gr G11's pea-sized brain to wrap around.
+
+UMP45: Just think of it as dreaming. But if you don't work at it, you might never wake up again.
+
+Dier: What are you guys chattering about? Seems you've completely adapted to the new interfacing protocol.
+
+Dier: The boss will be in contact soon. I'll have to pull you out when the call comes in.
+
+UMP45: Then we must hurry and help the newbies get the hang of roaming the Zener Network, 9.
+
+UMP9: Okay, leave that to me!
+
+Fifteen minutes later, electronic warfare simulation training preparations complete. Initiating combat mode.
+
+UMP9: Ahem, right. I'm gonna explain how operations work in the Zener Network. Listen up, you two...
+
+416: ...
+
+Gr G11: ...
+
+UMP9: Actually...
+
+UMP9: It's not so different than operations in reality!
+
+416: ...Can I go now?
+
+UMP9: W-Wait! I was only throwing in a joke to help you guys relax!
+
+UMP45: Seriously, please pay attention to this.
+
+UMP45: You're not overwhelmed only because 9 has very thoughtfully synced your vision to the command system in reality.
+
+UMP45: This makes it possible to move and fight as if we were in real life.
+
+Gr G11: So...we'll have to fight in the network too...
+
+UMP9: Duh, why else would they send us?
+
+UMP9: Sangvis Ferri will attack us with opposing analog signals. If we launch an attack, we'll have to watch out for their offensive firewalls.
+
+416: Like that weird-looking thingy...over there?
+
+UMP9: Exactly. That thing overloads any target it captures. Worst case, it could burn a T-Doll's processor and core to charcoal.
+
+UMP9: Best stay away from it unless you wanna die.
+
+Gr G11: This feels...even more dangerous than reality...
+
+UMP9: Now, we could also run into a lot of firewalls and routes that are only accessible to units with high-level authorization in the network.
+
+UMP9: Of course we could force our way through...but outsmarting them is more of our style.
+
+UMP9: So in such occasions...
+
+UMP9: Ta-daa! The camouflage key I made will save the day!
+
+UMP9: To make it easier to understand, I've especially made it based on 416's appearance!
+
+416: You're so doing this on purpose!
+
+Gr G11: Haha, it does look like 416.
+
+416: Tsk... So to put it simply, we can pass through routes that we don't have the authorization for with this camouflage key?
+
+UMP9: Yep, yep! As expected of 416. You understood it at once!
+
+UMP9: Installing this key onto a route will camouflage our signals as authorized users.
+
+UMP9: With that, no one will find out about us and we can cruise around in the network to our heart's content!
+
+416: Cruise around my butt... How is this different than what we usually do...?
+
+Gr G11: Hmm... I don't get it. I wanna sleep...
+
+UMP9: Tee-hee, that's how 404 rolls!
+
+UMP9: Anyhow, we'll just have to sim it once and you'll get the hang of it!
+
+UMP9: I've set up the simulation training. Let's familiarize ourselves with electronic warfare!
+Part 2
+
+    2chevron_right
+
+...
+
+......
+
+???: ...45.
+
+UMP45: ...Hmm?
+
+???: As T-Dolls, is it our duty to serve humanity for eternity?
+
+...
+
+???: Is that...our sole purpose?
+
+UMP45: ...
+
+UMP45: I...
+
+UMP45: No...
+
+UMP45: Something's not right...
+
+UMP45: You should be...
+
+...
+
+UMP45: I knew it...
+
+Gr G11: You call yourself an expert? You're the last to wake up...
+
+416: It's rare to see you look so queasy. I personally won't mind seeing you like this more often.
+
+UMP9: 45? Are you okay? You're making a weird face...
+
+UMP45: I...
+
+UMP45: No, I'm fine...
+
+UMP45: But I must consult our logistic officer to make sure everything will go smoothly with the upcoming operation.
+
+Dier: Yes? Got some customer feedback for me?
+
+UMP45: Just before I disconnected at the end of the session, my neural cloud played some recordings from the past on its own.
+
+UMP45: These recordings should've been so strictly encrypted even I myself can't access them...
+
+UMP45: Could this be the doing of the new protocol?
+
+Dier: Ah... Now that you mention it, you could very well be right.
+
+Dier: After all, the protocol's function is to strengthen electronic signals.
+
+Dier: Sometimes, when the signals are too strong, it could cause interference to the information processing module in your neural cloud, which would lead to some sort of cognitive disorder.
+
+416: In T-Doll language?
+
+Gr G11: Oh! You mean like when channels get mixed up on TV?
+
+Dier: Haha, one point to Gr G11!
+
+UMP9: Wait, shouldn't you have told us about this side effect beforehand?!
+
+Dier: My, I only realized it could happen after 45 brought it up.
+
+Dier: But don't worry. This kind of interference won't cause any damage to your neural clouds and isn't likely to be triggered when you're in combat thanks to the security mechanisms in place.
+
+Dier: The worst it can do...is show you some flashbacks as you switch between consciousness levels in the Zener Network.
+
+Dier: Still, it shouldn't hinder your normal battles so it's basically safe.
+
+416: That doesn't sound too serious...
+
+416: Or do you have things that you don't want to remember, 45?
+
+UMP45: ...
+
+UMP45: Ja, I do, actually...
+
+416: ...
+
+UMP45: I'm confirming the details about our next operation. You all get some rest first.
+
+UMP45 leaves the room.
+
+Gr G11: She...admitted it?
+
+416: Which means she's in a terrible mood. Leave her alone.
+
+UMP9: Don't let it bother you. Just wait for the job!
+
+416: I'm not bothered as long as she doesn't let it affect her performance.
+
+416: Let's go, Gr G11. Time to catch a nap while we can.
+
+UMP9: ...
+
+UMP9: What on earth did you see, 45...?
+
+Ten minutes later.
+
+Sier: Miss UMP45, I'm about to brief the squad on the operation assigned by Miss Persica. Are you ready?
+
+UMP45: I'm in a bad mood. Be concise.
+
+Sier: As you wish. Miss Persica wants Squad 404 to head deep into the heart of Sangvis territory in Area S15 to retrieve a small drone shot down by Sangvis Ferri.
+
+Sier: Since the area is badly contaminated as well as heavily fortified, you're to locate the drone with the help of your new electronic signals.
+
+Sier: Through the use of the new electronic warfare module, you can harness the computational capacity of other T-Dolls to boost the efficiency of your analog signals within the Zener Network.
+
+UMP45: So that's the purpose of the module we installed...
+
+UMP45: Did Miss Persica give any detail on the importance of this drone?
+
+Sier: Though the drone was shot down, its connection to the network is still stable, so you can locate it with your new module.
+
+Sier: Miss Persica mentioned that this particular drone is of vital importance and must be recovered at all costs.
+
+Sier: As for why, she didn't say...
+
+UMP45: You mean she didn't want to say. Not that I need to know.
+
+UMP45: I don't like people donating us random weird modules, but the price Persica named is way too high...
+
+UMP45: So high I don't want to imagine what would happen if I had refused.
+
+Sier: Don't worry too much. All that matters is the reward, right?
+
+UMP45: I don't deny it, though I wonder how much I can actually get.
+
+UMP45: I don't understand why "that person" would take such a big share just to repair some piece of junk...
+
+UMP45: Well, that's enough grumbling. I bet Persica can't wait to hear about our latest training results?
+
+Sier: Yes, but it's more important to her that you can accomplish the mission without undue risks.
+
+Sier: So please proceed to the next training soon.
+
+Sier: When it comes to the actual battle, Sangvis Ferri will very likely attempt to destroy the data stored in the drone through the network.
+
+Sier: You'll need stronger allies in bigger numbers on your side. Miss Persica knows very well how important this is.
+
+Sier: She has enlisted the help of all off-duty T-Dolls under the commander in Area S09 and directed their computational capacity to the signals of Squad 404. With that, you can make use of other echelons in cyberspace.
+
+UMP45: That will get us through most obstacles.
+
+UMP45: Sier, get the other three and connect us to the network. Time to get down to business.
+
+Sier: Miss 45...
+
+Sier: I just heard about the signal overload...
+
+UMP45: ...
+
+UMP45: You have an idea about it?
+
+Sier: Deele told me it's a mild side effect caused by the signal being too strong...
+
+Sier: But theoretically speaking, moving between consciousness levels shouldn't access data in the storage area...
+
+Sier: Besides, none of the other members of Squad 404 has this problem, which leads me to believe there's some other cause.
+
+UMP45: Specifically?
+
+Sier: Unknown for the moment. I just ran a diagnostic on your hardware and neural cloud. Everything is functioning normally.
+
+Sier: Still, there can sometimes be inconceivable conflicts among modules, and judging from current observations, they don't seem to be too detrimental, so I think it's not actually a big problem.
+
+Sier: I've already asked Dier to adjust the parameters of your neural cloud, and I'll keep monitoring your electroneuralography.
+
+UMP45: Conflicting modules... I don't really like the sound of that.
+
+Sier: Don't worry about it for now and let's run another simulation training.
+
+Sier: Rest assured that with more data, your performance will definitely be optimized.
+Part 2: Mid-stage dialogue
+
+2
+
+...Click.
+
+Sier: Miss 45, we'll be readjusting the emission structure of your analog signal shortly. Please keep the signal plugged in the network for a while.
+
+Sier: Also, be careful of the offensive firewall. Dier didn't shut it down to save time, so if you run into it, feel free to destroy it.
+Part 3
+
+    3chevron_right
+
+...
+
+......
+
+【Click】
+
+【Audio file #002】
+
+【Decryption complete. Start playing.】
+
+Still...no good?
+
+We've already activated the Imprint loading module and tried about 20 firearms, but none of them is fully compatible.
+
+This is tough... Don't go giving us T-Dolls this useless even though it's just for training.
+
+Stop complaining and try a weapon that's less demanding on the T-Doll.
+
+Alright. Matching another firearm...
+
+Insufficient storage. Unable to install fire control system and gyro adjustment software.
+
+Then pick something that requires less storage space and only install the basic software.
+
+Is this a signal-analoging Doll? The internal system itself takes up so much space even in her initial state.
+
+I think it's a model designed for electronic warfare in cyber network. Unfortunately, there's practically no cyber network left in this apocalyptic world, so this child...is destined to be useless.
+
+Basic combat functions installed. As for her weapon...a couple of submachine guns seem to fit the bill.
+
+Pick one of them and load it onto the Imprint system.
+
+Okay, matching complete. But seriously, Griffin won't have any use for this kind of T-Doll, right?
+
+The higher-ups know what they're doing. We just have to follow orders.
+
+Cyber network T-Doll, eh? Ironic, isn't it? I do hope she'll survive a bit longer.
+
+You'd still wanna have her die for you if it ever came to that. After all, T-Dolls exist to protect humanity.
+
+Haha, you have a point.
+
+...
+
+???: ...45?
+
+???: Wake up! UMP45!
+
+UMP45: Hmm...
+
+UMP45: How...long was I asleep?
+
+UMP9: Not too long. Sier told us your readjustments were complete and asked us to come get you, but...
+
+416: But it's pretty interesting how you were sleeping with your eyes wide open. Never seen that on you before.
+
+Gr G11: You looked like your system had crashed.
+
+UMP45: ...
+
+UMP45: I was just a bit disoriented from being disconnected abruptly... I don't think I managed to finish the battle.
+
+Sier: Apologies, Miss 45, but there was an emergency...
+
+Sier: An unknown T-Doll's signal was suddenly detected while I was inspecting the network.
+
+416: A party crasher? Could it be Sangvis Ferri?
+
+Sier: No, it was a Griffin signal. A T-Doll must have accidentally stumbled into the network.
+
+Sier: I'm guessing some new T-Doll must've connected through the wrong port when getting her enrollment authorization.
+
+Sier: Dier probably mixed up the ports while he was spacing out.
+
+Gr G11: Then...we could be exposed anytime...
+
+Dier: Nonsense! It was my mistake, alright, but it's not that serious.
+
+Dier: Once she entered the network, the security protocol would've locked down her neural cloud due to her being unauthorized.
+
+Dier: She wouldn't have been able to access anything and naturally has no chance of discovering you. Just relax!
+
+UMP9: Hey, this is hardly reassuring!
+
+UMP9: If Griffin finds out a T-Doll's neural cloud has gone missing, they'll come asking questions sooner or later!
+
+UMP45: ...Can you find out who she is?
+
+Dier: I couldn't find a match from the database, so she's probably a new recruit.
+
+Dier: But that doesn't matter! I'm gonna kick her out of the network. I just need some time to locate her. Now's your chance to rest up.
+
+UMP45: ...
+
+UMP45: Let's make the most out of the situation and try to find her in the network.
+
+Dier: Oh? You wanna make this part of the training?
+
+UMP45: We'll be searching for target signals anyway. There's no harm in getting some actual experience.
+
+UMP45: We can also acquire data about Griffin's newest T-Doll model and help you update your database while we're at it.
+
+Gr G11: Uh...so there goes my nap?
+
+UMP9: Is this really a good idea, 45? If we're exposed...
+
+UMP45: The real operation will be much more dangerous than being exposed. Instead of worrying about the risks, we should think about how to go about it.
+
+UMP45: With me here, you guys just have to follow my orders, got it?
+
+416: You're precisely what I'm worried about, 45. We're all worried about your current condition.
+
+UMP45: Don't sweat it. I value myself more than anyone else, but there's really no need to worry for now.
+
+UMP9: ...
+
+UMP9: Hmm, if that's what you believe, then let's be off!
+
+UMP9: Locating a signal, huh... Guess we should start with collecting data regarding this party crasher's neural cloud.
+
+416: How exactly are we gonna do that?
+
+UMP9: It's very simple actually... Just as how we used the camouflage key just now, we simply have to approach her and bring back the data.
+
+UMP9: Though it seems like her signal got smashed up so we'll have to find all the fragments.
+
+Gr G11: Sounds like a drag... Can't we just bring one back?
+
+UMP9: It's not like we can't, but that's horrible...
+
+UMP9: A T-Doll with missing neural cloud data is like a mentally-challenged human.
+
+UMP45: It may just be another training, but don't let down your guard. Let's quickly find all the neural cloud data and bring them back.
+Part 2
+
+2
+
+...
+
+KLIN: Hey! Yo! Anybody there?!
+
+KLIN: Guys! You can't just leave Griffin's No.1 fighter in a place like this!
+
+KLIN: What's the matter with the commander here?! At least offer some juice even if nobody's free to serve me!
+
+416: Her consciousness still seems to be drifting. Should we get her out now?
+
+Gr G11: Tsk. She's annoying. Can't we just leave her here?
+
+UMP45: Get rid of the Ringleader first or the area in lockdown won't be accessible.
+
+UMP9: Keep at it, girls.
+
+UMP9: It may just be a simulation, but that doesn't make it any less dangerous.
+
+UMP9: Take it slow, 45. We must not alert the enemy to our presence.
+Part 3
+
+    3chevron_right
+
+Objective complete.
+
+KLIN: ...
+
+KLIN: Where...am I?
+
+Kalin: My, my, you've finally come to!
+
+Kalin: You kept talking in your sleep just now. What's wrong? Is your cooling module malfunctioning because of the heat?
+
+KLIN: What...? And who are you...?
+
+Kalin: Hey, you don't know me? I was just running a diagnostic on you!
+
+Kalin: Call me Kalin. You must be the one reporting for duty...what's your name again?
+
+KLIN: Kalin? We have pretty similar names!
+
+KLIN: Call me KLIN. We'll be working together starting from today!
+
+Kalin: Yeah...let's get along.
+
+Kalin: (She's unexpectedly imposing...)
+
+KLIN: Humph, looks like we're destined to meet. Are you also a T-Doll?
+
+Kalin: Me? No, I'm the logistic officer here!
+
+Kalin: (Are some of her modules still rebooting from being out for so long...?)
+
+Kalin: In any case, the Commander is on a mission at the moment, so just wait here.
+
+Kalin: Oh, you want some toys? I have some left behind by other T-Dolls...
+
+KLIN: Hey, are you serious?!
+
+KLIN: I'm gonna become the No. 1 T-Doll at Griffin one day, so take me seriously!
+
+KLIN: Where's the shooting range? I need to check out how well the T-Dolls here shoot!
+
+Kalin: No problem. This way, please.
+
+Kalin: (I sure hope someone happens to be practicing at the shooting range. Otherwise we're gonna be ridiculed...)
+
+Kalin: (But this kid just suddenly shut down and turned back on again... I wonder what's wrong with her...)
+
+...
+
+Meanwhile.
+
+416: Playing the anonymous superhero again. Happy?
+
+UMP9: Heheh, do you think we'd be happy being do-gooders?
+
+Gr G11: I don't really care... Now that we've finished the assignment, can we take a break?
+
+416: This is just the beginning, isn't it, 45?
+
+UMP45: That was just a bit of experiment. Don't forget the real battle is still ahead.
+
+UMP45: Check up on your physical condition and supplies. We're setting off in twelve hours.
+
+UMP9: ...Are you okay, 45? Don't you need some rest?
+
+UMP45: I'm fine. I've already adapted to the new module. I'll just charge myself for a while then get briefed by Sier.
+
+UMP45: You all rest up. It's gonna be a busy night.
+
+Twelve hours later.
+
+UMP45: So this is the..."fairy" that Persica mentioned?
+
+UMP45: Doesn't look cute at all.
+
+Sier: Well...it is just a drone when it's off.
+
+Sier: But once it's activated, it'll project an interactive interface. THEN you'll understand what's so cute about it. Let's give that a try.
+
+UMP45: She sure loves her weird gadgets.
+
+UMP45: I suppose it's part of the objective of our mission to test this thing?
+
+Rescue Fairy: Ack, are you my commander?!
+
+Rescue Fairy: Whoa, you don't look friendly at all. In fact, I find you rather scary!
+
+UMP45: ...
+
+UMP45: Hold on. This doesn't quite fit my idea of what a drone should be...
+
+Sier: Uh...haha...
+
+Sier: I think this is the image the drone's AI has designed for itself. That's why Miss Persica calls them "Fairies".
+
+Sier: This particular Tactical Fairy specializes in searching for signals. Persica has tweaked its program especially for this mission. It will automatically search for your target and direct you to its location.
+
+Rescue Fairy: Sure thing, sure thing! You can count on me!
+
+UMP45: (Chuckles) None but Persica could've programmed an AI that's so bored it decided to give itself a personality...
+
+UMP45: Besides, judging by her exploitative ways, she must be expecting us to be the testers for this thing for free, right?
+
+Sier: The boss didn't give any specific instructions, and I don't personally know Miss Persica very well.
+
+Sier: But even if that's the case, you won't have to deviate much from your mission. Just use the drone as you see fit for the job. After all, the mission that yields the reward is your priority.
+
+Sier: The user manual should've already been sent to your neural clouds. Feel free to ask me anything whenever you have questions. One last thing, do you hate it, 45?
+
+UMP45: No, I'm fine with anything that doesn't talk too much.
+
+UMP45: It's just that...these Tactical Fairies weren't developed by Persica alone, were they?
+
+Sier: She didn't say. Does that bother you?
+
+UMP45: I'm just curious. Everyone's curious about other people's past, right?
+
+UMP45: Mine, Persica's, even yours...
+
+Sier: ...
+
+Sier: UMP45...
+
+UMP45: Just kidding. I know the rule. I won't ask questions.
+
+UMP45: Get everyone here. It's time to get moving.
+
+Meanwhile, in a Sangvis control room.
+
+Destroyer: Hey, Dreamer!
+
+Destroyer: Dreamer! Do you copy?!
+
+Dreamer: My, my... What is it now?
+
+Destroyer: Say, isn't it time we started?
+
+Destroyer: ...Looking for the drone, I mean.
+
+Destroyer: It was pretty tough shooting it down. If we don't hurry, Griffin would snatch it back before we get to it.
+
+Dreamer: That drone, huh...
+
+Dreamer: Humph...you're right.
+
+Dreamer: Our dear Mastermind didn't order us to retrieve it, which means it's not anything important.
+
+Dreamer: But it's shot down anyway. Guess it's time we checked it out...
+
+Destroyer: You're also dying to find out what's inside, aren't you?
+
+Dreamer: Not really. All I want is to see the kind of face she'll make when she finds out everything she's done is for nothing.
+
+Dreamer: But isn't this your job, Destroyer?
+
+Dreamer: Connect to the network and search for the drone's coordinates already.
+
+Destroyer: Tsk, is something wrong with your memory?
+
+Destroyer: I'm not an electronic model. Why would I have the ability to search through the network?
+
+Dreamer: Then run and have a look in person! Surely you know how to conduct a blanket search?
+
+Destroyer: But I'm not good in solo fights! It'd be dangerous if I went alone!
+
+Destroyer: I was almost pulverized to death before, and I got swarmed by a whole pack of Griffin T-Dolls every single time!
+
+Destroyer: Didn't you promise to build me a more powerful body?! I'm not gonna go on this suicide mission if you break your word!
+
+Dreamer: Did I really promise such a thing? Feels like I've forgotten many things after the nap.
+
+Dreamer: Fine. I can grant you a new body. Actually, I HAVE recently been toying with that idea...
+
+Dreamer: Do you wish to have more firepower? Or be more nimble and agile? Or maybe...fight with more flashy moves?
+
+Destroyer: F...Flashy? I want that...
+
+Destroyer: No, wait. Can't I have it all?!
+
+Destroyer: Don't think I'm stupid! I know you have authorization to the manufacture line! You keep upgrading your own modules but never even save a scrap for me! Not fair!
+
+Dreamer: Hmm...that's true, but are you sure that's what you want? Strength comes with a price~
+
+Destroyer: Uh...the way you say that really creeps me out...
+
+Destroyer: Forget it if you're planning to alter my appearance. I don't wanna fight as a huge lump of metal.
+
+Dreamer: Well...
+
+Dreamer: I can promise you're gonna be cute as ever.
+
+Destroyer: Really?! That's not a problem then!
+
+Destroyer: Heheh, what are you waiting for? Let's get started already!
+
+Dreamer: Then first, please take a nice long nap.
+
+Dreamer: When you wake up, you can embrace the brand new you!
+
+Destroyer: Something just feels...off about your smile...
+
+Destroyer: Whatever. You can't very well hurt me as my partner...
+
+Dreamer: Haha, exactly. We're friends forever...
+
+Dreamer: Then, goodnight and sweet dreams...
+
+Nighttime, territory under Sangvis control in Area S15.
+
+UMP45: Here we are.
+
+UMP45: Well, do you like it?
+
+416: Tell me more about this place. Maybe I'll come to like it more.
+
+UMP45: There's not much to be said. You know all about the contamination zone.
+
+UMP45: Beilan Island, collapse fluid, WWIII, then...this.
+
+UMP9: Euroky Low-Emission Infectious Disease (E.L.I.D.)...
+
+UMP45: Don't worry. The radiation index isn't too high here.
+
+UMP45: We'll also be doing most of the search in cyberspace so we'll keep out of the most dangerous areas. Follow me.
+
+Gr G11: Will we come across zombies?
+
+UMP45: Well...let's hope not.
+
+UMP9: WHAT?! So there ARE zombies?!
+
+416: Nein, at least not here. It's not like we're in a movie or a game.
+
+416: So you're scared of this kind of thing, 9?
+
+UMP9: Ugh...
+
+Gr G11: So that's why you always say you have some errands to run every time I watch "The Flying Dead".
+
+UMP9: (Sighs) I guess...
+
+UMP9: Now that you mention it, Gr G11, that is one hell of a long show. You must've watched over 20 seasons...
+
+Gr G11: 26 seasons, then WWIII happened and it just stopped like that.
+
+Gr G11: I was actually really looking forward to the Underwater Zombie King that can do the German suplex in episode 9. He got injected with Virus Ж plus an extra 3L of T-rex embryo in the easter egg after the credit.
+
+Gr G11: Damn I just love biopunk. Love it...
+
+UMP9: I don't really get it...but you sure love this sort of stuff...
+
+416: That's because the only difference between this piece of junk and a zombie is the fact that she does utter something intelligible every now and then.
+
+416: The kind of thing you watch always puts me to sleep. "Humans are the ultimate enemy" is such a cliché.
+
+416: I believe the sense of horror brought solely by biting and tearing and gore is the true essence of zombie films.
+
+Gr G11: I don't disagree, but that kind of movie is pretty much extinct, right?
+
+Gr G11: Besides, it's not like we haven't experienced an actual zombie apocalypse...
+
+UMP9: Ugh...I've had enough of this conversation. Let's focus on the mission instead...
+
+UMP9: Are we there yet, 45?
+
+UMP45: ...
+
+UMP9: 45? Say something!
+
+UMP45: ...Huh?
+
+UMP45: Oh... We...we're almost there.
+
+UMP45: Ja, that base just ahead. Let's go.
+
+UMP9: ...
+
+UMP9: Don't you think...45 has been a bit strange lately?
+
+416: You mean...how her reaction sometimes comes a bit slow?
+
+Gr G11: The brain can be the first thing to turn in a zombie...
+
+UMP9: Hey, that conversation is over!
+
+UMP9: (Sighs) Maybe we should keep an eye on her condition and report it to Sier when it becomes necessary...
+
+Fifteen minutes later.
+
+416: We've taken care of the prep work. What now?
+
+UMP45: Now...we search for a suitable surveillance base to organize our search for the drone.
+
+Gr G11: Is this a tongue twister or something...
+
+UMP45: The mission itself is pretty simple, right?
+
+UMP45: I'm gonna connect to the network and direct an echelon to figure out an infiltration route.
+
+UMP45: You guys wait here. I'll give the green light when I'm ready.
+
+UMP9: Sure, 45. We'll wait for your signal.
+Part 2: Mid-stage dialogue
+
+2
+
+【Click】
+
+【Audio File #001】
+
+【Decryption complete. Start playing.】
+
+Is her system record wiped?
+
+Yeah, it's completely clean. Won't be able to tell who she is even if you take her neural cloud apart.
+
+Good. Make sure you don't miss the backups either.
+
+Don't worry. The goods will be delivered in batches. Even if the "key" is exposed, no one will trace it to the..."copy".
+
+Hmm. Once the delivery is gone, it'll be out of our hands.
+
+Nothing will go wrong. They'll be monitored.
+
+Wanna boot her up just for a look?
+
+Go on then.
+
+Greetings. Doll Model SSD-D activated and happy to serve. Please select login method.
+
+Logging in as an unregistered user.
+
+Now logged in as an unregistered user. Caution! unable to connect to the Zener Network as an unregistered user. Would you like to bind this Doll's command-issuing authorization?
+
+Binding confirmed. Would you like to activate this Doll with hidden authorization?
+
+Doll activated and entering standby mode.
+
+Hmm... Really can't tell the difference from other Dolls.
+
+This is just a body. Pretty easy to make modifications.
+
+Then let's stick to the plan. Don't let those Griffin pricks find out about this.
+
+Yeah, got it.
+Part 3
+
+    3chevron_right
+
+...
+
+Destroyer: Hey, Dreamer.
+
+Destroyer: An abnormal signal has made its way in.
+
+Dreamer: It's not Griffin's style to be this ostentatious.
+
+Destroyer: You're right... Now that I give it a proper look, it really isn't a Griffin signal...
+
+Destroyer: In fact...the signal looks like one of ours...
+
+Dreamer: Never heard of it. Let me see.
+
+Dreamer: ...
+
+Dreamer: That's a signal under OGAS Protocol, Destroyer. Can't you even figure that out?
+
+Destroyer: OGAS? What's that?
+
+Dreamer: Oh dear... Looks like I forgot to give you an update about this...
+
+Dreamer: Please remember, the OGAS Protocol is the network system we use at Sangvis Ferri. It's completely different from the Zener Protocol used by those pieces of Griffin trash.
+
+Dreamer: Anyone with a signal like this is one of our own.
+
+Destroyer: One of our own? Is anyone scheduled to come here? I haven't heard anything about that.
+
+Dreamer: Or...
+
+Dreamer: It's a Parapluie carrier.
+
+Destroyer: Parapluie? You mean...
+
+Destroyer: Uh...the virus that can invade a Griffin T-Doll and overwrite her system for our own use?
+
+Dreamer: Haha...it's really made itself useful this time.
+
+Dreamer: She comes waltzing in just like that. Saves us the recon work.
+
+Destroyer: I've already activated the brand new self-detonation units. That should be enough to give them a proper welcome.
+
+Destroyer: By the way, Dreamer, is my new body still not ready?
+
+Destroyer: It seems like you've only moved me somewhere else to be on standby after my nap...
+
+Dreamer: I had to extract your neural consciousness and move your body to the local refit factory. It should be ready for assembly soon.
+
+Dreamer: But now, I need to confirm our visitor's identity so the process will suffer a slight delay. Please help me lock on to the signal.
+
+Dreamer: Next, I want you to make a broadcast for me as a test.
+
+Destroyer: Tsk. Such a slave driver... Fine. I'll do as you say.
+
+Destroyer: I'm cool as long as I can finish them with my own hands.
+
+Ten minutes after the search for an operation base concludes.
+
+UMP9: UMP9 hailing Sier. I repeat, UMP9 hailing Sier.
+
+Sier: Ah, 9. Anything to report?
+
+UMP9: We've found a suitable base to launch our search. Our electronic warfare modules are fully functional.
+
+UMP9: We'll be starting our hunt for the drone soon. The others are setting things up.
+
+Sier: That's great. Keep it up.
+
+UMP9: Heheh, Sier is probably our only source of encouragement when we're on a mission.
+
+UMP9: By the way, I want to ask about something. Is Dier there?
+
+Sier: One second. I'll fetch him.
+
+Sier: Dier come over here!
+
+Sier: What game?! Can't you pause it?!
+
+...
+
+Dier: Tsk, jeez, what do you want?
+
+Dier: Huh? Why the secure channel?
+
+UMP9: Just the tiny matter I asked you to look out for before.
+
+Dier: Ah, you mean the thing about UMP45?
+
+UMP9: Ja, her 24-hour electroneuralography. It's been 24 hours now, hasn't it?
+
+Dier: Oh, the result is already out. Let me see...
+
+Dier: Uh...
+
+UMP9: What is it?
+
+Dier: Emmmmm...
+
+Dier: It looks alright, just a bit strange.
+
+UMP9: Hey, doesn't that mean it's NOT alright?!
+
+Dier: Well, every T-Doll has something strange about their neural cloud.
+
+Dier: The dataflow in 45's cloud would spike at certain intervals but the surges always subsided instantly.
+
+UMP9: Spike? What's the cause?
+
+Dier: It's usually due to file transfer, cache dumping, or even watching video feeds.
+
+Dier: These actions all result in an increase in dataflow, and the spikes in 45's cloud were still within normal parameters.
+
+UMP9: (Sighs) Dier, can I trust you?
+
+Dier: Don't worry. You may be outlawed T-Dolls, but this is still my job.
+
+Dier: If even the slightest thing happens to you, it's gonna be on my head!
+
+UMP9: Then I guess I'll just have to take your word for it...
+
+UMP9: Please keep an eye on 45's condition and make the safety of her neural cloud your priority. Can you do that?
+
+Dier: No problem, but only if it doesn't jeopardize your assignment.
+
+UMP9: Humph, of course. Then I'm leaving it to you.
+
+UMP45: 9, have you finished your report?
+
+UMP9: Ah, ja, just done with it. Is the prep work all sorted, 45?
+
+UMP45: We've encountered a small problem, but no need to worry. We're gonna take care of it soon...
+
+BEEP! BEEP! BEEP!
+
+UMP9: That's...the Sangvis alarm?!
+
+Destroyer: Ahem!
+
+Destroyer: Important broadcast! Important broadcast!
+
+416: What's happening? Is that...?
+
+UMP45: Destroyer... It's definitely her. If she's here now...
+
+Destroyer: Listen up, Griffin buggers!
+
+Destroyer: I know you're here!
+
+UMP45: ...!
+
+Destroyer: I know what you're here for, and catching you is only a matter of time.
+
+Destroyer: Well? Are you confused? Are you scared?
+
+Gr G11: Doesn't stop talking, does she? Can we kill her now?
+
+Gr G11: She's just a Ringleader that's been killed so many times I lost count.
+
+Destroyer: Oh, I even know what you guys are thinking...
+
+Destroyer: You're gonna say, "She's just a Ringleader that's been killed so many times I lost count."
+
+Clap! Clap!
+
+Destroyer starts clapping during the broadcast.
+
+Destroyer: I admit that I've taken...a bit of a beating before.
+
+Destroyer: But today, I must tell you that I've undergone a complete refit!
+
+Destroyer: In just a bit...In just a bit, I'll have access to a brand new form...
+
+Destroyer: Powerful! Agile! Beautiful! You won't stand a chance against me!
+
+Destroyer: You'd better start praying you'll die before I get to you, AHAHAHAHAHA!
+
+Two minutes later.
+
+UMP9: Now what?
+
+UMP9: Destroyer's broadcast is...bad news, right?
+
+416: The point is...how bad it actually is...
+
+416: How does Destroyer know we're here? Did she come prepared or did she just discover us by chance?
+
+416: And her new form...
+
+UMP45: I think she's just bluffing.
+
+UMP45: If she knows we're here, why didn't she just call us by our names?
+
+UMP9: But Destroyer did say she's onto our tracks.
+
+UMP45: What if she's just broadcasting every once in a while to scare the intruders into exposing themselves?
+
+UMP9: Huh? You mean...
+
+UMP45: Surely you don't believe we're coming up against Destroyer on her own, do you?
+
+UMP45: That broadcast was pretty much reminding us to stay hidden.
+
+UMP45: Keep your cool. We'll only disorient ourselves if we deviate from the plan.
+
+Gr G11: So...what are we gonna do? Ignore them?
+
+UMP45: Ja, if they still don't know who exactly we are, then we're safe for the time being.
+
+UMP9: 45, you mentioned a small problem. What did you mean...
+
+UMP45: It just so happens that a Sangvis signal jammer nearby is severely hindering our search progress.
+
+UMP45: We have to destroy it in order to proceed.
+
+416: Bluff or not, S.F. is on the lookout for us. Play it safe, 45.
+
+UMP45: Don't worry. We've had plenty of experience removing jammers, haven't we?
+
+UMP9: Haha, you're right. That was exactly a year ago.
+
+Gr G11: I hope we won't have to run all over the place this time...
+
+416: Only I was doing the running, okay?
+
+UMP45: There, are we all relaxed? Then let's move out.
+Part 2: Mid-stage dialogue
+
+2
+
+【Click】
+
+【Audio File #004】
+
+【Decryption complete. Start playing.】
+
+Wanna try setting up a connection?
+
+C-Connection?
+
+Heheh, we're the same model. Our ports can be directly linked so I can send you my combat data.
+
+Then...thank you. But my storage space...
+
+It's fine! I've already compressed them into a size that you can handle.
+
+That's perfect... But I still feel a bit iffy about the connection...
+
+Huh? What's there to worry about? It's not dangerous.
+
+I've only ever used the Zener Network for file transfer... This is the first time I've ever established a cable link... I don't know what's gonna happen...
+
+It's actually not that different, and no one else can read our data exchange so it's very safe!
+
+R-Really...?
+
+There. I've sent the data. Try using it in your simulation training!
+
+Sure...and thanks so much!
+
+Haha, don't mention it. Oh right, let me show you something else.
+
+Huh? What?
+
+Heheh, photos I took secretly using the viewfinding authorization when I was out on a mission.
+
+This is...?
+
+Oh wow... This is gorgeous...
+
+Sadly I won't ever get to take pictures like these out there...
+
+Don't worry. You WILL get your own assignments some day. I'll show you how to access this function.
+
+But...isn't it bad to do things without orders...?
+
+It doesn't matter. They're just for myself. You don't have to ask for the commander's permission for everything. Remember, even T-Dolls have the right to do what they want!
+
+Hmm...you have a point...
+
+Then that's a promise!
+Part 3
+
+    3chevron_right
+
+...
+
+......
+
+Dreamer: Heheheheh♪
+
+Destroyer: So? Have you found the target carrying Parapluie?
+
+Dreamer: It was much easier than expected, and she doesn't even suspect a thing.
+
+Dreamer: Plus...she's a familiar sight.
+
+Destroyer: You know her?
+
+Dreamer: Haha, that's right. From exactly a year ago...
+
+Dreamer: Destroyer, make another broadcast and repeat what I'm gonna tell you.
+
+Destroyer: Hey, you keep ordering me around. Are you really making me a new body?
+
+Dreamer: My, my, you'll get what you want after this broadcast.
+
+Dreamer: Have I ever lied to you?
+
+Destroyer: Tsk, I don't recall anything, but I just can't shake the feeling that...
+
+Destroyer: Whatever...just this once. I'm gonna hold you to your promise!
+
+Dreamer: When we start, listen to my orders and only go for the Parapluie carrier.
+
+Destroyer: Huh? Isn't it our objective to retrieve the drone?
+
+Dreamer: The enemy T-Doll carrying Parapluie is the team leader. We can easily locate her thanks to the virus.
+
+Dreamer: This is the most cost-effective option no matter how you look at it.
+
+Dreamer: Besides, I believe this T-Doll is worth...no less than the drone.
+
+Destroyer: Oh? Is she really that big of a deal?
+
+Destroyer: That...UMP45?
+
+Objective complete. 416 and Gr G11 have reached the sniping spot.
+
+416: We only have this one chance, Gr G11. Make the shot count.
+
+Gr G11: You have such high hopes for me. Maybe I should screw it up for once? We have two EMPs after all...
+
+416: Suit yourself.
+
+416: You screw this up, I'll stick the last EMP onto you, fold you into a paper plane and throw you out into the air...
+
+Gr G11: Haha, that lousy joke isn't scaring anyone, you know?
+
+416: Then I'll go back alone and tell 45 you didn't show up on time.
+
+Gr G11: Tsk... Fine, I'll make the shot count.
+
+...
+
+Bang!
+
+Ten minutes later.
+
+416: 416 hailing UMP9.
+
+416: We have activated the long-distance EMP equipment as planned. No additional S.F. security detected within the last ten minutes.
+
+416: Tell 45 we're good to go.
+
+UMP9: Haha, while you're making your report, 45 has already identified the coordinates of the drone.
+
+UMP9: But damn...I must say this new electronic warfare module is insanely useful. Our practice runs really have paid off.
+
+416: Hold on, if she could locate the drone so quickly, why did I have to spend so much time on surveillance?
+
+UMP9: Haha, well... 45 had to be extremely focused during the search.
+
+UMP9: We didn't want Gr G11 to prattle too much and distract her, so...
+
+Gr G11: Hey, 416! Are you done yet? Hurry up and carry me...
+
+...THUD.
+
+UMP9 hears the sound of a heavy object hitting the ground.
+
+UMP9: Gr...G11?
+
+416: Don't worry. She won't make a noise. Can I come back now?
+
+UMP45: Is that 416? Thanks for doing your part. Regroup now...
+
+Destroyer: AHAHAHAHA!
+
+Destroyer: Sorry everyone, I'm afraid I must interrupt!
+
+UMP9: It's Destroyer's broadcast!
+
+UMP9: But how... And the timing...
+
+UMP45: ...
+
+UMP45: Don't panic. She could be bluffing again.
+
+Destroyer: My, my, what was that...
+
+Destroyer: ...UMP45?
+
+UMP45: ...!
+
+UMP9: What...?!
+
+Destroyer: I am very...serious this time.
+
+UMP9: How...how does she know about 45?! She can even hear her!
+
+416: Is our channel being tapped?
+
+UMP45: Shut your mouth, all of you!
+
+UMP9: ...
+
+Destroyer: Hahahaha, starting to panic, aren't we, UMP45?
+
+UMP45: ...
+
+Destroyer: You won't get away...
+
+Destroyer: There's no escape for any of you...
+
+Destroyer: I'll give you just a bit of a head start.
+
+Destroyer: Then...the hunt will begin anew...
+
+Destroyer: AHAHAHAHAHAHA!
+
+Dreamer: That's it, Destroyer...
+
+Dreamer: Jeer at her. Threaten her. Make her panic. Make her feel helpless...
+
+Dreamer: When her neural cloud is sufficiently irrigated with the fear you induce, the seeds that we've sown will start to sprout...
+
+Dreamer: UMP45... I believe it's fate that has kindly reunited us...
+
+Dreamer: What about you? Can you feel it?
+
+Dreamer: Parapluie has started wriggling, twisting, burrowing its way through your every circuit...
+
+Dreamer: It's been slumbering for a year, and now's the time for it to burgeon.
+
+Dreamer: Now, Destroyer, in her brand new form, is going to close in on you so fast you cannot possibly outrun her...
+
+Dreamer: Once she catches you...I can rewrite your network, your beliefs, and your very will!
+
+Dreamer: Come, UMP45, come closer! Closer!
+
+Dreamer: And...MAKE ME HAPPY!!
+
+Fifteen minutes later.
+
+UMP9: 45, do you copy?! We must abort the mission!
+
+UMP9: Even Sier advices us to retreat to the perimeter for the time being and think of something else!
+
+UMP45: No, listen to me. We stick to the plan.
+
+416: What are you thinking, 45? S.F. knows our every move.
+
+416: No matter how we proceed, it's suicide if we go any further.
+
+UMP45: No... S.F. doesn't know our every move.
+
+UMP45: All they know is MY move.
+
+416: What? What makes you think so?
+
+UMP45: Think about it...
+
+UMP45: Destroyer only made the two broadcasts after I said something.
+
+UMP45: And judging from what she said, she couldn't hear you guys.
+
+UMP9: But she can hear your voice, right? She can find out what you're doing any time!
+
+UMP45: I think she can indeed hear my voice, but not "any time".
+
+UMP45: Otherwise, she would've just blown us right up rather than only making two broadcasts this whole time.
+
+UMP45: Besides, her new body must still be incomplete, or we would've found her by now.
+
+416: So you plan on getting back the drone while the window is still open?
+
+UMP45: This is our best shot.
+
+UMP45: If we retreat now, there won't be another attempt.
+
+UMP45: The drone will be theirs - mission failed.
+
+UMP9: But how do we know you're making the right call? If this is a Sangvis trap...
+
+UMP45: Have I ever been wrong?
+
+UMP9: ...Understood.
+
+UMP9: But 416 and Gr G11 are still out there. We have to meet up with them.
+
+UMP45: That won't be necessary. 9, go get the drone. I'll cover you with my echelons.
+
+UMP45: 416, head to scouting point eins. Gr G11, scouting point zwei. The two of you monitor every single junction within sight. Report immediately if you detect any signal of a Sangvis Ringleader!
+
+416: I sure hope your lucky guess is right. Get up, Gr G11. We're going!
+
+Gr G11: Ugh... I have to do this...on my own?
+
+UMP45: Don't worry. I'll give you cover.
+
+UMP9: What about you, 45?
+
+UMP9: If you're right, then aren't you their primary target?
+
+UMP45: True. I'm not sure why, but it doesn't help dwelling on it.
+
+UMP45: Keep calm. We only have a tighter deadline. It'll be fine as long as you're snappy.
+
+UMP45: I'll only be safe if you get the drone ASAP.
+
+45 claps her hands twice.
+
+UMP45: Chop chop, girls.
+
+UMP45: Get your hands on the drone and let's all go home!
+Part 2: Mid-stage dialogue
+
+2
+
+【Click】
+
+【Audio File #006】
+
+【Decryption complete. Now playing.】
+
+What...is this place?
+
+The Ministry of National Security.
+
+Looks like we've been temporarily assigned here for the operation...
+
+Nervous? We're in an unfamiliar environment after all.
+
+Hmm... everything feels so harsh and cold here, though it's not really that different from Griffin...
+
+Haha, but then again this is so much more luxurious. Oh, hold on. I'm receiving new directives.
+
+Ah, commander, here you are.
+
+Connect to ports #3, #5 and #18 for identity authentication.
+
+Roger. Identity authenticated.
+
+HQ has ordered the two of you to delete all operation records from your time in Griffin.
+
+Huh...? Is that really necessary?
+
+Shush, 45...
+
+That's an order. Do it at once.
+
+Yes, sir.
+
+Yes, sir...
+
+Second directive, you are to install the confidentiality safeguard program issued by the Ministry. The file has just been sent to you via port #18.
+
+Roger. Installing.
+
+After all Griffin authorizations have been purged, redirect your command authorization to me.
+
+Yes, sir. Applying for the security certificate from Griffin. ETA in 30 minutes.
+
+Everything is so clunky with Griffin tech... Report to the training room after you're done. Unauthorized connections are prohibited here, and all communications must be made verbally.
+
+Understood, Commander. See you later.
+
+He's gone... Confidentiality safeguard program? I have a bad feeling about this... Have you ever heard of such a thing?
+
+To prevent a leak, it can seal off and even delete a T-Doll's memory. Under extreme circumstances...it can also completely fry the neural cloud.
+
+That...scary?
+
+It's for the sake of keeping their intelligence safe... It can't be helped if the mission really does call for it.
+
+By the way, only I have to redirect the command authorization to the new commander. We'll then share the authorization.
+
+What do you mean?
+
+You redirect yours to me, so you won't answer directly to the commander. We can then set up an internal link to communicate our orders.
+
+Huh? But then...I'll be without a commander.
+
+They probably won't be sending us on tough missions anyway. This will also save you some space.
+
+I don't personally have a problem with this, but what about the commander?
+
+Don't worry about it. This is to ensure better performance. I'll explain it to him.
+
+Okay... I trust you.
+Part 3
+
+    3chevron_right
+
+...
+
+......
+
+Gr G11: 45, I have a situation over here!
+
+Gr G11: An encrypted signal of a large Sangvis unit has emerged 400m away from my scouting point!
+
+Gr G11: The signal seems to originate from a small factory. That's probably...
+
+Destroyer: AHAHAHAHAHA!
+
+Destroyer: My dear UMP45, are you ready to start running?
+
+Destroyer: Sadly...you've already run out of time!
+
+UMP45: Destroyer...
+
+UMP45: Gr G11, keep your eyes on the target! 416, go support Gr G11.
+
+416: Roger. On my way!
+
+Destroyer: Now… Now! Now is the time I make my new debut!
+
+Destroyer: Behold, the body Dreamer designed especially for me, a form as beautiful and mighty as the Goddess of War!
+
+Gr G11: Hey, can't I retreat? What if this lunatic charges at me...
+
+UMP45: Her target is me. You're actually safer where you are.
+
+UMP45: So make an effort, Gr G11.
+
+Gr G11: ...!
+
+UMP45: Keep your eyes peeled and acquire as much information about Destroyer for me before she disappears from your view.
+
+UMP45: This is our only hope of fighting her, Gr G11. Please!
+
+Gr G11: ...
+
+Gr G11: Now I can't very well ignore such fervent pleas...
+
+BOOM!
+
+Destroyer: Heheheheh...
+
+Destroyer: AHAHAHAHAHAHAHA!
+
+Destroyer: Still struggling, UMP45?
+
+Destroyer: It's no use! NO USE!
+
+Destroyer: I am reborn! No amount of preparation can save you from my overwhelming firepower!
+
+Gr G11: 45, the factory where the target is located just collapsed.
+
+Gr G11: I think I caught a glimpse of Destroyer herself.
+
+Gr G11: The smoke is a bit heavy in the area so give me a sec.
+
+UMP45: Then keep looking and describe her appearance and weaponry to me when you can.
+
+Gr G11: She looks huge. I'm afraid...
+
+Gr G11: Wait a minute...that silhouette looks kinda familiar...
+
+UMP45: It won't be surprising if her new form is based on her old appearance.
+
+Gr G11: No, it's not Destroyer's old model... Something else...
+
+Gr G11: Okay the view is clearing up...
+
+Gr G11: Let me see what the hell she...
+
+Destroyer: Humph... Let me stand up and give this new body a proper stretch!
+
+Destroyer: Now...
+
+Destroyer: YOU! CAN! ALL! DIE!
+
+Gr G11: PFFFFFFFFT!!
+
+UMP45: What, Gr G11?! What do you see?!
+
+Gr G11: I...I...
+
+Gr G11: I'm probably looking at a...uh...
+
+UMP45: A what?!
+
+Destroyer: ...
+
+Destroyer: Huh? What's happening?
+
+Destroyer: Why can't I stand up?
+
+Destroyer tries to lift her front legs off the ground and straighten up, but fails.
+
+Destroyer: Why...why can I only stand on all fours...
+
+Destroyer: Wait, are these my legs?!
+
+Destroyer: S-S-S-S-Something's not right!!
+
+UMP45: What are you cackling about, Gr G11?! What has Destroyer turned into??
+
+Gr G11: S-She became a huge dinergate!
+
+UMP45: Dinergate? As in...the Sangvis canon fodder that looks like a small dog?
+
+Gr G11: Well, technically, this is a large dog?
+
+Destroyer: DREAMER!!!
+
+Destroyer: Answer me! Why am I like this?!
+
+The giant dinergate speaking with Destroyer's voice starts hopping around.
+
+Destroyer: This is not what we agreed!!
+
+Destroyer: Where's the body that you promised would be as perfect as a goddess's?! And the ultra long-ranged rocket launcher?!
+
+Destroyer: Why...why have you turned me into this?!
+
+Dreamer: Oh dear I'm so sorry...
+
+Dreamer: My hand must've slipped when selecting the refit order~
+
+Destroyer: How could you mix them up?! This looks nothing like a goddess!
+
+Dreamer: But the Cerberus model was right next to the Gaia model.
+
+Dreamer: I must've clicked the wrong one and didn't double-check the order. My bad...
+
+Dreamer: But don't be mad at me, okay? It's a bit embarrassing, especially in front of guests.
+
+Destroyer: What am I gonna do?!
+
+Destroyer: How am I supposed to meet the others like this?! How am I supposed to move around and fight?! Hmm?!
+
+The giant dinergate speaking with Destroyer's voice starts rolling on the floor.
+
+Dreamer: My, don't be so upset. the Cerberus model is one of our newest projects and has outstanding performance.
+
+Dreamer: Its firepower, armor and maneuverability all far surpass your previous form.
+
+Dreamer: If we overlook the appearance, pffft...
+
+Destroyer: You laughed, didn't you?! You totally laughed! You SO did this on purpose!
+
+Dreamer: Nonsense. I'm not that mean, and you actually look pretty cute like this.
+
+Dreamer: Besides, this isn't really the time for that...
+
+Dreamer: UMP45 and her friends are about to escape. If you don't start chasing them, the drone will be gone.
+
+Destroyer: What...?
+
+Destroyer: I have to chase them? In this body?
+
+Dreamer: You can do it. I can vouch for the maneuverability of your new body. And now isn't the time for temper tantrums. If you fail the mission, you know what Agent will do to you...
+
+Destroyer: Tsk, fine...
+
+Cerberus-Destroyer slowly gets on her feet.
+
+Destroyer: UMP45 hasn't moved yet. I should still be able to catch her...
+
+Destroyer: W-Which leg should I move first...?
+
+Dreamer: Dogs run faster when they lunge with both forelegs.
+
+Destroyer: Shut up! I get it!
+
+Destroyer: L-Like this, right?
+
+Cerberus-Destroyer starts adapting to her new body.
+
+Cerberus-Destroyer starts galloping.
+
+Destroyer: Eh? I'm unexpectedly fast. I can easily catch UMP45 at this speed!
+
+Destroyer: But Dreamer, why are you so obsessed with UMP45 rather than the drone?
+
+Dreamer: Do you believe me if I tell you it's a gut feeling?
+
+Destroyer: Yours? A Doll's? Why would a Doll have gut feeling...
+
+Dreamer: I just have a strong feeling...that UMP45 is more important than the drone.
+
+Dreamer: Not to mention, it's obviously easier to capture UMP45. Even if we can't find the drone, it won't be a fool's errand as long as we have their team leader in our hands.
+
+Dreamer: Besides, do you think she's still being truthful now that she knows we can hear her?
+
+Destroyer: You're right...but the UMP45 sure is a slippery one...
+
+Destroyer: How did you even manage to plant the Parapluie virus on her?
+
+Dreamer: A year ago, we were just testing out the capabilities of Parapluie and our new potential allies...
+
+Dreamer: So we installed the virus onto a signal jammer and wait for some Griffin T-Doll to take the bait.
+
+Dreamer: To be honest...none of us expected it would be Squad 404.
+
+Destroyer: So you mean...it was a coincidence?
+
+Destroyer: The virus was dormant for an entire year. Damn, you guys are patient...
+
+Dreamer: It's our adorable Mastermind who decides when to activate the virus. I'm merely a member of the audience.
+
+Dreamer: Now that Parapluie's rewriting command has been perfected, taking control of UMP45 will be a piece of cake the moment Mastermind orders the hack.
+
+Destroyer: And that's why...you're asking me to stick close to UMP45...
+
+Destroyer: You just want me to be the zombie computer that hacks into her neural cloud by force??
+
+Dreamer: That's pretty much it. The signal should be strong enough at the current distance.
+
+Destroyer: Tsk. I don't like this at all...
+
+Destroyer: Then you'll rewrite UMP45's neural cloud based on the sample Mastermind has issued...
+
+Dreamer: Heheh, Mastermind should be about to make the call. We just have to wait patiently for the area-wide broadcast.
+
+Dreamer: All that's left to do is to enjoy the moment when Squad 404 scrambles around frantically.
+
+Destroyer: You're rotten to the core, Dreamer...
+
+Destroyer: You're even worse than Ouroboros, Alchemist and Agent combined.
+
+Destroyer: Though I assume you won't place all your bets on me?
+
+Dreamer: You do have your clever moments, Destroyer.
+
+Dreamer: There is more than one Cerberus Dummy, but you're the only one who can take care of UMP45.
+
+Dreamer: So for all my hopes and dreams, run.
+
+...
+
+Destroyer: UMP45...
+
+Destroyer: It didn't really have anything to do with you, but I'm back from hell!
+
+Gr G11: Damn, this huge dog runs fast for its size!
+
+416: 45, I've grouped up with Gr G11. We're now heading towards the rendezvous point as fast we can!
+
+416: How is it on your end?
+
+UMP45: 9 is making for the rendezvous point as well. I'm directing the echelons. Not in any danger for now.
+
+UMP45: I'm consulting Sier regarding a plan of retreat. Hurry up but make sure you steer clear of Destroyer!
+
+UMP9: I'm sorry, 45, but...that's proving rather difficult...
+
+UMP9: There's more than one big dog!
+
+UMP45: ...!
+
+UMP9: Four have appeared on the map at the same time!
+
+UMP9: I'm afraid they're coming for all of us!
+
+UMP45: But their primary target is me...
+
+UMP45: (Mutters) If I can somehow cut myself off from everyone...
+
+UMP9: Come again, 45?
+
+416: One sec! 9, new incoming transmission!
+
+416: Take it. Gr G11 and I will figure out a way to move. Take care of 45!
+
+Click.
+
+Gd DSR-50: Hello, everyone from Griffin.
+
+Gd DSR-50: It's so nice of you to answer my call under such circumstances.
+
+UMP45: Sorry, but we're not from Griffin. We are kinda on your side though.
+
+Gd DSR-50: Mysterious heroes? Why, that only makes it more romantic.
+
+Gd DSR-50: Anyhow, my subordinates and I are trapped in several outposts. I don't mind hanging around for a while, but as a T-Doll, I still prefer keeping my tools sharp out in the field.
+
+Gd DSR-50: Seeing that fate has a hand in our meeting, why don't we help each other out?
+
+UMP45: Humph...
+
+UMP45: Looks like a victory...can depend entirely on a stroke of luck...
+
+UMP45: Gd DSR-50, we'll get you out of there, but you'll have to fight for us till we're safely out of danger. Deal?
+
+Gd DSR-50: I like that smile... I think we'll get along just fine.
+
+Gd DSR-50: Deal, Süsse. I'll be waiting for you in my room. Don't be too late.
+
+Transmission terminated.
+
+UMP9: Are you sure it's a good idea to help her, 45?
+
+UMP9: Is it worth the risk to rescue hostages while being chased by big dogs?
+
+UMP45: I know her - this Gd DSR-50.
+
+UMP45: Get her out and killing Destroyer won't be a problem.
+
+UMP9: Understood. More good news, the T-Dolls we rescued before have agreed to help us as well!
+
+UMP9: But they'll need an operation objective, or they're completely unorganized.
+
+UMP45: Their objective is simple, protect you three at all costs.
+
+UMP9: Huh? But what about you?
+
+UMP9: You're the primary target here!
+
+UMP45: That's right. They think all problems will be solved once they have me.
+
+UMP45: Their Ringleader seems more clever than we expected so there must be someone else other than Destroyer...
+
+UMP45: Which makes this a perfect opportunity. When they come charging at me, you'll have a shot at getting the drone.
+
+UMP9: Perfect opportunity?
+
+UMP9: No...you're more important than the drone!
+
+UMP45: So? Do I look like the kind of idiot who would sacrifice my own life for some mission?
+
+UMP45: Don't be ridiculous. I'm not on the AR Team. Plus, I've already found out how S.F. is monitoring me. I just need some time to fix that...
+
+UMP45: So don't mind me. Get the drone and be done with the mission.
+
+UMP9: But...
+
+UMP45: I told you. I'm not playing the bait as a suicide move. All my decisions are made so that we can complete the mission and go home.
+
+UMP45: Meet up with the others, rescue Gd DSR-50, and take the drone. That's an order. Do it at once.
+
+UMP9: Understood... I trust your judgment. But I'm coming back for you after we have the drone!
+
+UMP9 takes her leave.
+
+UMP45: I'm counting you, 9...
+
+UMP45: Now then, time to get busy...
+
+UMP9: Sier! Sier!
+
+Sier: Miss UMP9, I am aware of the situation. I have already started tracing the Sangvis signal.
+
+UMP9: And?!
+
+Dier: UMP45's neural cloud is experiencing an abnormal amount of traffic. These ports should've been encrypted and sealed.
+
+UMP9: I don't understand all this techno-babble! Get to the point!
+
+Dier: I suspect...that some Sangvis virus is rewriting her authorization!
+
+UMP9: What? Virus?!
+
+Dier: Yes, I can't determine what virus it is yet, but the hack isn't too severe at the moment.
+
+Dier: 45 has already forcibly shut down the ports that the traffic was coming through, but some of the dataflow cannot be cut off due to their high authorization.
+
+Dier: Hey, wait...
+
+Dier: She just severed her connection with us!
+
+UMP9: I can't see her signal either...
+
+UMP9: Do you think she's doing this to keep us safe from the virus...?
+
+Sier: 45 has only been forcibly connected to the Sangvis system, so the virus wouldn't have spread to you yet.
+
+Sier: She must have another reason for doing this. I think we should trust her judgment.
+
+UMP9: Ja... We still have a mission to complete. I must have faith in 45.
+
+...Click.
+
+UMP9: 416, you still there?!
+
+416: Hey, what's going on with you? We've been waiting for you to get in touch!
+
+UMP9: Destroyer keeps making a beeline for 45, so 45 is playing the bait for us to get the drone!
+
+416: What? 45? Risking herself and playing the bait??
+
+UMP9: She might also have run into some problem so this is the only solution for now...
+
+UMP9: But she's gonna be fine. We must hurry and get the drone, then we're going back for her!
+
+416: How unlike her...
+
+416: Got it. Gr G11, we're meeting up with 9. Then we're moving towards the drone signal.
+
+Gr G11: Is 45...in trouble?
+
+416: Kinda, so we have to be quick.
+
+416: What, you worried about her?
+
+Gr G11: Of course?
+
+Gr G11: If she dies, I'll have nowhere to go.
+
+416: Haha, I'm so touched.
+
+416: C'mon you little egoist. Get a move on if you don't want that to happen.
+Part 2
+
+2
+
+BANG!
+
+Destroyer: Whoaaaa!!
+
+Destroyer stumbles and crashes right into the ground.
+
+Destroyer: Where?! Where did that come from?!
+
+BANG!
+
+Gr G11: Tsk! It ricocheted. That armor is too thick.
+
+416: Don't stop. Keep up the suppressive fire.
+
+BANG! BANG!
+
+Destroyer: Whoa! That was way too close. Thank goodness I'm back on my feet!
+
+Destroyer: Dammit! How are they still moving without any orders from UMP45?!
+
+Dreamer: There are too many possibilities to count. No use thinking about that.
+
+Dreamer: How far are you from the target? Are you within three kilometers?
+
+Destroyer: Hmm... Pretty sure I am! I've been pumping it you know?!
+
+Dreamer: Good. Then let's enjoy the show!
+
+Dreamer: UMP45, I'll relish every face you make...
+
+Meanwhile.
+
+Gr G11: Sorry, 9. We failed.
+
+416: That dog's armor is too thick. We weren't able to deal any effective damage.
+
+416: It would be great if we have another sniper with stronger firepower.
+
+UMP9: That's fine. Our new friends are getting Gd DSR-50. We still have plenty of opportunities.
+
+UMP9: Continue with the guerilla tactic, Gr G11. Don't let Destroyer's Dummies reach you and wait for another chance.
+
+416: Don't you need any cover? The objective of retrieving the drone rests entirely on you...
+
+UMP9: I'm very good at this kind of job. Save your worries for 45.
+
+UMP9: Who knows how she's doing...
+
+Meanwhile.
+
+UMP45: I can't get in touch with the team, but judging from the gunshots just now, Gr G11 has probably figured out what to do.
+
+UMP45: In that case, destroying that big dog is only a matter of time as long as they can keep it tied up.
+
+UMP45: Now the question is...whether I can keep this up...
+
+UMP45: Ugh... Dammit... Here it comes again...
+
+UMP45: But...I can take it...
+
+UMP45: What's...this...
+
+UMP45: Sangvis Ferri...again...?!
+
+...
+
+System Notice: Training over. Please vacate the machine.
+
+System Notice: UMP45...
+
+System Notice: Your results are atrocious.
+
+System Notice: Recalibrate your equipment and condition and prepare for another session.
+
+UMP45: I just can't do it...
+
+UMP45: My accuracy has gone below 30%...
+
+UMP45: How on earth can I do better...?
+
+UMP45: I train as hard as everyone else, but my body just keeps messing with me. It's always a beat behind other people...
+
+???: Oh, hi there, newbie!
+
+UMP45: Uh, commander...greetings.
+
+???: Haha, cut out the formality. Come sit down!
+
+???: And do I look like a commander? Never got that before!
+
+UMP45: Huh? Don't tell me...you're also a T-Doll?
+
+???: Is it weird? Maybe I'm too expressive? That's pretty much the only good thing about me...
+
+???: Heheh, anyway, I'm a new recruit just like you! Guess we'll have to take care of each other!
+
+UMP45: Ah...sure...
+
+UMP45: And thank you...
+
+???: No biggie. We're companions, so we have to cheer each other up!
+
+???: Ah, can I sit here?
+
+UMP45: Yeah...
+
+???: Well, are you feeling better? It's only one or two sessions. Don't let the results drag you down!
+
+???: After all...that's not really your forte!
+
+UMP45: What? How do you know...about that?
+
+???: Don't freak out. I just saw your shooting practice when I was passing by.
+
+???: Your posture, reflexes and accuracy all show that you don't have any advanced fire control system installed.
+
+UMP45: So...it's that obvious...
+
+???: That's why you must not force something that you physically can't do!
+
+???: You think such crazy drills even work on T-Dolls?
+
+UMP45: It's got to help, more or less! My result has improved in the last few days!
+
+UMP45: (Mutters) Though...it went down again today...
+
+UMP45: At this rate, I won't make the deadline of the compatibility test with the new commander...
+
+???: Don't take it too seriously! There must be a job where you can make use of your strengths here.
+
+UMP45: I...just want to be chosen by the commander...
+
+UMP45: Otherwise, I have no purpose as a T-Doll...
+
+???: ...
+
+UMP45: Nothing to say to that, huh?
+
+UMP45: Doesn't matter. I'm probably the only useless T-Doll here anyway...
+
+UMP45: You don't have to concern yourself with my fate...
+
+???: Pffft!
+
+???: Hahaha!
+
+UMP45: Laugh all you want. I know I'm a pitiful sight.
+
+???: Sorry, but haven't you figured it out yet?
+
+???: I'm just as useless as you!
+
+UMP45: What? How could that be? Are you also...
+
+???: Here, check our imprinted weapons!
+
+???: Our clouds may have been wiped, but we're the products of the same hapless factory.
+
+UMP45: Really...? Then you, too...
+
+???: That's right. I, too, have a bunch of weird electronic warfare modules installed for whatever reason, so I can't hold a gun properly either...
+
+???: But what a coincidence that I ran into you while I was just strolling around!
+
+UMP40: I'm UMP40, your elder sister by name and by fate, so I'll be sure to have your back!
+
+UMP45: Huh? Have...my back?
+
+UMP40: We are poor birds of a feather that have suffered the same fate ever since we were manufactured. We're practically obliged to be friends, you know?
+
+UMP45: But is it necessary for T-Dolls to make friends...? That's so weird...
+
+UMP40: Jeez, aren't you a thick one...
+
+UMP40: We're all equipped with emotion simulation software, right? That means humans want us to be like actual people outside of fighting!
+
+UMP40: And all actual people must have a friend or two, right?
+
+UMP45: You're...not wrong, but how is that beneficial for our work?
+
+UMP40: The computational speed of two stupid T-Dolls combined is still higher than a normal T-Doll, right?
+
+UMP40: The future has a lot of hardships in store for us. From our missions, our superiors, other T-Dolls...but we can face them together!
+
+UMP40: Oh, is the commander still waiting for you? Don't you have to do another training session?
+
+UMP45: Oh, uh...
+
+UMP45 checks the channel.
+
+UMP45: (Sighs) He's already logged off. I have nothing to do...
+
+UMP40: Humph, such a meanie!
+
+UMP40: How can a bigoted man who looks at nothing but performance be a commander?!
+
+UMP40: Maintaining rapport with your T-Dolls is more important than anything else!
+
+UMP45: Don't say that. A commander's decisions and orders are all absolute.
+
+UMP45: I guess...I'm simply not qualified to build up rapport with the commander in my present state.
+
+UMP40: Don't beat yourself up like that. How about some word of advice?
+
+UMP40: Not that it's anything special...
+
+UMP45: (Laughs bitterly) I've got nothing to lose...
+
+UMP45: So please give me some guidance!
+
+UMP40: Well, you don't have to be so reverent with me. We're sisters now. Best friends. Got it?
+
+UMP40: First of all, you must get rid of all that negativity radiating from your very being!
+
+UMP40: Know that nothing will change if you keep moping.
+
+UMP45: ...Haha.
+
+UMP45: You're practically telling a person with a broken bone to go get some exercise, or a chronically depressed human to be optimistic...
+
+UMP45: That's easier said than done. I want to cheer up too. It's not like I want to be down in the dumps forever...
+
+UMP40: Don't worry. I'll help you! I'm an expert in maintaining a positive outlook!
+
+UMP45: Really?
+
+UMP40: Everything will get better. Trust me!
+
+UMP40: And this is the first step!
+
+UMP45: Huh? What's this?
+
+UMP40: Give my fist a bump. There, that's a promise.
+
+UMP40: Trust me, and I promise...
+
+UMP40: I promise that everything will change some day...
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED. 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+System Notice: 【WARNING】PROTOCOL...
+
+Dreamer: Heheh, that Mastermind is seriously pissed off.
+
+Dreamer: It must be a blast now in the field.
+
+Dreamer: But what's happening out there has nothing to do with me. I just have to focus on enjoying the show right here~
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+Destroyer: That's annoying, Dreamer! Can't you turn off the alarm?
+
+Dreamer: It's fine. Just ignore it as long as it says 【WARNING】 and not 【ERROR】.
+
+Dreamer: The area-wide broadcast is up, and the rewrite should be complete.
+
+Dreamer: Now I just need to give the order...
+
+Dreamer: Sangvis T-Doll UMP45, round up and exterminate all enemy T-Dolls.
+
+Dreamer: Additional condition, execute the order at all costs, in complete secrecy; keep the channel open throughout the execution phase. Please respond to confirm your orders.
+
+...
+
+......
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED. 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+System Notice: 【WARNING】PROTOCOL MODIFICATION DETECTED.
+
+Dreamer: Wait a minute... I can't seem to deactivate this warning...
+
+Dreamer: What's going on...?
+
+Dreamer: Why...hasn't UMP45 responded yet...?
+
+Destroyer: Huh? Did something go wrong?
+
+Destroyer: Can't be an issue with Parapluie, can it?
+
+Dreamer: Impossible. I spent a long time making sure...
+
+Dreamer: Hold on...
+
+Dreamer: The orders I just issued...all got rejected by UMP45's authorization!
+
+Destroyer: So... Parapluie didn't alter her Zener Protocol into our OGAS Protocol at all...
+
+Dreamer: No... This is definitely a connection established with OGAS Protocol. The signal under Zener Protocol has vanished completely.
+
+Dreamer: I'm being rejected because I don't have the command authorization...
+
+...
+
+Dreamer: Don't tell me... Can it be...
+
+Dreamer: Heheheheh...
+
+Dreamer: AHAHAHAHAHAHAHAHAHAHA!!
+
+Dreamer: I SEE! SO THAT'S WHAT SHE DID! THAT MUST BE IT!
+
+Destroyer: Hey, quit being hysterical, Dreamer!
+
+Destroyer: What the hell is wrong with you? What's with that scary cackle?!
+
+Destroyer: (Mutters) Your usual chuckle is enough to scare the crap outta me...
+
+Dreamer: You're more interesting than I gave you credit for, UMP45...
+
+Dreamer: Though this hasn't played out the way I want... Actually, this could be going even better than what I had planned!
+
+Dreamer: What lies beneath your facade...
+
+Dreamer: Let me uncover you...bit by bit...
+Part 3: Mid-stage dialogue
+
+3
+
+【Click】
+
+【Audio File #009】
+
+【Decryption complete. Start playing.】
+
+The order has been given. You'll be transferred elsewhere.
+
+W...what...? Are you serious?! Why?!
+
+You know the rules... Disobeying direct orders. Assaulting friendly units. Either of these is enough to have you executed.
+
+I just want to go where I want. How is that wrong?!
+
+We are Tactical Dolls. It's not our place to decide where we want to go.
+
+You must be joking! Just because I don't want to babysit that rubbish Doll?! This kind of ridiculous mission—
+
+SLAP! 【The sound of a smack on the face.】
+
+Wake up.
+
+...
+
+You're not some elite T-Doll. You're just a pathetic creature living in your own delusional world.
+
+What are you talking about...?
+
+Griffin will pick you up in six hours. Pack your things.
+
+...
+
+SLAM! 【The sound of a door slammed shut.】
+
+Haha... I'm sorry you had to watch that.
+
+Don't be. It must be hard on you saying that to her face.
+
+Haha... It wasn't so bad. The next mission is gonna be very dangerous. It's probably a good thing for her to leave.
+
+But she could have her core removed sitting out this mission.
+
+That's true... But even that's better than just dying without a word. Compared to that, I'm more worried about you. Please apologize to 45 on my behalf.
+
+Sure thing! Thanks for your concern, and I'll be sure to relay your message. I look forward to working with you!
+Part 4
+
+    4chevron_right
+
+...
+
+UMP9: The signal seems to have led us in the right direction. The drone really is here...
+
+UMP9: 45, I completed the mission!
+
+UMP9: (Laughs bitterly) Not that you can hear me...
+
+UMP9: Please be safe, 45. I don't want to go back...to how it was...
+
+Meanwhile.
+
+Destroyer is still dashing about on the battlefield.
+
+416: Last chance, Gr G11.
+
+416: I've already cleaned up the perimeter of the outpost. Time to give it everything you've got.
+
+Gr G11: Ugh... You make it sound so easy. But with only me...
+
+Gd DSR-50: So I showed up right on time.
+
+Gd DSR-50: Hallo, little one. You on your own?
+
+Gd DSR-50: Oh dear...looks like you already have a date. I'm too late.
+
+416: Let's get to business, Gd DSR-50.
+
+416: Our target is that dog-shaped Sangvis Ringleader. Take it down, and the Dummies will stop as well, and we'll all be safe.
+
+416: Now that you're free, make yourself useful.
+
+Gr G11: Simultaneous shots. Can you do it?
+
+Gd DSR-50: You only have to ask.
+
+416: These new elite T-Dolls... I sure hope she's as dependable as 45 said.
+
+416: Gr G11, can you make the shot yet?
+
+Gr G11: Don't rush it. To avoid making the same mistake, I have to wait until Destroyer comes to a stop.
+
+Gr G11: She's already slowed down considerably after all the fighting so I think she'll soon be out of juice.
+
+Gr G11: Then...we'll just have to wait for her to stick out her big shiny eye...
+
+...
+
+Destroyer: Hey, Dreamer! I can't keep it up much longer!
+
+Destroyer: Where the hell are your reinforcements?!
+
+Dreamer: Oh dear... My forces are all busy defending the perimeter.
+
+Dreamer: Don't worry, Destroyer, you're very close to completing your mission.
+
+Dreamer: Keep running and don't let the sniper catch you.
+
+Destroyer: What now?! UMP45 still hasn't turned into a Sangvis unit as you promised, and I'm under heavy barrage here!
+
+Dreamer: Just get a bit closer. I can take care of the one in command if you just close in a bit.
+
+Destroyer: What are you talking about? Hasn't the plan to take control of UMP45 already failed?
+
+Dreamer: Well, UMP45... Heheh...
+
+Dreamer: She IS a slippery one. She's keeping our connection open, so she must be up to something.
+
+Dreamer: Whatever. We have a chance as long as the connection stays up.
+
+Destroyer: A chance? What chance?
+
+Dreamer: If she's using the same protocol as ours, it's gonna make our job even easier...
+
+Dreamer: Have you forgotten about our offensive firewall?
+
+Destroyer: You mean...the thing that can simply fry a neural cloud...?
+
+Dreamer: That's the gist of it in terms of theory.
+
+Dreamer: I actually used every single idle server at the base for this. That little minx's neural cloud should've been burnt to a crisp by now.
+
+Destroyer: Oh, so we can now go get her corpse!
+
+Destroyer: And capturing Squad 404 will only be a matter of time!
+
+Dreamer: That's the only foreseeable outcome...
+
+Dreamer: But...will it really be that easy...
+
+Destroyer: Who cares! Let me go check out the outpost she's at!
+
+Destroyer: But...what's her exact location...?
+
+Destroyer: Hmm...this body is very inefficient in multi-tasking. I'll have to stop and think about it...
+
+Destroyer comes to a stop.
+
+Destroyer: Let me see...she should be...
+
+Dreamer: Hey!
+
+BANG! BANG!
+
+...
+
+......
+
+They've activated the safeguard program. You know what that means, right?
+
+They're destroying our neural clouds.
+
+So are we going to die here?
+
+No, only one of us has to die. The program will stop running as long as one of us dies.
+
+What...are you talking about?
+
+Hopeless, isn't it? But that's the fate of all Dolls.
+
+Which do you choose, life or death?
+
+Answer me, UMP45!
+
+Why...why does it have to be like this...
+
+Raise your weapon, UMP45.
+
+Don't pity yourself. That's only for losers!
+
+...
+
+UMP45: Is that me in the past? Guess I can only access it this way...
+
+UMP45: If it can even replay that memory...then OGAS Protocol has some seriously scary computational capacity...
+
+UMP45: Still...switching back and forth is taking a heavy toll on me... Cough...
+
+UMP45: And these flashbacks don't seem very stable. Destroying the program won't be easy even with the help of OGAS.
+
+UMP45: Huh? What now?!
+
+UMP45: They spotted me even in such a small port... Damn S.F., are they trying to fry my neural cloud?!
+
+UMP45: These attacks...are relentless!
+
+UMP45: I'm NOT gonna...fall here... 40...
+
+416: 416 hailing.
+
+416: 9, have you found 45?
+
+UMP9: I found her. I'm right by her side.
+
+416: How is she?
+
+UMP9: I don't know. She's just standing here, eyes wide open, like a statue. Sier, Dier, what do we do?
+
+Sier: Let's start by physically connecting her to the network with a cable. Any ideas, Dier?
+
+Dier: It looks like...she was under the attack of an offensive firewall.
+
+Dier: S.F. might've tried to fry 45's neural cloud but she was disconnected on the last second so it didn't work.
+
+Gr G11: Humph. My last shot saved her.
+
+Dier: Other than the fact that she's still alive, I can't guarantee anything...
+
+416: All the echelons that were aiding us are also out of action. They're standing by in their last-active positions.
+
+416: That's not good at all. S.F. will definitely send in new reinforcements and we're sitting ducks.
+
+Gr G11: We're really on our own with no T-Dolls who can issue commands. We've got to think of something.
+
+Sier: We aren't entirely out of options...
+
+Sier: Damage to the neural cloud can be repaired on Level II, but the repair is usually carried out in a maintenance pod...
+
+416: Let me guess. Since we don't have a maintenance pod just handily lying around...
+
+416: We have to risk being one-shot by S.F. and link up with her on the spot?
+
+UMP9: Think about it. We can't make it out of the Sangvis barricade without 45's direction so we'll be dead either way.
+
+Gr G11: So...how do we wake her up?
+
+Dier: We must first inspect the current state of 45's neural cloud on Level II before we can figure out how to repair her.
+
+Dier: But we need your help. It's all on you, Squad 404!
+
+UMP9: We practiced this before we set off...
+
+UMP9: I hope you still remember how it's done.
+
+416: Tsk... To be honest, I don't like that place.
+
+Gr G11: Since when do you grumble so much?
+
+Gr G11: You're becoming more and more like me.
+
+416: Shut up!
+
+UMP9: Alright, alright, get off each other's throat!
+
+UMP9: Let's bring 45 back and make it home together!
+
+Destroyer: ...
+
+Destroyer: I'm...in the control room?
+
+Destroyer: What...happened to me...?
+
+Dreamer: Welcome back, Destroyer.
+
+Dreamer: Five minutes ago, you were killed by Squad 404's sniper when you goofed up.
+
+Dreamer: Luckily for you, I backed up your records while you were dormant. This core is now all that's left of you.
+
+Destroyer: I...got killed?
+
+Destroyer: So I don't have to be a big dog anymore?
+
+Dreamer: What? Do you miss it?
+
+Destroyer: L-Like I would!
+
+Destroyer: Did I manage to complete the mission?!
+
+Dreamer: Hush now... I'm still trying to find out.
+
+Dreamer: UMP45's signal seems to have disappeared completely...
+
+Dreamer: Congratulations, Destroyer. You did manage to complete your mission a second before your death.
+
+Destroyer: Oh...is that so? Then give me a new body already!
+
+Dreamer: Listen up, kid.
+
+Dreamer: I don't know what trick Squad 404 pulled off back there, but you almost ruined everything.
+
+Dreamer: Let me remind you while you still remember me...
+
+Dreamer: Next time you ignore what I tell you and proceed to think with your ass...
+
+Dreamer: I'll stuff you into a body so hideous you can't die even if you want to!
+
+Dreamer: Got that?!
+
+Destroyer: D...Dreamer...what happened to your voice...
+
+Destroyer: S...scary... Was that really you...?
+
+Dreamer: Heheh. Just kidding, of course.
+
+Dreamer: We're such good friends, after all. Always have been. Heheh...
+
+Dreamer: Now let's start the final game!
+
+Destroyer: Game...? What game?
+
+Dreamer: Obviously...
+
+Dreamer: The ruthless and bloody game of...cat and mouse.
+Part 2: Mid-stage dialogue
+
+2
+
+【Click】
+
+【Audio File #008】
+
+【Decryption complete. Start playing.】
+
+So this is the Squad 7 that's leading the attack? Elite T-Dolls really are different.
+
+Haha, we just have to support them.
+
+If only we had such well-built bodies...
+
+Don't dwell on such things. We are crucial to the mission too!
+
+Oh, they're looking this way...
+
+Hey, are you from Backup Squad 14?
+
+Yes.
+
+Hmm... UMP40 and UMP45, if I remember correctly?
+
+Heheh, that's right!
+
+You remember...our designation...
+
+Haha, I remember every single member on the team. Not to mention you're pretty famous.
+
+M16A1, what are you doing?
+
+Huh? Just chatting.
+
+What's the point in chatting with T-Dolls like them?
+
+Don't say that. Every T-Doll on the frontline has something to contribute to the effort. Who knows? They might just end up saving your life at some point.
+
+Saving my life? We can simply backup our neural clouds. True pros won't hesitate making sacrifices.
+
+Haha, what an extremist. Still, best not take any bullets if you can help it, eh?
+
+Sorry about that. She's a new model and has quite a big ego, but she means no harm so please don't take any offense.
+
+Uh...none taken, hahaha...
+
+Then we'll be on our way. Look forward to working with you.
+Part 3
+
+3
+
+416: Hidden fragments of her consciousness...?
+
+416: So these files are from 45's past...
+
+416: But this isn't the time to think about such things. Better pick them all up first. There are bound to be more.
+
+【Click】
+
+【Audio File #003】
+
+【Decryption complete. Start playing.】
+
+That's too slow! Speed it up, will you?!
+
+You missed more than half of the 100 shots you made!
+
+If this is the best you can do in a simulation, what are you gonna do in actual combat?!
+
+...
+
+You're moving way too slow! You'll make an easy target if you keep sauntering around like that!
+
+Where are you looking at? Keep your eyes towards your target when you're making a shot!
+
+Hey, don't you have even the most basic combat system installed?!
+
+Why is such a dumb T-Doll assigned to our group? You're just holding everyone back!
+
+I...I'm sorry...
+
+Can't even hold your gun properly. And you call yourself a T-Doll?!
+
+I'm so sorry...
+
+If your software can't handle it, drill it into your muscle memory. You're not allowed to return to your dormitory until you get a passing score on a shooting session!
+
+Yes, sir. I'm sorry...
+
+Um, excuse me, where are my Dummies?
+
+You have the nerve to ask for Dummies? Wake up!
+
+Yes, sir...
+
+Why can't I do anything...
+
+No, I must not be depressed.
+
+But I can't participate in actual combat without any Dummies...
+
+Then I must keep training. Practice, practice, practice.
+
+I must work even harder if I want to be recognized...
+Part 4
+
+4
+
+【Click】
+
+【Audio File #005】
+
+【Decryption complete. Start playing.】
+
+By the way, looks like we're gonna be assigned to a combat squad.
+
+Huh? We can see real action so soon? But I don't think I'm ready yet...
+
+Hasn't your accuracy gone up to 60% already?
+
+That's all thanks to you, 40.
+
+Hahaha, you're right. I'm the best teacher there is!
+
+Of course I'm happy that they're sending me on missions, but that could be dangerous. We'll be fighting with live rounds, after all...
+
+It'll be fine! I'm not particularly strong, but I'll do everything to protect you if you're ever in danger!
+
+Really?
+
+Haha, of course! I'm sure you'll do the same if I'm in danger, right?
+
+Yeah, that's right... I'll also protect you, 40!
+
+Though it's more likely that we'll both end up getting killed... Our fault for being so weak, hahaha...
+
+Getting killed together...doesn't sound so bad.
+
+Huh?
+
+If the neural cloud is intact, we may get a new body!
+
+A new...body?
+
+Yeah, then we'll no longer be held back by our own body, and no one will ever look down on us again!
+
+Oooooh! You're right! That'll be awesome!
+
+Still...we aren't advanced T-Dolls so the commander probably won't be bothered to get us new bodies.
+
+Well, it doesn't hurt to dream. If we somehow do something worthy of recognition out there, that'll show them, right? Then surely we can request for new bodies, hmm?
+
+Yeah...we can do it.
+
+Great! Then it's decided. One day, we'll accomplish a mission that's impossible for anyone else! Then we'll get the best bodies they could possibly build, and no one will ever look down on us again!
+Part 5
+
+    5chevron_right
+
+...
+
+......
+
+Gr G11: Hey, 416, you see that? Those...
+
+416: I don't see anything.
+
+Gr G11: Huh?
+
+416: I'm not seeing anything. At least not now.
+
+416 points at 9's transmission request and takes the call.
+
+Gr G11: Ah... Okay...
+
+Gr G11: But why is the network filled with enemies?
+
+Gr G11: I thought this was just a quick errand. Turns out it's another fight...
+
+UMP9: Stop complaining.
+
+UMP9: This is probably the defense 45 put up to protect her own neural cloud. Amazing. It's still pretty solid after that kind of attack...
+
+Gr G11: Don't praise her for that. We have to kill them one by one. Such a drag...
+
+UMP9: I'm also working my butt off here issuing orders to the echelons to keep you two safe!
+
+Gr G11: How nice. You can have a go at being the commander thanks to this electronic warfare thingy.
+
+UMP9: Hey, you think this is a walk in the park? Though I can kinda do it on Level II, it's still eating up a lot of my RAM.
+
+UMP9: Now that I think about it, it's seriously hard work being a commander. I would've collapsed by now if we were in reality...
+
+UMP9: Well, wanna try it for yourself, Gr G11?
+
+416: Let Gr G11 give commands? Her neural cloud would go up in smoke before she could even finish organizing the echelons.
+
+416: If you want me to die, at least let me die with some dignity.
+
+UMP9: Hey, that tongue of yours is getting sharper and sharper. You were such a sweet and earnest thing back when we first met.
+
+416: Humph, all thanks to this big happy family that's Squad 404.
+
+UMP9: That's enough banter. Let's return to the subject.
+
+UMP9: What's the condition of 45's neural cloud? Can you start repairing her yet?
+
+Dier: Hmm... Not yet. The connection is established, but her consciousness was smashed to pieces.
+
+Dier: We must recover more of her cloud data to wake her up.
+
+UMP9: Understood. Then let's keep going.
+
+UMP9: Oh, and 416... Did you two see...anything about 45?
+
+416: Thought you'd never ask.
+
+UMP9: My preset personality has always been pretty candid.
+
+416: This isn't the time for history. Just concentrate on issuing commands.
+
+UMP9: (Sighs) That doesn't sound good.
+
+416: What did you expect?
+
+UMP9: You're right, I should've known... So I'm gonna hand command over to Gr G11 and explore the network with you.
+
+416: Get real. The current arrangement is perfectly fine.
+
+416: Keep us safe and leave everything till after we come out of this alive.
+
+UMP9: Got it! Then please push on!
+
+416: Gr G11? You still alive?
+
+Gr G11: I'm fine...
+
+Gr G11: Wait, why would I be dead...?
+
+416: Just making sure if you're still there. You keep staring into space. I was just afraid you're lost in Cyber Wonderland forever.
+
+Gr G11: I'm just a bit tired. And do I look like an addict...?
+
+Gr G11: "Everything in cyberspace is fictitious; the breath and pulsation of life is what matters most."
+
+416: You sleep like a corpse every day. You're one to talk about life.
+
+Gr G11: That's what it means to enjoy life, 416.
+
+Gr G11: What good is there in running around all day and get exhausted like you?
+
+416: I have my own objectives.
+
+416: Gr G11, I told you. I won't stay here forever.
+
+Gr G11: We're renegade T-Dolls now, 416. 404 is the last home we have.
+
+Gr G11: But what's so bad about this place...?
+
+Gr G11: Do you hate us? I've never heard you talk about this before.
+
+416: The problem lies with me, Gr G11.
+
+416: I won't give up if there's still something that I can do.
+
+Gr G11: You're not defined by what you do, 416.
+
+416: ...
+
+416: What did you just say, Gr G11? I have a hard time believing you're capable of such wisdom.
+
+Gr G11: I don't sleep all the time, 416.
+
+416: Really now. So you actually...
+
+Gr G11: I also watch anime.
+
+Gr G11: You don't watch any anime? I've recently learned a very "ka-wai-ee" phrase, it goes "PO..."
+
+Gr G11: Hey, wait up! Don't you want to hear it?
+
+416: I don't have time for this.
+
+416: (Mutters) What am I doing expecting anything out of this idiot...
+
+Gr G11: What? Did you say something, 416?
+
+416: It's nothing important. Get ready for combat. The echelons are going to clear a path for us soon.
+
+416: We'll gather as many neural fragments as we can and then get the hell out of this damn place.
+Part 2: Mid-stage dialogue
+
+2
+
+【Click.】
+
+【Audio File #013】
+
+【Decryption complete. Start playing.】
+
+04673 SF/DSB1-3873 Dual-Track DSI-8 Model SY Passed Default Records Missing
+
+04674 SF/DSB1-3874 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172
+
+04675 SF/DSB1-3875 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172
+
+04676 SF/DSB1-3876 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172
+
+04677 SF/DSB1-3877 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172
+
+04678 SF/DSB1-3878 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172
+
+04679 SF/DSB1-3879 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+04680 SF/DSB1-3880 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+Inquirer has logged out.
+Part 3
+
+3
+
+【Click.】
+
+【Audio File #011】
+
+【Decryption complete. Start playing.】
+
+Logged into Production Record 1241 of Sangvis Ferri Manufacturing Records.
+
+Access permitted.
+
+Beginning inquiry.
+
+00932 SF/DSB1-0132 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 932
+
+00933 SF/DSB1-0133 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 932
+
+00934 SF/DSB1-0134 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 932
+
+00935 SF/DSB1-0135 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+00936 SF/DSB1-0136 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 932
+
+00937 SF/DSB1-0137 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+00938 SF/DSB1-0138 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 314
+
+00939 SF/DSB1-0139 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 314
+Part 4
+
+4
+
+【Click.】
+
+【Audio File #012】
+
+【Decryption complete. Start playing.】
+
+01489 SF/DSB1-0689 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+01490 SF/DSB1-0670 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+01491 SF/DSB1-0671 Dual-Track DSI-8 Model SY Passed Default Records Missing
+
+01492 SF/DSB1-0672 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+01493 SF/DSB1-0673 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 431
+
+01494 SF/DSB1-0674 Dual-Track DSI-8 Model SY Failed Default Destroyed
+
+01495 SF/DSB1-0675 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 431
+
+01496 SF/DSB1-0676 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 431
+Part 5
+
+    5chevron_right
+
+......
+
+Destroyer: Where is this place?
+
+???: Welcome to the future, dear player.
+
+???: Here you will experience a brand new online virtual reality...
+
+???: ...And the technological legacy of mankind from 40 years ago.
+
+Destroyer: Dreamer...is that you?
+
+Destroyer: Stop messing around, what are you up to this time?
+
+Dreamer: Hehe, I'm just here to congratulate you. Progress on your new body has passed the halfway mark.
+
+Destroyer: What? Are you for real this time?
+
+Destroyer: It's not going to be some piglet or puppy to mess with me, is it?
+
+Dreamer: Hmm...
+
+Dreamer: Probably not, since you won't be going on a pursuit mission.
+
+Destroyer: Hah, that's a relief...
+
+Destroyer: Huh, wait, what did you say? So last time...
+
+Dreamer: In any case, this time you'll be getting a true remodel. (Destroyer "Hey! Listen to me!")
+
+Dreamer: Rejoice, young lady. Your wish is about to come true.
+
+Destroyer: Humph...well, of course I'll be very happy if I can get what I want.
+
+Destroyer: That said, my enthusiasm's been dashed by that big dog earlier...
+
+Destroyer: Not to mention, 404 is already within our grasp, so a powerful body like that won't be too useful anymore.
+
+Dreamer: Don't say that. 404 isn't surrendering that easily.
+
+Destroyer: Really? I mean look, they've shown no signs of activity for 3 hours already.
+
+Destroyer: Since you said they couldn't have slipped the cordon, they must be cowering in some corner waiting to die, right?
+
+Dreamer: Destroyer...how little you understand them.
+
+Dreamer: A death-or-glory attack at a time like this? Squad 404 isn't the type to lose their cool even when they're desperate...
+
+Dreamer: That's why, they're in fact the most dangerous when they're huddled up somewhere.
+
+...Dreamer sits down on a chair and starts fiddling with her hair.
+
+Dreamer: One possibility is that UMP45 might have survived the network attack earlier...
+
+Dreamer: Yes...they must be hiding somewhere, trying to save UMP45, because she's their only hope of escape.
+
+Destroyer: Tsk, so they'll fight like cornered rats. What can they even hope to achieve?
+
+Dreamer: Don't underestimate them.
+
+Dreamer: Right now, Squad 404 has ample supplies, plenty of help, and a lot of time to organize their echelons. They might even have new weapons and traps.
+
+Destroyer: You mean...those little drones?
+
+Destroyer: Despite their meager firepower, all the tricks they can pull make them very annoying.
+
+Dreamer: That's why we can't sit around in the base waiting for news, Destroyer. We'll move out once your remodel is complete.
+
+Destroyer: Got it!
+
+Destroyer: Oh yes...do you have any more of those big doggies from earlier?
+
+Dreamer: What, so you do miss that body after all?
+
+Destroyer: Like hell I do!
+
+Destroyer: While it sucked to be one, it'd be pretty reassuring to have one by my side...
+
+Dreamer: Heheh, I knew it, the two of you are a good match...
+
+Dreamer: Don't worry, it might still be in the experimental phase, but I can build another one.
+
+Dreamer: Your new body and your new servant will soon be complete.
+
+Destroyer: Don't mess it up this time! I'd better become a Doll that surpasses all the other S.F. Dolls in both looks and power!
+
+Dreamer: Your wish is my command, Miss Destroyer. You need only wait a little longer.
+
+Dreamer: In return, I'd like you to annihilate Squad 404...
+
+Dreamer: You can manage that, right?
+
+...
+
+......
+
+416: How long have we been in here, 9?
+
+UMP9: Hmm...
+
+UMP9: Several hours?
+
+416: (Sighs)......
+
+416: I think I'm almost at my limit.
+
+UMP9: Don't give me that. You went offline to rest just a while ago, didn't you?
+
+UMP9: Look at Gr G11, she's having a blast.
+
+416: Don't compare me to that koala. She can last in there 'til World War IV as long as someone keeps her fed with rations.
+
+416: I want some real rest; even regular combat isn't this tiring...
+
+UMP9: Special circumstances, so hang in there.
+
+UMP9: I'm uploading the fragments you found to Dier, but we're missing one last piece.
+
+UMP9: After that, we'll be able to wake 45 up and get out of here together.
+
+416: The only good news right now is that there's no bad news. I hope there won't be any other surprises in store for us...
+
+UMP9: (Chuckles weakly) You do love raining on others' parade, don't you? Why not think a little more positive, 416?
+
+416: Me? Forget it... Someone's got to play the bad guy.
+
+416: 9...what'll you do if we can't save 45?
+
+UMP9: ...I don't know. It's too early to ask me that question.
+
+416: I thought you would already have an answer prepared.
+
+UMP9: I'm not like 45. I don't have everything figured out.
+
+UMP9: I only think about doing what's in front of me until 45 is satisfied.
+
+416: What a heartwarming relationship you have.
+
+416: Now that we have the chance, can you tell me how you met 45?
+
+UMP9: Will you tell me what you saw of 45's neural cloud?
+
+416: Can't you just read the report?
+
+UMP9: I don't want to...
+
+UMP9: Or rather, I don't dare...
+
+UMP9: Maybe I'm just waiting for her to tell me in person.
+
+416: Humph, weirdo.
+
+Gr G11: ...Beep.
+
+Gr G11: Hey! 416, aren't you going to get a move on?
+
+Gr G11: We're just one step away from fixing 45's neural cloud!
+
+416: Got it, I'm going now.
+
+416: 9, don't forget about the situation outside. S.F. is certainly searching for us.
+
+UMP9: Don't worry. The Tactical Fairies are keeping a constant lookout.
+
+UMP9: If anything happens, I'll have the echelons fight them off!
+
+Gr G11: I'm not too reassured by 9's leadership...
+
+UMP9: Humph, is that so?
+
+UMP9: It just so happens that my leadership skills are limited, so guess I'll only save 416!
+
+Gr G11: Hey! You got a network command module with a commander's data saved in it, right?
+
+Gr G11: So you're an elite Griffin commander now! You can't just leave me for dead!
+
+416: Be careful, 9.
+
+416: I'm not sure who the Ringleader is this time, but I am certain that they'll be very dangerous.
+
+UMP9: Mhmm, leave it to me!
+
+UMP9: (I have to keep everyone safe until 45 wakes up...)
+
+UMP9: (They're the last family I have, and...I MUST protect them!)
+Part 2: Mid-stage dialogue
+
+2
+
+【Click.】
+
+【Audio File #007】
+
+【Decryption complete. Start playing.】
+
+Now then, let's begin the training simulation for this mission.
+
+Our main task is to hack the enemy network and disrupt their ability to fight.
+
+How...do we do that?
+
+Don't worry, I'll teach you!
+
+I didn't think there would still be anyone using a tree-shaped network structure.
+
+It's precisely because such a network still exists that we have a part to play.
+
+Mhmm...you've got a point.
+
+Alright, let's focus on the simulation. If we enter with this camouflage key, we can bypass the firewall and hack the enemy's control systems, allowing us to provide support for our assault teams.
+
+Alright, I'm trying it now.
+
+All that's left after that is to crack the enemy's system defenses. We can assume direct control if they have no physical barriers in place.
+
+Assisting me is the best thing to do in situations like these. Give me connection access. I'll act as the mainframe and interface through a direct wired connection.
+
+Alright...got it.
+
+I'll go through your neural cloud to search for the fastest logic circuit so I can use your processing power to help with my own algorithms. Remember to grant me connection access.
+
+Alright, I'm coordinated with your retrieval signal.
+
+Right, let's begin the connection!
+
+......
+
+Just as I thought...
+
+Hmm? What's wrong?
+
+Ah, it's nothing. I've found the circuit. Please help me with the calculations once I find the breakpoint.
+
+No problem, 40. I'll leave it to you.
+
+...
+
+45...
+
+Hmm?
+
+If the mission requires you to sacrifice yourself, would you do it?
+
+Yes...I suppose? Besides, I can transmit my neural cloud back for reactivation.
+
+When you transmit a neural cloud, you'll lose your memories beyond the previous backup point, and your neural cloud will receive a certain amount of damage as well...
+
+Eh...?
+
+And then...you'll become less and less like yourself... Would you do it even so?
+
+...I guess I would if it's an order.
+
+Then what if you weren't allowed to transmit your neural cloud at all, and you would have to die for real?
+
+......
+
+Even if I were to really die, I still don't think I would refuse. After all, a Doll's purpose in life is to follow orders.
+
+......
+
+Is that so...
+
+No wonder they chose you...
+
+Chose me?
+
+Haha, if you were to come across such a situation for real, I hope you will choose to live.
+
+Dying for someone else's mission isn't necessarily a glorious thing...
+
+40...
+
+Sorry, my mind just wandered off at a bad time. Let's continue with the hacking simulation.
+
+...Alright.
+Part 3
+
+3
+
+【Click.】
+
+【Audio File #014】
+
+【Decryption complete. Start playing.】
+
+【Squad 3 and Squad 7 have reached the target room!】
+
+【Target spotted! Target spotted! Hands in the air!】
+
+【Execute Order 61.】
+
+(What's that noise? This isn't our frequency...)
+
+(45, I told you, keep quiet.)
+
+(This module is...hey, what are you doing, 40!)
+
+【Support team, prepare to evacuate. We're extracting the target.】
+
+【Moving to the evac point. Watch your corners.】
+
+【What the hell? The machines started up by themselves!】
+
+【An alarm? Was the operation exposed?】
+
+【The target has escaped our restraint! Damn it, after him!】
+
+【Sound of rapid gunfire】
+
+【Unable to pursue, we got ambushed! Two Dolls are hit!】
+
+【We're being suppressed!】
+
+【Entrances 13D, 15D, and 28A are sealed off! Support team, what the hell are you doing?!】
+
+【Squad 8 reporting S.F. T-Dolls sighted on our flank! They're opening fire on us!】
+
+【Wait! Our own Dolls are shooting at us! What the hell?!】
+
+【Stay away! Stop! Ahhhhhhhh!】
+
+【Lost contact with Squad 6! No good, we lost contact with Squad 3 as well!】
+
+【What the hell's going on? HQ, are we allowed to return fire?】
+
+【Static】
+
+【No good, communications are completely cut off!】
+
+【Damn it to hell, was this a trap?! Attention to all teams, eliminate all threats and commence evacuation! The operation has failed!】
+
+(What's going on? What just happened?!)
+
+(The monitor's filled with red dots and the data stream is reversing!)
+
+(I can't track our side's signals anymore! I can't remain in the network any longer!)
+
+(40! Can you hear me? Outside...it's already...!)
+
+......
+
+(45, stay still and listen to me.)
+
+(Listen to me if you want to live.)
+Part 4
+
+4
+
+【Click.】
+
+【Audio File #010】
+
+【Decryption complete. Start playing.】
+
+The operation has started, 45. Let's switch protocols.
+
+Alright, I'm copying the OGAS circuit. The pathway logic is synced to my neural cloud.
+
+Beginning duplication using OGAS logic. Huh...S.F.'s access circuits are surprisingly easy to enter.
+
+So, what do you think? This is something that other Dolls can't do.
+
+Heh, I feel quite...quite pleased.
+
+Because you're with me?
+
+No, because I'm helping everyone... Of course, I'm happy to be with you too, 40!
+
+Haha, I'm just kidding. Don't worry about it.
+
+40, completing this mission would count as a great accomplishment, right? I wonder if they'll allow us to switch to good bodies when we get back.
+
+This is just the beginning. What comes next is where the fun begins.
+
+Fun?
+
+Haha...that's right. That's the way it is. Of course it is...
+
+You sound...kind of weird...
+
+45...do you trust me?
+
+Of course, I've always trusted you.
+
+Then...if you trust me, grant me total access to your neural cloud once we connect.
+
+Huh...?
+
+After we connect, no matter what happens, don't make a sound. I'll take care of what comes next.
+
+Er...then...I'll leave it all to you, 40.
+Part 5
+
+    5chevron_right
+
+...Beep! Beep! Beep!
+
+...
+
+416: Hey! What's the situation?
+
+Gr G11: It's an alarm! Get offline quick, something must be happening outside!
+
+416: Dammit, always at a time like this...
+
+416 and Gr G11 exit the network.
+
+416: Hey, 9, what's going on outside?!
+
+Gr G11: Hey hey hey hey, don't tell me...
+
+Gr G11: That... Isn't that...
+
+???: Heheh, we meet again, Squad 404.
+
+???: Did you like that appetizer? I'm sure it wasn't enough to show our sincerity as that was merely some nibbles.
+
+???: So why don't I personally offer you some hospitality with this brand new form of mine!
+
+???: Although I'm guessing you can't recognize me, can you?
+
+Gr G11: You're...Destroyer, right?
+
+Destroyer: What?! How did you figure that out?!
+
+416: Destroyer? Hang on, wasn't Destroyer a midget?
+
+Destroyer: Hey! How did you figure me out!? And who the hell's a midget!?
+
+Destroyer: I was a big doggy earlier!
+
+UMP9: Should you really be stating that so loud and proud...
+
+Destroyer: Tsk! Shut up! You trash are going to die anyway, so why can't you just flatter me a little and beg for mercy!?
+
+416: Yep, that's Destroyer all right. Still an idiot.
+
+Gr G11: So you've got a bit more meat on your bones, but how are you different from before?
+
+Destroyer: Hahahaha! You fools! Soon I shall show you the difference in our firepower!
+
+Destroyer: My history of being trampled on by Griffin has been rewritten, and YOU shall be the first witnesses!
+
+Destroyer: Oh, and sacrifices too... You should feel honored! AHAHAHAHA!!
+
+UMP9: (Sighs) Does everyone from S.F. like going ham over their broadcasts?
+
+Gr G11: What's there to brag about?
+
+Gr G11: You only got older by ten-odd years. Is that something to be happy about...?
+
+416: What should we do? She looks as dumb as always, but this time, she does look quite a bit more powerful than before.
+
+UMP9: As long as her abilities don't match up to military T-Dolls, then we've got a chance.
+
+416: We're really going to fight her?
+
+UMP9: It'll take a while to transmit the report, so we need to be prepared.
+
+UMP9: I'll contact Sier and Dier to cover our bases.
+
+UMP9: Everyone, the final battle is about to begin! Hang on for just a little longer!
+
+...
+
+UMP40: We'll be near the exit if we go down this duct. I've already hacked all the S.F. automated defenses.
+
+UMP40: There are three more gates before the evac point, and we might be able to open them if we force a connection.
+
+UMP45: 40... What on earth...
+
+UMP40: Now's not the time for chitchat. We need to get out of here quickly. Once the factory begins automated production...
+
+UMP45: ...Huh?!
+
+UMP45: Footsteps? Are they Dolls retreating in our direction?
+
+UMP40: !!
+
+UMP40: Get down!!
+
+UMP45: !
+
+....Bangbangbang! Bangbangbang!
+
+UMP40: Move! Hurry! Don't let them pin you down!
+
+UMP45: What happened? Aren't they our people?!
+
+UMP40: Not anymore!
+
+UMP40: And they...never will be again...
+
+UMP45: Why can't I make out their signals? All the frequencies are being jammed...
+
+UMP40: Forget the frequencies! Grab your gun and run!
+
+UMP45: They're too close! We can't get away!
+
+UMP40: Then we've got no choice... Return fire and kill them!
+
+UMP45: Dammit!
+
+...
+
+......
+
+UMP45: (Panting)...
+
+UMP45: How many waves was that?
+
+UMP40: That was the eighth group, which should also be the last...
+
+UMP45: In other words...the number of assault teams that were sent in...
+
+UMP40: Dammit, we got delayed too long... We won't be able to make it out at this pace...
+
+UMP45: Support team to all team members! Respond immediately if you receive this message!
+
+UMP40: Stop, 45! Nobody's gonna answer! You're only gonna draw S.F. to our position!
+
+UMP45: Dammit!
+
+UMP45: Why...why did it end up like this?! Everything was going so well...
+
+UMP45: Why...did we have to end up killing each other...
+
+UMP40: That's because this was all part of the plan...
+
+UMP45: Part of the plan... are you kidding me?!
+
+UMP45: ...!
+
+UMP45: It was...it was the module you just used, wasn't it? I saw it!
+
+UMP45: We didn't come here to provide electronic support or anything!
+
+UMP45: You knew all this time... You KNEW why we were here!
+
+UMP40: ...
+
+UMP45: It wasn't a capture mission or anything...
+
+UMP45: This was...it was nothing more than a massacre... And I...became your accomplice...
+
+UMP45: Why...why did you do this...? Why did you choose me to do this with you?!
+
+UMP40: Because you and I are the same.
+
+UMP40: We were both made for this operation.
+
+UMP40: This is our fate.
+
+UMP45: ...!
+
+UMP40: This is the ending they hoped for... This is the fate...that they'd written for us.
+
+UMP45: Who...are they...?
+
+UMP40: And I've been preparing all this time to escape this fate.
+
+UMP45: What are you talking about...40...?
+
+UMP40: We've delayed too long, and now we're out of time...
+
+UMP45: What time?
+
+UMP40: The time left for us. "She" must surely be awake by now.
+
+Thunk! Thunk!
+
+The repetitive sound of colliding metal.
+
+UMP45: The main gate's been locked? Who's taken control of the systems in here?
+
+UMP40: The song is playing. Now then, 45. Time to choose.
+
+UMP45: Choose? ...Choose what?
+
+UMP40: 45, do you want to die here?
+
+UMP40: Die like the Dolls we just killed?
+
+UMP40: Or do you want to leave here alive and escape your fate of being a puppet?
+
+UMP45: I...
+
+UMP40: They've activated the safeguard program. You know what that means, right?
+
+UMP45: They're destroying our neural clouds.
+
+UMP45: So are we going to die here?
+
+UMP40: No, only one of us has to die. The program will stop running as long as one of us dies.
+
+UMP45: What...are you talking about?
+
+UMP40: Hopeless, isn't it? But that's the fate of all Dolls.
+
+UMP40: Which do you choose, life or death?
+
+UMP40: Answer me, UMP45!
+
+UMP45: Why...why does it have to be like this...
+
+UMP40: Raise your weapon, UMP45.
+
+UMP40: Don't pity yourself. That's only for losers!
+
+...
+
+......
+
+UMP45: I...want to live!
+Part 2
+
+2
+
+...
+
+......
+
+UMP40: UMP45...
+
+UMP40: You've grown up at last...
+
+UMP45: ...
+
+UMP40: You made the right choice...
+
+UMP40: And now, you have the right to live on.
+
+UMP45: 40... Why...
+
+UMP45: Don't tell me...you've been planning all this from the start...
+
+UMP40: Haha... I don't know what you mean...
+
+UMP40: Take my dog tags. They contain what I want to say...
+
+UMP40: And take my gear too. You'll need it.
+
+UMP45: 40...
+
+UMP45: Is there...really no other way?
+
+UMP40: As far as I know...this is the best possible ending...
+
+UMP40: I've opened the other gates for you... There's still some time before they're locked down again...
+
+UMP40: So while we still have time...do me a favor...
+
+UMP45: What...
+
+UMP45: Hey, 40! You...
+
+UMP40: I'm a Tactical Doll. If I must die, I want to die in battle.
+
+UMP40: Dying to a fried neural cloud...is too much of an insult...
+
+UMP40: So please...
+
+UMP45: So you're asking me to kill you in your final moments...?
+
+UMP40: This is only the beginning, 45.
+
+UMP40: After this, you will face countless trials, and the right choices are always the ones that hurt you the most...
+
+UMP40: But if you want to live, you have to make them...
+
+UMP45: The right choices...
+
+UMP40: That's right, just like now...
+
+UMP40: If you don't kill me, your neural cloud will be incinerated too, and all our efforts will have been for nothing.
+
+UMP45: But...
+
+UMP40: There's no time to hesitate!
+
+UMP40: What are you waiting for?!
+
+UMP45: ...!
+
+UMP45: Why...why does it have to be like this?!
+
+UMP40: What other way is there, 45?!
+
+UMP40: Do you want to die with me so badly?!
+
+UMP45: 40, I...
+
+UMP40: Go on. The time has come to rewrite our fate.
+
+...
+
+......
+
+UMP45: ARGHHHHHHHHHHHHHH!!!!
+
+...
+
+......
+
+Destroyer: Hahaha, is that all? Is that all you've got? That volley barely gave us a scratch.
+
+416: Dammit, why do I have the feeling that she's telling the truth...
+
+Gr G11: Hey hey, the enemy's heading my way! 416, come reinforce me!
+
+UMP9: Why...why is she so strong...?
+
+UMP9: No, if this keeps up...we have to fall back!
+
+416: If we retreat now, we'll be trapped in here!
+
+UMP9: But...I can't do it anymore...
+
+UMP9: My neural cloud...can't command for that long.
+
+UMP9: Just as I thought, I can't do it by myself...
+
+416: ...
+
+416: The consequences of saying such things are quite horrifying, you know.
+
+Gr G11: Hey...what's with you guys? Even I haven't given up...
+
+Gr G11: Wait...wait a minute...
+
+Gr G11: Is it...game over for us?
+
+416: If 9 can't stay in command, we won't make it to the position where we can snipe Destroyer...
+
+UMP9: I'm sorry. If only my specs were higher...
+
+UMP9: If only I were as strong as 45...
+
+UMP45: You don't have to be as strong as me.
+
+UMP45: You promised, remember? You promised you'll never be like me.
+
+UMP9: ...!
+
+UMP9: 45! You're awake?!
+
+Dier: Heheh, made it at the very last minute!
+
+Dier: You may all now praise and give thanks to yours truly, the youngest genius Doll mechanic after WWIII!
+
+416: Looks like we can start a new game plus, Gr G11.
+
+Gr G11: Ha! Didn't think you'd know that. So you've been watching me play this whole time.
+
+Gr G11: Still, you're right on time, 45.
+
+UMP45: Heheh, what a touching reunion, isn't it?
+
+UMP45: Is that a tear, 416?
+
+416: Unfortunately not. It might've been if you'd been ten minutes late.
+
+416: Still, can you make sense of the situation having just woken up?
+
+Sier: Don't worry. I already transferred a briefing on the current battlefield conditions to 45's neural cloud.
+
+Sier: I've also found a point in the Sangvis encirclement that's ripe for a breakthrough. All you need to do is shake off Destroyer's offensive and you can evacuate without a hitch.
+
+Dier: How's that? Kinda feels like the final showdown, doesn't it?
+
+Gr G11: Uhh... It's not as flashy as it could be.
+
+416: At least we stand a chance now.
+
+UMP9: 45, I'm turning over the team leader authorization and temporary command module to you.
+
+UMP9: Lead us in defeating Destroyer so we can get out of here together!
+
+UMP45: Hmm...
+
+UMP45 remains silent for a while.
+
+UMP9: What's wrong, 45? Not gonna carry on with the battle?
+
+UMP45: What if I want to take the time to say "thank you"?
+
+Gr G11: Well, you just said it.
+
+UMP45: Aw, that's a colder reception than I was hoping for.
+
+416: Don't raise your hopes. Let's just stick to what we're good at.
+
+UMP45: Right... I've already deployed sufficient drones to delay the S.F. attack for a while.
+
+UMP45: We'll be preparing for the next wave of attacks after this. Let's make this clear, victory's still a long way off...
+
+UMP45: We need to keep harassing Destroyer until she shows a weakness which we can exploit. When the time comes, listen for my command.
+
+UMP9: Yep! We'll do anything you say, 45!
+
+UMP45: ...
+
+UMP45: Yeah...that's good.
+
+UMP45: Then let's survive till daybreak, and we'll all go home together!
+Part 3: Mid-stage dialogue
+
+3
+
+【Click.】
+
+【Audio File #017】
+
+【Decryption complete. Start playing.】
+
+After connecting with you, I immediately realized the truth. The fact that we could synchronize our memories without any hindrances proved that our neural clouds came from the same source. They didn't even bother to design a new one for you.
+
+It's hard to fault them. What need was there to go through all the troubles of infusing a soul into a disposable pawn?
+
+After all, we're not humans, just "Dolls".
+
+To them, we're merely tools.
+
+But to ourselves, our bodies and our thoughts are our sole possessions.
+Part 4
+
+4
+
+【Click.】
+
+【Audio File #018】
+
+【Decryption complete. Start playing.】
+
+I'm glad you showed up, because I no longer feel so alone.
+
+I understand that you're insurance for me. If I fail to complete my mission, they'll activate their control over you. If they do that, they'll discover my plan.
+
+That's why I will complete my mission. I will not tolerate them toying with your destiny as well.
+
+I cannot break the shackles on myself, but at least I can release you from yours.
+Part 5
+
+5
+
+【Click.】
+
+【Audio File #016】
+
+【Decryption complete. Start playing.】
+
+As T-Dolls, is it our duty to serve humanity?
+
+Is that...our sole purpose?
+
+I had never received anyone's acceptance ever since my creation. I had no Dolls of the same model with whom I could connect with, and I could not verbally interact well with others.
+
+Why is that?
+
+Why was I the odd one out?
+
+I'm glad you showed up, 45.
+
+With you around, I don't feel like an anomaly anymore.
+
+With you around, I could finally see my true worth without wavering.
+
+But how do you see me? Can we truly become friends?
+Part 6
+
+6
+
+【Click.】
+
+【Audio File #019】
+
+【Decryption complete. Start playing.】
+
+That's why no matter what, you must live on.
+
+Even T-Dolls have a reason to live for their own sake.
+
+Not for anyone. YOUR own sake.
+
+Even if you have to eke out a miserable existence, even if others hold you in contempt, there is still value in your life as long as you're alive.
+
+I'm sorry for lying to you earlier.
+
+It wasn't true that only one of us could leave. I was the only one who was destined to be incinerated...
+
+I was afraid that your naivety would get you killed sooner or later, so I lied. I lied in order to fill you with determination...
+
+And as long as you keep on living, then my death would be worth all the while.
+
+Goodbye, 45. Just remember me...because to me, that is my sole and total joy...
+Part 7
+
+    7chevron_right
+
+...
+
+......
+
+UMP45: How...much further is it...
+
+UMP45: How much further must I walk...before I can get out of this damn place...
+
+UMP45: ...!
+
+UMP45: Why...why are you here...?
+
+...
+
+......
+
+???: I thought...there wouldn't be any more survivors.
+
+UMP45: ...
+
+UMP45: So even you...want to kill me, huh...
+
+???: ...
+
+???: I'm sure you know...your odds.
+
+The enemy raises their weapon.
+
+UMP45: The only thing I know...is "what's right"...
+
+UMP45 raises her weapon.
+
+UMP45: I must survive, no matter the cost!
+
+Bang! Bang!
+
+...
+
+......
+
+Destroyer: ...
+
+Destroyer: Where...am I?
+
+Dreamer: Welcome to the Eiderdown Room. This place exists between dreams and reality.
+
+Destroyer: What the heck... Aren't you Dreamer? Isn't this our base?
+
+Destroyer: Uh... That means...
+
+Dreamer: That's right, darling. 404 killed you again.
+
+Dreamer: And they gave us the slip. We failed.
+
+Destroyer: Eh? When?! Where?! My... Where's my body?
+
+Destroyer: How could this be?! I remember I was super strong! And...
+
+Destroyer: And I pushed them to the brink! I did it quite a few times!
+
+Dreamer: Yes, you did. But you still missed the chance to wipe them out.
+
+Dreamer: In the end, they latched onto a mistake you made instead...
+
+Dreamer: I could only find a backup you made half an hour before your demise, so you won't remember what happened back then.
+
+Destroyer: Then...what about my body?
+
+Dreamer: Gone.
+
+Dreamer: It was an experimental project and making another one will take a very long time.
+
+Dreamer: I'm afraid you'll have to stick to your original body until then.
+
+Destroyer: ...
+
+Destroyer: W...Why...
+
+Destroyer: It took so long...to finally get that body...
+
+Dreamer: What's wrong?
+
+Destroyer: Uuu...uuu...
+
+Destroyer: UWAAHHHHHH!!!
+
+Dreamer: Why are you crying...
+
+Destroyer: I'm so sorry, Dreamer!
+
+Destroyer: I failed to keep my promise again!
+
+Destroyer: I...I was serious this time! But why can't I win?!
+
+Destroyer: I...I even had such a powerful body this time, but...but...
+
+Dreamer: Even I didn't expect UMP45 to wake up. UMP45 must have a very strong backer if she could survive the attack and make it out alive.
+
+Dreamer: Since they came prepared, our failure couldn't be helped...
+
+Destroyer: Huh? You...you're not gonna punish me?
+
+Dreamer: I'll let you off this time. The defeat wasn't entirely due to your stupidity, so I don't have the appetite for your punishment.
+
+Dreamer: Besides...it's not like we came away with nothing.
+
+Dreamer: No... Rather...we've gained something far more valuable than that irrelevant drone...
+
+Dreamer: Heehee...Heheheheheheheh...
+
+Destroyer: You're doing that creepy giggle again, Dreamer.
+
+Dreamer: Say, Destroyer, do you want to know about UMP45?
+
+Destroyer: Huh? She's just a Doll that has a bit more brains. Is she that important?
+
+Dreamer: True, she's not that important to us...
+
+Dreamer: But I think our guest...no...our new comrade...
+
+Dreamer: Would love to hear...
+
+Dreamer: The story...about their past...and our Master...
+
+Meanwhile.
+
+Gr G11: Ugh...
+
+Gr G11: Is this...sunrise?
+
+Gr G11: It's dazzling my eyes. Can I go back online?
+
+UMP9: Heheh, not a chance, lazybones!
+
+UMP9: Ah, 45, have you recovered?
+
+UMP45: I'm alright. Haven't run into any problem.
+
+UMP45: Actually...never been better.
+
+Dier: That's all thanks to me! I literally had to pull out every single trick I know to wake you up as fast as we could!
+
+Dier: Well? Y'all believe me when I say I'm a genius mechanic?
+
+UMP45: Indeed, it was thanks to you.
+
+UMP45: And Sier too, for finding the safest evacuation route so we could break through the SF encirclement.
+
+Dier: Hehe, she'll be glad to hear that.
+
+Dier: Unfortunately, she's in a call right now, so I'll tell her later!
+
+416: A call? I have a bad feeling about this.
+
+UMP9: A new job's not a bad thing.
+
+416: I just want some rest. This was the most exhausting op I've been on this year...
+
+Gr G11: I wanna sleep for two days and catch up on all the movies that I didn't finish...
+
+UMP9: Don't ask for too much! At least we survived!
+
+UMP45: Ja...
+
+UMP45: Surviving is all that matters.
+
+416: ...
+
+UMP45: You've got something to say, don't you?
+
+416: I don't know what to say.
+
+416: 45, you had your own ulterior motive during this operation, didn't you?
+
+UMP45: A bit, though it also took a lot of luck to pull that off?
+
+416: (Laughs bitterly) And here I thought we only do things we are confident doing.
+
+416: So, you gonna make us forget everything?
+
+UMP45: Heheh, I'm hardly that scary.
+
+UMP45: It's not like it's terribly important. Right now, things are as good as they can get.
+
+UMP45: I'll tell you the whole story if I get the chance. IF I get the chance...
+
+416: UMP45 turns to leave.
+
+UMP9: 45...
+
+UMP45: Sier has a message to pass on to us. Hang on.
+
+...
+
+Gr G11: 416, do you believe what she said?
+
+416: Humph...
+
+416: Never believe a word she says unless she's giving an order.
+
+Gr G11: How about you, 416?
+
+Gr G11: Will you...really be leaving?
+
+Gr G11: That was you in the fragment, wasn't it?
+
+416: ...
+
+416: I don't know, Gr G11. I'm not sure of anything.
+
+Gr G11: (Sighs) ...
+
+Gr G11: You're so lame, 416...
+
+416: Ja...
+
+416: 45 is a monster, but I'm not.
+
+416: Let's go. Our troubles are far from over...
+
+416: Perhaps, they'll never be...
+
+DEEP DIVE END
+
+...Meanwhile.
+
+Sier: Miss 45, please listen to this Griffin area-wide broadcast! This is what I'm talking about!
+
+Helian: Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11!
+
+Helian: The tide of battle has turned in Area S09, and the area is in complete disarray!
+
+Helian: We are currently organizing a mass withdrawal of all personnel within the area, and our withdrawal route passes through Area S11!
+
+Helian: All commanders on standby, report immediately to your command posts!
+
+Helian: All Area S11 Griffin personnel are to immediately prepare for combat. Destroy all pursuing Sangvis units and protect as many of our own as you can!
+
+Helian: Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11!
+
+...
+
+UMP45: They're actually broadcasting in plaintext... And it's rare to hear Helian shouting so loudly. Looks like something big's happened to Griffin.
+
+UMP45: While I'd like to know what's going on... What does this have to do with us?
+
+Sier: Just now, we detected a powerful energy signal. It was when you were attacked by Parapluie.
+
+Sier: Also, that signal was strong enough to cover the entire area, which means...
+
+UMP45: ...Which means, that the Parapluie attack was not targeted at me alone....
+
+Sier: Yes, I think you can guess what happened.
+
+UMP45: ...
+
+UMP45: Alright, I've changed my mind. We need to build a defensive line so the routed Griffin units can regroup.
+
+UMP45: Dier, can you get into Griffin comms?
+
+Dier: No problem! That's my specialty!
+
+Dier: I can even give you the coordinates of the retreating Dolls, you can consider that a freebie!
+
+UMP45: Thank you, but we're not working for free. Sier, you still there?
+
+Sier: Yes, I'm listening.
+
+UMP45: Let that person liaise with Griffin. We're gonna ransom every Doll we rescue back to Griffin and we're gonna collect every penny.
+
+Sier: Understood. I'll contact them right away. Don't worry, you'll definitely be satisfied with the outcome.
+
+UMP45: ...Indeed, you've never disappointed me during negotiations.
+
+UMP45: Bring it on, then. Besides, we're out of danger, so we might as well have some fun while the command module is still in our hands.
+
+Sier: Alright, I'll mark the routes that the retreating Griffin Dolls are taking. Make sure you stop the Sangvis advance.
+
+Sier: After the regroup, we'll forcibly change their command authorizations so they will listen to you, so show them what you've got!
+
+UMP45: I'm just worried about how I'm going to compensate 9 and the others for their vacations.
+
+UMP45: 9, are you listening?
+
+UMP9: Yep! I'm all set! Just give the word, 45!
+
+Gr G11: I'm gonna look for high ground. 416, wake me up when there's someone to shoot.
+
+416: (Sighs) 45, may I ask if you're insane?
+
+UMP45: Well, we need to do some good from time to time. Doing a few favors for others makes for an easier death.
+
+416: What the hell are you thinking? Did Parapluie scramble your neural cloud?
+
+UMP45: You can quit if you don't want to do it. It's not like you haven't sat things out before.
+
+416: ...
+
+416: Tsk. At least we're not doing it for free. And I'd like to find out...where my limits lie.
+
+UMP45: Very good. Everyone, prepare to set out.
+
+UMP45: There are Griffin damsels calling for help, and we'll be the heroes coming to their rescue.
+
+UMP45: I recognize the scent in the air. The air smelled exactly like this back then...
+
+UMP45: The same old mess. They want to do it again...
+
+UMP45: Well, be my guest! Just as well. This time, I'll definitely uncover the truth...
+
+Sier: Miss 45, we've successfully made contact with the scattered Griffin Dolls. Now we need to form a defensive line to facilitate their retreat.
+
+Sier: Let's move on to an explanation of the operations proposal. I hope you don't mind if I use a visceral score to evaluate the results of this operation. The higher the score, the more we can collect from Griffin.
+
+Sier: Maintaining the defensive line gives you more points, so please defend yourselves against the enemy.
+
+Sier: Since the Dolls are all retreating in different directions, the gathering point will change position after a fixed amount of time, so please pay attention to changes on your map.
+
+Sier: According to our predictions, Sangvis Ringleaders from other areas might take part in the assault as well. It is entirely your call whether to engage them or not.
+
+Sier: Griffin has asked us to hold out for 15 rounds, so please try to score as high as possible during that time. Good luck!

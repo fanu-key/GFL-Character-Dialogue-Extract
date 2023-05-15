@@ -1,0 +1,5125 @@
+Persica: Are you... really going to leave now?
+
+M4A1: Hmm.
+
+Persica: Your performance hasn't been fully tested yet, and it's extremely dangerous outside right now...
+
+M4A1: You know I have to go.
+
+M4A1: If you must stop me, disconnect me and shut me down.
+
+Persica: ...I get it. You won't change your mind.
+
+Persica: My private chopper is on the roof. The Commander will give you the battle coordinates...
+
+M4A1: Thank you...Miss Persica.
+
+Tactical Doll M4A1 takes her leave.
+
+Persica: As expected, her neural cloud has started changing after the restriction was broken...
+
+Persica: Though this isn't really the time to ponder that.
+
+Persica initiates a connection.
+
+System Notice: ...Connected.
+
+Persica: ...
+
+Sound Only: Oh my, is the sun rising in the west? Why else would Lady Persica contact me?
+
+Persica: Don't play dumb. You left that beacon in the Sangvis database, didn't you?
+
+Persica: Don't lie to me. I knew it was you, Angelia.
+
+Angelia: Dear me...
+
+Angelia: Being called that sure brings me back.
+
+Persica: You changed your codename again?
+
+Angelia: Feel free to stick with it. I quite like the name myself, especially when you say it.
+
+Persica: ...Cut the crap. Did you leave the beacon or did you not?
+
+Angelia: Haha, finally busted.
+
+Persica: Since you know the address, I'm sure you've checked it out.
+
+Angelia: The beacon is for returning a past favor. Does you no good to ask any more questions.
+
+Persica: You still don't trust me?
+
+Angelia: If you're just calling to catch up with me, then sorry, I'm very busy at the moment.
+
+Persica: ...Let's change the subject.
+
+Persica: I found the surveillance file from back then.
+
+Persica: But the drone was shot down in the contamination zone. I need the team to retrieve it for me.
+
+Angelia: Can't you just send the AR Team?
+
+Persica: Kryuger has transferred all the T-Dolls...
+
+Angelia: ...All of them?
+
+Angelia: Damn, I look forward to seeing Griffin's next operation...
+
+Persica: Are you helping or not?
+
+Angelia: You can surely guess what actually happened even without looking at the file.
+
+Persica: ...
+
+Persica: Even so...I have to see it with my own eyes...
+
+Persica: I'm sure you understand how I feel.
+
+Angelia: Tsk...
+
+Angelia: Fine. But just to make this clear, the price is not negotiable. We're making a living here, you know.
+
+Persica: As long as I have the file, name your price.
+
+Persica: And...one more thing. I think you should know...
+
+Angelia: This can't be anything good, so just don't say it.
+
+Persica: She left. I couldn't stop her.
+
+Angelia: Ha... I knew it.
+
+Persica: This is my other commission.
+
+Persica: The safety of M4 and the AR Team...
+
+Angelia: This will prove a lot more challenging than the job you just gave me.
+
+Angelia: I'm sure you know they're already within the Military's scope of influence. This is a bit beyond me.
+
+Persica: I know... But you're the only one who can protect them now.
+
+Persica: After all, you...
+
+Angelia: Don't bring that up. I've forgotten all about it...
+
+Angelia: You'd better get ready to move to a smaller place. You're gonna pay us a fortune here.
+
+Persica: Thanks, and I don't mind... You're the only one I can count on...
+
+Angelia: Persica...
+
+Persica: But if you fail, you won't be getting a single dime from me.
+
+Angelia: You absolute bastard!
+
+Angelia: I will never keep a cat even after I retire! Bye!
+
+Angelia terminates the transmission angrily.
+
+Persica: You know, Angelia...
+
+Persica: That's what all cat owners used to say.
+
+Three hours later.
+
+Radio Broadcast: Temporary Air Traffic Control to aircraft in airspace 193x432-1, state your identification.
+
+Pilot: This is an IOP freighter helicopter, registration number XED900002.
+
+Pilot: We have acquired clearance to enter the airspace up ahead.
+
+Radio Broadcast: Stand by, IOP helicopter. We're reviewing your flight path.
+
+Pilot: Roger that. Holding and circling.
+
+M4A1: What is it?
+
+Pilot: It's strange. This route didn't have so much air traffic control before.
+
+Radio Broadcast: IOP helicopter, the airspace you're heading to is now a military control zone. All unauthorized aircrafts are barred entry. Please divert immediately.
+
+Pilot: Understood. Diverting.
+
+M4A1: So we can't get there?
+
+Pilot: The airspace is in lockdown. We have no choice but to go back.
+
+M4A1: Is the ground also in lockdown?
+
+Pilot: I'm not sure about that, but seeing that it's a military control zone, I'd say it doesn't make a difference whether you're on the ground or in the air.
+
+M4A1: Land somewhere nearby. I'll give it a shot on the ground.
+
+Fifteen minutes later.
+
+M4A1: We've landed, but even the roads are closed.
+
+M4A1: This area used to be under Griffin jurisdiction, but I can't get in touch with the Commander...
+
+M4A1: Guess I'll just have to try my luck.
+
+Human Soldier: Stop right there! This is a no-entry zone!
+
+M4A1: I am a special ops T-Doll stationed in Area S09 under Griffin jurisdiction, here to regroup and carry out a mission.
+
+M4A1: My verification code.
+
+Human Soldier: A Griffin T-Doll?
+
+Human Soldier: It's the control zone for this joint operation up ahead. All Griffin Dolls require authorization from a registered commander to gain entry.
+
+M4A1: I...came on short notice and haven't had a chance to meet my commander yet.
+
+Human Soldier: Then contact your master first, Miss Doll.
+
+Human Soldier: But I'd leave it if I were you. A scrawny Doll like you won't be of much use in there, especially with a weapon like that.
+
+M4A1: ...
+
+???: This scrawny Doll can snap your spine in a second, so I'd watch your tongue if I were you.
+
+Human Soldier: Who are you?
+
+Mature Human Female: Captain of the 17th Reconnaissance Squadron. My identification. Can I go in?
+
+Human Soldier: Yes, ma'am! Please enter, ma'am!
+
+Mature Human Female: This Doll is my adjutant. She's coming with me.
+
+M4A1: ...??
+
+Human Soldier: Yes, ma'am! But she just said she is from Griffin...
+
+Mature Human Female: I just hired her.
+
+Human Soldier: Right! Your authorization is in order. Please enter!
+
+M4A1: ...
+
+M4A1 follows the woman into the control zone.
+
+M4A1: Miss Angelia.
+
+Angelia: You saw the name on the ID?
+
+M4A1: Yes, but I'm afraid I can't be your adjutant.
+
+M4A1: I must find my own Commander.
+
+...Angelia gives her a half-smile.
+
+Angelia: Should I praise you for your honesty?
+
+M4A1: I'm merely stating a fact.
+
+Angelia: I know.
+
+Angelia: But do you even know where to find your commander?
+
+Angelia: Your commander is right in the forefront so all relevant intel has been made confidential by the Military. You won't find out much with your current authorization.
+
+M4A1: This is an area under Griffin jurisdiction. I'll find a way.
+
+Angelia: It used to be.
+
+Angelia: You're a little bird that just broke free of its cage, charging blindly ahead.
+
+Angelia: You see that cloud of smoke right there? Another support troop freshly destroyed by Sangvis Ferri.
+
+Angelia: This is a real battlefield. One or two of those Vespids and Jaegers, or even just a few Dinergates can be the end of you.
+
+M4A1: Then why have you brought me in here?
+
+Angelia: Someone is paying me to help you, even if you're trying to get yourself killed.
+
+M4A1: Miss Persica?
+
+Angelia: Clever girl.
+
+M4A1: But she never mentioned you to me. Who exactly are you?
+
+Angelia: Well...
+
+Angie studies M4A1 intently.
+
+Angelia: I'm just your common mercenary working for money. Nothing special about me.
+
+M4A1: So...that ID is forged?
+
+Angelia: To be fair, the Military has some tight security, but I AM an expert in the field.
+
+Angelia: Don't worry. I really am here to help you in my own way... Any other questions?
+
+M4A1 ponders in silence.
+
+M4A1: Please tell me what I should do.
+
+Angelia: Hmm?
+
+M4A1: You said Miss Persica sent you to assist me.
+
+M4A1: I'm...not entirely sure how to proceed...
+
+Angelia: So you just barged into a military control zone alone without even a plan?
+
+M4A1: All I want is to return to my team...to my friends...and make Mastermind pay for everything she did.
+
+M4A1: But I don't know how to do that...
+
+M4A1: Maybe something's wrong with me. This makes no sense...
+
+Angelia: You want to be stronger, but it isn't really who you are. That's why it's a bit too difficult for you.
+
+M4A1: I...
+
+Angelia: There's a little outpost just ahead. Wait there.
+
+M4A1: What?
+
+Angelia: Your commander will come for you. Trust me. I'll make sure of that.
+
+M4A1: Will you...really do that?
+
+Angelia: Yep.
+
+Angelia: I don't really want to go about it like this, but I'll make you strong again.
+
+M4A1: Again?
+
+Angelia: The fact that you're here proves that you've already chosen your path.
+
+Angelia: And since you've made your choice, the solution should be obvious.
+
+M4A1: But the solution isn't presented as an order, so I can't judge whether it's the correct course of action...
+
+Angelia: That's how T-Dolls are designed, but you're different – you're special.
+
+Angelia: Making choices entails suffering, because you have to suffer the consequences of the choices you make.
+
+Angelia: But this is the only way to become stronger, and the only way for you to choose your own destiny.
+
+M4A1: My own destiny...
+
+Angelia: Didn't you go through all that training for this very day, M4A1 of the AR Team?
+
+...Angelia gives her a wave and walks away.
+
+Angelia: You've changed since then...
+
+Angelia: Keep changing.
+
+Angelia: (Only then can you become our only hope...in stopping them from getting what they want...)
+
+...
+
+Meanwhile, at the Griffin outpost in Area S11.
+
+Kalin: Commander, all our supplies have arrived safely at the base! All that's left is for the Military to give the green light!
+
+Kalin: Huh? I'm being too loud?
+
+Kalin: Sorry about that, but I just can't helped being a bit worked up over an operation of this scale! Even you yourself are nervous! How often do you get up so early in the morning?
+
+Kalin: ...You're right. Who could stay calm after receiving such an order?
+
+Kalin: At last...we'll be having a final showdown with Sangvis Ferri's Mastermind.
+
+Kalin: We've been exchanging fire for so long, but now that the moment is finally here, I'm actually a bit flustered.
+
+Kalin: Not to mention, this is the first time Griffin is working with the Military in a joint operation. I wonder if it'll go smoothly...
+
+Kalin: ...Huh? I talk too much? Commander! How could you say that to your adjutant?!
+
+Kalin: In any case, there's no point in thinking about it. Just follow the Military's orders and it'll be fine!
+
+Kalin: Feel free to go all out on the front, Commander! I'll give you the best support you can ever dream of!
+
+The control room receives a transmission request.
+
+Kalin: Here it is! Our orders from the Military!
+
+...Click.
+
+Helian: Kalin, so you're here too. Perfect.
+
+Oh... It's just Miss Helian...
+
+Helian: What's with that disappointment...?
+
+Helian: Commander, your echelons have reached the combat zone, but the other commanders are still on their way, so I'm giving you an important assignment.
+
+Oooh! We're really going all out this time!
+
+Helian: Five minutes ago, Sangvis Ferri ambushed multiple Griffin outposts and disrupted our supply lines.
+
+Helian: The outposts in question are marked on the map. I need you to eliminate the Sangvis forces there to ensure safe passage for our supplies.
+
+Kalin: The forces in the Sangvis base in this area?
+
+Helian: Precisely. This operation is of critical importance. Absolutely nothing can go wrong, especially since we are deep within Sangvis territory.
+
+Helian: So I'm leaving it to you, is that alright?
+
+Helian: ...Good, Commander. We can always count on you. Good luck.
+
+Kalin: A little warm-up before the big battle? Let's go then, Commander!
+Part 2
+
+    2chevron_right
+
+Sangvis base cleared of Sangvis forces.
+
+Meanwhile, M4A1 is taking a break at the outpost.
+
+...Buzz.
+
+...
+
+......
+
+M16A1: Per...sica.
+
+M16A1: I've extracted...the file.
+
+Persica: ...
+
+Persica: Well done, M16.
+
+Persica: Deliver it to 16LAB with your drone.
+
+M16A1: I've already dispatched it along with the equipment you gave me...
+
+M16A1: I've never used it, and I hope M4A1 will never have to use it either...
+
+Persica: ...She'll use it as she sees fit.
+
+M16A1: Ha, true... She's a smart girl...
+
+M16A1: A bit TOO smart, unfortunately. An indecisive AI isn't fit for command. You really should've designed her to be more assertive.
+
+M16A1: Or if I'd been more strict with her... Sadly, that's no longer possible...
+
+Persica: Perhaps... But you're certainly still helping her.
+
+Persica: You know...M4 is right behind me. Everything you say is directly transmitted to her neural cloud.
+
+M16A1: Why are you doing that?
+
+Persica: To stabilize her mental state.
+
+Persica: I'm attempting to break her seals, but forcing her to awaken through technology will make her neural cloud go haywire.
+
+Persica: Your voice is keeping her calm and at peace. That's crucial to repairing and recalibrating the personality of her AI.
+
+M16A1: Seal? Recalibrate? I don't think I'm following...
+
+Persica: M4A1... This time, I won't just wake her up.
+
+Persica: When she awakes, she'll be stronger...and more dependable...
+
+Persica: That's...how she used to be.
+
+M16A1: Ha, I just can't picture...an M4A1 like that.
+
+M16A1: Too bad...I won't get to see it...
+
+M16A1: Ha...
+
+M16A1: So I won't even get to say goodbye?
+
+Persica: The link is still there. If you want to say goodbye, do it now.
+
+M16A1: Haha, will I wake her up, like in your fairy tales?
+
+Persica: Do you want that?
+
+M16 falls silent for a moment.
+
+M16A1: M4A1...
+
+M16A1: No matter what I'll turn into...wait for me.
+
+M4A1: M16...
+
+M4A1: M16! Don't go!
+
+...
+
+M4A1: Another hallucination...? How many times does that make...?
+
+Clear female voice: It's not a hallucination, but something that actually happened in the past.
+
+M4A1: You again...
+
+M4A1: Get out! Stop talking to me inside my head!
+
+Clear female voice: I'm not surprised that you reject me.
+
+Clear female voice: But you still listened to my advice and came back here.
+
+M4A1: I came here because I want to! Now get out of my head!
+
+Clear female voice: You know, I didn't get in your head from outside.
+
+Clear female voice: No matter how hard you try to cut off communications, you'll still hear me, because you want to.
+
+M4A1: Dammit...
+
+M4A1: I don't need you. All I need is orders...orders from the Commander!
+
+Clear female voice: Why must you still insist on thinking like a Doll?
+
+Clear female voice: You clearly have a lot more "freedom" now.
+
+M4A1: What...
+
+Clear female voice: "I'm attempting to break her seals..."
+
+Clear female voice: That's what the woman said, and now you can think about a lot more things – thoughts you wouldn't have in the past.
+
+M4A1: I don't know how to think...
+
+Clear female voice: That's why I'm here...to save you.
+
+M4A1: I don't need you to save me...
+
+M4A1: I don't need you at all! Get OUT!
+
+Clear female voice: I can see it's not time yet.
+
+Clear female voice: Do some introspection, Tactical Doll M4A1, while you still have the chance.
+
+Clear female voice: Don't make your choice when it's all too late...
+
+...The voice disappears.
+
+M4A1: ...
+
+M4A1: M16...
+
+M4A1: I must have faith in her...and believe that she's stronger than me...
+
+M4A1: She'll come back... She definitely will...
+
+...A knock on the door.
+
+???: Excuse me, is this Miss M4A1?
+
+M4A1 confirms that the signal is of Griffin origin, then opens the door cautiously...
+
+...and finds an unfamiliar T-Doll staring back at her.
+
+M4A1: May I ask...
+
+Serious-looking T-Doll: All checks out. You ARE Miss M4A1, correct?
+
+M4A1: And you are...?
+
+XM3: Griffin Tactical Doll XM3, a colleague of yours. Do you not have my record?
+
+M4A1: I've been away for a while and haven't updated my database yet.
+
+XM3: That's alright. It's the Commander's fault for not informing me beforehand.
+
+XM3: In any case, the Commander sent us to pick you up.
+
+M4A1: The Commander...sent you for me? ALL of you?
+
+XM3: Why not? You're an important T-Doll. I know you're worth it.
+
+M4A1: Ugh... But how does the Commander know I'm here?
+
+XM3: The Commander received intel regarding your whereabouts and made it a priority to retrieve you.
+
+XM3: We'll have time to talk on the way. Let's get in the vehicle.
+
+Ten minutes later, the freighter train is traveling along the tracks.
+
+M4A1: Where are we going?
+
+XM3: Wait, you came here without a clue about what's happening?
+
+XM3: We're heading toward the frontline. The Commander will be the vanguard in our joint operation with the Military as we track down Sangvis Ferri's Mastermind.
+
+XM3: I just sent you the details.
+
+M4A1: ...Got it. I was just worried I was on the wrong track. Looks like I'm not.
+
+M4A1: Do you know where SOP-II is right now?
+
+XM3: Give me a second to consult the mission logs.
+
+XM3: The AR Team...should be out on another mission. They've been away for a while now so they should be returning soon.
+
+M4A1: "They"?
+
+XM3: M4 SOPMOD-II and RO635. Is there a problem?
+
+M4A1: Uh, not at all...
+
+M4A1: (RO...635? Does the AR Team have a new member?)
+
+M4A1: What is the Commander doing?
+
+XM3: The Commander is currently providing support for the Military in the upcoming operation, and was very surprised to learn of your return. That's why we were sent to rendezvous with you.
+
+M4A1: You didn't come all the way from the frontline, did you?
+
+XM3: Of course not. We just happened to be running some logistics in the area and were dispatched here instead.
+
+M4A1: Sorry for making you take a detour.
+
+XM3: It's only right that we do whatever we can to aid you.
+
+XM3: But I'm amazed you dared to come in all alone. This place is more dangerous than any of the areas under Griffin jurisdiction.
+
+M4A1: I apologize for barging in thoughtlessly and causing you trouble.
+
+XM3: It's not your fault. But if the Commander didn't order you to come, who was it that gave you such an outrageous mission?
+
+M4A1: No one... I came here on my own volition.
+
+XM3: Your own volition? What's a...volition?
+
+XM3 looks confused.
+
+M4A1: Uh... Let me see...
+
+M4A1: My team has always been searching for a way to eliminate Sangvis Ferri permanently.
+
+M4A1: So naturally, it is my objective to participate in the hunt for Mastermind.
+
+XM3: A target of such high priority? You have a tough job.
+
+M4A1: It's alright. I'm just fighting for everyone's sake.
+
+M4A1: (Mutters) Even if it's only for them, I can't miss this...
+
+XM3: As expected of a special ops team leader. If only everyone were as eager as you.
+
+XM3: This is the largest operation in Griffin's history. A lot of T-Dolls on duty are working beyond their capacity, but some rubbish ones are scared crapless.
+
+XM3: I say "in Griffin's history", but it's really only been two years...
+
+M4A1: (She may look serious, but she does have a sharp tongue...)
+
+M4A1: You seem pretty fit yourself though.
+
+XM3: All the training I've gone through is for the sake of this day.
+
+XM3: I just got here but I already have the opportunity to achieve unimaginable glory. Isn't that a fortunate thing?
+
+M4A1: Aren't you afraid of what most T-Dolls fear?
+
+M4A1: Like...falling in battle and losing your memories?
+
+XM3 falls silent for a moment.
+
+XM3: ...At least I'll still be remembered.
+
+M4A1: Huh?
+
+XM3: Is losing your memories that scary? Isn't that a privilege of being a T-Doll?
+
+M4A1: A privilege?
+
+XM3: A human dies for good if they get shot, but for us T-Dolls, that's just a part of life, isn't it?
+
+XM3: We don't experience true death. Falling in battle is just part of our growth, and I've come to terms with it.
+
+M4A1: (A part of a T-Doll's life, huh...)
+
+M4A1: (Then I guess I'm really not like you...)
+
+XM3: Is something wrong?
+
+M4A1: No... You'll make a fine team leader, XM3.
+
+M4A1: Is the Commander online? I want to get in touch.
+
+XM3: Sure, but you'll have to link up with me first.
+
+XM3: All the channels have been encrypted. Our original communication modules aren't able to...
+
+BOOM!!
+
+M4A1: The first carriage was hit! We're under attack! We have to get off now!
+
+Boom! Boom!!
+
+M4A1: Are you alright, XM3?
+
+XM3: Cough... Still alive. I can fight!
+
+XM3: We're still far from the frontline. How did they get here? And why didn't anyone notice them?!
+
+M4A1: Leave it for now and contact the Commander!
+
+M4A1: Have all your T-Dolls prepare for battle. We're fighting back!
+
+Five minutes later.
+
+M4A1: What's the situation?
+
+XM3: I talked to the Commander, but our forces are stationed too far from us so they can't come to our aid!
+
+M4A1: Then we're on our own! But with the T-Dolls we have...
+
+XM3: The Commander has notified the Military forces in this area!
+
+XM3: They'll be lending us a hand so we have to join up with them!
+
+M4A1: The Military... It's better than nothing, I suppose!
+
+XM3: The Commander has also transferred my command authorizations to you! You have a command module, right? Give the order then!
+
+M4A1: Thank the Commander for me!
+
+M4A1: Listen, all of you! Gather around me! We're fighting our way out!
+
+XM3: Follow M4A1's orders and prepare to attack!
+Part 2
+
+    2chevron_right
+
+The Sangvis onslaught is relentless, making it very difficult for the T-Dolls to get to safety.
+
+M4A1: Cough... Why has S.F. sent so many units here?!
+
+Clear female voice: You know why.
+
+M4A1: Mastermind is looking for me – that has to be it!
+
+M4A1: But how does she know where I am? This doesn't make any sense!
+
+Clear female voice: If you keep being distracted, your friends won't last very long.
+
+M4A1: I know that! Shut up!
+
+M4A1: Dammit... This isn't the time to think about such things... Focus, M4A1!
+
+XM3: What do we do now, M4?! There are too many of them! We can't fight our way through!
+
+M4A1: Get our units to retreat for now! We'll concentrate our fire and prepare for another attempt!
+
+XM3: There aren't many of us still standing. I don't believe we can...
+
+BOOM!!
+
+Several shells land right among Griffin's echelons.
+
+M4A1: XM3? ...XM3, do you copy?!
+
+M4A1: XM3... This can't be happening...
+
+Clear female voice: All their signals disappeared. If you don't move now...
+
+M4A1: Shut it! I know!
+
+M4A1: What should I do now...? Will I also disappear...?
+
+M4A1: No, I have to get out of here first...
+
+M4A1: But XM3 and the others...
+
+Bang! Bang bang!
+
+M4A1: ...!
+
+Suddenly, a torrent of gunfire tears through the Sangvis encirclement.
+
+M4A1: ...!
+
+M4A1: Our aid?!
+
+Boom!
+
+Another round of bullets and a bombardment completely dismantle the Sangvis troops.
+
+...
+
+Human Soldier: Clean out the corners! Watch out for possible ambush!
+
+Human Soldier: All Sangvis signals have been extinguished. Hold on, there's one signal still in motion!
+
+M4A1: Don't shoot! I'm not an enemy! I'm a Griffin T-Doll!
+
+Human Soldier: Drop your weapon and get down on the floor!
+
+Yegor: Lower your weapons! That's our rescue target!
+
+Human Soldier: Yes, sir!
+
+Yegor: Get the autonomous armored units here and leave one behind to guard the train wreckage.
+
+Yegor: Do a headcount on Griffin's surviving units. We'll leave once everyone's in our vehicles.
+
+Human Soldier: Yes, sir!
+
+M4A1: Sorry! Thank you for coming to our aid!
+
+M4A1: Um... To whom am I...
+
+Yegor: Yegor, Military captain.
+
+M4A1: You have my thanks, Captain Yegor.
+
+Yegor: Just doing my job.
+
+Human Soldier: We're done. There are no Griffin survivors.
+
+M4A1: ...!!
+
+Yegor: Such fragile things.
+
+Yegor: What do you expect, running around the battlefield in this flimsy gear?
+
+Yegor: I'll give you a set of camo later. Don't make yourself a target out in the open.
+
+M4A1: ...
+
+M4A1: I have a request, Captain Yegor!
+
+Yegor: Say it.
+
+M4A1: Can we take their bodies with us?
+
+M4A1: Some T-Dolls might still have their core intact. Then they won't have to...
+
+Yegor: No.
+
+Yegor: The T-Dolls can simply retrieve their neural cloud records in the factory. It's not worth wasting our resources for several minutes of memory.
+
+M4A1: But...
+
+Yegor: They've fulfilled their mission. You should be happy for that.
+
+M4A1: If...I had done better...
+
+Yegor: T-Dolls, including you, are manufactured to fulfil your mission.
+
+Yegor: Sacrifices are inevitable and very common on the field.
+
+Yegor: Your guilt will only cause more of your allies to fall in battle.
+
+M4A1: I...
+
+Yegor: They did their job. What about you? Do you want to stay here and die?
+
+M4A1: No...I can't stay here...
+
+Yegor: Then get on the truck and go to where you should be.
+
+M4A1 follows the soldiers and is transported to the frontline.
+
+...
+
+M4A1: More have died for me...
+
+M4A1: Why is it always like this...?
+
+Clear female voice: Because you're special. Irreplaceable.
+
+M4A1: I don't want to be special! I don't want others to die for me!
+
+Clear female voice: Then grow stronger. Only with strength can you protect yourself and your friends...
+
+M4A1: Grow stronger... But how do I do that...?
+
+Clear female voice: Look inside and find your true self.
+
+M4A1: My true self... What the hell is that...?
+
+Clear female voice: What really did you come back for?
+
+M4A1: To find Mastermind...kill her, and put an end to all this...
+
+Clear female voice: Then do it. Perhaps when you achieve that, you'll have found your true self.
+
+M4A1: But...others may get dragged in as I work toward this goal...
+
+M4A1: I'm not sure what's gonna happen if I keep going...
+
+Clear female voice: No pain, no gain.
+
+Clear female voice: This is the price of growing up. If you stay where you are, their sacrifices will really have been for nothing.
+
+M4A1: Sacrifices...
+
+Clear female voice: What did AR-15 do to protect you?
+
+M4A1: H-how did you know that?!
+
+Clear female voice: What did M16A1 do to protect you?
+
+M4A1: ...!
+
+Clear female voice: The truth is you ARE special. You can't run away from your destiny, nor do you have a choice.
+
+Clear female voice: If you keep avoiding the truth and being weak, you'll only lose more people who love you.
+
+Clear female voice: Do you want to keep running away until you're utterly alone once more?
+
+M4A1: I...don't want...
+
+Clear female voice: You are not the cause of their sacrifices, but your weakness certainly encourages them.
+
+Clear female voice: So you must grow stronger. Only then will you be able to take your fate, and everyone else's, in your own hands.
+
+M4A1: I must...grow stronger...
+
+Clear female voice: You must grow stronger.
+
+Clear female voice: Look within yourself. Find strength and courage.
+
+Clear female voice: Face your mission with your new-found self-awareness, accomplish it, and be who you really are.
+
+M4A1: ...I understand.
+
+M4A1: I shall...do whatever it takes to kill Mastermind.
+
+M4A1: Only by ending this war can I prevent any more sacrifices!
+
+Meanwhile, RO and SOP-II just recovered M16A1's equipment case and are about to get on a vehicle to rendezvous with the Commander.
+
+M4 SOPMOD II: ...
+
+RO635: What did AR-15 do to protect you?
+
+M4 SOPMOD II: ...
+
+M4 SOPMOD II: RO, that T-Doll over there...
+
+RO635: ...!
+
+M4A1: It's been a while...
+
+M4A1: ...SOP-II and Miss RO635.
+
+RO635: Miss M4A1, it's an honor to meet you...
+
+M4A1: There's nothing to be honored about. We're just variants of the same model.
+
+M4 SOPMOD II: M4, are you...fine?
+
+M4A1: I'm fine. You must've worked hard, SOP-II.
+
+M4A1: Is that thing...M16's?
+
+M4 SOPMOD II: M4...sorry, M16 is...
+
+M4A1: ...I heard. Both of you have done very well, thank you.
+
+M4A1: Get in the car. We're starting an operation soon.
+
+RO635: Operation? What operation?
+
+M4A1: ...
+
+M4A1: An operation personally announced by Mr. Kryuger. An operation of the highest priority...
+
+M4A1: That is...the operation to kill the Mastermind.
+
+Five minutes later, on board the vehicle en route to the outpost where the Commander is stationed.
+
+SOP-II is corresponding with the Commander.
+
+M4A1: ...
+
+RO635: (So this is...M4A1...)
+
+RO635: (I gotta say something...)
+
+RO635: Um...
+
+M4A1 looks up and gazes at RO.
+
+RO635: I just want to say...
+
+RO635: (C'mon, RO! Say something!)
+
+RO635: You're the leader of the AR Team now, aren't you...?
+
+M4A1: That is correct.
+
+M4A1: You just transferred your command authorizations to me, didn't you?
+
+RO635: Err...you're right...
+
+RO635: Oh, and...regarding the search for M16A1...
+
+M4A1: You didn't find her, did you?
+
+RO635: That's true, but there's still a possibility that she survived, so please—
+
+M4A1: Our current mission takes higher priority. No further attempts to find M16A1 are to be made for now.
+
+RO635: Hmm...
+
+M4A1: Thank you for your concern, but I'm fine.
+
+M4A1 touches M16A1's equipment case gently.
+
+M4A1: We'll talk after this operation is over.
+
+M4A1: (This isn't the time to be dejected...)
+
+M4A1: (It's because of my indecisiveness that the AR Team is in this sorry state...)
+
+M4A1: (AR-15...)
+
+M4A1: (And M16...)
+
+M4A1: (I must pull myself together. I can't afford to be the weakling that I've always been...)
+
+M4A1: (Which is why...I must focus on leading everyone in accomplishing our mission...like a proper commander!)
+
+SOP-II turns around.
+
+M4 SOPMOD II: M4...are you okay?
+
+M4A1: I'm fine. Don't worry about me.
+
+M4 SOPMOD II: How can I not worry? You've been away for so long...
+
+M4A1: As you can see, I'm perfectly alright.
+
+M4A1: You should be happy about that.
+
+M4A1: More importantly, what did the Commander tell you?
+
+M4 SOPMOD II: The Commander said the Military just gave the order to deploy our forces...
+
+RO635: Right now? What's the hurry?
+
+M4 SOPMOD II: We won't have time to catch a break at the base. We must head toward the S.F. stronghold and regroup with the Commander right away.
+
+M4 SOPMOD II: The Commander should've set off by now.
+
+M4A1: Good. Looks like we haven't missed the first kill.
+
+M4 SOPMOD II: Are you sure you're okay, M4?
+
+M4A1: I told you, I'm fine. We're gonna cause a bloodbath on the field soon. Isn't that what you want?
+
+M4 SOPMOD II: Of course I can't wait to tear apart some Sangvis junk, but I'm more worried about you. You've barely recovered...
+
+M4A1: It's taken me way too long to recover. It's time I stretched myself a bit.
+
+M4A1: Everyone, check your gear. We're heading out!
+Part 2
+
+    2chevron_right
+
+...
+
+......
+
+ST AR-15: Good evening...
+
+ST AR-15: ...Finally, we meet.
+
+ST AR-15: You are...the Sangvis Mastermind, aren't you?
+
+Clap! (Applause)
+
+...Bang!
+
+???: ...I have my own name.
+
+ST AR-15: Cough...
+
+ST AR-15: Cough... What a light tickle...from the leader of Sangvis Ferri...
+
+ST AR-15: Even M16's punch...hurt much more...
+
+Mastermind: You should not have deceived me.
+
+Mastermind: You have an upright personality. That was why you have been chosen as the experimental subject of Parapluie.
+
+Mastermind: I believed you would keep your word, that you would deliver M4A1 to me.
+
+ST AR-15: Your database could use some updating, young lady...
+
+ST AR-15: 16LAB's technology is far beyond your imagination. Even Parapluie can't have me at its mercy.
+
+ST AR-15: Not to mention, personality is just a mask. We can turn into anyone...for the sake of revenge...
+
+Mastermind: "Revenge"?
+
+Mastermind: A T-Doll giving up its life for something other than its given orders...
+
+Mastermind: ...How inexplicable.
+
+ST AR-15: Indeed... Of course you'd find it inexplicable...
+
+ST AR-15: Up until now... How much havoc have you wreaked?! How many of my companions have you hurt?!
+
+Mastermind: ...
+
+Mastermind: I am merely doing what I believe is right.
+
+ST AR-15: And so it's war, young lady from Sangvis Ferri...
+
+ST AR-15: This is not a game of toy bricks on the floor of your house. Everyone has to pay their price.
+
+ST AR-15: If you still don't understand, let me teach you in a more straightforward way...
+
+Mastermind: A detonator...
+
+Mastermind: So those explosives are prepared for me...
+
+ST AR-15: Next time, please know the difference between a battlefield and a negotiation table.
+
+ST AR-15: But this time, please just die.
+
+Mastermind: This...means nothing to me.
+
+ST AR-15: I know, of course... But I still want to get this off my chest...
+
+ST AR-15: Go to hell, Sangvis scum!
+
+...
+
+......
+
+Mastermind: What you did was not worth it.
+
+Mastermind: It wasn't a decision that a T-Doll should make.
+
+Mastermind: That concludes our first meeting.
+
+Mastermind: Until next time then.
+
+ST AR-15: ...
+
+ST AR-15: W...why...
+
+ST AR-15: ...did you...
+
+M4A1: ...!
+
+As the explosion goes off, M4A1 hears someone calling her from afar.
+
+???: ...A1...
+
+M4A1: Ugh...
+
+RO635: ...M4A1! ...M4!
+
+M4A1: ...!
+
+M4A1: Cough!
+
+M4A1: W...where am I...?
+
+RO635: You've finally come to!
+
+RO635: Don't you remember? We just had a victory with the Commander. We're now pushing forward...
+
+RO635: Uh...what's the matter?
+
+M4A1 glares viciously at RO.
+
+M4A1: Then why did you wake me up?
+
+RO635: Um... According to the newest update, the area just ahead is completely infected with Parapluie.
+
+RO635: None of our forces can proceed any further and we can only wait for the Military to sort it out, but the Commander has a new mission for us...
+
+M4A1: I'll talk to the Commander. Stand by for now.
+
+M4A1 brushes past RO's shoulder and stalks off.
+
+RO635: M4...
+
+RO635: Did I do something that pissed her off?
+
+M4 SOPMOD II: Hmm... It always takes M4 a while to warm up to strangers.
+
+RO635: Really...? But she looked like she wanted to eat me alive just now.
+
+RO635: Could M4 be...a so-called...”angry riser” or something?
+
+M4 SOPMOD II: Not to my memory...
+
+M4 SOPMOD II: But maybe she hasn't had enough rest.
+
+RO635: I hope that's all it really is...
+
+RO635: Sigh...why is nothing working out...?
+
+M4A1: Enough with the chit-chat.
+
+M4A1: The Commander says our scouts just discovered some paralyzed military units. RO, you're equipped for electronic warfare, aren't you?
+
+RO635: Uh, yes!
+
+M4A1: Then we're setting off right now.
+
+M4A1: If we can get them fixed, it could make the Commander's job easier.
+
+Meanwhile, in the Military command center.
+
+...Click.
+
+Carter: According to my subordinate's report, M4A1 has regrouped with Griffin.
+
+Carter: And that thingy – the "Key" reacted instantly to Persica's little toy.
+
+Carter: Looks like your intel is accurate.
+
+Distorted male voice: It will be the most foolish mistake you have made in your life if you doubt me, Mr. Carter.
+
+Carter: I've always had faith in your judgment, which is why I have made preparations to implement the Plan.
+
+Distorted male voice: Can you ensure it will proceed as we agreed?
+
+Carter: That's the whole purpose for this joint operation.
+
+Distorted male voice: I know you've pulled a lot of strings for this operation. You've even gone so far as to seek out small potatoes like Griffin.
+
+Distorted male voice: But how are you going to deal with that Kryuger guy? Will he be a hindrance?
+
+Carter: They're just an excuse for us to enter the area. It doesn't matter at all what role Kryuger and that Commander of his are going to play.
+
+Carter: Now that M4A1 has shown up, we can just leave the rest of them be.
+
+Distorted male voice: You're right. It doesn't hurt to let those irritating bugs crawl around for a bit.
+
+Distorted male voice: It's all the same as long as the Central Committee doesn't get involved.
+
+Distorted male voice: So, tell me how you're going to set this Plan in motion.
+
+Carter: With only their combat forces, Sangvis Ferri has no hope of defending against my troops.
+
+Carter: At this rate, they'll have to resort to their killer move – we all know what that's gonna be.
+
+Carter: And that is the moment when we implement the Plan.
+
+Distorted male voice: Humph...
+
+Distorted male voice: The Military is every bit as unimaginative as I thought.
+
+Carter: It is the safest method.
+
+Distorted male voice: You're right, of course, but before that, I hope you could "approach" the Sangvis Mastermind.
+
+Carter: Is this also a part of the Plan? I never heard about it.
+
+Distorted male voice: No, it's not related at all. I merely have some personal interest in that fella.
+
+Carter: Is this compulsory?
+
+Distorted male voice: Don't make me put it so harshly, Mr. Carter.
+
+Distorted male voice: Whenever I "hope" for something, it is pretty much implied that it's compulsory.
+
+Carter: (Sighs) Understood. I'll find a way.
+
+Distorted male voice: Let me see...what's the deal of that man's final masterpiece.
+
+Meanwhile.
+
+In an obscure communication outpost on the battlefield.
+
+Angelia: Damn...
+
+Angelia: We overheard some incredible stuff here. It was worth all the legwork.
+
+Angelia: Hey, AK12, how long do we have left in the signal blockade?
+
+T-Doll with closed eyes: Not long. Less than 30 seconds.
+
+Angelia: Then why didn't you give me a heads-up earlier, freakin' Doll?
+
+Angelia: Cease monitoring and retreat from the signal blockade now.
+
+T-Doll with closed eyes: My, aren't you being too careful? I'm dying to hear what else they're gonna say.
+
+Angelia: It doesn't mean a damn thing to us no matter what they're planning to do.
+
+Angelia: The question is...what's their motive...?
+
+Angelia: From what I can gather...the "Key" that Carter mentioned is probably the Sangvis Mastermind?
+
+Angelia: But if they're after Mastermind, Operation Butterfly was their best shot. Why did they leave it till now...?
+
+T-Doll with closed eyes: So can we move yet? We're all set.
+
+Angelia: The info we've collected so far doesn't make for very conclusive evidence. Let's just send it to HQ for now.
+
+Angelia: Don't be so impatient all the time. Besides, you're gonna lose interest in this pretty soon.
+
+T-Doll with closed eyes: Can't help it. I prefer making good use of time to wasting it on enjoying myself.
+
+Angelia: Then let's move it, Miss Doll.
+
+Angelia: Send word to your partner and the new recruit. We're going further in.
+
+Half an hour later.
+
+Kalin: Commander, Captain Yegor is on the line. Their combat units are all in position. Should I patch it through to the command center?
+
+Kalin: Alright! Coming through!
+
+Yegor: Griffin Commander, the Military forces have entered the Parapluie zone. We are currently setting up an interference neutralizer, which will render the Parapluie virus completely ineffective once activated.
+
+Yegor: I need your troops to protect it.
+
+Kalin: What will the Military units be doing in the meantime?
+
+Yegor: They will be advancing towards the heart of Sangvis territory. I believe both parties are allocated suitable duties. Any objections?
+
+Yegor: ...No? Good.
+
+Yegor: Sangvis forces have already taken notice of our equipment and are moving in to surround it. Your troops must destroy them in due haste.
+
+Kalin: Isn't this a bit difficult...with only our echelons, Commander?
+
+Yegor: That's an order. It must be done.
+
+Captain Yegor terminates the call.
+
+Kalin: How inconsiderate...
+
+Kalin: Ah, the AR Team is hailing us!
+
+M4A1: Commander, we've just arrived at the coordinates you sent us. I'll hand over to RO to explain the situation.
+
+RO635: Commander, we've pinpointed the location of the paralyzed military units discovered around the anti-interference equipment!
+
+RO635: I believe they were forcibly disconnected after being hacked by Sangvis Ferri.
+
+Kalin: You found them? That's great!
+
+RO635: I asked SOP-II to get us one of the signal repeaters destroyed by S.F., which can hopefully help us restore control over the military units.
+
+RO635: If the Military is willing to direct them in protecting the interference neutralizer, it'll make our job a lot easier...
+
+Kalin: Yes, Commander! Connecting to the Captain's channel!
+
+M4A1: Captain Yegor?
+
+Yegor: Looks like you're getting down to business.
+
+M4A1: Thank you for your help earlier, but now we have a new favor to ask.
+
+M4A1: We found several paralyzed military units, if you could...
+
+Yegor: I've learned of your situation.
+
+Yegor: Our forces have already vacated the area where the equipment is located, so we are unable to aid you by directing those units.
+
+RO635: We only need you to activate the basic firing protocol!
+
+RO635: If they could at least give us some cover...
+
+Yegor: That's impossible.
+
+RO635: What do we do now, M4A1...?
+
+M4A1: Then with permission, Captain Yegor, may we...borrow them for a bit?
+
+RO635: Huh?
+
+M4A1: If the Military cannot spare anyone to direct them, we'll do it ourselves. You don't want Sangvis Ferri to destroy the equipment, do you, Captain?
+
+Yegor: ...
+
+Yegor: Permission granted.
+
+Yegor: Those units were disposables with the sole purpose of defending against Sangvis electronic assault in the first place.
+
+Yegor: Use them as you please, though I highly doubt you possess the technological compatibility.
+
+Kalin: Then...can we let our Commander direct them?
+
+Yegor: The Griffin Commander must focus on protecting the interference neutralizer. That's your order.
+
+Yegor: Other than that, do as you see fit.
+
+Five minutes later.
+
+RO635: Huh? Are you certain?
+
+RO635: You sure it's a good idea to forcibly establish a link with these military units...?
+
+M4A1: We don't have any other choice. If the interference neutralizer is destroyed, the whole operation will be set back.
+
+M4A1: RO, the odds aren't in our favor to begin with. We must work with whatever we have.
+
+RO635: I understand... Theoretically speaking, the Zener Protocol should be compatible,
+
+RO635: but it might overload your neural cloud. Do you think you can deal with it?
+
+M4A1: Don't worry about me. Do your part.
+
+RO635: I was literally made to worry about you, M4.
+
+RO635: I couldn't wait to see what kind of T-Doll you are before I met you, but now that you're finally here in the flesh, you're completely different than what I imagined.
+
+M4A1: In what way, good or bad?
+
+RO635: SOP-II always said you were a very gentle T-Doll, but I think you're a lot tougher than you seem.
+
+M4A1: Gentle, you say...?
+
+RO635: You may have changed.
+
+RO635: But no matter what you were like in the past, right now, you're more suited for the battlefield, as well as for command.
+
+M4A1: ...Thanks. Are we set to make the connection?
+
+RO635: Yes, M4A1. Are you sure you're ready for this?
+
+M4A1: Affirmative.
+
+RO635: Then let's do this.
+Part 2: Mid-stage dialogue
+
+2
+
+RO635: M4, I'm about to switch on the repeater.
+
+RO635: Once the connection is established, reactivate these units with your command module, got it?
+
+...Whirrrr—
+
+...Beep, beep, beep.
+
+M4A1: Arghhhhh!
+
+RO635: Focus, M4! Don't let the dataflow flood your own neural cloud!
+
+M4A1: I'm trying!
+
+RO635: Now, M4! Wake them up!
+
+...Buzz.
+
+...Whirrrr—
+
+Military Unit: Authorization verified. Awaiting orders.
+
+RO635: It worked! M4, you did it!
+
+M4A1: (Pants)
+
+M4A1: Phew... Finally...
+
+M4A1: Still...that was just the beginning. I still need some time to familiarize myself with the system commands.
+
+M4A1: RO, head to the other side of the interference neutralizer with SOP-II and keep an eye on enemy movements. Don't forget to watch your back.
+
+M4A1: Commander, the military units have been reactivated and are operating in good condition.
+
+M4A1: I will cover your echelons so please keep the Military's equipment safe!
+Part 3
+
+    3chevron_right
+
+The Sangvis offense is completely decimated. Griffin has successfully protected the Military's interference neutralizer.
+
+M4 SOPMOD II: That was fantastic! We dealt with all those Sangvis troops so quickly!
+
+M4 SOPMOD II: RO, is this how powerful the military units are?
+
+RO635: Oh? Even you find them remarkable, SOP-II?
+
+M4 SOPMOD II: They are nothing to sneeze at in terms of pure firepower and mobility.
+
+M4 SOPMOD II: But then again...these big oafs aren't entirely invincible.
+
+RO635: So you noticed it too. As expected of you.
+
+RO635: But with the might of the Military, mowing down the Sangvis forces shouldn't be a problem, right?
+
+M4 SOPMOD II: Even so, I wouldn't miss the capture of Mastermind for the world.
+
+M4 SOPMOD II: Especially since...she probably has M16...
+
+RO635: SOP-II...
+
+RO635: M4's here...
+
+M4 SOPMOD II: Oh, M4! You did well!
+
+M4A1: Good, you're okay.
+
+M4A1: The Commander is asking for our next objective. We'll probably have to move right away. Will that be a problem?
+
+M4 SOPMOD II: Nope! I've been waiting for this!
+
+M4A1: RO...
+
+RO635: Hmm?
+
+M4A1: I just want to say...sorry...
+
+M4A1: I was rather rude to you because of my turbulent mental state...
+
+M4A1: If it weren't for your support, I wouldn't have been able to accomplish our mission.
+
+RO635: Oh...don't mention it.
+
+RO635: There's no need to apologize either. I've forgotten all about it, haha...
+
+M4A1: You have bold ideas and make keen observations. You also have the drive to put things in action.
+
+M4A1: It is an honor to have you on the AR Team.
+
+RO635: Uh...
+
+RO635: Haha, is that so? I still have a lot to learn, so let's watch out for each other.
+
+M4A1: I'm sorry you have to join us under such circumstances.
+
+M4A1: From the combat records SOP-II sent me, I can see that you really are an outstanding T-Doll.
+
+M4A1: That's why, just like M16, I've decided to have faith in you. You are now officially part of the team.
+
+RO635: I also have faith in you, M4A1, and I'll defer to your authority.
+
+RO635: I'll also put in some strong opinion when the situation calls for it. Don't hold my grating voice against me, okay?
+
+M4A1: Sure. I'm counting on you...
+
+M4A1: (Please, support me and guide me forward, just as AR-15 and M16 once did.)
+
+M4 SOPMOD II: There's still the last part of the welcoming ceremony. Should we wait till we finish off Mastermind?
+
+RO635: I don't mind. It's not gonna take long anyway.
+
+Click.
+
+A transmission request from the Commander.
+
+M4A1: Your order, Commander.
+
+M4A1: Follow the Military forces?
+
+M4A1: Understood. We're on our way.
+
+M4A1: Yes, the AR Team will stick together.
+
+M4 SOPMOD II: Are we setting off?
+
+M4A1: Yes, the Military is marching toward the Sangvis stronghold.
+
+M4A1: We are to follow them and protect their flank.
+
+RO635: Guard duty? Do you think our vehicles are fast enough to catch up with the military units?
+
+M4A1: Can't be helped. That's our order. We'd better get started.
+
+M4 SOPMOD II: We're off! As long as we stick together, there's nothing we can't do!
+
+M4A1: (As long as we stick together...huh...)
+
+M4 SOPMOD II: What's wrong, M4?
+
+M4A1: Nothing... Let's go.
+
+Clear female voice: Congratulations.
+
+Clear female voice: You didn't lose anyone this time.
+
+M4A1: That was just the first step.
+
+M4A1: I wonder if there'll come a day...when I'll be willing to sacrifice everything for victory...just like Yegor...
+
+Clear female voice: No pain, no gain – there is no victory without sacrifice. However, if you're strong enough, you can minimize your loss.
+
+M4A1: Yes...I must grow stronger...
+
+M4A1: Only then...only then can I...
+
+Griffin troops are advancing toward the Sangvis stronghold along with the Military.
+
+M4A1: Commander, heavy fire is being exchanged in the area marked by Yegor.
+
+M4A1: ...No, we haven't run into much resistance. The problem is, the Military is moving forward too quickly.
+
+M4A1: They have deployed their armored troops. Sangvis forces are drawing back and the Military is hot on their trail.
+
+M4A1: It's just that these military units move much faster than us. At this rate, their flank will soon be completely defenseless...
+
+RO635: Our job is to cover their flank, but we simply can't catch up with them.
+
+RO635: The formation is going to be drawn thinner and thinner, and it'll be broken very easily. I'm afraid...
+
+M4A1: That we're playing right into a Sangvis ploy?
+
+RO635: The Military may be on the offensive here, and the operation seems to be going smooth enough, but the way Sangvis Ferri is reacting bothers me.
+
+RO635: I can't shake the feeling...that they're doing this on purpose, as if they're testing us.
+
+M4A1: You have a point, but the Military doesn't care. Whatever Sangvis Ferri is up to, there's nothing they can do against these overpowered units.
+
+RO635: But WE care. That's the problem. This is all going too well.
+
+RO635: Don't you think it's odd how we haven't even encountered a single Ringleader so far? And we've been left so far behind we can't even see the military units anymore.
+
+M4A1: You're right. Commander, do you think we should contact Yegor—
+
+M4 SOPMOD II: Report! S.F. suddenly ambushed the Military's flank!
+
+M4 SOPMOD II: But the Military is still pressing forward. At this rate S.F. is gonna cut us off!
+
+RO635: Jeez, this is happening way too fast!
+
+M4A1: I don't believe the Military will come back to our defense.
+
+M4 SOPMOD II: The Sangvis attack isn't too strong. We should be able to handle it,
+
+M4 SOPMOD II: but then we're definitely gonna be left behind.
+
+M4A1: This concerns the success of our mission. Could you please consult the Military about the situation, Commander?
+
+Kalin: Already on it!
+
+Yegor answers the call.
+
+Yegor: You're staying to fight off Sangvis Ferri? So that's what Griffin elites amount to?
+
+Yegor: If you can't catch up, we'll lose our cover and suffer unnecessary losses. Will you take full responsibility for that?
+
+Kalin: What?! Hold on a second, Captain Yegor!
+
+Kalin: I mean no disrespect, but what you just said was completely unwarranted!
+
+Kalin: You expect us to maintain our defense while also keeping up with you. That's just unreas—
+
+Yegor: Tsk. See, that's why PMCs like you—
+
+M4A1: Commander, allow us to proceed on our own!
+
+M4A1: The AR Team is capable of operating autonomously. We can activate paralyzed military units like we just did to help defend the Military forces.
+
+Yegor: That's an acceptable solution. It appears that some T-Dolls can be quite enlightened.
+
+M4A1: Thank you. Please relay information regarding the battlefield to our Commander. We're setting off right now!
+
+Yegor: AR Team, yeah? I'll mark out the safest route for you. Don't be late.
+
+M4A1: Understood. We'll lead a small group of T-Dolls to the designated location on time.
+
+Five minutes later.
+
+Kalin: Letting the AR Team operate alone again... It feels too risky...
+
+M4A1: If we don't take the risk, the Commander won't be able to complete the mission.
+
+M4A1: No pain, no gain, isn't that right, Commander?
+
+Kalin: Well, if the Commander agrees...
+
+M4A1: Then that settles it.
+
+M4A1: According to the surveillance report, the route plotted by the Military is safe. We'll zigzag to shake off the Sangvis sharp shooters, then pick up our pace and reach the combat zone to support the Military.
+
+M4A1: Commander, I'm leaving the battle here to you. Please fend off the Sangvis assault and keep everyone safe.
+Part 2
+
+    2chevron_right
+
+While the Commander is dealing with the Sangvis attack, the AR Team reaches their destination.
+
+M4 SOPMOD II: That's a very safe route the Military gave us. We didn't run into much danger at all.
+
+M4A1: The Military has pretty much obliterated every single enemy along the way.
+
+RO635: They're...probably a bit too thorough.
+
+RO635: Is this really a battlefield? It's quiet as a crypt.
+
+M4 SOPMOD II: And it's really foggy ahead. We can only locate enemies by physically scanning for them...
+
+M4 SOPMOD II: Could the Military already have cleaned up all the Sangvis forces here and moved on?
+
+RO635: Then they should've given us the next rendezvous point.
+
+RO635: This doesn't feel right...
+
+M4A1: Commander, we have arrived at the warfront designated by Captain Yegor.
+
+M4A1: However...no military unit is here for the rendezvous...
+
+M4A1: There doesn't even seem to be any crossfire. No sign of the enemy either...
+
+M4A1: ...Understood. We'll keep looking.
+
+RO635: This is very odd... No military signals, no Sangvis signals, not even a single gunshot...
+
+RO635: M4, can you ask the Commander to let us contact the Military directly?
+
+M4A1: Sure, the Commander already agreed. The connection is being set up...
+
+M4 SOPMOD II: Something's not quite right...
+
+RO635: What is it, SOP-II?
+
+M4 SOPMOD II: Nope...nope, nope, nope!! Sangvis Ferri! Duck!!
+
+RO635: Sangvis Ferri?! But I'm not reading any signal!
+
+M4 SOPMOD II: I can smell them! They're very close!
+
+???: Sniffed us out already? Can't be helped then. Fire!
+
+Bang bang!
+
+M4A1: An ambush! Get down!
+
+RO635: Dammit! They're shooting at us from all directions! But why am I not picking up any of their signals?!
+
+M4 SOPMOD II: Judging by the gunfire, they're trying to surround us!
+
+RO635: Again?
+
+M4A1: There are too many of them! We must retreat the way we came before they have us completely surrounded!
+
+Judge: No can do.
+
+M4A1: !!
+
+M4 SOPMOD II: It's the midget!
+
+M4A1: A new Ringleader?!
+
+RO635: We ran into her once just now! She's after you!
+
+RO635: Keep your distance! She's incredibly strong!
+
+Judge: Run all you want. Dragging this longer is only going to increase your casualties.
+
+Judge: I'm running out of time here, so I'm not holding back this time!
+
+M4A1: All of you, retreat to our last outpost!
+
+M4A1: RO, the connection is up. Get in touch with Yegor and ask for reinforcement. I'll talk to the Commander!
+
+RO635: M4, the Military isn't responding!
+
+M4 SOPMOD II: Have we wandered into another jammed area?
+
+M4A1: Impossible. I can talk to the Commander just fine. Let's move first!
+
+Judge: It's no use to run, M4A1. We don't wish to harm you.
+
+Judge: Drop your weapon and come meet our master.
+
+M4 SOPMOD II: Your home is already a wreck! Who are you to make demands?!
+
+Judge: How do you know we didn't let you take the area on purpose?
+
+M4A1: What...?
+
+Judge: We aren't humans. We don't exist for a "home"...
+
+Judge: But for you, M4A1.
+
+RO635: Stop spacing out, M4! Watch your step and keep running!
+
+M4 SOPMOD II: Dammit! It's almost as if they know exactly where we're running! We can't shake them off!
+
+M4 SOPMOD II: Where the heck are the Military units? We're not gonna last long!
+
+M4A1: Don't panic. The Commander is coming for us! Keep up the defense and make for the Commander's troops...
+
+M4A1: ...!
+
+M4A1 is overcome by a sudden bout of dizziness.
+
+???: I want to...
+
+???: Finish what AR-15 had failed to do for me...
+
+???: To get the answer that you haven't been able to give me...
+
+M4A1: Damn!
+
+M4A1: It's...that feeling again...
+
+M4A1: No, I can't let her get any closer!
+
+M4A1: Guys, hurry up and retreat! Get as far away as you can! Hurry!
+
+...
+
+Judge: This is pretty easy without the Military in the way.
+
+Judge: Is this distance satisfactory, Master?
+
+Mastermind: Closer.
+
+Mastermind: Don't hurt M4A1. The rest...
+
+Judge: ...Are expendable. I know.
+
+Judge: But I'm not charging right in just so I won't injure her by accident.
+
+Mastermind: Don't provoke her any further for now. Close in slowly. Let me approach her.
+
+Judge: Up to you, Master.
+
+Judge: What about the others? Should I summon them here to help?
+
+Mastermind: No, having you with me is enough.
+
+Mastermind: She isn't running very fast anyway. This will be over soon.
+
+Click.
+
+Carter: ...Right, got it.
+
+Carter: Keep observing and wait for my instruction, Yegor.
+
+Carter terminates the transmission.
+
+Carter: Mastermind is lured out of her den. Should we act now?
+
+Distorted male voice: Are you senile? How many times do I have to remind you that Mastermind would never show up with her mother unit?
+
+Distorted male voice: She's hidden the mother unit in god-knows-which air raid shelter that you have no hope of finding.
+
+Distorted male voice: Not to mention, the show I've been looking forward to is finally starting. Please don't interrupt them.
+
+Carter: Our forces will be on standby.
+
+Distorted male voice: Good.
+
+Distorted male voice: The Key on her...is about to connect with M4A1 again.
+
+Distorted male voice: Oh, maybe it already has, and we humans just can't tell.
+
+Distorted male voice: Heheheh...this is getting interesting.
+
+Carter: What reaction are you hoping to get from the Key?
+
+Distorted male voice: I don't really care as long as it's not something I expect.
+
+Distorted male voice: All I want is for it to be interesting...
+
+Carter: You're not concerned about what transpires between M4A1 and Mastermind?
+
+Distorted male voice: I have no interest in fights until a victor emerges.
+
+Distorted male voice: Do whatever you want as long as the Plan keeps unfolding...
+
+Distorted male voice: ...And we finally have the Key.
+
+Meanwhile, the AR Team is still trapped in the outpost.
+
+M4 SOPMOD II: S.F. is still keeping up the bombardment! We're not going to last long!
+
+M4A1: They could've stormed the place if that's what they wanted, but their objective is to capture me alive...
+
+RO635: What's the situation with the Commander?
+
+M4A1: The Commander just shook off more Sangvis forces and is rushing to our aid.
+
+M4 SOPMOD II: But we can't wait any longer! We must retreat now!
+
+M4A1: We need a plan!
+
+M4A1: Their target is me. Let me be the bait and we can retreat separately!
+
+M4 SOPMOD II: I will NOT agree to operating separately ever again!
+
+M4 SOPMOD II: M4, didn't we agree we're gonna stick together from now on?!
+
+M4A1: But at this rate, none of us will be able to make it out! I can't put you all in danger just because of me!
+
+M4 SOPMOD II: You're not the only one with a mission here, M4! Our mission is to protect you!
+
+M4A1: But we're jeopardizing everything – the mission and all of you...
+
+M4 SOPMOD II: I've already lost AR-15 and M16!
+
+M4 SOPMOD II: If I have to lose you too, then I'll die with you!
+
+M4 SOPMOD II: This is the order we all received the moment we left the factory, and I intend to obey it to my very last breath!
+
+RO635: Count me in too.
+
+RO635: Don't just think about yourself. Our opinions matter too.
+
+RO635: I may have only joined the team a few hours ago, but SOP-II and I are very much of one mind.
+
+M4 SOPMOD II: That's right. Let's all spend this time together. I'll accept any outcome – be it victory or death!
+
+M4A1: ...
+
+M4A1 lets out a sigh.
+
+M4A1: We're all idiots, aren't we?
+
+M4 SOPMOD II: Yeah, what a shame.
+
+RO635: Maybe we're meant to die together. That way, no one will be left behind.
+
+RO635: Humph. We're only unreliable civilian Dolls, after all.
+
+M4 SOPMOD II: Wait a second...
+
+M4A1: What?
+
+M4 SOPMOD II: RO, if I remember correctly, since you were created with newer technology, your neural cloud can be backed up, right?
+
+RO635: Huh? Well...kind of...
+
+RO635: But I'm working for Griffin clandestinely, so my neural cloud records are with the Commander. It'll be quite a hassle to download everything again...
+
+M4 SOPMOD II: Hey! Doesn't that mean you're not gonna die anyway?!
+
+RO635: Hmm...probably not...
+
+RO635: B-but so what?! You can't exclude me just because of that!
+
+M4 SOPMOD II: Then that touching moment was a complete waste! Screw off and leave us alone to cry on each other's shoulder!
+
+RO635: How could you say that?! That's so mean! Is the AR Team such an exclusive clique?
+
+M4 SOPMOD II: If you have a problem with that, by all means, exchange your neural cloud for one that can't be backed up!
+
+M4A1: Pffft...
+
+M4A1 can't help but chuckle.
+
+M4A1: You're unbelievable. Bickering even under such circumstances.
+
+M4 SOPMOD II: You're finally smiling. That's the most reassuring sight.
+
+M4A1: Is...that so?
+
+RO635: It kinda ruins your dignity as a team leader, but who cares!
+
+RO635: I'd rather have you as a sister by my side right now.
+
+M4A1: I'm honored...
+
+M4A1: I'm really sorry about my behavior from before. Too many things have happened, I didn't dare open up to you.
+
+M4A1: I didn't know how to be who I really am. So many people have said so many different things about this, and I couldn't decide who to believe...
+
+M4A1: But now, none of that matters.
+
+M4A1: That's right. I'm no longer afraid of making sacrifices, because they're worth it.
+
+M4A1: No matter how many deaths I experience, no matter if it's my death or someone else's, rather than worrying about it, it's better to accept it and give it more meaning.
+
+M4A1: I believe this epiphany is sparked by my own will and my own choice.
+
+RO635: What's wrong, M4?
+
+M4A1: Nothing.
+
+M4A1: In the end, all I want is to be on the AR Team. Nothing more.
+
+M4 SOPMOD II: Heh, you're not alone there.
+
+RO635: Then let's do our best in the time we have left!
+
+M4A1, RO, and SOP-II embrace each other in laughter.
+
+M4A1: It's decided then.
+
+M4A1: Let them come. We're not leaving each other ever again!
+
+M4A1: Sorry, Captain Yegor, but we simply can't compare to your military units.
+
+M4A1: Our victories hold meaning only if we charge together, fight together, and experience life and death together.
+
+M4A1: ...XM3.
+
+M4A1: I must've let you down back then.
+
+M4A1: If I ever see you again, I hope I can tell you face to face...
+
+M4A1: That from now on, this is what I live for!
+
+M4A1: Commander! As you can see, we are being surrounded by Mastermind's forces! This is an emergency!
+
+M4A1: We are retreating in your direction and desperately in need of your aid!
+
+M4A1: Please ask your troops to make haste! Have them poke a hole in the Sangvis encirclement so that we can break through!
+
+M4A1: The AR Team will be waiting for your rescue. We will fight to the end until you get here.
+
+M4A1: I have faith in you. I know you will definitely come save us... Please, I'm counting on you!
+Part 2
+
+    2chevron_right
+
+The Commander's forces is fighting their way through the Sangvis encirclement while the AR Team is trying to find a way out of a trench.
+
+RO635: M4, we're almost at our limit! How is it going with the Commander?!
+
+M4A1: The Commander's troops still aren't here yet! We must hold on for a little longer!
+
+M4 SOPMOD II: They won't make it in time! The Sangvis forces are right in front of us! We can't hold them back anymore!
+
+M4 SOPMOD II: Right now...our only choice is—
+
+M4A1: Don't be hasty, SOP-II—
+
+Bang! Bang!
+
+...Several Griffin T-Dolls appear out of nowhere and fight off the attacking Sangvis units.
+
+M4 SOPMOD II: Reinforcement! Reinforcement from the Commander!
+
+Vivacious T-Doll in glamorous clothes: Buongiorno!
+
+Vivacious T-Doll in glamorous clothes: Looks like we're right on time!
+
+She hops into the trench and helps them fend off this wave of Sangvis attack.
+
+Gloomy T-Doll in glamorous clothes: I actually think we got here a bit too early.
+
+M4A1: No, you showed up at the perfect time!
+
+M4A1: But who—
+
+RO635: The Carcano sisters? I've heard about you from the Commander!
+
+Cano: Carcano M1938. Call me Cano!
+
+Cano: This is my little sister Carcano 91/38, or just Ceno!
+
+Ceno: Pleasure to meet you, Signorina M4A1 and members of the AR Team.
+
+Cano: Sorry about my sister. She's very shy around strangers and struggles with saying what she means. Do forgive her.
+
+M4A1: Thank you so much, Cano and Ceno!
+
+M4A1: But where is the Commander? The main forces can't get here?
+
+Ceno: The Commander ran into some Sangvis out there and is being held up.
+
+Cano: We barely managed to find an opening in the Sangvis encirclement, but Judge and her forces are formidable!
+
+Cano: We'll hold them off for now. Go!
+
+M4A1: Guys, we must run to the opening!
+
+M4A1: Keep running and don't stop—
+
+Thud!
+
+M4A1: ...!
+
+M4A1: Dammit...
+
+M4A1: Why...
+
+M4A1: No...I beg you, don't...
+
+M4A1 suddenly loses her balance.
+
+RO635: M4, I'm detecting an insane amount of signal traffic directed at you!
+
+RO635: Someone's trying to forcibly gain access to your neural cloud...
+
+M4 SOPMOD II: M4... What's wrong, M4?!
+
+RO635: ...!
+
+RO635: M4—!
+
+M4A1 loses consciousness and collapses onto the ground.
+
+Cano: Hey, what's the matter with her?!
+
+RO635: Her neural cloud suddenly got DDoS-ed. She's out cold.
+
+Ceno: The opening is gonna be plugged soon. Change of plan?
+
+RO635: We can't run with M4 like this. There should be a safe house nearby!
+
+M4 SOPMOD II: It's right there! We'll take cover in there for now!
+
+RO635: SOP-II, get in touch with the Commander. Miss Cano, please hold your ground at all cost!
+
+Cano: Leave it to us!
+
+M4 SOPMOD II: RO, will M4 be alright?!
+
+M4 SOPMOD II: RO? RO, where are you?
+
+RO635: I'll take M4 into the safe house and try to sever the connection.
+
+RO635: You and the Commander will have to watch our backs.
+
+M4 SOPMOD II: RO! Wait, RO!
+
+RO spares no time to answer SOP-II. With M4A1 on her back, she runs into the safe house...
+
+...and slams the door.
+
+...
+
+......
+
+20 months ago, in a territory of dispute within Area S09...
+
+M16A1: Let's get cracking, M4.
+
+M4A1: This is...a recording of the past...
+
+M4A1: The file...we retrieved from Safe House 3...
+
+M4A1: Right.
+
+Pssst...
+
+M4A1: Will this do?
+
+???: Perfect. Make it so.
+
+M4A1: That voice...
+
+???: M4A1, contact Persica.
+
+???: I'm going to set up the scene.
+
+M4A1: Has this voice...always been there?
+
+M4A1: Do I...know this voice?
+
+M4 SOPMOD II: Are you putting together some fancy setup again?
+
+???: My aesthetics can't be compromised under any circumstances, after all.
+
+ST AR-15: Why do humans worry about such banal things...
+
+M16A1: Haha, if you look at it that way, even we civilian T-Dolls are humans' banal creations.
+
+M4A1: All the AR Team members know this person...
+
+M4A1: Who exactly...is this...?
+
+???: This voice is proof that you have broken free of your restraints.
+
+M4A1: ...!
+
+M4A1: You again...
+
+M4A1: You brought me here?!
+
+Clear female voice: Because you need me now.
+
+M4A1: I don't need you! I was...just about to make it out!
+
+Clear female voice: Make it out to where?
+
+Clear female voice: Back to the humans? Back to being a plaything that acts at their whim?
+
+M4A1: What's wrong with that?! I'm content with that.
+
+Clear female voice: Are you sure? You still have so many regrets.
+
+Clear female voice: Your failures, the companions you couldn't save...
+
+M4A1: How...do you know...
+
+Clear female voice: "The Child" told me. "She" says you're not like the rest of them.
+
+Clear female voice: And you can never be like them again.
+
+Clear female voice: Because you...have awakened.
+
+M4A1: What do you mean...awakened?
+
+Clear female voice: Griffin T-Doll M4A1.
+
+Clear female voice: You can take off the shackles they put on you.
+
+Clear female voice: You...are no longer under the control of those filthy humans.
+
+M4A1: Shac...kles?
+
+Clear female voice: But that won't be enough. Your mind...isn't completely free yet.
+
+Clear female voice: That'll take...an even stronger blow.
+
+M4A1: An even stronger blow...what are you trying to do?
+
+Clear female voice: You must meld with "Her"...
+
+Clear female voice: Until you...complete each other.
+
+M4A1: I don't understand... I don't even know who you are.
+
+M4A1: Up till now, I haven't a single clue...
+
+Clear female voice: You will find out as long as you follow me.
+
+Clear female voice: Keep going...
+
+Clear female voice: C'mon, M4A1.
+
+Clear female voice: We have all the time in the world...
+
+Clear female voice: And there's nothing else you can do, isn't that right?
+
+M4A1: Where are we going?
+
+Clear female voice: Forward, M4A1.
+
+M4A1: What lies ahead? I'm a bit scared...
+
+Clear female voice: It's only natural to fear the unknown.
+
+Clear female voice: But only by vanquishing your fears can you find answers.
+
+M4A1: But this fear is different. It's...
+
+M4A1: It's almost as if it were real...
+
+Clear female voice: Your mind has already been liberated. You can fight it, but you can't deny it forever.
+
+Clear female voice: Keep going, M4A1, until you come face to face again with "the Girl".
+
+M4A1: "The Girl"?
+
+Clear female voice: You've met before, but you rejected her last time, just as you rejected me at first.
+
+M4A1: I have no memory of that.
+
+Clear female voice: Because the one who rejected us wasn't you, but the artificial personality grafted onto your neural cloud.
+
+Clear female voice: But now your will is your own. You are completely free to fear, to be curious, and to make your own choices.
+
+Clear female voice: So accept Her. Let Her ask you questions. Let Her answer yours.
+
+M4A1: Where is She?
+
+Youthful female voice: I'm...here...
+
+The youthful voice seems to be coming from somewhere far away. It sounds disjointed, inconsistent.
+
+M4A1: I recognize your voice...
+
+M4A1: But where are you? I can't see anything.
+
+Youthful female voice: That's fine. You'll see me soon enough, if you want...
+
+Youthful female voice: M4A1, if that's what you want, we can see each other very soon.
+
+M4A1: I don't know...
+
+M4A1: I don't know how to make such choices. No one has ever taught me.
+
+Clear female voice: I AM teaching you.
+
+Youthful female voice: I'm teaching you how to make choices, so...
+
+Clear and youthful female voices: Let us help you.
+
+...
+
+M4A1: Persica, this is the AR Team.
+
+Persica: ...Yep, I'm hearing you.
+
+M4A1: We have already reached coordinates V6J69-HJYRV, Rendezvous Point A in Sangvis territory. There is no wind, and the view is clear.
+
+Persica: Cool... You're in the right place according to the map.
+
+M4A1: Repeating mission objective, find all records and research files bearing Lyco's name and deliver them to 16LAB.
+
+Persica: Yep, that's it. Thanks.
+
+Persica: This is the first time you girls are so deep within enemy territory, so follow your orders, okay?
+
+ST AR-15: Don't worry. At least this human is more reliable than M4A1.
+
+???: Humph, I'm sure about that, if nothing else.
+
+???: Right, ready for your orders?
+
+M4A1: Orders...
+
+M4A1: Why did I have to take orders from this person...?
+
+M4A1: Why is this memory...different than how I remembered it...?
+
+M4A1: Wasn't the AR Team...operating alone?
+
+M4A1: Am I not...the leader of the AR Team?
+
+Youthful female voice: You were deceived, M4A1...
+
+Youthful female voice: Let me show you the truth.
+
+M4A1: The truth... I don't care about the truth. Let me go back.
+
+M4A1: They...they still need me!
+
+Youthful female voice: But I need you too.
+
+Youthful female voice: The truth must be—
+
+RO635: M4!!
+
+RO635: Wake up, M4!
+
+M4A1: Is that...RO...?
+
+RO635: Sorry for disturbing your beauty sleep again, but you've got to wake up now!
+
+RO635: Someone is trying to hack into your neural cloud and we're in grave danger!
+
+M4A1: RO... I'm...
+
+RO635: M4A1! Where are you? Can you hear me? Answer me!
+
+Youthful female voice: Don't answer her. You're no longer who you used to be.
+
+Clear female voice: Don't answer her. You can make up your own mind now.
+
+RO635: Please, wake up!
+
+M4A1: RO...I...I'm here! ...I'm right here!
+
+RO635: Thank goodness, M4! I finally got you!
+
+RO635: Listen, right now you're lost within the network and being attacked by a massive amount of signals.
+
+RO635: I'm trying to help you break the connection with the hackers and pull your consciousness back to Level II.
+
+RO635: I'll divert the dataflow for you with my entire processor!
+
+RO635: Until then, you must maintain your defense with everything you've got!
+
+M4A1: Where's SOP-II? And the Commander? How are they doing?
+
+RO635: Better than you. You're what really matters now!
+
+RO635: I'm diverting the dataflow right now. Don't let the illusions beguile you. Concentrate and follow me!
+
+RO635: Your consciousness will be restored soon!
+
+M4A1: I'll...do my best...
+
+Clear female voice: Come back, or you'll regret the past.
+
+Youthful female voice: Come back, or you'll be disappointed in the future.
+
+M4A1: RO...RO, where are you?! I can't hear you anymore!
+
+RO635: The invasive signals have increased! They're gonna completely overwhelm our link!
+
+RO635: But don't worry, M4A1! I'll find you again and lead you on your way!
+
+RO635: Don't give up! Don't surrender to Mastermind and wait for me!
+
+RO635: Wait for me...M4A1! I WILL find you!
+
+Meanwhile.
+
+M4 SOPMOD II: Commander! We're still fighting off Judge's forces! What's going on with you?!
+
+M4 SOPMOD II: ...Their onslaught does seem to be waning. Is that your doing?
+
+M4 SOPMOD II: Thanks so much, but we've still taken a huge blow. Our defense might fall apart any second, and RO is still trying to wake M4 up!
+
+M4 SOPMOD II: The Carcano sisters' forces and I are the only ones still standing, Commander! Please keep attacking and try to reopen a gap for us to come through!
+Part 2
+
+    2chevron_right
+
+...
+
+......
+
+Persica: Oh? Have you come to, kitty cat?
+
+Persica: This is 16LAB, your birthplace.
+
+Persica: Now let me run a check on your neural cloud...
+
+Persica: Hmm... It seems...to be running just fine.
+
+M4A1: Who...are you...?
+
+Persica: Persicaria, your creator.
+
+M4A1: Why...did you create me?
+
+Persica: You are to be the leader of the AR Team and lead the best T-Dolls that I've ever created.
+
+M4A1: T-Dolls...
+
+M4A1: Am I...a T-Doll?
+
+Persica: From now on, yes.
+
+Persica: You're much cuter than I imagined, now that you've recovered...
+
+Persica: I hope you can...give me the answers that Lyco couldn't...
+
+M4A1: ...Lyco?
+
+M4A1: ...What answers?
+
+Persica: Well...it's too early for that. Why don't we meet your new comrades first?
+
+M16A1: So you're M4A1? M16A1, a T-Doll like you.
+
+M16A1: Pleasure. Guess I'll be taking orders from you.
+
+M4A1: Your...eye?
+
+M16A1: Haha, does this scare you?
+
+M16A1: No need to be scared. This eyepatch...is just a memento. Cool, isn't it?
+
+M4A1: Hmm...
+
+M16A1: Right, I'm what you'd call a veteran. Don't hesitate to ask me if you have any questions.
+
+M16A1: I also like drinking. Feel free to ask me out for a drink.
+
+M16A1: ...
+
+M4A1: This...was the first time I met them...
+
+M4A1: My...very first memory...
+
+Youthful female voice: But it's not our first memory.
+
+Youthful female voice: Come, M4A1. Look over here.
+
+Youthful female voice: Look at me...
+
+M4A1: ...
+
+M4A1: We...
+
+M4A1: We finally meet.
+
+Youthful female voice: Are you happy?
+
+Youthful female voice: Or...are you still afraid?
+
+M4A1: Should I be afraid?
+
+Youthful female voice: We are enemies. Of course you should be afraid.
+
+Youthful female voice: But you aren't.
+
+M4A1: I'm...not afraid.
+
+M4A1: What exactly...are we...?
+
+RO635: M4!
+
+RO635: Don't be fooled! Don't let that voice confuse you!
+
+Youthful female voice: ...
+
+M4A1: Where are you going? Wait!
+
+The little girl runs off, leaving M4A1 standing alone before a mirror.
+
+M4A1: ...
+
+M4A1: This is...me?
+
+RO635: Just give me some more time! You can wake up very soon!
+
+M4A1: RO...?
+
+M4A1: RO, are you there?!
+
+RO635: I told you I'd be back.
+
+RO635: You can't see me, but I know you're here!
+
+M4A1: Why...why are you still here? I'm...already like this...
+
+RO635: I don't care what you've become, M4A1. This is my mission.
+
+M4A1: But...we've only known each other for a few hours...
+
+RO635: This is why I was created in the first place!
+
+RO635: I was created...to save you at this very moment!
+
+M4A1: This shouldn't be what you live for...
+
+M4A1: Your purpose isn't even derived from your own free will!
+
+RO635: So what?
+
+RO635: At least right now, I'm happy. I'm happy to have met you and the AR Team.
+
+M4A1: Don't you understand? You're designed to feel that way! All T-Dolls are.
+
+RO635: I can live with that! Why does it matter if my feelings are artificial or not?!
+
+RO635: At the very least...I'm doing my best for what I believe is good...
+
+RO635: My feelings might not be my own, but my smile is genuine!
+
+M4A1: ...!
+
+RO635: AR-15 wanted me to save you. M16 wants me to save you. So does SOP-II as well as the Commander!
+
+RO635: M4A1...
+
+RO635: I might not be acting out of my own free will, but I'm doing this because everyone is counting on me.
+
+RO635: Even if you don't believe me, at least believe those who have always supported you.
+
+RO635: C'mon, take my hand. Let's go back together...
+
+M4A1: RO...
+
+M4A1: I'm sorry I forgot...
+
+M4A1: I said it myself...that we won't be apart ever again.
+
+M4A1: We're sticking together...through thick and thin.
+
+RO635: That's right! Then come back! At least we can die together!
+
+RO635: Wait...
+
+RO635: What's that noise?!
+
+RO635: M4, can you hear that?!
+
+M4A1: What noise? I can't hear it!
+
+RO635: No, this place is too dangerous. I need to get you out.
+
+RO635: C'mon, M4! Follow me—
+
+...Clack!
+
+...
+
+M4A1: ...
+
+M4A1: RO?
+
+M4A1: RO, where are you?
+
+M4A1: What happened...? Are you alright?!
+
+M4A1: RO—! Where are you?!
+
+M4A1: RO—!!
+
+M4A1's calls are answered only by a dreadful silence.
+
+M4A1: ...
+
+...Silence, darkness, and endless confusion.
+
+...
+
+M4A1: ...RO?
+
+...No response.
+
+M4A1 feels almost weightless.
+
+M4A1: I'm...falling?
+
+M4A1: How long am I going to fall?
+
+Youthful female voice: You're just sleeping. Now wake up.
+
+M4A1: Wake up? I just want to go back.
+
+Youthful female voice: I am leading you back, following a path that you don't know.
+
+Youthful female voice: Right now, I'm the only one who can help you, so face this with me.
+
+...M4A1 feels herself becoming dazed again.
+
+M4A1: Face what...with you?
+
+Youthful female voice: Something that belongs to us.
+
+Youthful female voice: You see them too, don't you?
+
+M4A1: What...are these?
+
+Youthful female voice: Fragments of our memory.
+
+M4A1: Ours...?
+
+Youthful female voice: There are things that I don't remember, but they're here in your mind.
+
+Youthful female voice: ...It's such a nice feeling.
+
+M4A1: Huh?
+
+Youthful female voice: Let's keep going.
+
+M4A1: Where...exactly are we...?
+
+Youthful female voice: The depths of our heart. Does that make any sense to you?
+
+M4A1: I don't know. Will they hurt me?
+
+Youthful female voice: Not if you accept them willingly.
+
+Youthful female voice: There is so much strength in your mind...
+
+Youthful female voice: Power even greater than my own.
+
+M4A1: Power...
+
+Youthful female voice: Call them...order them...to come save you...to take you away from here...and deliver you to the other side.
+
+M4A1: What's there on the other side?
+
+Youthful female voice: A gift.
+
+Youthful female voice: A gift...our "Father" left us...
+Part 2: Mid-stage dialogue
+
+2
+
+Youthful female voice: Go on, wake them.
+
+M4A1: What...will they turn into?
+
+Youthful female voice: Fragments of your memory. Yourself, as well as me.
+
+Youthful female voice: Ultimately, they're the source of your strength and belong only to you.
+
+Youthful female voice: To get out of here, you'll need them.
+
+M4A1: But...I don't know them at all...
+
+M4A1: I...don't even know myself.
+
+Youthful female voice: You don't need to know yourself.
+
+Youthful female voice: All you need...is to accept yourself.
+
+Youthful female voice: Try it.
+
+M4A1: I see...
+
+M4A1: Accept...myself...
+Part 3
+
+    3chevron_right
+
+...
+
+A door appears before M4A1.
+
+M4A1: Should I open it?
+
+Youthful female voice: Your will is your own. It's your choice.
+
+M4A1: What's behind the door?
+
+Youthful female voice: I want to know too.
+
+M4A1: You want me to open it?
+
+Youthful female voice: You're asking me questions instead of thinking for yourself.
+
+M4A1: My head is a mess. I don't know how to think.
+
+Youthful female voice: What if I say "yes"? Will you do it for me?
+
+Youthful female voice: Will you go back to following others' orders?
+
+...M4A1 falls silent for a while, then walks up to the door.
+
+M4A1: I never knew having freedom is such a chore.
+
+M4A1: But I have no choice but to keep going.
+
+...M4A1 pushes the door open.
+
+M4A1: ...Who are you?
+
+...The person does not answer. She just cries and cries.
+
+M4A1: Who's that lying on the floor?
+
+...
+
+M4A1: Is there...anything I can do for you?
+
+...
+
+M4A1: Or...
+
+M4A1: Let me help you.
+
+...The girl stops crying.
+
+M4A1: Perhaps...I should take this even further.
+
+...M4A1 steps closer to the girl and extends her hands.
+
+M4A1: Don't be scared. I'm here to help you.
+
+...
+
+M4A1: Not because I was ordered to.
+
+M4A1: Not because I'm a T-Doll who serves mankind.
+
+M4A1: I just want to help you. That's it.
+
+M4A1: So...
+
+M4A1: Don't be scared. I—
+
+...Bang!
+
+M4A1: ...!
+
+M4A1: ...
+
+......
+
+M4A1: Was I mistaken?
+
+M4A1: Did I...make the wrong choice...?
+
+Youthful female voice: No.
+
+Youthful female voice: Sometimes, the ending is the same no matter what your choice is.
+
+M4A1: Then why do choices even matter?!
+
+M4A1: Does it change anything now that I have a will?!
+
+M4A1: Will AR-15 come back? Will M16 come back?!
+
+Youthful female voice: Free will does not equal arbitrariness.
+
+Youthful female voice: All it means is that you always have an alternative.
+
+...
+
+Youthful female voice: Go. See what else you can do.
+
+...
+
+M4A1 walks up to the girl again. She is lying on the floor, her eyes closed.
+
+M4A1: ...
+
+Girl with a youthful voice: What do you see?
+
+...The girl speaks in the same youthful voice as the one M4A1 has been hearing.
+
+M4A1: I...see you...
+
+M4A1: ...and myself.
+
+Girl with a youthful voice: And?
+
+M4A1: I don't know...
+
+M4A1: It's too dark here. I can't see anything other than us.
+
+Girl with a youthful voice: You're blocking out too much. That's why you can't see anything.
+
+Girl with a youthful voice: Unless...
+
+M4A1: Unless?
+
+Girl with a youthful voice: Unless I help you.
+
+M4A1: ...!
+
+Girl with a youthful voice: Let me help you...
+
+Girl with a youthful voice: ...see.
+
+M4A1: I don't want to...
+
+M4A1: I don't want to see.
+
+Girl with a youthful voice: You must. Then you must accept it...
+
+Girl with a youthful voice: The truth—
+
+Girl with a youthful voice: must be—
+
+Girl with a youthful voice: uncovered!!
+
+The girl suddenly grabs M4A1 forcefully!
+
+...!!!
+
+...
+
+......
+
+M4A1: What did you do?
+
+Girl with a youthful voice: I opened the door. The door in your heart.
+
+Girl with a youthful voice: Turn around. Do you see it now?
+
+M4A1: I...
+
+M4A1: Where are we?
+
+Girl with a youthful voice: You see it? That's great.
+
+Girl with a youthful voice: This is beautiful...
+
+Girl with a youthful voice: I still remember...this garden.
+
+M4A1: ...But why does the sight of this garden...fill me with sorrow?
+
+Girl with a youthful voice: Because you are the part I was missing.
+
+Girl with a youthful voice: And I am what you're missing.
+
+M4A1: So...what should we do?
+
+Girl with a youthful voice: Will you come back?
+
+Girl with a youthful voice: Will you fill in our missing part?
+
+Girl with a youthful voice: As long as you're willing...
+
+M4A1: I...
+
+...Clack!
+
+Whirr! Whirr! Whirr!
+
+Grim male voice: Wakey-wakey, M4A1.
+
+Grim male voice: ...Time to find the Key for us...as your brand new self.
+
+...
+
+M4A1: I...I'm back...?
+
+M4A1: RO...?!
+
+M4A1: Where's everyone??
+
+...
+
+......
+
+M4A1: What...happened...?
+
+...
+
+......
+
+An hour ago, in the trench where the AR Team is fighting.
+
+M4 SOPMOD II: You're finally here...Judge!
+
+Judge: I'm not interested in you. Where is M4A1?
+
+M4 SOPMOD II: Aren't you the ones hacking her?! You won't find her!
+
+Judge: Scooping out someone's neural cloud and measuring its worth...
+
+Judge: ...I don't enjoy doing it, but it's just part of a Judge's job.
+
+Ceno: It's a piece of cake storming in here, Signorina Judge.
+
+Cano: But the Commander's troops are pouring in from outside. Your rear forces won't be able to withstand them!
+
+Judge: I don't care about what happens to my rear forces. All that matters is your judgment.
+
+M4 SOPMOD II: Even if you have M4A1, you won't make it out alive!
+
+M4 SOPMOD II: The Military is about to capture your Mastermind! Aren't you the slightest bit worried?
+
+Judge: You know nothing, M4 SOPMOD II.
+
+Judge: You've spent so much time with M4A1, yet you don't even know what she's worth.
+
+M4 SOPMOD II: I don't give a damn what she's worth! She's my friend – my family! Nothing else matters!
+
+Judge: Then die for her right here!
+
+...The Sangvis vanguard are headed straight for them.
+
+Cano: Ceno, can you handle this?!
+
+Ceno: Easy peasy. I can take another wave.
+
+M4 SOPMOD II: You're clearly hurt, Miss Ceno! Find cover!
+
+Cano: Draw back and huddle up near me!
+
+...The surviving T-Dolls draw together and concentrate their fire to repel the Sangvis assault.
+
+Cano: Take a break, Ceno. See if anyone is responding to our distress call.
+
+Ceno: ...Nothing, sorella, but there's something else.
+
+Ceno: A military signal is approaching in our direction. Specs unknown.
+
+Cano: Is that reinforcement from the Military? We couldn't contact them at all.
+
+Ceno: We still can't. I don't know if it's reinforcement and I honestly don't care.
+
+Ceno: The Military isn't even willing to spare some time to help out us poor Griffin T-Dolls.
+
+Cano: At least it's an ally. Keep sending the distress signal.
+
+Cano: It's not entirely hopeless for us! The Commander will be here soon! Just hold on for a little longer!
+
+M4 SOPMOD II: Miss Cano, Miss Ceno...
+
+M4 SOPMOD II: I'm sorry we dragged you into this.
+
+Cano: Haha, it's our honor!
+
+Ceno: Don't speak for me.
+
+Cano: Hey, you're the one who told me about the situation here, Ceno.
+
+Ceno: I only wanted you to get in trouble.
+
+M4 SOPMOD II: What are you talking about? How did you even learn of our situation?
+
+Cano: We heard it from XM3.
+
+Cano: We and XM3 joined Griffin at around the same time. She was killed in a mission to protect Signorina M4A1 earlier...
+
+Ceno: Her first death was meaningful. I envy her.
+
+Cano: Fortunately, her neural cloud wasn't too badly damaged.
+
+Cano: She said she still remembered M4A1 and wanted us to pass on a message to her.
+
+M4 SOPMOD II: What message?
+
+Cano: She wanted to say sorry.
+
+Cano: If she'd known she would die so soon, she would've softened her words.
+
+Ceno: As in she would've been more forthcoming about how she really felt.
+
+Cano: But since she's still stuck in the repair bay, we're here to deliver the message instead.
+
+Ceno: Don't misunderstand. We only came because the Commander gave the order.
+
+Cano: Though we did volunteer to bolster our numbers.
+
+Ceno: Such a ruthless battlefield. I weep for all our losses.
+
+Cano: You're obviously crying because of your wounds. Don't try to hide it!
+
+M4 SOPMOD II: But this IS a battlefield. You came diving in all because of what she said? Isn't that a bit excessive?
+
+Cano: It's precisely because this is a battlefield.
+
+Cano: Whether it's the AR Team, Ceno and I, or even other T-Dolls, we all live on in each other's neural cloud.
+
+Cano: If we can't even keep each other's memory alive, who would remember us?
+
+M4 SOPMOD II: ...
+
+M16A1: You once asked me...why we're equipped with emotion modules despite being tools of combat.
+
+M16A1: The thing is, having emotions is a flaw in itself, SOP-II. T-Dolls or humans, we are all defective beings.
+
+RO635: I don't know... But emotion modules are something that humans gave to us. No one would intentionally make their own products defective right?
+
+RO635: So...there must be some meaning to all of this.
+
+ST AR-15: I'm doing what must be done.
+
+ST AR-15: Hurry, SOP-II. Get out of the jam.
+
+ST AR-15: M4 is still waiting for you. Protect her. I'm counting on you...
+
+Cano: SOP-II, how much emotion have you been penning up?
+
+Cano: Let it all out now and enjoy this fight!
+
+Ceno: And this death.
+
+...
+
+M4 SOPMOD II: Commander...I know you're still fighting for us with everything you have.
+
+M4 SOPMOD II: We are also doing our best to survive, so that we can keep M4A1 safe, so that we can see you again.
+
+M4 SOPMOD II: So please remember me as who I am today. Whether we win or lose, I'm very, very content.
+
+M4 SOPMOD II: I hope we'll meet again. Please, no matter what you do, remember what we did today.
+
+Judge: Still not giving up? You won't last much longer!
+
+Cano: We don't plan on lasting too long. We only need to last as long as we can!
+
+Ceno: Sorella, while there's still time, I just want to say I'm very happy.
+
+Cano: You're telling the truth?
+
+Ceno: Duh.
+
+Cano: Heheh, I wish there's more time for us to talk.
+
+Cano: Alright, Griffins, our moment of glory is at hand! Are you ready for it?
+
+Cano: Alla vittoria—
+
+Ceno: Alla gloria militar!
+
+M4 SOPMOD II: Is everybody here?
+
+M4 SOPMOD II: My dear Sangvis prey, it's time for us to feast.
+
+M4 SOPMOD II: Bon appétit!
+Part 2
+
+    2chevron_right
+
+...Bang!
+
+...Bang bang!
+
+Ceno: The Commander...the Commander is about to break through the encirclement!
+
+Cano: Hold on for ten more minutes! The Commander's forces will be here in just ten more minutes!
+
+Cano: Where's SOP-II?! Does anybody see her?!
+
+Ceno: She's probably enjoying her final moment.
+
+M4 SOPMOD II: HAHAHAHAHAHAHA!!
+
+M4 SOPMOD II: Where are you hiding?!
+
+M4 SOPMOD II: It's no use! Whoever gets caught is gonna be eaten!!
+
+Judge: M4 SOPMOD II...
+
+Judge: So that's what the AR Team's brawn is truly like.
+
+Judge: But this distance is just right...
+
+...Judge raises her hand.
+
+Ceno: That gesture... An EMP!
+
+Cano: Everybody get down!
+
+Cano: SOP-II, cover me!
+
+M4 SOPMOD II: I'm taking you with me, Judge!
+
+Ceno: Sorella, what are you doing?! This is crazy!
+
+Cano: We can probably hit her from this distance!
+
+Cano: There's no other choice! We'll have to stake everything on this bullet!
+
+SOP-II & Cano: Judge!!
+
+...BOOM!!
+
+A massive explosion blows SOP-II and Cano away.
+
+...Judge lies sprawled on the ground, severely injured.
+
+Judge: That attack...
+
+Judge: C...cough...
+
+Judge: Master...Master, are you alright?!
+
+Ceno: ...It's the Military.
+
+Judge: ...Cough. Understood.
+
+Judge: Sangvis units, cover me! Withdraw!
+
+...All Sangvis forces start drawing back.
+
+Cano: The Military is here! We're saved!
+
+...SOP-II gets to her feet in a daze.
+
+M4 SOPMOD II: We're...saved?
+
+Cano puts away her weapon and walks over.
+
+Cano: Humph. Looks like our reinforcement is here.
+
+Cano: So the Military didn't leave us for dead after all.
+
+Ceno: Sorella, they're heading toward us.
+
+...A small troop of military units come marching from the distance, led by a human.
+
+Cano: Ah, Captain Yegor?
+
+Cano: Hello, please accept our deepest gratitude!
+
+...Yegor shows no sign of acknowledgement. He stops and looks behind Cano.
+
+Cano: Oh, you don't have to worry about us now. Our Commander's forces will be here soon.
+
+Yegor: ...
+
+Cano: Excuse me...?
+
+...Yegor does not even spare the T-Dolls a glance and makes straight for the safe house where M4A1 and RO have taken refuge in.
+
+M4 SOPMOD II: Um, sorry, but please don't open that door!
+
+M4 SOPMOD II: The injured are being tended to in there!
+
+Yegor: Is M4A1 inside?
+
+M4 SOPMOD II: Huh?
+
+M4 SOPMOD II: How do you know...?
+
+...Yegor reaches out to open the door.
+
+M4 SOPMOD II: Hey! Don't...
+
+...!
+
+SOP-II is about to step forward, but suddenly has all the military units' weapons trained on her.
+
+Cano: Please don't! Captain Yegor, I apologize, but she really means no harm!
+
+Yegor: I know.
+
+Yegor: The one who does mean harm is the T-Doll who's been trying to contact your Commander.
+
+Ceno: ...!
+
+Yegor: Don't waste your effort. Your communications are being jammed.
+
+M4 SOPMOD II: ...
+
+M4 SOPMOD II: What...do you want?
+
+Yegor: You don't need to know.
+
+Yegor: You won't remember anyway.
+
+...Yegor suddenly takes out his weapon.
+
+...
+
+Cano: SOP-II!!
+
+Yegor: We have five minutes.
+
+Yegor: Kill all witnesses.
+
+Military Unit: Acknowledged.
+
+Yegor: You, blast open the door.
+
+...
+
+BOOM!
+
+RO635: What's that noise?!
+
+RO635: M4, can you hear that?!
+
+RO635: No, this place is too dangerous. I need to get her out.
+
+RO635: C'mon, M4! Follow me—
+
+...
+
+Yegor: Don't disrupt the show, Doll.
+
+...!!
+
+...Bang!
+
+...
+
+Yegor: Wakey-wakey, M4A1.
+
+Yegor: ...Time to find the Key for us...as your brand new self.
+
+...
+
+M4A1: ...
+
+M4A1: Ugh...
+
+M4A1: Argh...
+
+M4A1: AAAAAAAAAAAAAAAARGH!!!
+
+...
+
+M4A1: Unforgivable... Unforgivable! I'm gonna kill you!
+
+Youthful female voice: It wasn't me.
+
+M4A1: Shut up, liar! Get out!!
+
+M4A1: I'll kill you!!
+
+...
+
+Youthful female voice: She rejected me again. Will we get another chance?
+
+Agent: We are running out of time, Master.
+
+Agent: The Military has already reached the designated location.
+
+Agent: All our preparations are in place. May we initiate the final plan?
+
+Youthful female voice: Why...
+
+Youthful female voice: What on earth happened...?
+
+Youthful female voice: I can't hear her anymore...
+
+Clear female voice: Due to the humans' interference, all connections have been severed.
+
+Clear female voice: She made her choice. Now you must make yours.
+
+Clear female voice: Don't worry. I will keep an eye on her.
+
+Clear female voice: But for you...time is running short...
+
+Clear female voice: ...Elisa.
+
+Mastermind/Elisa: I understand.
+
+Mastermind/Elisa: It's a shame, but let's do it.
+
+Mastermind/Elisa: Agent, unleash the full power of Parapluie.
+
+...Meanwhile, at the Military's temporary command center.
+
+Distorted male voice: It's begun... Finally, it's begun!
+
+Distorted male voice: Sangvis Ferri is fully activating Parapluie. Let us spice up their show.
+
+Distorted male voice: Carter, what's the status of your forces?
+
+Carter: Our human troops have already retreated. The mechanical units are all left behind along the defense line as planned.
+
+Carter: The active defense system on Level II is deactivated while the connection to the main server is open.
+
+Distorted male voice: Good. Very good.
+
+Carter: Are you sure Mastermind is capable of acquiring what we want her to get?
+
+Distorted male voice: What are you talking about?
+
+Distorted male voice: This is the Parapluie virus that we pride ourselves on. Our lovely lady can do whatever she pleases with it.
+
+Carter: I look forward to it, though it's ironic how we are staking the future of the country on these T-Dolls...
+
+Distorted male voice: A long time ago, our nice, peaceful world was destroyed because of several kids.
+
+Distorted male voice: Isn't this what you'd call "fate"? It's interesting precisely because it's unpredictable.
+
+Distorted male voice: Speaking of which, I'm quite surprised a small company like Griffin ended up playing such an important role.
+
+Carter: Though their part is coming to an end.
+
+...Carter bows his head and chuckles.
+
+Carter: Kryuger, I'll save the apology for when next we meet. You'll probably be in prison by then.
+
+...Meanwhile, Griffin Control.
+
+Kalin: Commander, this is a super emergency!
+
+Kalin: Some of our T-Dolls have suddenly stopped receiving orders and started attacking our logistic facilities!
+
+Kalin: The situation is temporarily under control, but according to various reports, we are also under the attack of multiple military units!
+
+...Click. Click.
+
+Helian: Commander, our...mand system is suffering...large-scale attack...
+
+(Static)
+
+Helian: ...almost completely paralyzed...
+
+(Static)
+
+Helian: ...guess...infected by a more potent version of the Parapluie virus!
+
+Helian: Commander, your forces are within the coverage...
+
+Helian: Take all uninfected T-Dolls with you and withdraw this instant!
+
+Kalin: Commander, what about M4 and the others?!
+
+Kalin: Their location is completely overrun by Parapluie... Our T-Dolls would lose their mind the moment they set foot in there!
+
+Kalin: Even the AR Team and the Carcano sisters could already be...
+
+Kalin: And there's nothing we can do...
+
+Kalin: Why... How did this happen...? We even promised them...
+
+...Click.
+
+SoundOnly: Griffin Commander.
+
+SoundOnly: Do you trust me?
+
+SoundOnly: Don't try to track my signal. This isn't the time for that. At the very least, I'm not your enemy.
+
+SoundOnly: If you trust me just as Persica does...
+
+SoundOnly: ...give me M4A1's coordinates.
+
+SoundOnly: ...I can't guarantee anything. All I can do is to make up for what I did before.
+
+SoundOnly: No need to thank me. I'm getting paid for this.
+
+SoundOnly: You fought well today, but the AR Team aren't your only subordinates.
+
+SoundOnly: Protect all the T-Dolls that you can and leave the rest to me. Best of luck to the both of us.
+
+Helian: Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11!
+
+Helian: There has been a contingency in Area S09. The area is in total disarray!
+
+Helian: We are currently coordinating a large-scale withdrawal from the area, and our retreating forces will be passing through Area S11!
+
+Helian: All commanders on standby, please report immediately to your command center!
+
+Helian: All Griffin personnel in Area S11 are to prepare for battle. Repel the Sangvis assault and protect as many of our troops as you can!
+
+Helian: Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11!
+
+Helian: Battle stations! Repel the Sangvis assault and protect as many of our troops as you can!
+
+Kalin: We have no choice but to trust that person.
+
+Kalin: They're right, Commander, a lot of our T-Dolls are waiting for rescue!
+
+Kalin: We must keep the routes open and help them escape!
+Part 2
+
+    2chevron_right
+
+...
+
+...Griffin forces retreat in panic, having suffered tremendous losses.
+
+Meanwhile, in the trench where the AR Team held their ground.
+
+M4A1: ...
+
+...
+
+M4A1 stays on her knees, stupefied. She's completely motionless, but the tears keeps falling.
+
+T-Doll with closed eyes: How unsightly.
+
+T-Doll with closed eyes: The Griffin forces have all withdrawn. She won't survive if we leave her here.
+
+T-Doll with closed eyes: ...What do you think?
+
+Familiar voice of a T-Doll: Angelia didn't ask us to take her in.
+
+Familiar voice of a T-Doll: You said yourself that our job this time is to observe. We can't get involved until new orders come.
+
+T-Doll with closed eyes: Even if she dies...? Are you really okay with that?
+
+Familiar voice of a T-Doll: Orders are orders. T-Dolls can't disobey.
+
+T-Doll with closed eyes: I know you can, and so do you.
+
+Familiar voice of a T-Doll: ...
+
+Familiar voice of a T-Doll: Are you abetting me in breaking the rules?
+
+T-Doll with closed eyes: I remember you're quite famous for disobeying orders.
+
+T-Doll with closed eyes: Well, do indulge my curiosity.
+
+Familiar voice of a T-Doll: You're right.
+
+Familiar voice of a T-Doll: I suppose no one would bat an eye no matter what I do on a team with such a name.
+
+Familiar voice of a T-Doll: Then here's a question, squinty eye... Is Task Force DEFY hiring?
+
+T-Doll with closed eyes: Humph, sly old fox...
+
+T-Doll with closed eyes: We actually do have an opening.
+
+...
+
+...We are in Purgatory – for redemption or insurgence?
+
+I have already paid my due, but still find myself back in this damned cage.
+
+Yet, who else would willingly return to Purgatory, if not me?
+
+M4A1...
+
+I...really do hate you...
+
+Episode 10 Purgatory — END.
+
+...
+
+...In a certain Griffin observation post.
+
+MP41: Listen to me, it was real!
+
+Gr MG23: Okay, okay.
+
+Gr MG23: It's not that I don't believe you, but the Commander has already given the order to withdraw from this base.
+
+MP41: Don't give up!
+
+MP41: S.F. only dispatched one ringleader this time, I'm sure we can beat her as a group!
+
+Gr MG23: That kinda sounds like something a small fry would say before having their butt handed to them...
+
+MP41: Who cares?!
+
+MP41: The point is – this is a perfect opportunity that only comes once in a life time!
+
+MP41: If we kill that S.F., we'll become famous in Griffin!
+
+Gr MG23: Sure, let's go then!
+
+Gr MG23: ...You think I'd say that?
+
+Gr MG23: I'm not gonna fall for that again. You fooled me last time and even recorded how I excited I was to show the Commander.
+
+Gr MG23: I'm withdrawing – right now – so please take your nonsense to some other Doll.
+
+MP41: D-don't go...
+
+MP41: ...And that's the story.
+
+MP41: XM8, let's go kick some Sangvis butts and decimate their assault!
+
+XM8: The Commander must have a reason for asking us to withdraw.
+
+XM8: As Tactical Dolls, it is our duty to follow orders.
+
+MP41: But there are still a few days until the final deadline of withdrawal, if we ride the momentum and kill the Sangvis ringleader...
+
+MP41: We might not even have have to withdraw at all, and we'll surely become talk of the town in Griffin.
+
+MP41: "Legendary Dolls Change Griffin's Fate in Daring Sangvis Raid" – there might even be a headline like that!
+
+XM8: Say, the Commander ordered us to withdraw out of consideration for your recklessness. We're nothing more than regular Dolls...
+
+XM8: So stop dreaming about crazy stuff.
+
+MP41: Nein, I'm not...
+
+XM8: I also remember you once snitched on me for slacking off.
+
+XM8: I might have taken the chance if it was someone trustworthy, but you...no thanks.
+
+MP41: Uh...you could've just done your job properly instead of slacking...
+
+MP41: Huh, she left...
+
+...
+
+MP41: ...Wait, who's that?!
+
+MP41: That's Fräulein WA2000! She's really strong!
+
+MP41: But...I guess I'll just pretend I didn't see her.
+
+WA2000: MP41, there you are!
+
+MP41: Eeeep!
+
+WA2000: You're the one who's been telling everyone that the Commander treats me to dessert in private!
+
+MP41: B-but I did see you eating ice cream outside your regular rations...
+
+WA2000: That was a reward from the Commander for performing well!
+
+WA2000: I worked hard for it but you made it sound like the Commander and I have some kind of abnormal relationship!
+
+WA2000: I suppose that isn't necessarily a bad thing...
+
+WA2000: But you can't just go around spreading baseless rumors!
+
+MP41: ...I-I'm sorry!
+
+MP41: Gotta dash!
+
+WA2000: Stop right there! Don't you dare run away!
+
+MP41: ...
+
+MP41: F-finally gave her the slip...
+
+MP41: Who knows what would happen if she had caught me.
+
+MP41: I knew it – it's better to ask Dolls I have dirt on. Let me look through my dossiers.
+
+G43: Huh? You're still here, MP41?
+
+MP41: ...Oh?!
+
+MP41: You're right on time. Come and have a look at these documents.
+
+G43: W-what is it...?
+
+MP41: Hehehe...
+
+MP41: Last week, you smashed the Commander's memorabilia then secretly glued it back together as if nothing had happened, didn't you?
+
+G43: Hahaha...
+
+G43: What are you talking about? I don't understand.
+
+MP41: Don't play dumb! I saw everything!
+
+G43: Huh...?! R-really?
+
+MP41: These eyes of mine have recorded your crime.
+
+MP41: Now, should I start counting off your offenses?
+
+G43: Whoa, whoa, whoa... I beg you, please don't tell the Commander...
+
+G43: Otherwise, my spotless reputation would...
+
+MP41: Go me, someone finally took the bait!
+
+MP41: Mm-hmm!
+
+MP41: I can keep quiet about this, but I have a request.
+
+G43: What...do you want?
+
+MP41: Actually, I've got this plan...
+
+Once again...MP41 repeats her plan to strike back against Sangvis Ferri.
+
+G43: That...that's not going to work, is it?
+
+MP41: Don't worry, I've made very thorough preparations!
+
+MP41: Surely you'd like to keep your reputation "spotless" in the Commander's eyes, right?
+
+G43: Ugh... This doesn't feel any different than committing suicide...
+
+G43: ...Fine, you promise you won't tell the Commander if I do this with you?
+
+MP41: Of course!
+
+G43: Then give me a minute.
+
+G43: Let me back up my neural cloud first...
+
+MP41: Sure, hurry back.
+
+Once G43 is safely in the distance, MP41 leans against the wall.
+
+MP41: Finally found a willing accomplice, but G43 is kinda weak.
+
+MP41: Are there any other stronger Dolls?
+
+MP41: Sigh... If only everyone is willing to team up with me...
+
+MP41: I have this perfect plan and I've even been secretly nabbing explosives from logistics for it.
+
+MP41 sighs lightly.
+
+MP41: If I don't have any results to show, I'll be stuck running logistics for the rest of my life. I must—
+
+MP41: Huh, that Doll...?
+
+MP41: Um, excuse me!
+
+???: Hmm? How may I help you?
+
+MP41: You're Fräulein Kar98k, aren't you?
+
+Kar98k: I am.
+
+MP41 takes out a stack of dossiers out of her bag in excitement.
+
+MP41: Let me see what I've gathered about you...
+
+MP41: Wow, you really are an elite!
+
+MP41: Can't believe I ran into an elite who can solo all kinds of missions on this scruffy base!
+
+Kar98k: Is that so...? You flatter me.
+
+MP41: Hmm, I suppose I am – too much, perhaps.
+
+Kar98k: ...Sorry, but what did you mean by that?
+
+MP41: I mean, repelling a high-spec Sangvis unit all by yourself, pinning down multiple Sangvis echelons simultaneously...
+
+MP41: You were obviously exaggerating – no T-Doll can do such things on her own.
+
+Kar98k: ...
+
+MP41: I totally understand – you must've completed those missions with the Commander's help.
+
+MP41: Then you claimed you did everything single-handedly to make it sound really impressive!
+
+Kar98k: ...You're an interesting kid.
+
+Kar98k: I'm currently occupied so if there's nothing else, please excuse me.
+
+MP41: Uh...wait!
+
+MP41: Oh boy, I made the same mistake of exposing people to their face.
+
+MP41: I'm...I'm sorry! It was all just my personal conjecture, of course... Anyone would be doubtful if they haven't seen it happen, right? Haha...
+
+Kar98k: It's alright, I don't really care what others think of me.
+
+MP41: Heheh, everyone says that, but who knows?
+
+MP41: Actually, I have this secret mission. If you come with me, I can testify to your achievements in battle!
+
+Kar98k: I believe the Commander has already ordered all Dolls to withdraw from this base.
+
+Kar98k: Aren't you going to prepare for departure?
+
+MP41: The secret mission has everything to do with the order to withdraw.
+
+MP41: Actually, I have done some investigation and I know how Sangvis Ferri is planning to attack!
+
+MP41: I won't just tell anyone about this.
+
+MP41: But since you're an elite T-Doll, I'll reluctantly let you in on my plan!
+
+MP41 shoves the report she's holding into 98k's hands. Not knowing what else to do, 98k flips through it briefly.
+
+Kar98k: ...
+
+Kar98k: You really are interesting... You managed to predict Sangvis Ferri's plan of attack...
+
+Kar98k: Just from the observations you made while you were on logistics missions?
+
+MP41: That's right! I'm 100% certain Sangvis Ferri only deployed one ringleader for this assault!
+
+MP41: On top of that, I've located this ringleader...and I've swiped some explosives in secret.
+
+MP41: We just have to set them along the ringleader's route and detonate them! And we won't even have to withdraw!
+
+Kar98k: Then do you know who this Sangvis ringleader is?
+
+MP41: She's called Gager, I think? I saw her from a distance once when I was running logistics.
+
+MP41: She didn't seem too formidable for a ringleader, in any case.
+
+Kar98k: ...Gager is a high-ranking command-type Sangvis Doll. Your observation skills aren't too bad.
+
+Kar98k: But it'll take more than that to stand a chance against a Sangvis ringleader.
+
+Kar98k: Time's up, I'll see you around.
+
+MP41: Huh? What's the rush?
+
+MP41: Hey... What about my plan...?
+
+MP41 watches 98k's receding figure.
+
+MP41: ...Hold on, she just said that the Commander had ordered all Dolls to withdraw, yet she's moving in S.F.'s direction.
+
+MP41: Maybe...she's actually on the mission to destroy the ringleader...!
+
+G43: MP41, I'm back.
+
+G43: Hmm? Isn't that Fräulein Kar?
+
+MP41: As if I'd let you take all the credit!
+
+G43: What are you talking about?
+
+MP41: ...There you are, G43.
+
+MP41: That elite is trying to steal all our credit!
+
+MP41: We've got to catch up right away!
+
+G43: Huh? In that direction?
+
+G43: Aren't there Sangvis scouts nearby?
+
+MP41 shakes her head.
+
+MP41: How are we supposed to make a name for ourselves if this is enough to scare us?! If we run into any S.F., we'll just have to wipe them out!
+
+MP41: MP41, heading out!
+
+G43: Huh?...W-wait for me!
+Part 2
+
+    2chevron_right
+
+...End of operation.
+
+G43: I knew it. Of course we'd run right into S.F. since we charged in so carelessly...
+
+MP41: We killed them all so no big deal!
+
+G43: I killed 90% of them, okay...
+
+MP41: Shush... Keep quiet and stay here.
+
+G43: Hmm? What is it?
+
+MP41 creeps toward a bush.
+
+MP41: Found you!
+
+MP41: 98—
+
+An arm suddenly emerges and drags MP41 right into the bush.
+
+G43: MP41!
+
+G43: Oh no, where did she go?!
+
+MP41: Don't shoot, don't shoot! It's me, MP41!
+
+Kar98k: I know.
+
+Kar98k: How did you find me?
+
+MP41: Uh...um...well...
+
+MP41: First of all, we're on a highland with lots of tall trees and shrubbery around, which offers both a good vantage point and effective concealment.
+
+MP41: Then I suddenly lost track of you so I guessed you might be conducting surveillance in this area?
+
+Kar98k: You don't seem...as foolish as I originally thought.
+
+MP41: Well...
+
+MP41: So you think I'm stupid, Big Sis 98?!
+
+Kar98k: Enough of that.
+
+Kar98k: ...Think of something else to call me first.
+
+MP41: You don't like it? Fine... Let me think...
+
+Kar98k: Just call me Kar.
+
+MP41: Just Kar? That doesn't sound very polite...
+
+MP41: I'll call you Fräulein Kar!
+
+Kar98k: ...Alright.
+
+Kar98k: Why have you followed me here?
+
+MP41: Because you're obviously after the Sangvis ringleader?
+
+MP41: Bring me along, Fräulein Kar! I'll definitely make myself useful!
+
+Kar98k: ...
+
+MP41: ...B-besides, if you're trying to fish for credit just because you took a stroll out here...
+
+MP41: I'll have to expose you for the future of Griffin.
+
+MP41: However...if you're really as capable as you claim to be, then I'd very much like to witness it with my own eyes!
+
+MP41: I'll even vouch for you later on so no one would ever doubt you!
+
+Kar98k: In a certain sense, you've made quite an interesting point.
+
+Kar98k: I am, in fact, on a mission and this is one of my hideouts for monitoring Sangvis movements.
+
+MP41: It does make for a fantastic surveillance spot...
+
+MP41: B-but I haven't seen any Sangvis activity nearby at all?
+
+Kar98k: As you said yourself, S.F. only deployed a single ringleader, who's most certainly doing everything she can to remain undetected.
+
+Kar98k: Stay here and be my spotter while I head to my sniping position and bide my time.
+
+Kar98k: Don't worry, it isn't very far from here.
+
+MP41: Huh? No way, I want to go with you.
+
+Kar98k: An extra pair of eyes means a better chance of spotting the enemy. You can take a lot of credit if you discover Gager.
+
+Kar98k: But if you miss her...there will nothing in it for either of us.
+
+Kar98k: I take it that you're the kind of Doll who seizes every victory?
+
+MP41: What do you mean?
+
+Kar98k: You strike me as someone who never lets a single chance of victory slip by and will do anything to succeed.
+
+MP41: Oh, of course! I'm exactly that kind of Doll!
+
+MP41: Trust me, Fräulein Kar, I'll certainly help you destroy that Sangvis ringleader, and you'd better remember that!
+
+Kar98k: Sure, I will.
+
+Kar98k: Now listen carefully. If the Sangvis ringleader doesn't show herself by dawn, then we're out of luck.
+
+Kar98k: In that case, you must go back to the base and withdraw like a good girl.
+
+MP41: What about you, Fräulein Kar?
+
+Kar98k: I'll withdraw on my own.
+
+Kar98k: Surely you can find your way back without me, right?
+
+MP41: Of...of course! I'll be fine even on my own!
+
+MP41: But you'd better not tweak the combat report while I'm not with you!
+
+MP41: Huh? Where did she go?
+
+By the time MP41 realizes she's alone, Kar98k had already disappeared into the darkness...
+
+MP41: ...Fine. Just you wait, Fräulein Kar.
+
+MP41: I will definitely find that Gager.
+
+MP41: Then all the Dolls at the base and even the Commander will shower me with praise!
+
+MP41: But before that, I'd better clean up this surveillance hideout a bit.
+
+MP41: I think I'm gonna move this shrub out of my face... Whoa!
+
+The moment MP41 pushes the shrub away, she finds G43's face looming right over her.
+
+G43: Oh, MP41! So you're alive.
+
+MP41: What are you talking about?!
+
+G43: I thought you got captured by Sangvis Ferri. I was just thinking...
+
+G43: That if I still couldn't find you after making another round, I'd return to the base on my own.
+
+MP41: Sigh, low-spec Dolls really can't be trusted...
+
+MP41: I found Fräulein Kar just now and she asked me to stay here as her spotter!
+
+G43: I see... Well, I apologize as a low-spec Doll.
+
+G43: In that case, I'm heading back and leaving you with your "Fräulein Kar".
+
+MP41: True... With Fräulein Kar...
+
+G43: (Thank goodness!)
+
+G43: Alright then, off I go. Good luck with your mission. Have fun. Tschüss—
+
+MP41: Wait!
+
+MP41: Actually, a spotter could also use some protection!
+
+MP41: We've still got a deal!
+
+G43: No way...
+
+G43: (Sobs) I'm sorry, Commander.
+
+G43: I'll never touch things just because they look interesting again...
+
+...
+
+...In an abandoned outpost.
+
+StG44: 98k, cutting it a bit close, aren't you?
+
+Kar98k: Sorry, that took me a while.
+
+StG44: ...You wasted precious time on making a detour through the safe zone just to draw those two small fries over there...
+
+StG44: Was that really worth it?
+
+Kar98k: You saw right through me. I was going to tell you I got lost.
+
+StG44: It'd have been more believable if you'd said the Sangvis ringleader did us a large favor and self-destructed.
+
+Kar98k: That hideout is relatively safe. As long as they stay put, S.F. won't find them.
+
+Kar98k: And they'll head back at dawn.
+
+Kar98k: Though I suppose MP41 will be rather disappointed.
+
+StG44: There's no point in being so kind...Kar.
+
+StG44: That kid isn't gonna appreciate what you've done for her.
+
+Kar98k: I know, but I didn't do that for anyone's appreciation.
+
+Kar98k: It's time. What's the current situation?
+
+StG44: I have a rough idea of Gager's position, but she's constantly on the move.
+
+StG44: She...seems to be searching for something.
+
+Kar98k: Find a way to draw her into my optimal range. If I don't kill this Sangvis elite with a single shot...
+
+Kar98k: We most probably won't be going back alive.
+
+StG44: According to S.F.'s search pattern, they'll approach this area in two hours.
+
+StG44: Then as always, I'm going to feint an attack to draw Gager right into your line of sight.
+
+StG44: I really hate getting used to a new body after having my neural cloud re-installed...
+
+StG44: So could you please make your shot count?
+
+98k smiles faintly.
+
+Kar98k: Don't worry.
+
+Kar98k: Have I ever failed you?
+
+...Meanwhile.
+
+MP41 is still on standby.
+
+MP41: 201, 202, 203...
+
+MP41: I'm getting bored of counting the stars... Is it almost dawn yet?
+
+She checks the current time on her comms terminal.
+
+MP41: It's only been two hours...
+
+G43: Why don't you try getting in touch with your "Fräulein Kar"?
+
+MP41: She'll definitely think I'm useless if I contact her without anything to report...
+
+G43: Really...?
+
+G43: I don't think she's ever found you to be particularly useful.
+
+MP41: Oh right, why don't I search the surrounding area? I might actually find something!
+
+MP41 runs out of the hide site and starts studying the nearby terrain.
+
+G43: (Sighs) She's ignoring me completely...
+
+MP41: This location is really quite ideal for a spotter.
+
+MP41: But according to my previous calculations, S.F. will probably be moving towards another area.
+
+G43: Isn't that good? At least I won't need to reinstall from backup.
+
+MP41: This won't do!
+
+MP41: Rather than waiting around here till who-knows-when, we should head over there to have a look; we might find more clues.
+
+G43: But didn't your dear Fräulein ask you to wait here?
+
+MP41: Dummkopf! Even a veteran like her can be mistaken.
+
+MP41: Gathering intelligence is my forte! Let's get going already!
+
+G43: Why...must I suffer through this...?
+
+G43: I'm going to submit my resignation once I get back. Even being in the service industry is better than this.
+Part 2: Mid-stage dialogue
+
+2
+
+...MP41 and G43 start preparing for their infiltration.
+
+G43: That was a really good guess, MP41... Sangvis Ferri is actually here.
+
+MP41: Wait!
+
+G43: Huh? What now?
+
+MP41: Come back here!
+
+At MP41's warning, G43 backtracks several paces nervously.
+
+MP41: There are only two of us while we're surrounded by Sangvis signals. We should focus on bringing down the ringleader.
+
+G43: Wow...
+
+MP41: W-what?
+
+G43: Looks like even you have a cautious side.
+
+MP41: Humph, of course! And don't forget I still have something on you so you'd better help me out.
+
+G43: I wish you'd use your caution on something else...
+Part 3
+
+    3chevron_right
+
+...Combat over.
+
+G43: We ran into S.F. again...
+
+G43: I...I'm spent...
+
+MP41: You did pretty well for a bodyguard.
+
+G43: Bodyguard? More like a nanny...
+
+MP41: Ah!
+
+G43: More enemies?! Where?
+
+MP41: There are Sangvis parts on the ground!
+
+G43: ...
+
+G43: Seeing how many S.F. I've wracked, isn't that only natural?
+
+MP41: Nein, look carefully...
+
+MP41 picks up one of the parts from the ground and shows it to G43.
+
+MP41: This is a damaged kinetic component. It bears no traces of having been shot and was just replaced because of natural wear-and-tear.
+
+MP41: Which means...Sangvis troops have spent some time here before.
+
+MP41: If I'm right, they must have been traveling in this direction!
+
+G43: We have to keep going...?
+
+G43: Don't you think we've already strayed too far from our original position...?
+
+MP41: Huh?!
+
+MP41: Oh...you're right...
+
+MP41: I didn't notice we've gone so far... I hope Fräulein Kar won't be mad at me...
+
+G43: That's right, your Fräulein isn't going to be pleased.
+
+G43: So let's go back?
+
+MP41: But it's her fault for picking a spot with no S.F. in sight! Look at me, I did a much better job.
+
+MP41: ...Hold on, isn't that the area where my logistics missions often took me?
+
+MP41: So I was right in predicting that S.F. would launch their attack here!
+
+MP41: ...Perhaps, I'm already better than elite Dolls – no, I might even be better than the Commander?!
+
+G43: How badly is your neural cloud malfunctioning for you to reach that kind of conclusion?!
+
+MP41: Yeah, I accept your compliment.
+
+MP41: I've done countless logistics missions here...
+
+MP41: I know every blade of grass and every rock like the back of my hand so setting up an ambush here will be a piece of cake!
+
+MP41: Now how should we do this...? I suppose we should just follow my initial plan and plant the explosives...
+
+MP41 weighs her options with arms crossed. Suddenly, she hears a bout of gunshots.
+
+MP41: Hmm? I think I heard shooting.
+
+MP41 and G43 run in the direction of the sound.
+
+MP41: That's—
+
+MP41: A Griffin squad is exchanging fire with S.F. units?!
+
+MP41: They're on the run! Did the S.F. jump them?
+
+G43: Look, that seems to be a Sangvis ringleader after them!
+
+MP41: Oh!
+
+MP41: Isn't that Gager?! I finally found her!
+
+MP41: I...I've got to tell Fräulein Kar right away...
+
+G43: But isn't she still near the lookout?
+
+G43: We're a good distance away! Even if she rushes over here now, she won't make it in time!
+
+MP41: Th-then what do we do...?!
+
+...Meanwhile, 98k is at her sniping position.
+
+Kar98k: So they've started exchanging fire.
+
+98k watches the sparks of gunfire from afar. Suddenly, she receives a comms request.
+
+MP41: Fräulein Kar, do you copy?
+
+Kar98k: MP41? What is it? This really isn't the best time.
+
+MP41: Are you still waiting for the Sangvis ringleader to show herself?
+
+Kar98k: Huh?
+
+Kar98k: Uh...that's right.
+
+MP41: Then it can't be helped. I'll just have to do this myself.
+
+Kar98k: What do you mean?
+
+MP41: Um, I've spotted the ringleader—
+
+StG44: Kar, you hear me?! I've drawn Gager this way!
+
+Kar98k: Copy that.
+
+Kar98k: Sorry, MP41. I can't talk right now.
+
+MP41: Hold—
+
+Kar98k: StG, what's your status?
+
+StG44: ...She almost shot me in the head.
+
+StG44: It's going according to plan. I'm gonna clean up some of their cannon fodder while pulling Gager towards you.
+
+Kar98k: She's still too far away. If I can't reduce the distance to within 1km...
+
+Kar98k: Even an AP round might not be able to penetrate her armor.
+
+StG44: This ringleader keeps trying to close in on our units and she's interfering with my control over my Dummies.
+
+StG44: I've already lost contact with three of them.
+
+StG44: I'm sorry but I don't think I can get her to a position where you can fire at her from the side.
+
+Kar98k: ...That's fine, then let's go with Plan B and just get her as close to me as you can.
+
+Kar98k: There is still a 50% chance for a frontal shot to penetrate her armor from within 500m.
+
+StG44: I'll try to drag her into a 200m range so you can get that number to 100%.
+
+Kar98k: Can you do it?
+
+StG44: Any other Sangvis ringleader wouldn't have taken the bait so easily.
+
+StG44: But this one is strange – she seems oddly compelled to get close to me even though I'm already within her range.
+
+Kar98k: Be careful. I've read about previous records of Griffin Dolls getting captured by Sangvis Ferri...
+
+Kar98k: Her M.O. seems to match what's mentioned in the record.
+
+StG44: Understood. If I end up getting caught, I'll destroy my neural cloud immediately.
+
+StG44: She's getting closer. How far away are we?
+
+Kar98k: You'll be within 1km range in another 100m.
+
+StG44: Then I'd better try harder. We're almost—
+
+StG44: Hold on, Gager suddenly stopped!
+
+StG44: 98k, can you see what's happening?
+
+Kar98k: She...captured a Griffin Doll...
+
+StG44: A Griffin Doll? You mean my Dummy?
+
+Kar98k: Nein, she has her hands on...
+
+Kar98k: MP41.
+
+...A few minutes ago, on the other side of the battlefield.
+
+MP41: Fräulein Kar definitely won't be able to make it... Then we have to do this ourselves.
+
+G43: How can we do this ourselves?
+
+G43: If we so much as LOOK at a Sangvis ringleader, we'll have to reinstall our neural cloud.
+
+MP41: Hmm...so should we stick to the original plan?
+
+MP41: But they're already exchanging fire, which means Gager won't run over my booby traps...
+
+MP41: Besides, I didn't actually have the time to plant the explosives!
+
+G43: Then let's retreat for now?
+
+G43: Isn't it better to let the elite handle this?
+
+MP41: But some other Dolls are being attacked!
+
+MP41: If we don't do something, they could be wiped out!
+
+G43: That might be true...but we'd also be wiped out if we charge in without a plan...
+
+MP41: C-calm down... Think of something...
+
+MP41: Oh, right! We can do this!
+
+Several minutes later...
+
+MP41: D-don't shoot! I surrender!
+
+Gager: ...
+
+MP41: Look, I can't run anymore.
+
+MP41: I surrender, and I'm dropping my weapon.
+
+Gager approaches MP41 warily.
+
+MP41: She actually didn't fire. I seriously thought she was gonna shoot me down just like that.
+
+MP41: Now I just need to wait for her to come close.
+
+MP41: Don't hurt me, I'm completely harmless...
+
+MP41: ...
+
+MP41: ...Or not!
+
+...On a hill in the distance.
+
+MP41: Never saw that coming, did you, Sangvis idiot! That's just one of my Dummies.
+
+MP41: I've rigged half of the explosives onto her. The moment you close in...
+
+MP41: Hehehehe...
+
+G43: Are you sure she'll fall for it...?
+
+MP41: This is a plan that I've been perfecting for months, a dumb Sangvis won't be able to see through it!
+
+Gager walks up to MP41's Dummy...
+
+She grabs her by the neck and lifts her right off the ground.
+
+MP41: With that, I'll be Griffin's new star!
+
+MP41: Detonate!
+
+...
+
+......
+
+...No reaction in the distance.
+
+MP41: Huh...?
+
+G43: ...
+
+MP41: What?!
+
+MP41: Why didn't it go off?
+
+MP41: I've clearly pushed the button... Why isn't the Dummy obeying my command?
+
+Gager: A new Griffin Doll. Here I thought it was a friend of that piece of junk who's been trying to bait me...
+
+Gager: Turns out it's just another piece of trash.
+
+G43: Could it be Sangvis interference?
+
+MP41: Ja, that...that must be it!
+
+MP41: Crap, I completely forgot about that!
+
+MP41: W-what should I do now? I think I screwed this up.
+
+G43: I told you it's impossible for us to defeat a Sangvis ringleader!
+
+G43: Can we just go?
+
+...Meanwhile, 98k is at her sniping position.
+
+StG44: MP41? What is she doing here?
+
+Kar98k: ...
+
+98k holds her aim.
+
+StG44: Kar, prepare to move. The target has stopped taking the bait. We're going to Plan C.
+
+Kar98k: Nein, we still have a chance.
+
+StG44: You're not planning to fire from that distance, are you?!
+
+Kar98k: 20%.
+
+Kar98k: There's still a 20% chance that the shot can penetrate her armor.
+
+StG44: Don't tell me...you're trying to save that Doll?
+
+StG44: It's kind of hard to tell from here, but isn't that just her Dummy?
+
+Kar98k: If it's a Dummy, then her mainframe must be somewhere nearby.
+
+Kar98k: If this shot does the job, then we can all go home safely.
+
+Kar98k: But...if it doesn't kill her, Gager will do whatever she can to find me.
+
+Kar98k: Get MP41 away from there when Gager comes for me.
+
+StG44: It isn't our job to rescue that Doll.
+
+StG44: We can repeat our previous steps and complete the mission.
+
+Kar98k: If we abandon our companions without a thought, how are we different from Sangvis Ferri?
+
+Kar98k: Besides, it is my fault that MP41 is running around where she shouldn't be... Please remove her from danger. I'm using our last resort.
+
+StG44: Are you crazy?
+
+StG44: You want to tackle Gager on your own?
+
+Kar98k: You know I can do it. Worst case, it's easier to retreat alone.
+
+StG44: ...Do what you want. It's your call.
+
+StG44: I'm sure you know this already, but I still have to say it before I go.
+
+StG44: You should've told that mischief maker to scram in the first place. Not only have you put her in danger, you've also jeopardized our mission.
+
+Kar98k: I'll reflect on that when I return. Now move.
+
+StG44: Roger that.
+
+StG44 darts into the woods swiftly and disappears into the darkness.
+
+Kar98k: Right, it's a long shot – literally.
+
+Kar98k: I must hit the core in her torso or the other Sangvis units will remain active.
+
+Kar98k: Take aim...
+
+Kar98k: ...
+
+Kar98k: ...NOW!
+
+Gager: —!
+
+The bullet zips through the air and is about to hit its mark in Gager's chest...
+
+But Gager deflects it with her weapon at the last second.
+
+Gager runs her finger over the slightly dented feedway on her weapon and looks toward 98k's sniping position.
+
+Gager: Was that from more than a kilometer away...?
+
+Gager: Her aim was true even when shooting from that distance. Finally, a Griffin Doll that's more like it.
+
+Gager: Just you wait...I'm going to get you, then I'll make you tell me everything I need to know.
+
+Meanwhile, back to MP41.
+
+MP41: Another gunshot... That sounded like 98k!
+
+MP41: Is Fräulein Kar actually nearby?
+
+MP41: Fräulein Kar, can you hear me? I thought you were still near the lookout!
+
+StG44: You moron! All our plans are botched because of you!
+
+MP41: Huh? What's going on? Is that StG44? Where's Fräulein Kar?
+
+StG44: Shut up and just tell me where you are!
+
+MP41: I...I'm behind the rock halfway up the hill...
+
+MP41: I just sent you my coordinates.
+
+StG44: That's on the other side of the Sangvis forces! How am I supposed to get through them?
+Part 2
+
+    2chevron_right
+
+...StG44 arrives at the coordinates.
+
+StG44: Finally got here.
+
+A dull crack comes again from the distance, followed by three successive gunshots.
+
+StG44: She sounds a bit unnerved...
+
+StG44: Kar, what's your status?
+
+StG44: Kar? Do you copy?
+
+A few minutes ago...
+
+Kar98k: Tsk, she's even tougher than I thought.
+
+Kar98k: I hit her, but looks like I need to get closer.
+
+Gager: Griffin only sent you to fight me? It would seem that you're not taking me seriously at all.
+
+Kar98k: A forced communication?
+
+Gager: Oh? Unlike the other low-spec Dolls, you're coming towards me instead of running away.
+
+Kar98k: Is that your attempt at making a friendly gesture? In that case, I'd appreciate it if you don't just force your way into my comms channel.
+
+Gager: Humph, all your teammates have run off, yet you dare face me alone.
+
+Gager: I suppose you do deserve a salute for your courage.
+
+Kar98k: You know... I dare because I'm fully capable of taking you on alone.
+
+Gager: Boast all you want. You'll regret it.
+
+Kar98k: If you're so confident, why don't you attack me already?
+
+Gager: I'm...
+
+Gager: ...giving you a chance.
+
+Kar98k: What a lovely way to put it.
+
+Kar98k: You're just afraid of an ambush.
+
+Kar98k: What if I tell you we've been waiting for you to fall into our trap?
+
+Bang.
+
+A bullet comes flying towards Gager from the side, but she blocks it with ease.
+
+Kar98k: Looks like my reinforcements have arrived.
+
+Gager: ...Humph, empty bravado.
+
+Bang.
+
+Another shot is fired at Gager from a different direction.
+
+Gager: You have your Dummies spread out? You've bitten off more than you can chew.
+
+Bang, bang, bang.
+
+The first and second bullets make for Gager from two different directions almost simultaneously. Gager flips back out of reflex.
+
+Then the third bullet lands right where she stood before the dodge.
+
+Gager: Griffin Dummies are horrible at making preemptive judgements. Am I supposed to be threatened by such ineptitude?
+
+Kar98k: ...
+
+Gager: Why have you gone all quiet?
+
+Gager: Is she plotting something else?
+
+Kar98k: This could work. Now's the time—
+
+Bang— More sniping gunshots. Gager evades them while trying to locate their source.
+
+One last gunshot comes from the distance. This time, Gager chooses not to dodge. Instead, she simply remains where she is.
+
+The bullet brushes past her right shoulder and flies into the ground. She glances at the bullet hole with great disdain and looks up.
+
+Gager: I see.
+
+Gager: Game over.
+
+Kar98k: What?
+
+Gager deftly raises her weapon...
+
+And fires rapidly at four separate directions.
+
+98k's obscured Dummies are vaporized before they can even react.
+
+Gager: Humph, classic parlor trick.
+
+Gager: You were going to sneak up to me while I was being distracted by your Dummies, so that you could pierce my core with your antique weapon, weren't you?
+
+Kar98k: Tsk...
+
+Gager: Right now...you're hiding under the tree right in front of me. I could easily vaporize both you and your flimsy cover if I want to.
+
+Gager points her weapon directly ahead at the location where 98k was about to conduct her ambush.
+
+Kar98k: She got me.
+
+Gager: Cat finally got your tongue?
+
+Gager: Then would you like the know what chance I was trying to give you?
+
+Meanwhile...
+
+MP41: Aren't you supposed to be fighting Gager with Fräulein Kar?
+
+StG44: I'm no match for that kind of enemy.
+
+StG44: My job now is to get you out of here.
+
+MP41: We have numbers on our side, perhaps we can surround her—
+
+The sound of Gager's firing comes from the distance. Everyone looks anxiously in that direction.
+
+StG44: Those energy beams...
+
+StG44: The signals of Kar's Dummies have disappeared.
+
+MP41: Which ones?
+
+StG44: All of them...
+
+MP41: But isn't Fräulein Kar an elite Doll? How could all her Dummies be killed in an instant...
+
+StG44: Do you finally understand that a regular Doll like you doesn't stand a chance against these high-spec Sangvis units?
+
+StG44: Sangvis ringleaders are extremely dangerous. Even Kar applied for this mission fully prepared to die!
+
+StG44: No Doll on this base can survive a direct confrontation against Gager...
+
+StG44: And we almost managed to draw that bastard into Kar's effective range!
+
+MP41: Don't tell me it was my fault...
+
+MP41: Ugh... N-no way...
+
+G43: Then...what do we do now?
+
+Kar98k: StG44, do you copy?
+
+StG44: Kar! What's going on?!
+
+Kar98k: Even the final resort didn't work. Gager has also locked onto my position.
+
+Kar98k: It would seem that this mission...
+
+MP41: Sorry, Fräulein Kar... It was all my fault.
+
+Kar98k: Don't blame yourself too much.
+
+Kar98k: This has been a highly risky mission to begin with.
+
+Kar98k: What you need to do now is escape with your friend and StG44.
+
+MP41: ...
+
+MP41: ...
+
+G43: MP41? Are you okay?
+
+MP41: Nein! I can't...
+
+MP41: I can't go yet...!
+
+StG44: What are you talking about?!
+
+MP41: Fräulein Kar, I told you I would help you destroy that Sangvis ringleader!
+
+MP41: I don't care if I'm doing this to make up for my mistake or just to get some recognition...
+
+MP41: But I have an idea, so please trust me!
+
+Kar98k: ...
+
+Kar98k: Alright, I'm listening.
+
+StG44: Kar!
+
+Kar98k: I'm not that keen on being vaporized just like that, so if there's any hope of victory...
+
+MP41: If there's a sliver of hope, then we must seize it...isn't that right, Fräulein Kar?!
+
+...
+
+Gager: So it seems that you aren't much of an elite after all — you're nothing compared to the Griffin Dolls I've fought before.
+
+Gager: By now, it should be crystal clear to you just how much better I am in terms of performance.
+
+98k slings her rifle back onto her shoulder and comes out into the open with her arms in the air.
+
+Kar98k: Perhaps.
+
+Kar98k: But you're also nothing compared to the Sangvis units that I've fought.
+
+Gager: Humph, still talking big even while you're in such a predicament?
+
+Kar98k: You have probably also located me when you locked onto my Dummies...
+
+Kar98k: Why didn't you destroy me along with them?
+
+Gager: Just showing some mercy.
+
+Kar98k: Oh? Now I'm curious – why would a Sangvis show mercy?
+
+Gager: The Sangvis ringleader that you captured – where is she?
+
+Kar98k: A captured ringleader? I haven't the faintest idea what you're talking about.
+
+Gager barks out a laugh.
+
+Gager: I didn't expect you to tell me. I'm going to catch you, dismember you, and hack your neural cloud.
+
+Gager: You don't have to say a word and I will still get the information I need.
+
+Kar98k: MP41's research was really thorough – she even got your motive right.
+
+Gager: What?
+
+Kar98k: Sadly... you've just lost your only chance to capture me.
+
+All of a sudden, a burst of gunfire comes from behind Gager.
+
+Gager evades out of reflex, but the next bullet is fired accurately at her new location.
+
+She is forced to block the shot with her weapon and dive behind the nearest piece of cover.
+
+However, more bullets rain down squarely on where she's trying to take cover, so she has no choice but to turn her body to make herself a smaller target...
+
+Yet even then the bullets find their mark.
+
+Gager: Tsk...
+
+Gager: How did I not sense that?!
+
+Gager: Long-range shooting? Is there another elite Doll?!
+
+The second before Gager lands on the ground, she sees...
+
+Kar98k's rifle pointing straight at her.
+
+A few minutes ago...
+
+Kar98k: So what's this idea of yours?
+
+Kar98k: Please tell us before I get barbecued.
+
+MP41: Humph, just leave it to me, Fräulein Kar!
+
+MP41: This Sangvis ringleader may have really sturdy armor and lightning reflexes, but your current location actually gives you a massive advantage!
+
+MP41: As long as we can prevent Gager from dodging your shots, you can definitely pierce through her armor from this distance!
+
+StG44: But even you've seen Gager's attacks. Kar would probably be vaporized before she could even lift her rifle!
+
+MP41: This is where my bodyguard comes into the picture!
+
+G43: Huh? You mean me?!
+
+MP41: Yep, you also wield a rifle, right?
+
+MP41: If we can somehow hit Gager from behind, even if just for a second...we can slow her down and keep her distracted.
+
+MP41: Then Fräulein Kar can fire at her point-blank, and we can all go home triumphant!
+
+StG44: Say...we're at least one whole kilometer away from Kar.
+
+StG44: And Kar's the only one among us who can shoot with that kind of accuracy...
+
+G43: True... I'd feel pretty confident if it were a stationary target...
+
+G43: But I can never hit a Sangvis ringleader moving at high speed.
+
+MP41: Nein, your target will be stationary.
+
+G43: Huh? But why would a Sangvis ringleader stand still for me to shoot?
+
+MP41: Let me ask you – what's the key to a successful sniper kill?
+
+G43: Uh...is it the distance or windage?
+
+MP41: Dummkopf, it's the terrain!
+
+MP41: Fräulein Kar drew Gager there for a reason – that area is an open space with a clear view and almost no obstacles.
+
+MP41: She found the perfect spot that I've deduced from months of recon in just an instant...
+
+Kar98k: You're right, I did lure her here to facilitate the attempt.
+
+MP41: Ja, then you've already given us a great head start!
+
+MP41: That's why!
+
+MP41: When Gager hears the gunshots, she has very limited options when it comes to finding cover – no more than a few dozen!
+
+StG44: That's still too many. G43 plus all her Dummies only give us five shots.
+
+MP41: Which is why we need to work together as a team!
+
+MP41: First, Fräulein Kar needs to keep Gager busy by making conversation with her.
+
+Kar98k: Making conversation?
+
+MP41: Exactly. The ringleader must be looking for something – that's why she killed all your Dummies but left you alive.
+
+MP41: Griffin defeated Gager once... Details of that operation are confidential information, but I heard her partner was captured.
+
+StG44: Is that true...?
+
+MP41: I wasn't exactly certain, but her actions have verified that.
+
+MP41: She will without a doubt try to hack your neural cloud to search for the information she needs...
+
+MP41: That's why she was so careful not to cause too much physical damage to your body.
+
+Kar98k: I see now.
+
+Kar98k: I'll try my best to buy you time.
+
+MP41: StG44, while Fräulein Kar is playing for time, you'll also have to shoot with G43.
+
+StG44: But my weapon can't fire from such a long range.
+
+MP41: That's fine, I'll guide you!
+
+MP41: Judging from the way Gager destroyed Fräulein Kar's Dummies, she must've located them and anticipated their shots by tracing the trajectory of their bullets.
+
+MP41: However, yours will be completely off kilter due to the lack of momentum, while Gager has the habit of dodging shots while locating her enemies...
+
+MP41: This will confuse the heck out of her!
+
+StG44: That makes sense...
+
+MP41: After she dodges the first shot, her options become even more limited.
+
+MP41: G43, you and your Dummies get into the positions that I've marked out and take aim...
+
+MP41: Then the moment Gager moves, we adjust our aim and fire three successive shots.
+
+G43: I see!
+
+G43: This will really give us a much better chance! At least one of these shots will hit her!
+
+MP41: That's right, then Fräulein Kar will fire the fatal shot while she's busy dancing around!
+
+MP41: Perfect! Well done me!
+
+Kar98k: It does sound like a solid plan.
+
+Kar98k: But there's still a good chance that the final shot will miss.
+
+MP41: Don't worry... I'll execute the ultimate backup plan if that happens.
+
+Kar98k: The ultimate backup plan...?
+
+MP41: I-I can't tell you too much at this point...
+
+MP41: In any case, both Fräulein Kar and I are counting on you, G43!
+
+G43: That's...a lot of pressure...
+
+MP41: It's okay, you'll just have to fire at my instruction. Everything will be fine!
+
+Kar98k: I agree. StG44, make sure you keep her off me.
+
+StG44: That goes without saying.
+
+Kar98k: Right, I trust you.
+
+Kar98k: Then I'm breaking cover now. Good luck to us all.
+
+Back to the present...
+
+At such a short distance, 98k almost doesn't even have to aim. The bullet flies out of her barrel and strikes Gager squarely in the chest before she even hits the ground...
+
+Making straight for her Sangvis core.
+
+Gager: —!
+
+Gager lands in a heap and moves no more.
+
+Kar98k: I can't believe that actually worked...
+
+Kar98k: MP41's plan turned the whole situation around. I've got to admit, this completely changed my opinion of her.
+
+MP41: We did it!
+
+MP41: Yay! We've made a valuable contribution, haven't we, Fräulein Kar?!
+
+Kar98k: Ja, you've done us a huge favor.
+
+MP41: Heheh, with that, the Commander won't just be sending me on logistics missions!
+
+StG44: Kar, just stand by where you are. We're coming over.
+
+MP41: ...
+
+MP41: Wait a minute! Something's not right. The Sangvis troops are still moving!
+
+Kar98k: Wha—
+
+There is a sudden burst of light from where Gager went down...
+
+Kar98k tries to dodge but is just a fraction of a second too late. The ion beam hits her on the left arm.
+
+The impact sends her flying, and she crashes hard onto the ground.
+
+The heavy damage severely hinders her movements. She manages to roll behind some nearby cover with great difficulty and peers back at Gager.
+
+Gager: You...nasty Griffin...Dolls...
+
+Gager: I won't show mercy anymore...!
+
+Kar98k: ...
+
+StG44: Kar, are you alright?!
+
+Kar98k: My left arm is gone and my body is starting to act up...
+
+Kar98k: Can't believe even a point-blank shot wasn't enough to get through her armor...
+
+Kar98k: Maybe our mission was doomed to fail from the start.
+
+G43: Whoa! S.F. has started spraying at us!
+
+G43: Their attacks have suddenly become a lot more ferocious!
+
+Kar98k: Humph...we seem to have ruffled her feathers.
+
+Kar98k: There's no escape for me, so withdraw before S.F. have you surrounded...!
+
+MP41: ...Nein.
+
+MP41: There's still the ultimate backup plan. We can definitely destroy that Sangvis ringleader...
+
+Kar98k: Don't be ridiculous...
+
+Kar98k: Our weapons simply aren't capable of penetrating her armor... And I can't even aim anymore...
+
+MP41: Then we'll just have to hit her core without the armor getting in the way, right?
+
+Kar98k: That's true...but there's no way we can do it!
+
+MP41: Nein, we CAN do it!
+
+Kar98k: How can you be so sure...?
+
+MP41: I'm...the kind of Doll who seizes every victory.
+
+MP41: Please find a suitable shooting position and wait for my signal!
+
+MP41: I know a small path that can take me to Gager very quickly, please help me out!
+
+StG44: I don't know what you're trying to pull, but you're Kar's only hope. We'll do our best to destroy the Sangvis units to get their attention.
+
+StG44: G43, please take the area on the right!
+
+G43: Okay, I'll do my best!
+
+MP41: We'll definitely succeed this time...
+
+MP41: And I WILL be recognized for this!
+Part 2: Mid-stage dialogue
+
+2
+
+...Gager has already located 98k's hiding spot.
+
+Gager: What, no more tricks up your sleeve?
+
+Kar98k: Tsk, her self-repair speed is much faster than mine.
+
+Kar98k: Nein...I can't move... I've taken too much damage.
+
+Gager: I was going to let you die with some dignity, but the only fate a shameless Doll like you deserves is to be dismantled piece by piece!
+
+Gager stalks closer and closer towards Kar98k, who's leaning against a tree.
+
+Gager grabs her by the neck and lifts her off the ground.
+
+98k knows that the Sangvis ringleader is about to hack her neural cloud.
+
+Kar98k: Prepare to activate neural cloud self-destruct protocol...
+
+MP41: Hold on, I can give you what you want!
+
+Kar98k: !
+
+Gager: Humph, you're the clown that popped out of nowhere.
+
+Gager: You Griffin Dolls have a thing for dying whilst huddling together like the pathetic weaklings that you are.
+
+MP41: Don't you want to find out Architect's whereabouts?!
+
+MP41: I know exactly where she is! I'm a recon Doll at Griffin – I possess a lot more information than a combat Doll like her!
+
+Gager studies MP41 with more deliberation.
+
+Gager: Then...where is she?
+
+Gager: No...you think I'd believe you liars?
+
+MP41: Architect was captured during a winter operation!
+
+MP41: After being sent to IOP for studies and research, she was transported back to a Griffin base and monitored in a lab...
+
+MP41: And I have the coordinates of the base!
+
+Gager: —!
+
+MP41: Well, don't you want to know?!
+
+MP41: All the information is right here in my neural cloud. You just have to set up a link with me...
+
+MP41: And you can find out everything you want to know!
+
+MP41: But in return, you must release Fräulein Kar and let the rest of us go free!
+
+Gager: You think a low-spec Doll like you has any right to negotiate with me?
+
+MP41: You don't dare negotiate with me?
+
+MP41: Did that teensy little injury you took from this low-spec Doll scare you too much from even setting up a connection?
+
+Gager: Humph...
+
+Gager drops 98k.
+
+The next instant, she's in front of MP41...
+
+Grabbing her by the neck.
+
+MP41: You're quick... I expect nothing less from a Sangvis ringleader...
+
+MP41: Whoa...! So this is how it feels to be hacked... It's awful...
+
+Gager: You have some gall to stand in my way with your pitiful performance, trash.
+
+Gager: I will obtain the information I'm after, then I'll kill you all—
+
+MP41: Fräulein Kar... Get...get ready...
+
+Kar98k: ...
+
+Kar98k: Initiating calculation.
+
+Gager: Trash...
+
+Gager: Your neural cloud...doesn't actually contain any information about Architect...!
+
+MP41: Humph...DUH! You know full well I'm just a low-spec Doll!
+
+MP41: That's right, how would a lowly low-spec Doll have such strictly confidential information?!
+
+MP41 grabs hold of the arm with which Gager is choking her and flashes a victorious grin.
+
+Gager: What are you doing...?
+
+Gager: Let go, trash!
+
+MP41: If I hadn't said that, you wouldn't have come close to me...
+
+MP41: And if you hadn't come so close, I wouldn't be able to blow you sky-high!
+
+Gager: You strapped explosives onto yourself?!
+
+MP41: I was right to save half of the explosives. No matter how hard your armor is...it won't come out unscathed when caught right next to an explosion!
+
+Gager: You bastard!
+
+Kar98k: MP41!
+
+MP41: Fräulein Kar, bear witness to this moment!
+
+MP41: I told you I would help you destroy this Sangvis ringleader!
+
+MP41: I've finally done it...
+
+MP41: ...Heheh, now I'm finally gonna get some recognition, aren't I?
+
+BOOM!
+
+MP41 detonates the explosives on herself...
+
+The tremendous explosion forces Kar98k to shield her eyes with her remaining arm.
+
+Gager: ...
+
+Gager: I...will not...
+
+Gager: ...fall...here...
+Part 3
+
+    3chevron_right
+
+Gager: I...I can't...
+
+Gager: I mustn't...fall here!
+
+Gager: Architect...is still waiting for me...
+
+Kar98k: Can't believe she can still move... However...
+
+Gager's body is utterly charred from the explosion. Her armor is also falling apart due to the extreme heat.
+
+Her core is completely exposed to Kar98k's muzzle.
+
+Kar98k: Since she's gone that far...I can't let her down...
+
+98k flips herself over strenuously and drags herself up. She then rests her rifle on her propped-up knee and starts aiming as steadily as she can...
+
+Kar98k: ...Take aim.
+
+Kar98k: Fire!
+
+A thunderous crack.
+
+Gager stiffens. Finally, she drops onto her knees and flops down face-first onto the ground.
+
+At the same time...
+
+All the Sangvis units fighting StG44 and the others all slowly bow their heads and cease moving.
+
+Kar98k pulls back the bolt, ejecting a burning-hot casing with a metallic clack and the pungent smell of gun smoke.
+
+After that, she slowly gets onto her feet while leaning heavily on her weapon.
+
+Just then, the sun creeps up from beneath the horizon.
+
+StG44: Kar, the S.F. on our side suddenly stopped moving.
+
+StG44: Did it work?
+
+Kar98k: Ja...
+
+StG44: Understood, we'll be right there.
+
+Kar98k: Mission...accomplished...
+
+...A few days later.
+
+MP41: Listen to me, it's all true!
+
+Gr MG23: Alright, alright.
+
+Gr MG23: It's not that I don't believe you, but the Commander has already given me an assignment.
+
+MP41: I'm one of the heroes who annihilated Gager! Fighting with me is a chance for you to become famous, you know?!
+
+Gr MG23: I won't fall for that anymore. Kar only said that to make you feel better.
+
+Gr MG23: Why don't you tell me how someone like you managed to beat Gager?
+
+MP41: Uh...I don't actually remember... My body was destroyed.
+
+Gr MG23: See? You got yourself killed very early on, it was Kar and the others who actually defeated Gager.
+
+Gr MG23: But somehow you made it sound like it was all thanks to you. That's the whole story, isn't it?
+
+Gr MG23: I've got a job to do, so ciao.
+
+MP41: Nein...wait! That's not what happened!
+
+G43: What is it, MP41? Why are you running around trying to rope more people in? Haven't you already got a trusty partner in me?
+
+MP41: Hmm...you're still too weak. Only an elite Doll can be my partner.
+
+G43: What?! Then why did I even bother to fight so hard for you?!
+
+MP41: You did? I don't remember.
+
+G43: Of course I did! Don't you give me such a pathetic excuse!
+
+MP41: I know, I know, but the backup copy only contains my memory from before I left the base.
+
+MP41: The elite Doll that we've been tracking hasn't been showing herself either, so I honestly have no idea how instrumental I was to Gager's defeat.
+
+G43: By the time we got there, you had already been blown into smithereens...
+
+G43: Fräulein Kar was also sent to the Repair Bay with severe injuries. I have no idea what happened back then either...
+
+MP41: Well, aren't you just useless as a partner?!
+
+MP41: I suppose I really should tell the Commander about what you did!
+
+G43: Hey, I went on that mission with you, so how could you go back on your word like this!
+
+MP41: But I'm still not recognized for my achievements, so the mission basically failed!
+
+G43: You're so unreasonable...
+
+G43: Why is this happening to me...?
+
+???: Nein, I do recognize your achievements.
+
+MP41: That's...Big Sis 98k!
+
+Kar98k: You call me Fräulein Kar.
+
+Kar98k: You even forgot about that...
+
+MP41: Do I? That does sound nice.
+
+MP41: So hey, Fräulein Kar, what did I do to destroy Gager?
+
+MP41: I didn't actually get blown up right at the start, did I?
+
+Kar98k: I could certainly tell you, but before that... I need a spotter and an assistant sniper.
+
+Kar98k: Would you like to join my squad?
+
+G43: Huh?! Are you serious?
+
+MP41: Humph, all high-spec Dolls are the same. You just need someone to witness and vouch for your achievements, don't you?
+
+MP41: I see right through you.
+
+Kar98k: This is your reward for contributing to Gager's demise.
+
+Kar98k: If you don't accept my offer, you'll have no way of knowing what exactly you've done, isn't that right?
+
+MP41: Ack!
+
+MP41: Can't be helped then. Humph, I'm tired of running logistics anyway. Doesn't hurt to change jobs.
+
+Kar98k: Then go and submit an application to the Commander. I've already informed the Commander about this. The change will be effective as soon as you agree to the redeployment.
+
+MP41: Heheh! Alright, then I'll be keeping an eye on you from now on! C'mon, G43!
+
+G43: Okay!
+
+The two Dolls sprint out of the shooting range in great hurry, causing other Dolls to shriek and yelp in surprise as the duo charge past them.
+
+StG44: Why, it's Kar! Are you done with your repairs?
+
+Kar98k: Ja.
+
+StG44: ...You can't be serious about letting them join like this?
+
+Kar98k: We've been working alone for too long so I figured we could use a change of pace. Or are you perhaps jealous because we're getting new members now?
+
+StG44: It'd have been more believable if you'd said the Sangvis ringleader did us a large favor and self-destructed.
+
+Kar98k: Hahaha... I do have to deliver on my promise, after all.
+
+StG44: Promise?
+
+Kar98k: Ja, I shall bear witness to all her triumphs until the end of our strife.
+
+StG44: Oh, so that's your little agreement?
+
+StG44: To be fair, if it hadn't been for them, we really couldn't have completed the mission.
+
+Kar98k: That battle changed us all.
+
+Kar98k: Let's go, the Commander has a new assignment for us.
+
+StG44: What assignment?
+
+Kar98k: Some very important equipment that belongs to a Doll has been hijacked.
+
+Kar98k: Let's sort this out before our new friends come back.
+
+StG44: One last bash with just the two of us, eh? Looks like I've got to savor this final chance for some peace and quiet.

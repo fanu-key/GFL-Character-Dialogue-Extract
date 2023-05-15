@@ -1,0 +1,2389 @@
+The time is 23:40. In the sewers under a certain alley in Belgrade.
+
+RO635: W-what was that?!
+
+M4 SOPMOD II: Hostiles?
+
+RO635: No...sensors aren't registering any individuals, but the reflection surface has enlarged all of a sudden...
+
+M4 SOPMOD II: Reflection? Enlarged? Explain it in a way that I understand!
+
+RO635: Hush... That didn't sound like enemy reinforcements...
+
+RO635: Hold on... The controls of the floodgates B2, G5, and K9 suddenly require higher clearance to operate?!
+
+M4 SOPMOD II: RO, look under our feet! Water! Water's coming in!
+
+RO635: Water?!
+
+RO635: The floodgate that's stopping the current has been opened! They're trying to drown us!
+
+M4 SOPMOD II: Drown us?
+
+RO635: Have you forgotten?! Our bodies are only equipped with the most rudimentary waterproof casings. If water manages to seep in, we'll definitely short out!
+
+M4 SOPMOD II: Uh... Can we make it?
+
+RO635: We can't possibly stay ahead of how quickly the water level is rising...
+
+RO635: I see it! A platform just ahead! Can you jump up there, SOP-II?!
+
+M4 SOPMOD II: No problem! Hah!
+
+SOP-II and RO jump onto the platform.
+
+We can probably last a little longer here...
+
+Just a second, I'm trying to regain access to the floodgate controls...
+
+...Dammit, access denied!
+
+I knew it was fishy – overriding their protocols was too easy! We've been lured into a trap!
+
+Can't you override it again?
+
+It was so easy the first time only because they wanted us to fall for it. Now they've fired up their defenses...
+
+On top of that, they've also refreshed the clearance codes of the other floodgate controls. If I don't put a stop to that—
+
+SOP-II, keep me on my feet! This might take some time, but I need to force my way through on Level II. Don't let me fall into the water!
+
+Gotcha! I'll hold you tight!
+
+Thanks. Commander, you still there?
+
+...
+
+If choice 1 was picked
+
+Thank you, Commander.
+
+It's just as you said – it IS a trap... But we simply couldn't give up such an important lead.
+If choice 2 was picked
+
+Acknowledged, thanks for the heads up.
+
+But you've already warned us that this could be a trap...though we simply cannot give up such an important lead.
+
+RO635: I will try to retake control over the floodgates in Level II, but they might directly cut off external connections.
+
+RO635: Considering the fact that they're operating remotely, I doubt they'd do that...and we can only hope I'm right...
+
+RO635: To break through their defenses faster, please allow me to harness the computational capacity of more T-Dolls! Let's get started!
+Part 2: Mid-stage dialogue
+
+2
+
+RO635: The control panel has several ports. I need to seize them all to gain unrestricted access.
+
+RO635: Some of the ports can only be seized by occupying the corresponding electronic node, some require us to destroy electronic entities, and the rest can be taken simply by walking up and flipping the switch.
+
+RO635: Right, plan your move according to the circumstances.
+
+【Hint】: The enemies' movement pattern can be changed according to the situation in this map.
+
+【Hint】: There are three ways to do that – occupy certain nodes, destroy certain enemies, and move to certain points.
+Part 3
+
+    3chevron_right
+
+...
+
+That should do it... Decrypted!
+
+Huh? So soon?!
+
+It's just an old service model, after all. Piece of cake.
+
+【Two hours ago. Urban slums, Green Zone.】
+
+SOP-II lets out a long sigh...
+
+M4 SOPMOD II: Sighhhhhhh... Nothing in her optic records either...
+
+The maid Doll wanders off in confusion, as if she suddenly had woken up.
+
+M4 SOPMOD II: Bye-bye, Miss Adorable Little Maid.
+
+M4 SOPMOD II: Uh... That was the 555th...
+
+M4 SOPMOD II: How many more Dolls do we have to check till we can finally see some hope?
+
+M4 SOPMOD II: We went in a huge circle...only to end up right where we started...
+
+M4 SOPMOD II: Commander, are you sure the informant we're looking for is in this zone?
+
+RO635: Stop complaining. All the Commander has to work on is a single photograph, and we can't afford to advertise our presence right now.
+
+RO635: All we can do is try to trace this person's whereabouts by screening optic records of Dolls.
+
+RO635: Still, this is much easier compared to my old missions in law enforcement. Some stakeouts could take an entire month.
+
+M4 SOPMOD II: But my function isn't to keep tabs on criminals...
+
+SOP-II waves her mechanical arm and it expands in a sudden flourish.
+
+M4 SOPMOD II: Bam!! Look, isn't this cool?!
+
+RO635: Alright alright, put that scary arm of yours away.
+
+M4 SOPMOD II: Arghhhhh this is BOOOORING!
+
+M4 SOPMOD II: No matter how you look at it, finding our target by going through Doll records is way too hard! Isn't there any way to make this more efficient?
+
+RO635: Hmm...there is something we can try to obtain more information, but we might have to cross the line.
+
+RO635: The Commander did say we shouldn't do anything too conspicuous...
+
+M4 SOPMOD II: Even if we lay low, it's pointless if we can't complete our objective. We're not here to sight-see, you know!
+
+RO635: You're right. Then let's get just a little bit of help from this city.
+
+The time is 18:10. In a corner of a town square in Belgrade.
+
+...
+
+M4 SOPMOD II: RO, by "getting some help from this city"...you mean hacking into their surveillance cameras???
+
+M4 SOPMOD II: That's just a common trick...
+
+RO635: Common, which is another way of saying classic.
+
+RO635: Cities in the Green Zone have a relatively high level of security. These cameras can significantly widen our search parameters.
+
+RO635: I've synced with similar systems back in my law enforcement days. It wasn't exactly a city, but these systems are all more-or-less the same. I should be able to access some of their data with my new modules.
+
+M4 SOPMOD II: That said...shouldn't we find somewhere more covert? This square probably isn't the best place for espionage.
+
+RO635: This place has the most Level access ports according to my scans. I can't keep up the breach for too long and I'll need a very stable connection. It has to be here.
+
+RO635: From now on, my consciousness will have to remain on Level II. I'll be going through all the footages in the past week, watching out for every single detail.
+
+RO635: Everything happening out here will be up to you. Remember – keep a low profile, stay away from the people around us, and don't cause any trouble, okay?
+
+M4 SOPMOD II: Alright, we're just two Dolls sitting on the square watching three electronic Persian cats brawling with a real Shiba Inu. Neither S.F. nor the white weirdos are around, so there are no fights for me to pick.
+
+RO635: Sigh...just be good. We'll get busy soon enough...
+
+RO635: I wonder how my electronic warfare module is going to render the Belgrade database...
+
+M4 SOPMOD II: Resume your journey in Wonderland. I'll keep an eye on things out here.
+
+...RO635 executes a command and her electronic warfare module starts generating the virtual environment.
+
+RO635: How long...will my consciousness be in this free fall...?
+
+...The world around her is changing constantly.
+
+RO635: Will I fall to the other side of the world?
+
+RO635: Oh...Alice, Alice, do you still remember who you are?
+
+...Thud!
+
+RO's mental form suddenly reaches the ground.
+
+RO635: Great, safe landing.
+
+RO635: However...things are gonna get dicey from here on out.
+
+??: ??
+
+??: Warning. Warning.
+
+...A chaotic electronic cognitive entity approaches with its weapon raised.
+
+??: ??
+
+??: This sector is in lockdown. Intruders are not welcome.
+
+...Bang!
+
+RO shoots straight into its core.
+
+RO635: Sure, why else would I be here?
+
+She observes her surroundings carefully.
+
+RO635: These enemies are generated by my EW module after processing the data... In other words, this is how my neural cloud interprets the firewall system.
+
+RO635: They look a bit too odd so I guess I'll just overlay their appearance with enemies I've encountered in the past.
+
+RO635: To get inside, I must evade them whenever I can and eliminate them if it comes to that. Once I'm in, I'll have to trawl through the records as fast as I can.
+
+As RO detects more incoming electronic guards, she wastes no time and camouflages her signal.
+
+RO635: Right... You've got this, RO.
+
+RO635: This is no different than what I did in law enforcement, even though it's technically illegal this time. Still, it's for completing the mission...and for the sake of justice...
+
+RO635: No matter where our informant is hiding, I must flush him out!
+Part 2
+
+    2chevron_right
+
+...
+
+M4 SOPMOD II: RO! RO, do you copy?
+
+RO635: What is it? I'm a little busy here!
+
+M4 SOPMOD II: A human is walking this way. I don't know what she wants, but she's definitely coming straight for me!
+
+RO635: Might just be some pamphlet distributor! I'll be done soon. Buy me some time!
+
+M4 SOPMOD II: Hurry! She's almost right before me—
+
+Human female: You can't sit here, young lady!
+
+M4 SOPMOD II: Huh? Uh...why?
+
+Human female: Because a very important demonstration is about to take place here!
+
+M4 SOPMOD II: Huh? Demonstration? About what?
+
+Human female: A demonstration against the government for reducing our sugar and tobacco rations for three months straight!
+
+Human female: Also, the officials claimed that they'd be raising the immigration quota this year, but they still haven't delivered on their promise!
+
+M4 SOPMOD II: Uh...so...I have to move?
+
+Human female: That's right. Actually, you should just join us!
+
+M4 SOPMOD II: ...I don't really want to take part in any demonstration. I simply want to sit here and watch these electronic cats fighting with the Shiba Inu.
+
+Human female: You should do more for the sake of freedo... Hold on, you...you're not human...!
+
+M4 SOPMOD II: I...uh... I-I'm a Tact— Uh, no, a civilian Doll?
+
+Human female: A Doll? A freaking Doll has the nerve to take up human space?! Scram already!
+
+M4 SOPMOD II: Sorry, can't this wait just a bit? My friend is asleep.
+
+Human female: How dare you talk back at me, you freaking piece of scrap metal! Is something wrong with your toaster of a brain?!
+
+As the woman raises her hand to slap SOP-II, the latter smacks her arm away out of reflex.
+
+Human female: AHHHH! MY ARM!!
+
+M4 SOPMOD II: Oops... It got bent. I didn't adjust my strength properly...
+
+Human female: There's a killer robot!! Arghhh, my arm!! Call the ambulance!!
+
+M4 SOPMOD II: Uh...I...
+
+RO635: What the hell have you done?!
+
+M4 SOPMOD II: RO, you're awake?!
+
+RO635: Let's go, the cops will be here soon! Run!
+
+M4 SOPMOD II: But that human...
+
+RO635: We're done for if we get caught! Go, go, go!
+
+M4 SOPMOD II: Right...okay!
+
+...Two minutes later, in a corner of the square.
+
+RO635: I was gone for just barely a few minutes and look at what you've done...
+
+RO635: Didn't I tell you to stay out of trouble?
+
+M4 SOPMOD II: I'm sorry... But that woman...these people seem to be very hostile towards Dolls...
+
+RO635: Be thankful that we're working for a nice company.
+
+RO635: I've taken several cases in the past – all kinds of abuse and violence against Dolls, sometimes even worse. You wanna know how those cases were resolved?
+
+M4 SOPMOD II: I want to. I'd love to resolve them myself...
+
+RO635: You're not cut out for that line of work. What would you do, point your gun at the culprit's head? Most of those cases don't end like that.
+
+RO635: Just do your current job properly. That's the least we could do to show the Commander and Kalina our gratitude.
+
+M4 SOPMOD II: I understand... So have you found the informant?
+
+RO635: No.
+
+M4 SOPMOD II: What?
+
+RO635: No, I haven't...
+
+RO635: I've made a copy of all the footages taken by the cameras in this area, but I couldn't find the person in the photo.
+
+M4 SOPMOD II: H-How is that even possible? Maybe you missed something?
+
+RO635: I've checked three times.
+
+RO635: But think about it – there aren't that many cameras around here, nor are they completely watertight... If the informant has undergone anti-surveillance training, avoiding these cameras wouldn't be that difficult.
+
+RO635: He isn't the kind to expose himself too much to begin with. If he had planned his route beforehand, it would be hard to track him down... In the end, we have to go back to gathering optic records from Dolls...
+
+M4 SOPMOD II: Hmm... But there's got to be some clues... He must've left behind something.
+
+M4 SOPMOD II: RO, can you send me the footages? I want to take a look myself.
+
+RO635: Sure.
+
+RO draws out a transfer cable and plugs it into SOP-II.
+
+RO635: Still, I'm fairly confident you won't find any...
+
+M4 SOPMOD II: RO, look at this part! There's a brawl!
+
+RO635: A brawl? There are at least 30 brawls captured in these footages.
+
+M4 SOPMOD II: But this one was a bit peculiar. Look, several burly guys surrounding a maid with knives in their hands.
+
+RO635: Mugging? That's pretty common in slums.
+
+RO635: There were five cases of mugging and twelve cases of theft documented in...
+
+M4 SOPMOD II: That's not the point. Check out the footage from the two other cameras overlooking this street.
+
+RO635: Hmm...I think I see what you mean...
+
+M4 SOPMOD II: Right?
+
+RO635: There's no sign of the maid in them...
+
+M4 SOPMOD II: I've looked at all the footages from other cameras in the vicinity – the maid wasn't in them either, which means she was deliberately avoiding the cameras.
+
+RO635: But the mugging derailed her plan... The route she had planned wasn't safe.
+
+M4 SOPMOD II: Now watch this.
+
+The men who had the maid surrounded reveal that they were armed with knives.
+
+...Smack!
+
+All of a sudden, the maid crossed her arms and grabbed hold of a man's knife-wielding hand.
+
+Meanwhile, she kicked another man in the lower jaw, then swung back around and jabbed the third man on the neck with her elbow. Finally, she pinned the first man onto the ground and punched him right in the face.
+
+In a matter of seconds, the unarmed maid has thwarted her human assailants.
+
+M4 SOPMOD II: You see?
+
+RO635: Her strength and movements... This is definitely an illegally modded Doll...
+
+RO635: What she did is impossible without advanced software and a high-spec body...
+
+RO635: Even in Griffin, only a small number of T-Dolls have that kind of performance due to our limited budget.
+
+M4 SOPMOD II: Her movements, speed, and force applied when she beat those muggers were all carefully calculated... Even I couldn't have done it.
+
+RO635: Huh? I thought you're an expert in close-quarters combat?
+
+M4 SOPMOD II: I'm an expert in tearing enemies apart, but I'm not capable of the intricate moves required to react that quickly while applying just the right amount of force to knock them out without killing them...
+
+RO635: In any case, there's our clue!
+
+M4 SOPMOD II: Humph. If we end up getting fired from Griffin, let's set up a detective agency together!
+
+RO635: Huh... Can Dolls be detectives?
+
+M4 SOPMOD II: Who knows, maybe the Commander could secretly help us get our licenses?
+
+RO635: Why are you assuming we'd get fired? Besides, our mission is far from over!
+
+M4 SOPMOD II: Okay, okay. Then what are you planning to do?
+
+RO635: It'll be much simpler now that we know what to look for. The maid may be able to avoid cameras, but she certainly can't avoid being seen by all the Dolls out there.
+
+RO635: We can extrapolate her course and even determine her destination with just a single optic record.
+
+RO635: Now we just have to look into what the Dolls around these cameras have seen!
+
+M4 SOPMOD II: Sigh, we'll have to do it again and again and again...
+
+RO635: So let's get to work, SOP-II!
+
+M4 SOPMOD II: Argh... In the end, we're stuck doing this bother of a chore...
+
+The time is 19:10. Somewhere in the residential area of Belgrade.
+
+RO635: SOP-II, how is it going?
+
+M4 SOPMOD II: I've gathered optical data from 200 Dolls and finally found her...
+
+RO635: Thanks, SOP-II.
+
+M4 SOPMOD II: Sigh... You know what's the hardest about this? Your order has allowed me to see all sorts of...mind-blowing things...
+
+RO635: Well...these are civilian Dolls after all... Let's have your analysis.
+
+M4 SOPMOD II: These records were taken from around an hour ago. I've strung together all the footages that revealed her whereabouts. You can watch them all in one go.
+
+RO635: Good. I'll also send you what I've found out. This way, we should be able to predict her actions and plot her course.
+
+RO635: Look, to the right of the red convertible by the road. That's the maid, right?
+
+M4 SOPMOD II: It's her alright. Check out the next footage.
+
+M4 SOPMOD II: She's still moving. I wonder if she'll eventually lead us to our informant's residence.
+
+RO635: If the informant is this cunning, it's unlikely for the maid to randomly pop home.
+
+M4 SOPMOD II: It doesn't matter. Let's just get a handle on the way she operates for now and track her later. The informant will give himself away eventually.
+
+...Five minutes later.
+
+M4 SOPMOD II: RO...have you finished going through all the records?
+
+RO635: Yeah...something's off...
+
+M4 SOPMOD II: Doesn't that convertible look familiar to you?
+
+RO635: Not just familiar. This is the very same car we spotted her with earlier...
+
+RO635: That maid...she's been walking through different streets, but she's just going around in circles.
+
+M4 SOPMOD II: But why? Some kind of weird strolling command?
+
+RO635: In my experience, there's only one possible explanation...
+
+RO635: She realized that she's being followed. Informing her master would expose him, but she can't stray too far from the residential area and risk being abducted.
+
+RO635: So she's trying to find a way to lose her stalkers, but since she keeps getting intercepted, all she can do is go in circles and look for possible openings.
+
+M4 SOPMOD II: She noticed us? That's impossible. We've only just started gathering data, and this must've been an hour ago.
+
+RO635: I don't think it's possible either, which means...
+
+RO635: Someone else is following her.
+
+M4 SOPMOD II: Huh? You mean...we're not the only ones after her?
+
+RO635: That's very likely. We can't be the only ones who want information...though our fellow stalker is probably no friend of ours.
+
+M4 SOPMOD II: No matter who they are, we can't let them get their hands on the maid!
+
+RO635: You're right. We should locate our competitor and get rid of them before they notice our presence.
+
+M4 SOPMOD II: Do you want a tip?
+
+RO635: You know something?
+
+M4 SOPMOD II: I just accessed the public network through another Doll.
+
+M4 SOPMOD II: That way, I could widen our search parameters and keep an eye out for any suspicious persons around.
+
+RO635: You got our stalker? I suppose spotting them by the eye is a way to go at it.
+
+M4 SOPMOD II: Look, on the left, between the fire hydrant and the homeless man, there's a guy in a big coat playing with his PDA. You see him?
+
+RO635: Yeah. What about him?
+
+M4 SOPMOD II: There's something odd about the way he moves.
+
+RO635: Yeah...there tends to be a very minute sense of delay when it comes to human movements. This could be a Doll masquerading as a man.
+
+M4 SOPMOD II: You think so too? He's been moving naturally enough in between these streets, but from his tracks, he's been maintaining a very steady distance from the maid.
+
+RO635: I didn't expect...that you'd notice something so obscure.
+
+M4 SOPMOD II: Humph, my senses are really keen, you know. I'm an excellent tracker!
+
+RO635: This does seem to be your strong suit, but are you certain? He isn't moving very fast. At this rate, he'll lose her very soon.
+
+M4 SOPMOD II: What if he doesn't have to worry about catching up?
+
+RO635: ...I see. There are more than one of them and they each have their own route.
+
+RO635: They're slowly drawing in the net. The maid will find herself trapped in the end.
+
+M4 SOPMOD II: A cliché but effective way to capture someone.
+
+M4 SOPMOD II: Should I sniff out all the stalkers one by one?
+
+RO635: No, that would take too long, and there's no telling if we missed out anyone.
+
+M4 SOPMOD II: Then...
+
+M4 SOPMOD II: Fourth floor to the right, someone there has been observing this area the whole time. He's hidden behind the curtains but I can still faintly sense his signal.
+
+M4 SOPMOD II: It could be the Doll in command... I'm not the best in electronic warfare. He might become aware of me if I force a connection, so why don't you give him a try?
+
+RO635: Got it.
+
+RO635: I'll just have to hack into this Doll and track down the others through him.
+
+RO635: Leave it to me. Keep an eye on the maid.
+
+M4 SOPMOD II: Just keeping an eye on her isn't safe enough. If they decide to make a move, we won't get there in time to stop them from snatching the maid.
+
+RO635: Then... Still, it's too risky to expose ourselves right now.
+
+M4 SOPMOD II: I'll pretend to be a normal pedestrian, just like them, and I'll inch my way closer bit by bit...
+
+M4 SOPMOD II: You can create an opening for me to lead her out of their encirclement.
+
+RO635: Right... Try to lead her back to the square we started on. That will make it difficult for them to go after her with more people around.
+
+RO635: We can throw them off our trail in a crowd... given that the maid is willing to trust you.
+
+M4 SOPMOD II: That won't be a problem. You can tell just from the way I look that I'm on the side of justice!
+
+RO635: From just the way you look...? Hard to say...
+
+...
+
+SOP-II sets off from the corner and stealthily moves toward the street.
+
+RO635 activates her electronic warfare module, which turns the whole area into a simulated cyberspace.
+
+RO635: Let's start with...our first stalker.
+
+...RO635's avatar climbs onto the roof of the building their target is hiding in.
+
+Doll tracker: The target has shaken me off for the 23rd time, but she is still within the same area.
+
+Doll tracker: Query – should we adjust our course of action?
+
+RO635: That signal...
+
+RO635: Hold on, they're—!
+
+RO635: Dammit...
+
+RO635: Why...why do they keep showing up wherever we go?
+
+RO635: Is it a coincidence...? No, that's impossible... Are they after us or...
+
+Acknowledged. I shall keep observing the target. I will not deviate from the plan unless the target repeats her action for another seven times.
+
+RO635: There's no time to investigate. I've got to stop them...
+
+RO635: I can overload this Doll and make it look as if he crashed, but if I don't break his external connection, remote diagnosis will restore him very soon.
+
+RO635: However, if I destroy him completely, his collaborators will realize someone's helping the maid, which will put her in even more danger.
+
+Pzzt...pzzzzt...
+
+...? Report...my...
+
+Pzzzzt—!
+
+Nothing out of the ordinary. Everything is within normal parameters.
+
+RO635: Got it!
+
+RO635: SOP-II, do you read me?
+
+M4 SOPMOD II: What is it?
+
+RO635: I've hacked into their Level II. It's the White Faction.
+
+RO635: There are more of them than I thought – we certainly won't stand a chance if it comes to a fight.
+
+RO635: However, I'm going to disable one or two Dolls barricading the intersection. If the maid is quick to catch on, she'll definitely find the opening.
+
+M4 SOPMOD II: Then I'm gonna cover her exit and prevent the enemies from ambushing her?
+
+RO635: Exactly. I'll find all her stalkers and plant a backdoor program in them that can trigger an overload.
+
+RO635: When you're making a run for it, I'll overload them one by one. By the time they realize they've been hacked, it'll be too late.
+
+M4 SOPMOD II: Roger that! And as soon as we're out of danger, I'll apprehend her. We have a LOT of questions to ask her!
+
+RO635: Good. Then let's get started!
+Part 2
+
+    2chevron_right
+
+...
+
+RO635: And that's the end of the espionage part.
+
+RO635: None of you are getting away!
+
+Pzzzt!
+
+Doll tracker: ...? Report...my...
+
+Snap—!
+
+RO635: Sweet dreams.
+
+RO635: If I run an analysis on their neural cloud, I may be able to find out more about the Nytos—
+
+M4 SOPMOD II: RO, are you done?! Wake up, the maid is running away!
+
+RO635: What?
+
+...RO635 returns to reality right away.
+
+M4 SOPMOD II: She suddenly accelerated and strayed off her original course!
+
+RO635: She sensed it...
+
+RO635: She sensed that the signals of all the trackers have disappeared, so she's planning to make a run for it.
+
+RO635: Dammit, I didn't expect her to be that fast! Can you catch up?
+
+M4 SOPMOD II: I can handle that, but you'd better make your way here quickly. I'm no good at talking.
+
+...Meanwhile.
+
+Maid Doll: ...Hurry.
+
+Maid Doll: I need to hurry—!
+
+Maid Doll: No more signals following me.
+
+Maid Doll: What is going on? All of a sudden...
+
+Maid Doll: In any case, this is an advantage. But I can't return to the safe house now. I must leave...
+
+Maid Doll: Mmm—!
+
+...As the maid runs past an alley, two arms suddenly shoot out and drag her right in.
+
+M4 SOPMOD II: Gotcha!
+
+Maid Doll: Mmm! Mm!
+
+RO635: Sorry, miss. She doesn't know how to look less threatening.
+
+RO635: SOP-II, uncover her mouth. Miss, please don't scream or call the police.
+
+Maid Doll: (Nods frantically) ...
+
+RO635: Do you know the person in this photograph?
+
+Maid Doll: I...don't...
+
+M4 SOPMOD II: Don't play dumb. We know what you're up to.
+
+M4 SOPMOD II: If it weren't for us, those guys would've snatched you long ago.
+
+Maid Doll: Who? Is someone after me? I have no idea...
+
+M4 SOPMOD II: They'll wake up any second now! You think you can outrun them all on your own?!
+
+Maid Doll: You...you must be mistaken...
+
+Maid Doll: I...I honestly have no idea what you're talking about...
+
+RO635: Miss, I heard them when I was hacking them.
+
+RO635: If it weren't for us, they'd probably have you surrounded by now.
+
+RO635: To catch you and get to your human, they'll step up the operation and attack people indiscriminately.
+
+RO635: You and the human under your protection are in grave danger. You can keep trying to deceive us, but then we'll have no reason to protect you.
+
+Maid Doll: ...
+
+RO635: (The look in her eyes have changed...)
+
+RO635: Watch out!
+
+M4 SOPMOD II: !!
+
+A sharp blade comes shooting out of the maid's arm, making a beeline for RO's head. Having expected this to happen, SOP-II grabs the maid by the arms and pins her face against the wall.
+
+Maid Doll: Argh!
+
+RO635: I knew it. No amount of modification can make up for pure physical strength.
+
+M4 SOPMOD II: Civilian Dolls can't get their hands on 16LAB's good stuff, you know.
+
+Maid Doll: Let go! Let me go!
+
+RO635: Sorry, we'll have to talk this way. We're doing this to protect you.
+
+Maid Doll: ...Protect me?! You don't find many Dolls that can outperform me in this city!
+
+Maid Doll: I'm surprised you monsters that came out of nowhere have the audacity to say you're trying to protect me!
+
+RO635: If we meant you any harm, you'd be at the mercy of those guys by now.
+
+Maid Doll: How would I know you aren't just another group of enemies?
+
+RO635: We aren't bad people and we won't hurt you.
+
+RO635: We're senior employees from Griffin & Kryuger PMC. Our sources tell us that this human has information that can help us find another very important human.
+
+RO635: Judging from your reaction, you definitely know the man in this picture.
+
+Maid Doll: Griffin...?
+
+RO635: You've got something to say about that?
+
+Maid Doll: I have heard of that name.
+
+Maid Doll: Could the human you're looking for, by any chance, be...?
+
+RO635: Ange. Angelia. Do you know this name?
+
+Maid Doll: Angelia... I've been told that someone would come and find her, and that they can be trusted.
+
+M4 SOPMOD II: That's right, that's us!
+
+Maid Doll: But how can I be sure you are who you claim to be?
+
+RO635: If we were under any form of pretense, we'd have simply hacked you by force to obtain the information we want.
+
+RO635: We're opening negotiations to express our...good intention.
+
+Maid Doll: By pinning me against the wall?
+
+RO635: Miss Maid, as long as you give us what we want, we are more than happy to aid you...
+
+RO635: We have reason to believe that the human in the photo is currently in grave danger. I need to know his exact location to ensure his safety.
+
+RO635: This is our Commander's authorization code. I can open our connection for you to verify our identities on Level II.
+
+Maid Doll: Alright... I'll believe you for now. Things are pretty urgent right now, so I'll leave the verification for later.
+
+Maid Doll: For now, I can only tell you that the man in the photograph is indeed in danger. If you can help me get out of here, I'll tell you where he is.
+
+RO635: That won't be a problem, but I'd rather you tell us his location first in case something happens.
+
+Maid Doll: Fine...I'll tell you. But before that, could you please release me from this undignified position? This isn't the best way to talk.
+
+RO635: SOP-II, let her go.
+
+Maid Doll: !!
+
+M4 SOPMOD II: Huh?!
+
+RO635: Whoa!!
+
+The moment SOP-II relaxes her grip, the maid kicks RO away and dashes out into the street at lightning speed.
+
+RO635: Dammit, she tricked us! Can you catch up, SOP-II?
+
+M4 SOPMOD II: She's too quick! It'll be too late if she runs onto the square... Should I open fire?!
+
+RO635: No...we can't risk it!
+
+M4 SOPMOD II: But—! Huh???
+
+RO635: What...what just happened?
+
+...
+
+The sprinting maid suddenly keels over as if she'd run into an invisible obstacle. Inertia propels her body forward and she rolls over several times before coming to a stop.
+
+M4 SOPMOD II: ...
+
+M4 SOPMOD II: Holy...what...
+
+RO635: This isn't looking good... I have a bad feeling about this...
+
+M4 SOPMOD II: ...
+
+M4 SOPMOD II: Holy...what...
+
+RO635: This isn't looking good... I have a bad feeling about this...
+
+M4 SOPMOD II: Is she unconscious?
+
+RO635: Not just that...
+
+RO635: She's having a neural cloud meltdown. It must've been triggered remotely. Drag her back in here!
+
+M4 SOPMOD II: On it! But why...why is her neural cloud being fried all of a sudden...?
+
+RO635: If this maid belongs to the man we're looking for, then something really, really bad must've happened!
+
+RO635: SOP-II, monitor our surroundings. I'm going into her neural cloud!
+
+M4 SOPMOD II: It's all scrambled already! What can you even do in there?!
+
+RO635: I might be able to abort the meltdown before all her data is destroyed. Stay here and keep me safe!
+
+M4 SOPMOD II: Alright, hurry! We've already stayed here for too long. If those people from before catch up...
+
+M4 SOPMOD II: ...RO?
+
+...RO635's consciousness has already entered the maid's neural cloud.
+
+RO635: ...
+
+RO635: Is this...the virtual space generated by the maid's neural cloud?
+
+Neural cloud of the Maid Doll: Hello, Miss Doll.
+
+Neural cloud of the Maid Doll: Do you have an appointment?
+
+RO635: Maid, listen. You...
+
+BANG—!
+
+RO635: ...!
+
+Neural cloud of the Maid Doll: Anyone who shows up without an appointment is an enemy. You must be exterminated.
+
+RO635: Hey, you have no idea what's going on outside! Your body is dead!
+
+Neural cloud of the Maid Doll: Our duty is to protect our master's secrets.
+
+Neural cloud of the Maid Doll: We must carry out our duty in both life and death!
+
+RO635: Hold on a—
+
+RO635: How could there be so many offensive firewalls?!
+
+RO635: This informant of ours has installed so much illegal stuff on this civilian Doll. All these modifications could land him in jail for over ten years...
+
+RO635: Can't be helped. I have no choice but to kill you...
+
+RO635: No. Judging by the scale of your defenses, I'll have to kill you dozens of times!
+
+RO635: Sorry, but no matter how many times it takes, I also have to carry out my mission!
+Part 2
+
+    2chevron_right
+
+...Bang bang!
+
+RO635's electronic echelons have completely overwhelmed the maid's neural cloud.
+
+Execute...mission...
+
+Eliminate...abnormal...ab...
+
+RO635: It's finally stopped. It's pretty exhausting to completely dominate a Doll's neural cloud...
+
+RO635: Still, looks like I managed to terminate the meltdown sequence... Let's just hope the partial meltdown didn't destroy the information we seek.
+
+Pas...passive...
+
+RO635: Passive?
+
+Passive program initiated...
+
+Execute...final command.
+
+RO635: What command?
+
+RO635: Oh my— Wait—!
+
+Beginning self-destruct sequence... Locking down all connections... Countdown.
+
+Ten.
+
+RO635: Hey, the self-destruct sequence can be triggered internally as well...?!
+
+RO635: Damn you, are you trying to drag me along with you?! I'm not even your enemy!
+
+M4 SOPMOD II: Still not done, RO?!
+
+RO635: Almost!
+
+RO635: No, I've got to find the data before the neural meltdown!
+
+RO635: Hurry, I have to find it!
+
+Seven.
+
+RO635: Not in the communications logs... You are way too discreet... What about the short-term audio library...? Only half a year's worth of records...
+
+Five.
+
+RO635: It's got to be one of these files. I'll be able to—!
+
+Three.
+
+M4 SOPMOD II: RO!
+
+One.
+
+RO635: I only have enough time to access a single visual file...
+
+RO635: Which...which one is it? Which is the real address?!
+
+RO635: Which—!
+
+Zero.
+
+Crack!
+
+...
+
+...
+
+Where...where am I...?
+
+RO regains her consciousness at the sound of the maid's destruction.
+
+M4 SOPMOD II: RO. RO, it's me! Wake up!
+
+RO635: What...what have you done?! I almost had it!
+
+M4 SOPMOD II: Huh? I didn't do anything!
+
+M4 SOPMOD II: What about you? What on earth happened in there...? Even her physical body was destroyed...
+
+RO635: I...almost got locked in there...
+
+RO635: But I was thrown out at the last moment... I thought you pulled me out by force...
+
+M4 SOPMOD II: Huh?! No way!
+
+M4 SOPMOD II: Are you okay?
+
+RO635: I'm fine... Since the connection is broken, I must be safe...
+
+M4 SOPMOD II: Alright... I'm glad you're okay...
+
+M4 SOPMOD II: So, have you got the information?
+
+RO635: I don't know either... I couldn't get to it before I got disconnected...
+
+M4 SOPMOD II: Huh...? Then what do we do...? We've lost our only lead...
+
+M4 SOPMOD II: Let me do a double-check. How much information have you saved just now?
+
+RO635: I've backed up everything I came across...
+
+RO635: I was pretty thorough though, so I don't think you'll have any luck...
+
+M4 SOPMOD II: Huh?! Isn't...isn't this our guy?
+
+RO635: What?!
+
+M4 SOPMOD II: This is an optic record from when the maid left home this morning. The door number is clearly visible.
+
+M4 SOPMOD II: You got it after all!
+
+RO635: Oh...uh...but...I've never seen this file before...
+
+RO635: Whatever. Maybe I managed to pull this out on the last second... We really got lucky.
+
+...RO635 and SOP-II exchange a glance and smile.
+
+M4 SOPMOD II: Now to test our luck, we've got to find the informant before the White Faction beats us to him.
+
+RO635: Oh! If the maid's neural cloud has been triggered to self-destruct, that means the informant has probably been captured and is trying to bury everything he knows...
+
+M4 SOPMOD II: So we're already too late...?
+
+RO635: Still, we can't give up just yet. We've come this far. No matter what's happened, let's head to this address and take a look first.
+
+The time is 20:50...
+
+...At last, RO635 and SOP-II arrive at their target's last-known location according to the maid's neural records.
+
+It's a small house located in the slums.
+
+M4 SOPMOD II: Why are there so many small houses instead of large buildings here?
+
+RO635: Probably because this area, like many other parts of the city, is still awaiting reconstruction. For whatever reason, they haven't been able to start the process.
+
+M4 SOPMOD II: This is going to make our job difficult. We need to be careful not to alert the neighboring residents.
+
+RO635: Let's inspect the surroundings and make sure there aren't any traps or potential hazards before moving in.
+
+M4 SOPMOD II: ...No Doll signal or human life signs detected around the target location. No sign of explosives or off-site connections either.
+
+RO635: ...The door is ajar.
+
+RO635: Crap! Let's go in!
+
+...Slam!
+
+SOP-II runs up to the house and kicks open the door. The place has been completely trashed. A small door leading into a room has been left slightly open.
+
+Through that door, the room has been converted into a digital database, but all the equipment has been destroyed.
+
+M4 SOPMOD II: ...!
+
+M4 SOPMOD II: RO, there's a body!
+
+In the corner next to the window is a male body lying face-down. Blood is dripping off the window sill onto the floor.
+
+Once RO635 and SOP-II have confirmed that the house is secure, they begin inspecting the room and the corpse.
+
+RO635: ...He's not breathing anymore.
+
+M4 SOPMOD II: Dammit, we're just a bit too late!
+
+RO635: I knew it. The destruction of this safe house and the maid's neural meltdown happened at the same time.
+
+M4 SOPMOD II: We did all that work for nothing. Now what?
+
+RO635: ...Now what? We keep looking, of course.
+
+RO635: Check the equipment. Maybe there's still some data left in them.
+
+M4 SOPMOD II: ... (Sighs) Sadly, all of them are completely dead. The internal circuitry has been overloaded by high heat.
+
+RO635: This man activated a self-destruct protocol on the system... The maid was probably killed by the same command.
+
+M4 SOPMOD II: Look on the bright side – maybe the enemy couldn't get anything either?
+
+RO635: Perhaps, but we should investigate some more...
+
+...RO635 studies the man's body carefully.
+
+M4 SOPMOD II: This IS the informant, right? What's the cause of death? Gunshot wounds?
+
+RO635: Yeah. Small caliber, probably subsonic with a suppressor.
+
+RO635: No shell casings can be found at the scene. They've probably been removed. They're thorough...
+
+RO635: Which means no one could've noticed what happened in here...
+
+RO635: He was shot in three places – the lower leg, the arm, and finally the chest. Looks like they were trying to capture him alive.
+
+M4 SOPMOD II: Tsk... Damn it all...
+
+M4 SOPMOD II: They beat us to it again. Now we can't find out where Ange is...
+
+RO635: Are you sure...?
+
+M4 SOPMOD II: What, you have any other ideas? Can you make a dead person talk?
+
+RO635: No...I mean, is this man really our informant?
+
+M4 SOPMOD II: What? Isn't this the only body here?
+
+RO635: We're dealing with a really cautious guy. He erased his tracks and prepared all those self-destruct procedures. Not to mention, he's an information broker... Would he let himself get killed so easily...?
+
+M4 SOPMOD II: You mean this isn't him?
+
+RO dips her finger into the puddle of blood and gives it a lick.
+
+M4 SOPMOD II: Eww... RO, that's gross...!
+
+RO635: This isn't blood. It's a very good imitation...but it's synthesized.
+
+M4 SOPMOD II: So...he's human, but his blood is artificial?
+
+M4 SOPMOD II: I didn't know we have that kind of technology.
+
+RO prods the body, then flips him over.
+
+RO635: (Shakes head) Who said anything about human?
+
+She feels behind the body's ear with her hand, and his facial appearance suddenly changes.
+
+M4 SOPMOD II: Huh?? What just happened??
+
+RO635: This is the corpse of a Doll. A model so human-like, I almost got fooled by how real the body texture is.
+
+RO635: There's a reset button behind his ear. Now give his face a few pokes. This kind of Doll is designed with the ability to alter their own features freely. They can disguise themselves as someone else.
+
+...SOP-II scrambles over and plays around with the Doll's face.
+
+RO635: Of course, this model is strictly prohibited, but I'm guessing our informant used it as a stand-in for himself.
+
+M4 SOPMOD II: For real...? That's really scary. Who'd have thought such Dolls actually exist?
+
+M4 SOPMOD II: And how do you know about them...?
+
+RO635: I've read files about this particular model, but this is the first time I've actually seen one.
+
+RO635: This kind of Doll is insanely expensive... They were originally created for entertainment purposes, but were banned after one took part in a political crime.
+
+RO635: I'm surprised this guy even managed to get his hands on one...
+
+RO635: Still, if it's a Doll lying here, then...
+
+M4 SOPMOD II: Hmm...then the real informant is actually safe at the moment?
+
+RO635: He disguised the Doll as himself, pulled a switcheroo, then slipped away. But the body hasn't been removed, which means the people after him probably also realized that this was a decoy.
+
+M4 SOPMOD II: So now what? How are we supposed to find our informant on the run?
+
+RO635: There are no footprints outside. No security cameras around either... Let me think...
+
+M4 SOPMOD II: Are there really no clues...?
+
+M4 SOPMOD II: The dead Doll...didn't leave behind anything?
+
+RO635: You saw it, SOP-II. He destroyed all the equipment in the house. This Doll has also ceased to function. His neural cloud is probably fried as well.
+
+M4 SOPMOD II: Is there anything on the body that would tip us off, like a PDA or something?
+
+RO635: Let me see...hmm... Doesn't seem likely, but is he holding something in his hand?
+
+M4 SOPMOD II: You're right! Gosh, his grip is tight... I'm gonna pry it open!
+
+M4 SOPMOD II: Wait...a light is blinking... RO, duck!!
+
+!!!
+
+SOP-II hurls herself at RO and drags her out of the room.
+
+RO635: Ow ow ow ow ow... Could you be a bit more gentle next time...?
+
+M4 SOPMOD II: Just be glad that you escaped with your life!
+
+RO635: For a moment there I thought you were going to slam my head into the ground...
+
+RO635: Was that a booby trap...?
+
+RO635: Those sneaky bastards. We really can't afford to be careless.
+
+M4 SOPMOD II: Definitely. We almost got blown... Wait, it didn't explode?
+
+SOP-II peers into the room in bemusement.
+
+M4 SOPMOD II: It really didn't explode... The light is still blinking...
+
+RO635: Like it's telling us that something's there... I'll go and check it.
+
+M4 SOPMOD II: Wait! What if it's a delay-action bomb?
+
+RO635: But we won't find any new clues if we just keep sitting here.
+
+RO635: Look carefully. That thing is barely the size of half a hand. Even if it blows up, there won't be enough explosives to kill us both, right?
+
+M4 SOPMOD II: Uh...okay...
+
+RO and SOP-II approach the Doll's body once again and pick up the blinking device in his hand.
+
+RO635: This is a...small hard disk... The data seem to be protected by a really secure defense protocol. I'll see if I can decrypt it.
+
+M4 SOPMOD II: Hey, h-hold on!
+
+RO635: What now?
+
+M4 SOPMOD II: It didn't blow up, but what if this is the real trap? Frying your neural cloud with an offensive firewall is a lot more efficient than blowing you to bits!
+
+RO635: Oh...that is a real possibility... But this is our only clue. We can't just stop here, can we?
+
+RO635: Besides, even if my neural cloud did get destroyed, I could simply transfer to a new body using my memory backup...
+
+M4 SOPMOD II: Absolutely not!
+
+RO635: Huh?
+
+M4 SOPMOD II: If you go down now...there's no way I can finish this mission on my own...
+
+M4 SOPMOD II: Not to mention...I don't want to see you...drop dead in front of me...ever again...
+
+RO635: SOP-II...
+
+RO635: It...it'll be fine! I won't be done in so easily! I'll be right back!
+
+M4 SOPMOD II: Hey! Why don't you ever listen to me?!
+
+...
+
+Before SOP-II can react, RO closes her eyes and plugs herself into the hard disk.
+
+RO635: Turns out...it's only a simple defense program. Doesn't seem to be a trap as SOP-II suggested...
+
+RO635: If it wasn't set up by the enemies, then why didn't they notice this hard disk?
+
+RO635: Hmm...never mind. Let's just see if it contains the information that we need.
+
+??: GUAAARGH!
+
+RO635: Right, I knew it... Of course you wouldn't just let me waltz in here.
+
+RO635: Self-replicating virus. Honestly, it's kind of insulting if you think that's enough to lock me out.
+
+??: GUAAARGH!
+
+RO635: I still need to be careful and try not to trash the hard disk too much.
+
+RO635: So...ladies and gentlemen, move aside! Here comes Griffin's cleaning specialist!
+Part 2: Mid-stage dialogue
+
+2
+
+RO635: To access the records I need, I must find enough memory fragments and activate them.
+
+RO635: I can do that at locations equipped with a data switch.
+
+RO635: Alternatively, I can destroy electronic guards that carry the data, but some won't show up until I've killed enough of them.
+
+【Hint】: The enemies' movement patterns can be changed according to the situation in this map.
+
+【Hint】: There are two ways to do that – move to certain points and destroy certain enemies (some enemies will only appear after your kill count reaches a certain threshold).
+Part 3
+
+    3chevron_right
+
+Bang bang! Bang bang!
+
+...
+
+RO635: That's much better.
+
+RO635: I knew it. This isn't just a hard disk. It's connected to an even larger database.
+
+Click!
+
+...RO635 opens a door leading into a room.
+
+...!
+
+??: Please do not go any further.
+
+RO635: Another wall...? You're just not going to make this easy for me, are you?
+
+??: ...
+
+RO635: Why is it...you?
+
+Maid: ...
+
+RO635: A backup of the maid's neural cloud...? That's a bit of an overkill as the final lock in the hard disk.
+
+Maid: Anyone here whom I don't know is an enemy.
+
+RO635: Looks like there's going to be another fight...
+
+Maid: But I do know you, so you are not an enemy.
+
+Maid: ...
+
+Maid: I've been uploaded into this database to await my other self.
+
+Maid: I've been waiting for her to come and extract this piece of memory...so that she can do what she's meant to do.
+
+Maid: However, it's apparent that she won't be coming.
+
+RO635: So this isn't the neural cloud I came across earlier... I suppose to avoid data leakage, she wouldn't have uploaded anything before she was destroyed.
+
+RO635: So this is a backup...?
+
+RO635: Um...Miss Maid, may I ask how you know me?
+
+Maid: We are all merely executing our master's orders.
+
+Maid: If this is what he desires, we'll have no regrets no matter the outcome.
+
+Maid: Take it... As promised, this information is meant for you.
+
+RO635: For me? ...What's this?
+
+Maid: I hope it will prove useful to you. Now please go. You are about to trespass where you're not supposed to.
+
+RO635: Uh, wait! I—
+
+...
+
+......
+
+M4 SOPMOD II: RO? Are you awake?
+
+RO635: The maid shooed me away... Even the hard disk is destroyed...
+
+M4 SOPMOD II: Shooed? You sure your neural cloud isn't fried?
+
+RO635: Of course not. And the neural module is in my chest. Why are you patting my head?
+
+M4 SOPMOD II: I'm just worried about you! Well? Have you got something?
+
+RO635: There's a backup of the maid's neural cloud in there. She gave these files to me...
+
+M4 SOPMOD II: That's...an activation code and a floor plan?
+
+RO635: It's the floor plan of this room. Look at the bottom.
+
+M4 SOPMOD II: A secret passage! It's connected to the city's underground sewers?
+
+RO635: That's right, and the entry switch should be here...!
+
+RO walks to a corner and gives the base of the potted plant a tap, exposing a port. She plugs herself in.
+
+RO635: The activation code seems to be correct. That should do it.
+
+M4 SOPMOD II: Whoa!
+
+The desk piled with equipment slides slowly to the side and reveals a small doorway that a person can barely fit through.
+
+RO635: Open sesame. Looks like we're finally getting closer to finding our target.
+
+The time is 21:30. In a corner of the safe house...
+
+M4 SOPMOD II: Ugh... Do we really have to burrow into this hole...?
+
+M4 SOPMOD II: It looks really dark and scary...
+
+RO635: The informant must've escaped through this secret passage. The dust on the edge of the entrance has clearly been disturbed recently.
+
+M4 SOPMOD II: You'd better be right, RO... I hope this isn't another trap...and we won't be surrounded by dozens of Dolls the moment we go in...
+
+RO635: Hmm...you do have a point... Any suggestions?
+
+M4 SOPMOD II: Don't we have a Fairy?
+
+RO635: Fairy? It's probably still circling around outside. How do we use it?
+
+M4 SOPMOD II: Get it to come here.
+
+M4 SOPMOD II: We have to scout out the structure and gather telemetry on the sewers. Otherwise, we'll still be screwed if we get lost down there.
+
+M4 SOPMOD II: I'm going down first with the Fairy and I'll send it off halfway through. The Fairy is smaller so it can fly around and run a thorough scan.
+
+M4 SOPMOD II: This way, even if there really are enemies lying in ambush, I'm fast enough to run back right away.
+
+RO635: I don't have to come with you?
+
+M4 SOPMOD II: Let me do the risky stuff! Besides, it'll actually be more dangerous for two people to be in such a confined space...
+
+RO635: Right...I see your point.
+
+RO635: Ah, the Fairy is here.
+
+M4 SOPMOD II: That's quick!
+
+Fairy: Finally, it's my turn to shine! What are my orders?!
+
+RO635: We need you to head down to the sewers to do some recon work. If you run into any enemies, make sure you don't get spotted.
+
+Fairy: Huh? Isn't that super dangerous?!
+
+RO635: If you complete the mission successfully, I'll get you an upgrade when we get home.
+
+Fairy: Okay, deal!
+
+...RO635 hands the Fairy drone to SOP-II.
+
+M4 SOPMOD II: I've always had the feeling...that Fairies really aren't the smartest...
+
+RO635: Miss Persica only developed their AI program on a whim, after all.
+
+M4 SOPMOD II: I hope she didn't also design us on a whim...
+
+Fairy: We're gonna make a fantastic team!
+
+M4 SOPMOD II: Right, we're starting the mission, Fairy. Let's go—
+
+M4 SOPMOD II: Whoa... Looks like the enemies beat us to it again... RO, can you see the scans?
+
+RO635: Things aren't looking very good... They've already tracked him to the sewers. And since they're no longer out in the open, they have nothing to fear...
+
+RO635: We don't stand a chance with just the two of us...
+
+M4 SOPMOD II: Then what do we do? Should we just watch?
+
+RO635: I'll get in touch with the Commander... Before that, let's run a few scenario simulations.
+
+M4 SOPMOD II: Scenario simulations?
+
+RO635: We should predict all the possible conflicts and outcomes that could happen. That'll give the Commander more information to work with when making judgment calls.
+
+M4 SOPMOD II: Wow, you've really thought of everything, haven't you...
+
+RO635: Eh, it's nothing... Keep scanning and sending me data on the enemies. I'll run the simulations myself.
+
+RO635: I'm leaving everything down there to you!
+
+M4 SOPMOD II: Kay, I'll handle it.
+Part 2
+
+    2chevron_right
+
+...
+
+M4 SOPMOD II: RO, do you copy?
+
+M4 SOPMOD II: Primary scan on the sewers is complete.
+
+Fairy: Well? Am I great or what?!
+
+RO635: Other than the white bastards, what have you found?
+
+M4 SOPMOD II: I discovered a small hidden room with all sorts of firearms in there. If they all belong to the informant, he's awfully prepared...
+
+RO635: But guns won't be enough at all against the white enemies...
+
+RO635: What about the informant's whereabouts?
+
+M4 SOPMOD II: I did detect a heat signature similar to that of a human, but it had disappeared by the time the Fairy made its way over there. According to the distribution pattern, he seems to be making for the central gate. It'll take the white enemies a while to catch up with him.
+
+RO635: They're definitely operating under someone's command... SOP-II, have you seen any Nytos?
+
+M4 SOPMOD II: No, the Fairy ran a very thorough sweep. No Nyto signals at all.
+
+RO635: So this isn't an occasion that requires the presence of a Nyto...
+
+M4 SOPMOD II: What do we do now...?
+
+M4 SOPMOD II: Should we try to get to the informant before the white faction?
+
+RO635: The terrain is too confined. Even if we get to him first, the white enemies will catch up one way or another, and a clash is inevitable.
+
+RO635: On top of more echelons, we'll also need support from the HOC.
+
+M4 SOPMOD II: In the sewers?
+
+RO635: In the sewers.
+
+M4 SOPMOD II: Okay...I just hope the echelons can enter the city in time...
+
+M4 SOPMOD II: Otherwise, it'll just be you, me, and the Fairy.
+
+Fairy: Leave it all to me!
+
+RO635: Have faith in the Commander. I've already sent over the telemetry and simulation results.
+
+RO635: All we can do for now is wait for our orders.
+
+RO635: I hope the informant's information is worth all this hard work...
+
+M4 SOPMOD II: Now that you mention it, do you know what the Commander is up to?
+
+M4 SOPMOD II: It'd be more reassuring if the Commander handles the situation in person...
+
+RO635: Stop grumbling. The Commander must be busy with something even more important. Or do you think the Commander would leave us in danger to sip a cappuccino in some random café?
+
+...Meanwhile, in a certain café in Belgrade.
+
+Hello, one large cappuccino for you – warm and not too hot, just as you ordered. Please enjoy.
+
+I nod and take the cup.
+
+I take a sip to feel the temperature. It's exactly as warm as the coffee I usually made myself before I joined Griffin – perfect.
+
+The waiter leaves the table, leaving me to enjoy the cappuccino in peace.
+
+Having drunk instant coffee for so long, my mouth savors this freshly ground coffee the way a dry sponge soaks up clean water.
+
+Thanks to the coffee and the psychological effect it has on me, I'm starting to perk up.
+
+Kalin: I've checked everything.
+
+Kalin: I can't believe there really isn't a single report on what happened. It was massive... Is no one gonna come and settle this at all?
+
+This kind of censorship is well within their capability. What's odd is how they aren't doing anything to follow-up.
+
+Kalin: You mean this isn't their style?
+
+This isn't anybody's style.
+
+I turn toward the television in the café, which is showing the news.
+
+According to the Ministry of Foreign Affairs of the Neo-Soviet Union, Vasily Vasilievich Roshchin, Plenipotentiary of the Neo-Soviet Council of Mutual Assistance in Europe, and Mirko Milošević, Executive Officer of the Pan-European Convention on Mutual Assistance in Reconstruction, are scheduled to have a meeting in Belgrade in three days.
+
+In a previous interview, Roshchin's representative said that this meeting would not only deal with issues concerning bilateral collaboration between the alliances, it would also open discussions on how to resolve more territorial disputes...
+
+"We will do everything we can to restore peace and justice, as well as to protect the inviolable dignity of our people..."
+
+Next—
+
+An official in the Ministry of Welfare and Social Security revealed at an interview that rations for fifth-class citizens in the upcoming three months will be further reduced... This has sparked a new wave of demonstrations... At least three sectors have already—
+
+Kalin: It seems that not everyone has it easy even in a city...
+
+I do not reply to Kalina's remark. According to my terminal, four more batches of T-Dolls have been transported into Belgrade by train.
+
+I gaze into the distance, where a cargo ship is also slowly slipping into the harbor on the Danube. Serial no. 52318. The rest of our heavy weapons are on that ship.
+
+Looks like the help that Havier promised has arrived. Now all that's left is...
+
+Click...click...
+
+I received RO635's report on what has transpired along with a map.
+
+Now all that's left is...the informant who can bring everything together.
+
+Kalin: What was that, Commander?
+
+What a restless day it's been. Hopefully, this will be the final step.
+
+Time to go, Kalin.
+
+Kalin: Huh? Already? I haven't even finished my cake!
+
+...Three months after the events that transpired in Continuum Turbulence.
+
+Kalin: Commander, I'm leaving today's progress report here.
+
+Commander: Thanks, Kalin.
+
+Kalin: Thank you, too, Commander.
+
+Kalin: Looks like you've gotten used to working here.
+
+Commander: Anything interesting happened today?
+
+Kalin: Same old, same old. Logistics, repairs, supplies, peaceful news reports, T-Dolls with upset stomachs.
+
+Kalin: Why would they design Dolls to have food allergies? I honestly don't understand the people at IOP. Is this some kind of Turing Test?
+
+Kalin: Anyways, wanna go to the café for coffee after work?
+
+Kalin: ...No reason, just to relax. I know there's only instant coffee here on the base, and we've been ordered not to leave the site for months now...
+
+Kalin: Hehe, of course, even if it's just instant coffee, it's gonna be on you, Commander.
+
+...Click.
+
+Kalin: Oh, an incoming call... Class-B encrypted channel. From Mr Havier.
+
+Havier: Commander, how are you feeling after a long day at work?
+
+Havier: Haha, as you said, there is always more work. That's why I'm here.
+
+Havier: Can we have a conversation in absolute privacy?
+
+...I shoot Kalina a glance.
+
+Kalin: ...Right, I'm guessing the café is not happening.
+
+Kalin: No, canned coffee from the vending machine isn't gonna make up for it. I'm holding you to the café.
+
+...Kalin waves her time table at me and exits the command center, leaving me to my own device.
+
+Havier: Don't worry, I told you we won't be talking about work in the command center. That's right, chuck it all aside for now.
+
+Havier: Let's talk about a lighter subject today, say...
+
+Havier: How do you feel about doing a little sight-seeing?
+
+...
+
+...14:30, the next day. In a dark alley near the Intercontinental Railway Station.
+
+RO635: Commander, is this our new mission?
+
+RO635 studies the photograph I just handed her. It was taken in the busy streets of Belgrade. The blurry profile of a man is circled out with a red marker.
+
+RO635: But how are we supposed to find him with nothing but a picture taken so far away...?
+
+RO635: You say he's an information broker, but does he actually have intel on Ange?
+
+...A day ago.
+
+Havier: Our great Chief assigned you a mission, but you haven't been able to sortie as all Griffin vehicles have been sabotaged. I'm sure that's very frustrating.
+
+Havier: Which is why you'd better thank me for making this opportunity for you!
+
+Havier: You must be wondering what this opportunity is.
+
+Havier: Be patient. I'm going to explain everything – all in good time.
+
+Havier: I managed to get something out of the Chief off the record – Ange might show up in a city in the south.
+
+Havier: Naturally, don't bother asking me why she'd go there. I do not understand her motives at all.
+
+Havier: Just between you and me, if I were her, I'd have gone out of my way to take credit for what I'd done and asked for a pay rise, instead of running off to who-knows-where without a word.
+
+Havier: So it got me thinking – here's your chance to prove yourself. If you can find Ange, the Chief will be so happy he may even agree to let Griffin have a chopper or two – then you can finally leave the base!
+
+Havier: Alright, so now you are probably thinking, how do we find her? I already have everything sorted for you, of course. I'm sending you all the key intel I have gathered. Be sure to thank me for my generosity!
+
+RO635: Hello, Commander?
+
+I stare at the photo in RO's hand and sigh heavily.
+
+That's right, all we have is a single photograph and an informant's last-known location. We don't have nearly enough clues to work with.
+
+Finding him isn't even the hardest part. The real problem is whether he actually possesses intelligence concerning Ange.
+
+And then there's this question... Why is Havier asking me to find this guy?
+
+Havier may sound glib and flippant, but I know very well that he's an incredibly shrewd man. There must be a reason why he's entrusting this mission to us.
+
+...Still, this isn't really the time to think about such matters.
+
+RO635: Commander?
+
+Commander: Yes, I heard you. Unfortunately, this is all we have to work with. We'll think of something when we get there.
+
+RO635: Okay... I suppose you're right. There really isn't much we can do with just a picture.
+
+RO635: Speaking of which, this is the first time I've ever been to this train station. It looks so much more impressive than the one near our base.
+
+RO635: The Intercontinental Railway really is something. The last time I took it was with Team Palette... It was the worst train ride EVER. I mean...the train itself was perfectly fine, but my teammates were unbearable.
+
+RO635: I hope this trip is going to be a better experience. SOP-II should make for a much better traveling companion than AAT-52.
+
+RO635: Still...that was so long ago... We've been through so much in such a short time.
+
+Five months ago, Griffin & Kryuger took part in a joint operation with the Military to capture Sangvis Ferri's Mastermind, a.k.a. Elisa, and put an end to the artificial lifeforms' rebellion in that area once and for all.
+
+However, we were betrayed by the Military and almost completely wiped out, while Mr Kryuger was arrested on fabricated charges.
+
+The Military's actual objective was to seize Mastermind for themselves and to exploit M4A1's connection with her to some unscrupulous ends.
+
+But all that was foiled by a makeshift dirty bomb modified from a Collapse Fluid canister.
+
+The Military suffered heavy losses and were forced to abort their mission, while Mastermind and M4A1 have both gone missing.
+
+This is what I have been able to deduce by piecing together information I gathered during and after the battle, but is it really the truth?
+
+I can't be certain, but I do know for sure that I, and even the participants of this operation, are not the only ones interested in finding out what had actually happened.
+
+Once the CF radiation started spreading across the theater, the battle soon came to an end.
+
+That was when I got captured by the mysterious White Faction.
+
+These interrogators that called themselves Nytos tried to extract information about Ange and M4A1 from me.
+
+I recounted some facts...and also threw some random lies into the mix before I was finally rescued by Squad 404 and escorted to Griffin's new base.
+
+Ever since then, Task Force DEFY and Squad 404 have both vanished into thin air as if they had never existed in the first place.
+
+Through 16LAB's boss Mr. Havier's introductions, I accepted a commission from Zelinsky, Chief of the Bureau of State Security...
+
+...to participate in the search for Angelia...ex-Griffin commander, ex-StateSec agent, traitor on the run.
+
+And that...is my current mission.
+
+RO635: But Commander...what are we going to do after we find Ange? Have you thought about that?
+
+RO635: ...I'm sorry. I know it's not in my place to ask such questions. I'm simply trying to make suggestions...but just thinking about this problem is overwhelming my neural cloud.
+
+RO635: No matter what you ultimately decide to do, you'll have my full support, Commander.
+
+RO635: Oh, SOP-II is back.
+
+M4 SOPMOD II: I'm back— Huh? Where's my train station-exclusive hot dog?
+
+RO635: Take it. I won't let you squander any more money. Our budget is limited, you know.
+
+M4 SOPMOD II: Yayyyy! We finally get to leave the base, we should savor it! At least take a picture to show off!
+
+RO635: I see you're getting along pretty well with those friends of yours, but I can guarantee that any visual record you keep that's unrelated to the mission will be deleted once this is over...
+
+RO635: So, have you figured out where the server is?
+
+M4 SOPMOD II: I've scanned it with Banana!
+
+RO635: "Banana"?
+
+M4 SOPMOD II: Yeah, it's yellow like a banana! Persica modified it for me. It's a huge boost to my capability in conducting electronic warfare! ♪
+
+RO635: You still have...that dinergate with you... Oh boy, it makes me dizzy just looking at it...
+
+M4 SOPMOD II: Haha, then don't look!
+
+M4 SOPMOD II: Anyway, I'm sending the coordinates to you now.
+
+M4 SOPMOD II: Still, I don't understand. Can't we just enter the station directly?
+
+RO635: SOP-II, this is a civilian station for public use, you know? All the entrances and exits are guarded by soldiers of the Military, and the security system monitors all access to the station.
+
+RO635: There is probably a warrant on the Commander's head right now, and we are most definitely outlaws ourselves. The moment we scan our tickets at the gate, our identifications will tip off the Military's database within three seconds, and we'll be pinned to the ground by those two burly Dolls merely a second after that.
+
+M4 SOPMOD II: Is that why we're in disguise?
+
+RO635: At least this way, we won't be exposed by a scan...
+
+RO635: I'm going to plant a virus into the server you found.
+
+RO635: As our forged IDs are going through the station's security system, the system will skip the authentication procedure and automatically upload these false records onto the Military's database.
+
+M4 SOPMOD II: Wow! You can actually do that? Can you teach me?
+
+RO635: We've got Miss Kalina to thank for the prep work...
+
+RO635: Even you should be able to handle this kind of simple trick in electronic warfare – that is, if you understand the principle behind it.
+
+M4 SOPMOD II: I have no clue whatsoever, but it sounds super cool!
+
+RO635: Haha...figures...
+
+RO635: Then let's get started, Commander. Please help me take down the firewalls in the server. SOP-II, stand guard and keep watch.
+
+RO635: Commander, I've hacked into the station's server. Now I need you to find a loophole in the security system for me to plant the virus.
+
+RO635: This is your first time hacking a public system? Are you nervous?
+
+It weighs a little on my conscience, but it can't be helped. I'll get used to it – after all, we're in a very different position now.
+
+In any case, this isn't any different than our electronic battles in the past, so here goes nothing.
+Part 2: Mid-stage dialogue
+
+2
+
+RO635: There are some inactivated identifications in the database that I can use, but they'll be deleted after a while.
+
+RO635: Now I need to gather three data fragments to put together our disguise. That way...
+
+【Hint】: The enemies' movement pattern can be changed according to the situation in this map.
+
+【Hint】: To do that, simply move to certain nodes.
+Part 3
+
+    3chevron_right
+
+...With my assistance, RO635 successfully planted the virus.
+
+Five minutes later, we are at the gates. SOP-II takes the lead and walks up.
+
+RO635: Relax, Commander. The operation was a success and Miss Persica's virus will work perfectly. It's going to be fi—
+
+Human soldier: That Doll over there, stop!
+
+M4 SOPMOD II: Huh? Me?
+
+RO635: (What? Are we busted?)
+
+Human soldier: Yes, you!
+
+RO635: (Do we fight? But even if we win, we won't be able to board the train... What do we do, Commander?)
+
+Human soldier: That's an electronic pet in your arm, isn't it? They need identifications,too. You can't board the train with it just like that!
+
+M4 SOPMOD II: Huh, I can't? But it's so small. It's hardly a pet if I just stuff it inside myself, right?
+
+Human soldier: Who gave you permission to speak, Doll!
+
+RO635: ...Ahahaha, s...sorry. We'll register the pet right away.
+
+RO hurriedly forges an ID for the dinergate.
+
+RO635: Why must I do this for that blasted dinergate...?
+
+Click.
+
+Human soldier: So it's been registered as an electronic good... Humph, off you go. Be more careful next time.
+
+RO635: Right, we definitely will...
+
+Two minutes later, we are safely onboard the train. We find our carriage and take our seats.
+
+M4 SOPMOD II: Wow! The seat is as soft as the sofa in your office, Commander!
+
+RO635: Keep your voice down. We may have weaseled our way through the digital security check, but it'll all be over if we draw too much attention and get recognized by any of the humans on the train.
+
+RO635: What happened just now scared the crap out of me. I don't want to go through that again...
+
+M4 SOPMOD II: But we're the only ones in this carriage.
+
+RO635: Maybe this train is just particularly empty? According to our intel, there should be a guard Doll in each carriage...
+
+M4 SOPMOD II: Hmm...maybe they're understaffed?
+
+RO635: That is a possibility.
+
+RO635: The last battle did happen a long time ago. The Military probably won't devote resources to monitor every single train station 24/7 just to capture a PMC employee.
+
+M4 SOPMOD II: Humph, then they're still underestimating us.
+
+M4 SOPMOD II: I suppose the Military also suffered a defeat in the last operation? That's why they have to rein it in a bit.
+
+RO635: At least they failed to achieve their objective, but they'll never give up.
+
+M4 SOPMOD II: And neither will we! We'll definitely find M4A1 and the others!
+
+...The train pulls away from the station. SOP-II looks through the window and watches the scenery flash by in excitement; RO635 puts on her headphones and retreats into her own world; while I turn on the digital magazine at my seat.
+
+The magazine is full of fashion news, business ads, and scenic pictures of what's left of the tourist attractions on the planet – things that have little to do with our lives...
+
+I randomly flip to a page with an ad featuring a half-length portrait of the latest Domestic Doll model. Out of boredom, I start imagining what she'd look like if she got an Imprint and took up a firearm.
+
+All the nitty-gritty details weave into a heavy blanket of drowsiness that gradually wraps around my mind...
+
+...Commander? Commander?
+
+After who-knows-how long, RO635's voice pulls me from a weird patchwork of a dream back into reality.
+
+RO635: Commander, the broadcast just notified us that we'd arrive in 30 minutes. The train is starting to slow down.
+
+RO635: Oh...
+
+...RO635 stares at the page on which I've left the digital magazine open and gives me an odd look.
+
+RO635: So that's what you are into, Commander.
+
+Uh...I just happened to have fallen asleep on this page.
+
+RO635: Ha...right... Seeing this kind of Doll makes you so at ease it puts you right to sleep, eh?
+
+Hey, RO, Commander! What is that?!
+
+...RO635 and I look out of the window.
+
+A quarantine wall and a purification tower. Put the word "ELID" in front of these words and you'll get the picture.
+
+Huh? So that's...a purification tower?
+
+Wow, it's huuuuge! It's almost like a fortress!
+
+This is relatively new model – a standard built in 2055. Look at the bottom. It's even equipped with tracks so it's mobile.
+
+These towers dispel Collapse Fluid radiation by emitting neutralizing particles and create a purified zone to keep the contamination outside the city.
+
+Now look at the quarantine wall behind the tower. It's for blocking windblown particles and ELIDs. Of course, humans without legal identifications are also barred from entering.
+
+All these are built just to protect the city we're going to? That's some really special treatment...
+
+It's a big city – there's no reason to desert it.
+
+Besides, WWIII and the fallout happened ages ago. Life in the city has long since returned to its usual state of debauchery... Not that it has anything to do with us.
+
+To us, cities like these are more alien than the contamination zones beyond the wall... This mission could be tougher than we first expected...
+
+The train glides onto the filtering tracks within the quarantine wall and the exterior undergoes rapid decontamination.
+
+The wall separates two completely different worlds. With my social standing, I have no right to ever set foot in the Green Zone.
+
+However, despite having entered the civilized world, for some reason I just can't shake off the feeling of unease.
+
+We'll find Ange, then we'll find M4A1, AR-15, and M16...
+
+We will reunite the AR Team, won't we, Commander?
+
+I look into RO's eyes and nodded lightly. I can't disappoint them.
+
+This is just the beginning – the beginning of the process to restore normality...
+
+...I will not allow anyone or anything to undermine us when it comes to that.
+
+Eight hours later.
+
+The time is 22:20, inside the enemy outpost in the sewers...
+
+RO635: Are you sure it's alright to sneak in here like this...?
+
+M4 SOPMOD II: It's fine. The Fairy has scouted the route out carefully.
+
+M4 SOPMOD II: Although the route is all sorted, there are a lot of floodgates in the sewers. If the white trash-cans aren't too stupid, they'll have assumed control over them.
+
+M4 SOPMOD II: If they lock the gates, won't we be caught red-handed?
+
+RO635: You have a point, but we've burrowed in way too deep... It'll be bad news if we get surrounded...
+
+M4 SOPMOD II: We'll leave right away once we finish helping the Commander. Everything will be alright!
+
+RO635: Are you sure...?
+
+RO635: Huh? Is this...a Griffin comms request?
+
+Mk46: Evening. Miss RO635, right?
+
+RO635: Uh, hello, and you are...?
+
+Mk46: Mk46. Just sent you my ID. I'm the Commander's temporary adjutant for this operation.
+
+M4 SOPMOD II: This new girl seems pretty unmotivated...
+
+Mk46: Hey, I heard that...
+
+Mk46: Anyways...my assault echelon is prepping their gear right now. They'll reach the entrance of the sewers in ten minutes.
+
+RO635: Thanks, Mk46. I hope you have enough manpower with you.
+
+RO635: Please standby at the designated location and stay put until you're ordered to attack.
+
+Mk46: Right. I'll be waiting for you then.
+
+Mk46: The Commander has sent me the mission plan. Once the echelon is in place, we'll be ready to begin the operation.
+
+RO635: Roger that.
+
+RO635: Commander, thank you for your support. I can see the location of the echelon you dispatched.
+
+RO635: While we were waiting for you, SOP-II and I have found the control center without alerting the enemies.
+
+RO635: I know the location is pretty dangerous, but our echelon can provide more assistance from this side.
+
+RO635: Here's my plan – the echelon will block access to the sewers at the entrance while I access the terminal connected to the platform network in the control center.
+
+RO635: I'm guessing that the enemies will close the floodgate to cut off our informant's escape route, so I'm going to enter Level II and tamper with their control access to the sewers gate.
+
+RO635: After that, SOP-II will head in to find the informant and bring him out, then regroup with our echelon at the entrance.
+
+M4 SOPMOD II: Can't you simply seize control over the floodgate yourself and lock up the white trash-cans?
+
+RO635: Breaking into the system like that takes a lot more time, but our window of finding the informant is getting smaller and smaller.
+
+M4 SOPMOD II: Ugh...fine...
+
+RO635: I need to devote most of my processing power to hacking into the gate control system, so please take care of the echelon, Commander.
+
+RO635: SOP-II, can you mark the gates and nodes on the map for me?
+
+M4 SOPMOD II: Sure!
+
+RO635: I have to boot the enemies out from Level II before they notice me... Right, then let's get started!
+
+??: Do n— enter th— con— system.
+
+RO635: What's that...?
+
+M4 SOPMOD II: Huh? What's what?
+
+RO635: Was that you talking just now...?
+
+M4 SOPMOD II: No, I didn't say anything at all?
+
+RO635: Might be my imagination then...
+
+RO635: Never mind that, time is short so let's start the operation!
+Part 2
+
+    2chevron_right
+
+RO635: That was easier than I thought... Did the enemies not have time to set up too many defenses...?
+
+RO635: Maybe I should just seize the controls...
+
+M4 SOPMOD II: RO! RO, wake up!
+
+RO635: What is it...? I'm not completely done yet...
+
+M4 SOPMOD II: The white enemies! They're making their way towards us!
+
+M4 SOPMOD II: Have they discovered our location...?
+
+Sheesh. Your guardian angel already told you not to touch that control panel.
+
+Those morons laid such a pathetic trap and the prey that fell for it wasn't the rabbit they're after... This is turning out to be quite an amusing day.
+
+RO635: A...forced transmission?!
+
+RO635: Who are you?!
+
+??: The rabbits are gonna get roasted if they don't start running.
+
+??: I never give away information for free, but I'll make an exception for you this time – you can pay me later.
+
+RO635: The transmission...is coming from a hidden passage in the sewers?
+
+??: If you leave now, you might still make it out alive. It'd make my life a lot more difficult if you kicked the bucket just like that.
+
+RO635: Are you our informant? Where are you?!
+
+RO635: Dammit, the signal has already disappeared...
+
+M4 SOPMOD II: What do we do now? That was him, wasn't it? If we retreat now, everything we've done today would've been for nothing!
+
+RO635: In any case, we've got to move right now...
+
+RO635: If the white enemies have this room surrounded, it'll really be game over.
+
+RO635: Commander, you still there? I'm really sorry but we require immediate support!
+
+RO635: There's a special passage that can help us evade the enemies as we enter the sewers. Please cover our retreat!
+
+RO635: And SOP-II, hand over your dog!
+
+M4 SOPMOD II: Dog? You mean Banana?
+
+RO635: I don't care what it's called... I need to borrow it to retrace the informant's signal.
+
+RO635: If he could force a connection with us, he can't be far from here.
+
+RO635: We still have some time before the Commander's forces arrive. I won't let our efforts be in vain!
+
+The time is 22:30, in the enemies' outpost in the sewers...
+
+Mk46: Didn't think I'd have to come save your butts so soon...
+
+Mk46: Figured I could slack off for several minutes since it's you folks...
+
+RO635: Sorry for making you work overtime, but the mission isn't over yet.
+
+RO635: We've already tracked down the last-known location of our target's signal, so please make for the coordinates I just indicated before regrouping with us.
+
+Mk46: Are you sure you want me to go there? My order is to get you out.
+
+RO635: The Commander has approved of my proposal.
+
+RO635: Sorry, the next part of the mission is going to be highly dangerous, so it'd be great if you can coordinate with the HOC and have them within range.
+
+Mk46: Sure... I just saw the approval notification. The Commander sure does trust you.
+
+RO635: I hope you can trust me, too.
+
+Mk46: What else can I do? I'm here anyway. I'd rather tidy up after you instead of SAW.
+
+Mk46: So what do we do next?
+
+RO635: As our escape route has been altered, we'll have to re-enter the sewers halfway through the secret passage.
+
+RO635: We're bound to run into the white enemies, but we must try our best to avoid an extended fight. The snappier we move the better.
+
+Mk46: Roger that. My team will do what we can to suppress the enemies and stop them from pinning you down.
+
+RO635: After that, once we enter the sections with the floodgates, I'll try to hack their control panels and lock the enemies out on the other side.
+
+RO635: However, I have to remain stationary while controlling the gates so please watch my back.
+
+M4 SOPMOD II: Huh? You're gonna engage in electronic warfare in the middle of the operation?
+
+M4 SOPMOD II: If you screw up the controls and lock us and the HOC out with the white enemies, we'll be finished!
+
+RO635: Trust me. I've studied the structure at length. I can do it.
+Part 2
+
+    2chevron_right
+
+...Bang bang!
+
+M4 SOPMOD II: Dammit, they've scattered our forces!
+
+M4 SOPMOD II: Mk46, is your team doing alright?!
+
+Mk46: We can hold out just fine, but the enemies are heading your way!
+
+M4 SOPMOD II: We'll think of something! Let's split up for now! Don't let them surround you!
+
+Mk46: But...we can't just leave you behind!
+
+M4 SOPMOD II: We're elite T-Dolls, and with two of us, they're gonna have a hard time trying to capture us. Worry about yourselves!
+
+Mk46: ...Fine, if you insist!
+
+Mk46: We'll be waiting for you at the coordinates! Stay alive and haul your butts over there, you hear me?!
+
+...
+
+M4 SOPMOD II: It's just us then... At least they'll be safe...
+
+M4 SOPMOD II: RO! RO, can you hear me? The enemies are almost at the gate! Close it already! What are you waiting for?!
+
+RO635: I'm looking for the access pathway to this gate!
+
+M4 SOPMOD II: Weren't you brimming with confidence just now??
+
+RO635: I didn't expect the base logic of the access to these floodgates to be coded so messily! One sec!
+
+RO635: Gate 1 and Gate 4...no, that's a clash... What about Gate 5...
+
+M4 SOPMOD II: I can wait, but the enemies won't! Hurry, RO! We can't fight them off for long!
+
+RO635: Gate 2 and Gate 3? No, that doesn't work. If I go for Gate 7—
+
+??: The floodgates along sequence G have to be activated through pathways 7 and 14. Meanwhile, you'll have to send a false signal to trick the system into thinking it's a manual override.
+
+RO635: Who's this? Who's talking?
+
+M4 SOPMOD II: Is it the informant again?!
+
+RO635: Informant?
+
+RO635: What's your current loca—
+
+??: Do as I say.
+
+??: Also, don't give signals through two pathways at the same time. The system will mistake it as a command to reroute the current.
+
+M4 SOPMOD II: Just do as he says! We can't hold them off anymore!
+
+RO635: Then...!
+
+...SLAM!
+
+The gate comes crashing down with a massive clang and locks the enemies on the other side. Everything falls silent.
+
+M4 SOPMOD II: He's right...
+
+RO635: ...The information broker knows his stuff...
+
+RO635: Now, can you finally identify yourself, Mr. Informant?
+
+??: "Mr. Informant", eh? That name does have a certain ring to it.
+
+??: To make our conversation easier, you can call me "K".
+
+RO635: K?
+
+K: That's right. Just K.
+
+RO635: Then...Mr. K, can you show yourself?
+
+RO635: If you're as omniscient as you claim to be, surely you'd know that we've been looking for you for a long time.
+
+K: You chose to close the gate and lock your enemies out.
+
+RO635: Huh...? This isn't really the time to talk about the gate, is it?
+
+K: That was a good decision. But from the perspective of information analysis, a good decision can also be a bad decision.
+
+K: The key factor is whether the decision is founded on multi-sided analysis and reasoning.
+
+RO635: What do you mean...
+
+K: You've temporarily kept your enemies at bay, but don't forget that they still have access to the gate controls.
+
+RO635: !!
+
+K: We'll have a proper chat if you survive this.
+
+Whirrr—
+
+RO635: W-what's that sound?!
+
+M4 SOPMOD II: Enemies?
+
+RO635: No...probably something way worse...
+
+The crash of rapid flooding can be heard in the distance.
+
+RO635: Something...that can only happen in the sewers...
+
+The time is 23:40. In the sewers under a certain alley in Belgrade.
+
+RO635: W-What was that?!
+
+M4 SOPMOD II: Hostiles?
+
+RO635: No...sensors aren't registering any individuals, but the reflection surface has enlarged all of a sudden...
+
+M4 SOPMOD II: Reflection? Enlarged? Explain it in a way that I understand!
+
+RO635: Hush... That didn't sound like enemy reinforcements...
+
+RO635: Hold on... The controls of the floodgates B2, G5, and K9 suddenly require higher clearance to operate?!
+
+M4 SOPMOD II: RO, look under our feet! Water! Water's coming in!
+
+RO635: Water?!
+
+RO635: The floodgate that's stopping the current has been opened! They're trying to drown us!
+
+M4 SOPMOD II: Drown us?
+
+RO635: Have you forgotten?! Our bodies are only equipped with the most rudimentary waterproof casings. If water manages to seep in, we'll definitely short out!
+
+M4 SOPMOD II: Uh... Can we make it?
+
+RO635: We can't possibly stay ahead of how quickly the water level is rising...
+
+RO635: I see it! A platform just ahead! Can you jump up there, SOP-II?!
+
+M4 SOPMOD II: No problem! Hah!
+
+SOP-II and RO jump onto the platform.
+
+We can probably last a little longer here...
+
+Just a second, I'm trying to regain access to the floodgate controls...
+
+...Dammit, access denied!
+
+I knew it was fishy – overriding their protocols was too easy! We've been lured into a trap!
+
+Can't you override it again?
+
+It was so easy the first time only because they wanted us to fall for it. Now they've fired up their defenses...
+
+On top of that, they've also refreshed the clearance codes of the other floodgate controls. If I don't put a stop to that—
+
+SOP-II, keep me on my feet! This might take some time, but I need to force my way through on Level II. Don't let me fall into the water!
+
+Gotcha! I'll hug you tight!
+
+Thanks. Commander, you still there?
+
+The firewalls found our trojan. I'm searching for a new entry route.
+
+Thank you, Commander.
+
+It's just as you said – it IS a trap... But we simply cannot give up such an important lead.
+
+I will try to retake control over the floodgates in Level II, but they might directly cut off external connections.
+
+Considering the fact that they're operating off-site, I doubt they'd do that...and we can only hope I'm right...
+
+To break through their defenses faster, please allow me to harness the computational capacity of more T-Dolls! Let's get started!
+
+Sure, let's go!
+
+Uh...don't you have to close your eyes...?
+
+They...
+
+They?
+
+They've actually gone and cut off external connections...! So they have no intention of controlling the gates anymore?!
+
+What?!
+
+Then we really are done for!
+
+No...don't panic yet... There's still a way...
+
+Are you sure?! The water is almost up to my thighs!
+
+It-It's going to be fine, SOP-II! D-D-Don't freak out! Maybe you're just too short!
+
+What?! How could you ever say that to me?!
+
+Mk46: RO, you still there?
+
+RO635: We're here! Are you alright?!
+
+Mk46: We're perfectly fine, but from what we can see, water is running through two of the floodgates. I'm guessing the enemies are trying to drown you?
+
+M4 SOPMOD II: Yeah, duh!
+
+Mk46: Alright, alright, I know.
+
+Mk46: Our reinforcements have arrived and the Commander has also located the enemies' command center. We're getting ready to clear them all out in one go.
+
+M4 SOPMOD II: Then you'd better hurry, or I'll have to stay out of the water by sitting on RO's head!
+Part 2: Mid-stage dialogue
+
+2
+
+Kalina: Commander, we're detecting a troop of enemy patrols just ahead!
+
+Kalina: We should neutralize them first to avoid creating a commotion while taking over their control room.
+
+Kalina: Our Fairy drones can occupy the communication relays on the map and overload their neural clouds by jamming their signals.
+
+Kalina: You'll just have to lead your echelons to the relays we've discovered. Make sure you exploit this perfect opportunity!
+
+【Hint】: The enemies' movement patterns can be changed according to the situation in this map.
+
+【Hint】: To do that, simply move to certain nodes.
+Part 3
+
+    3chevron_right
+
+...
+
+Mk46: Extermination complete. The last signal just disappeared.
+
+Mk46: RO, do you copy?
+
+RO635: I—(gurgle)—copy. Can you please—(gurgle)—open the—(gurgle)—floodgate?
+
+Mk46: There are no gate controls over here though?
+
+RO635: Dammit... The control terminal—isn't at their command center?
+
+RO635: At least re-establish the external connection now that they're wiped out—
+
+M4 SOPMOD II: Arghhh... Stop wriggling, RO! I'm gonna fall into the water!
+
+RO635: I can imagine a hundred different ways to die...but I never once expected to die from shorting out because of water...
+
+RO635: I must ask Persica to make my next body super waterproof...
+
+M4 SOPMOD II: Hey, don't give up just like that! You can backup your neural cloud if you short out, but unlike you, I can't get a new body!
+
+Suddenly, a floodgate in the distance slides open. Water starts flowing out immediately and the water level gradually falls.
+
+RO635: Huh? The gate...opened on its own?
+
+M4 SOPMOD II: Has Mk46 found the switch? Ugh...the water stinks... I can't stand it. How do I switch off my olfactory system...?
+
+RO635: Can you climb off my head first...?
+
+M4 SOPMOD II: But the water isn't completely gone yet. Let me stay up here for a while!
+
+??: In the end, the problem was solved by annihilating all enemies. How characteristic of a certain famous Griffin Commander.
+
+RO635: That voice...
+
+RO635: Mr...K?
+
+K: Very good. At least you didn't call me "Mr. Informant" again.
+
+RO635: You have my thanks.
+
+RO635: Was it you who saved us?
+
+K: Me? No, I'm just a regular human being.
+
+K: The floodgates can only be activated by either the control panels or an off-site hack. I can't be in two places at the same time, and electronic warfare isn't my strong suit.
+
+RO635: Then who...?
+
+K: Thank your guardian angel. You'd have been dead back in the alleys if it hadn't been for them.
+
+RO635: Guardian...angel?
+
+K: As I said, we could have a proper chat if you survived. Now we can talk.
+
+RO635: I suppose that doesn't really matter right now...
+
+RO635: Then...uh, do you know where Angelia is?
+
+K: Are all Griffin Dolls so impatient? Shouldn't we start with the most immediate question?
+
+RO635: ...Then... How do you know the sewers so well, Mr K?
+
+K: Marlohe, verify their remains.
+
+Maid Doll: Yes, sir.
+
+K: I'll answer your questions on one condition.
+
+K: I'd like to take some samples from the enemies you killed. That's what my information is worth. Well? Quite a bargain, don't you think?
+
+RO635: Commander...right... Okay, I accept your terms. Now, can you answer my previous question?
+
+K: The sewers are my escape route. I know them like the back of my hand, right down to where every single rat is. I've got to admire their persistence for chasing me this far.
+
+K: I've been investigating these white things for a while now, that's why they were onto me.
+
+K: I was going to draw them into the sewers and make a stealthy exit, but since you honored me with a visit, I might as well take it even further. After all, opportunities to obtain samples are hard to come by.
+
+RO635: Who exactly...are those white enemies...?
+
+K: We'll have to ask their remains. Unlike you Dolls, there's some human – or should I say human parts – under all that machinery.
+
+RO635: Human?!
+
+K: Of course, you don't have to feel guilty for firing at them. The human in there died long ago. They are driven by the power of their "faith".
+
+RO635: F...faith...? I'm afraid I don't follow.
+
+K: That's right, faith. At least that's what they proclaim.
+
+K: Of course we all know that's a load of bullcrap, but it's practically a miracle to their followers.
+
+RO635: Followers... You mean these "people" believe in something and start moving again after they die... Sounds almost like a cult...
+
+K: To people beyond the wall, contracting the Eurosky Low-emission Infectious Disease is basically a death sentence.
+
+K: Whoever claims to be able to cure the disease will be lauded by the truly desperate.
+
+RO635: ELID? I've seen those...
+
+K: If a person in despair is shown a sliver of hope, their desire to live can give them extraordinary power. This extraordinary power can be very easily exploited.
+
+K: As long as they can live another day, it doesn't matter if they get stuffed into a mechanical shell and forced to toil away even after they die.
+
+RO635: So...someone's been exploiting people's despair and formed a cult...
+
+RO635: Then through the cult...they built their own army...?
+
+K: Humph...cult, you say? I haven't really gotten to the bottom of it all, but I bet you aren't too far off.
+
+K: No background, state-of-the-art weapons, soldiers who don't fear death. Doesn't that sound horrific?
+
+RO635: ...
+
+K: A year ago, there was suddenly a drastic increase in the number of missing people in the Yellow Zone; at the same time, the outlying areas also saw increased violent gang activities.
+
+K: Six months later, the number of missing people still showed no sign of decreasing, but gang activities started going down.
+
+K: The PMC in charge of the security in the area was really pleased about that, but they didn't realize that signified the rise of a new syndicate.
+
+RO635: We fought them a few months ago, but I never thought they'd be an organization like that... Who exactly are they? What are they after...?
+
+K: Oh, that incident. I'm honestly surprised you even survived that.
+
+K: Still, you withdrew in such a rush, everything was neatly buried by the time it was over.
+
+K: No one can tell what they're after. All I know – it is no coincidence that they're here in Belgrade, just as it is no coincidence that you're here.
+
+RO635: It is no coincidence...that we're here...
+
+K: Take this. My gift of goodwill to Griffin.
+
+RO635: What's inside this briefcase?
+
+K: Something that may prove useful for your next operation.
+
+K: Oh, and Commander? I know you're monitoring our conversation from your terminal.
+
+K: I don't know what you look like, but from the way you handled the situation, I understand why so many fear you.
+
+K: However, while in this city, you won't want me as an enemy, just as I don't want you as an enemy – for the time being.
+
+In any case, my regards.
+
+Should I say... "A pleasure to meet you," or "Welcome to Belgrade"?
+
+I've been waiting for you.
+
+Now then...
+
+Angelia... Let me tell you about her adventures.
+
+Where would you like me to start?
+

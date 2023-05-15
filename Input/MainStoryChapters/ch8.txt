@@ -1,0 +1,3367 @@
+Two months after the conclusion of Operation Arctic Warfare.
+
+...Morning, outside a military branch.
+
+Kryuger: We shouldn't meet if we can help it...
+
+Kryuger: ...General Carter.
+
+Carter: You're right. IF we can help it... But this meeting is necessary. I'm here to give you some reminders.
+
+Carter: You should thank Central Command for organizing this PMC Reception. We wouldn't have had the chance to arrange this unofficial meeting otherwise.
+
+Carter: My car is just round the corner down this street. It won't take long.
+
+...Kryuger nods. Brigadier General Carter follows him into Griffin's private vehicle.
+
+Kryuger: Judging from Lyco's AI data, we're onto something.
+
+Carter: And I'm sure your 'something' must be so insignificant you didn't even bother to report it.
+
+Kryuger: That's because...we've been having some minor issues. We still need some time to resolve them.
+
+Carter: (Sighs) Berezovich, you're my former subordinate, that's why I've been doing you favors.
+
+Carter: I've granted all your requests so far, extra quota for the maximum number of T-Dolls you can employ, smuggled weapons, even media blackouts in areas under your jurisdiction.
+
+Carter: These are already far beyond my authority. I hope you understand.
+
+Kryuger: Of course... I know how much you're risking.
+
+Carter: Then you should also know what it is that we want.
+
+Carter: You don't like talking about politics, but even you should know that world order is being overhauled in an unprecedented way.
+
+Carter: A brand new form of nation is about to be established, and the military is also about to undergo a large-scale internal reshuffling.
+
+Kryuger: Is that the conception of "those people"...that you mentioned before?
+
+Carter: (Nods) The opportunity is right before you. If you still can't deliver any result...
+
+Carter: Then nobody will defend you at the next staff conference. You know what that means.
+
+Kryuger: ...
+
+Carter: The military doesn't care which side wins. The technology to develop the next generation of military Dolls is the only thing that can be used as a bargaining chip against them.
+
+Carter: You've already failed once. Don't fail a second time.
+
+Carter: Ah, this is where we turn. My car is just ahead.
+
+Kryuger raises his hand and the sedan comes to a stop. Carter opens the door.
+
+Kryuger: I will make haste...General Carter.
+
+Carter: I hope so, or I'll have to find someone else for help.
+
+Carter: Thanks for the ride. I'll see you at the banquet.
+
+Brigadier General Carter takes his leave.
+
+Kryuger: ...
+
+Kryuger: Keep driving.
+
+Kryuger: Leave the branch and go in circles. I need to make a call.
+
+...Meanwhile, at 16Lab.
+
+...Beep.
+
+...Beep. Beep.
+
+Persica: ...
+
+Persica: Ugh...
+
+Persica: Who's this...?
+
+Persica: Oh...Kryuger.
+
+Kryuger: You promised us progress within the next few days.
+
+Persica: M4A1... I'll be waking her up soon. I've had a breakthrough...
+
+Kryuger: This isn't the time to wake her up. There's something more important.
+
+Kryuger: You mentioned before that all of Lyco's data could be restored if we had File No. 7.
+
+Persica: According to the information the AR Team collected in Safe House 3...that is correct.
+
+Kryuger: You also said that we could find it within a day if we're lucky.
+
+Persica: Yeah... The location should be confirmed pretty soon, but you know we've got that Sangvis jamming thing going on...
+
+Kryuger: That's exactly what I want to talk to you about.
+
+Kryuger: The AR Team and that commander are all yours now.
+
+Persica: Ah... You know me so well, Kryuger.
+
+Kryuger: You already owed me once about "Jupiter". This is the second time.
+
+Kryuger: I need results before dinner tonight. Give me your word.
+
+Persica: Sure. You'll get what you want...
+
+Persica: By the way, Kryuger...
+
+Kryuger: Go on.
+
+Persica: Was Lyco's death...really an accident?
+
+Persica: I'm sorry, but you're so obsessed with the stuff he left behind so I just...
+
+Kryuger: ...We've already had this conversation many times.
+
+Persica: Right...
+
+Persica: Then that's all.
+
+...Kryuger ends the call.
+
+Persica: ...
+
+Half an hour later, Temporary Griffin Control in Area S02.
+
+Persica: ...So that's the deal, Commander.
+
+Persica: File No. 7 won't be hard to find, but it's deep within enemy territory...and that's a whole different matter.
+
+Persica: You'll need to parachute to somewere near the old S.F. factory.
+
+Persica: I'll brief the AR Team on what they have to do. Your job is to keep them safe.
+
+RO635: Are you ready, Commander? We're about to set off.
+
+RO635: We are now in Area S02. Our objective is to infiltrate Base 0 and search for File No. 7.
+
+RO635: Geographical data of the area has already been uploaded to my command system. Please take a look.
+
+M4 SOPMOD II: This IS deep within S.F. territory. Their defence is very tight.
+
+M4 SOPMOD II: But I'm sure the commander will have a way of making an opening for us?
+
+M16A1: Don't be hasty, Commander.
+
+M16A1: S.F. has set up jamming devices in the area. Not to mention there's a risk of being infected with "Parapluie" if we set up a link with any Sangvis equipment.
+
+M16A1: RO's anti-jamming ability can keep the AR Team operating under normal parameters. To prevent infection, all connections with the Sangvis network will also be established by RO.
+
+RO635: You just have to seize the external control center and create a diversion for the AR Team and I to enter Base 0 undetected.
+
+RO635: That's our objective. We'll wait for your signal, Commander.
+Part 2
+
+    2chevron_right
+
+...End of operation. The AR Team has reached the exterior of Base 0.
+
+RO635: Commander, we're in the vicinity of Base 0.
+
+RO635: We shall proceed to enter the base and set up a temporary camp for the search of File No. 7.
+
+M16A1: Let's talk about how we split the work, RO.
+
+RO635: I'll remain in command of the team as I establish the anti-jamming system and track down File No. 7 as well as Sangvis movement.
+
+RO635: SOP-II will be on stand-by, alerting us immediately of enemies in close vicinity.
+
+RO635: We can just leave those in the outlying area to the Commander's forces.
+
+RO635: M16, you're to screen and revise your operation stratagems according to the situation and aid me in completing the mission.
+
+M16A1: Dear me... I guess competent people do get more work...
+
+RO635: Miss Persica, is File No. 7 our sole objective for this mission?
+
+Persica: Well... The authorization is hard to come by, so I'd also want to keep an eye out for something else.
+
+RO635: Apologies, Miss Persica...
+
+RO635: But according to my calculations, investigating other matters beside File No. 7 will increase the risk of the mission exponentially.
+
+Persica: Ah...you're right.
+
+Persica: Anyway, get moving. I'll give more directives when something comes up.
+
+RO635: Understood. Then let's continue with the operation.
+
+...Some time later, Area S02.
+
+RO635: There. The jamming signal has been eliminated.
+
+RO635: We'll now enter Base 0...
+
+M16A1: Hold on, RO.
+
+M16A1: I suggest tapping into the Sangvis communication channel just to be safe.
+
+M16A1: We might be able to acquire important information while we're still undetected.
+
+RO635: Hacking into their network might expose our location. I don't recommend this course of action.
+
+M16A1: RO, if S.F. has been waiting for us all along, it's total annihilation we're talking about.
+
+RO635: ...
+
+RO635: Fine. I suppose this is necessary.
+
+Persica: Uh...RO, sync the signal to the public encrypted channel.
+
+RO635: These are all merely battle signals, Miss Persica. They won't be useful to you.
+
+Persica: (Sighs) If you won't let me do extra things, then at least let me listen in...
+
+Persica: It'd be nice to save unexpected discoveries for the future.
+
+M16A1: Do as Persica says, RO. The Commander needs those information too, after all.
+
+RO635: ...Understood.
+
+RO635: Signal bait ejected. Syncing with S.F. network complete.
+
+RO635: Receiving. Keep your ears perked...
+
+...A lively melody comes through.
+
+M4 SOPMOD II: What's...this? Music?
+
+M16A1: "Ciocârlia", or "The Lark". That's an old Romanian children's folk song.
+
+M4 SOPMOD II: Wow! How did you know that?! M16 sure is amazing!
+
+RO635: The point is...why is there music?
+
+M16A1: Sangvis Ringleaders are also equipped with some kind of emotion module. If she's listening to music, she must have entered mandatory sleep mode to clear up her cache.
+
+M4 SOPMOD II: Then it's the perfect chance. We can move freely for now.
+
+RO635: But unless she says something...we won't know who we're dealing with.
+
+M16A1: S.F. can't possibly put an inexperienced rookie T-Doll in charge of such an important guard duty.
+
+M16A1: Someone who's crossed swords with Griffin several times, whose mental age is relatively young...
+
+RO635: ...Destroyer. It can only be her.
+
+M16A1: Humph. That's not bad news, is it?
+
+RO635: Commander, do you copy?
+
+RO635: The Ringleader stationed at Area S02 is very likely to be Destroyer. Please adjust your battle strategies accordingly.
+
+RO635: Now would you please help us go further in till we find a suitable base to launch the search.
+Part 2
+
+    2chevron_right
+
+Interior of Base 0, fifteen minutes into the operation.
+
+M16A1: RO, this should be the heart of Base 0.
+
+M16A1: The Commander just swept the place for us. There's no better place to set up the anti-jamming field.
+
+RO635: Oh, we're there already? How can you be sure about that without detailed maps of this area?
+
+M16A1: Which would you place your bet on, downloaded data or my experience on the field?
+
+RO635: So you're banking on your experience...?
+
+RO635: Fine. I'll make the preparations now. SOP-II, find a high vantage point upstairs and keep watch.
+
+RO635: M16, hand me the verification data for File No. 7.
+
+M16 fishes out a storage drive and tosses it over.
+
+RO635: Thanks.
+
+M16A1: Treat that well. We almost lost our lives over that thingy.
+
+RO635: ...
+
+RO635: This was extracted from Safe House 3, wasn't it?
+
+M16A1: "To recover all of Lyco's research data from when he was alive". This is pretty much the AR Team's raison d'etre.
+
+M16A1: Now here we are, on the final step.
+
+RO635: (Chuckles) You don't seem particularly thrilled.
+
+M16A1: You know I don't give a damn about this.
+
+RO635: (Sighs) Still worried about M4A1...?
+
+RO635: But whatever the case, M16, I've always looked up to you all...
+
+RO635: I read your battle records, and your performance on the field has always been impeccable.
+
+RO635: What you and SOP-II did during Operation Arctic Warfare only reinforces that.
+
+M16A1: Don't be ridiculous, RO. T-Dolls are technological goods. The newer the better, like yourself.
+
+M16A1: There's nothing worth looking up to in someone like me...a T-Doll who can't even save her own team leader...
+
+RO635: M4 will be fine, M16.
+
+M16A1: Haha... It'd be nice if that had come from Miss Persica.
+
+M16 smacks RO on the shoulder.
+
+M16A1: Eh, don't mind me. I was just grumbling. Is the anti-jamming field ready?
+
+RO635: Yes, I'm about to activate it.
+
+M16A1: Notify the Commander to be prepared. S.F. is bound to detect our presence the moment we activate the field.
+
+RO635: ...M16, what is this place?
+
+RO635: The way you and Persica behave...leads me to suspect this isn't just a simple Sangvis base.
+
+M16A1: Of course it isn't just a SIMPLE Sangvis base. We're right on Sangvis Ferri's doorstep. We can run into anything.
+
+M16A1: But if you ask me what I know... Sorry, this is the first time I've ever been here.
+
+RO635: You don't act like it.
+
+M16A1: Oh? Sadly, according to my neural cloud...I really haven't been here before.
+
+RO635: Really...?
+
+RO635: M16, if you're hiding something from me...
+
+M16A1: You're the team leader. You know I can't hide things from you.
+
+...M16 shrugs and establishes a connection to Persica's channel.
+
+Persica: Ah...are we starting? My coffee is just ready.
+
+RO635: Since we're short on time, Miss Persica, we'll focus on the objective of searching for File No. 7.
+
+RO635: You may record whatever you need, but please allow me to reject investigations of low priority.
+
+M16A1: Haha, that's a bit harsh, isn't it, RO?
+
+RO635: The AR Team is created to recover Lyco's data. Isn't that what you said?
+
+RO635: This is the safest, most reliable strategy for Griffin's and 16Lab's sake.
+
+Persica: It's fine, RO. Go look for File No. 7.
+
+Persica: I...I just wanna observe you guys in action...
+
+Persica: After all...chances like this are hard to come by...
+
+RO635: Yeah...I understand...
+
+RO635: The anti-jamming field is activated. I'm now connecting to Sangvis Ferri's mainframe to start searching for File No. 7.
+
+20 minutes later.
+
+RO635: ...Miss Persica?
+
+RO635: Miss Persica, are you there?
+
+RO635: Miss Persica, do you copy?!
+
+Persica: Ah, coming!
+
+RO635: (Sighs) We don't have much time. Please don't leave the channel arbitrarily.
+
+Persica: Don't worry. I was just getting a cup of coffee.
+
+RO635: You've already consumed too much coffee for the night. It is detrimental to human health.
+
+RO635: Besides, I think I heard you muttering about something...
+
+Persica: Uh... I just happened to receive a voicemail. Don't worry about it.
+
+RO635: (Sighs) This is a significant operation. As the person in charge, please stay focused.
+
+RO635: Miss Persica, Commander, I have new progress to report.
+
+RO635: I have already accurately located the database where File No. 7 is stored...
+
+Persica: Oh, seriously?! That's amazing!
+
+RO635: Sorry, but please keep your voice down, Miss Persica.
+
+RO635: We are about to set off for the destination, but there are numerous Sangvis outposts in our way.
+
+Persica: In other words...you want the Commander to escort you?
+
+RO635: No, I want the Commander to distract them while we follow a more obscure route to the designated location.
+
+RO635: I still need to discuss the specific route with M16...
+
+RO635: ...Though she just walked away to god-knows-where.
+
+M16A1: Hmm? Did I miss something?
+
+M16A1: I was just taking over from SOP-II upstairs.
+
+RO635: Ah, it's fine. But make sure you tell me next time...
+
+RO635: Commander, I've marked a command post on the map. Taking it will draw the attention of most enemy forces.
+
+RO635: We will proceed to the database after you succeed in your mission.
+
+RO635: The anti-jamming system is running smoothly. You may begin anytime.
+Part 2
+
+    2chevron_right
+
+Combat over. The AR Team has reached the database where File No. 7 is stored.
+
+RO635: Miss Persica, Commander, we've entered the designated database.
+
+Persica: Ohh... That's easier than expected.
+
+Persica: So have you found File No. 7?
+
+RO635: SOP-II has made it past the identity verification and is in the process of browsing through the files.
+
+RO635: I'll release a signal to trick the mainframe into activating its security system when she establishes the connection.
+
+RO635: Once File No. 7 is located, download will commence immediately.
+
+Persica: I see... Thank you so much.
+
+Persica: Especially you, RO... You helped M4A1 achieve what she couldn't...
+
+RO635: I appreciate the praise, Miss Persica.
+
+RO635: But I'm merely following orders. It's all thanks to the Commander and the AR Team.
+
+RO635: Besides, the operation is still ongoing. We can't let down our guards yet.
+
+Persica: Uh... I thought you've already found the file?
+
+RO635: Downloading the file will take up a lot of SOP-II's RAM, and I won't be capable of acting independently once I enter the mainframe.
+
+RO635: We will all be extremely vulnerable during this period except for M16.
+
+RO635: S.F. can sniff us out anytime, so the Commander will have to keep buying us time.
+
+Persica: In that case...
+
+Persica: RO, why not listen in on the Sangvis channel again?
+
+RO635: I do not recommend it. The anti-jamming system will keep running to facilitate the commander's maneuvers.
+
+RO635: But hacking into Sangvis comms right now would make it possible for the enemy to reverse trace our location, especially when we don't know the extent of the enemy's technological capabilities...
+
+Persica: Ugh... Well...you do have a point...
+
+RO635: (Sighs) I think you've had too much coffee. I suggest you go into mandatory sleep mode with the help of devices.
+
+M16A1: RO, SOP-II has found File No. 7. We can start downloading whenever you're ready.
+
+M16A1: But there is a lot of data, and the file size is huge, so this is gonna take a while.
+
+RO635: Stay here, M16, and don't do anything to alert the enemy scouts.
+
+RO635: I'll leave everything outside to the Commander.
+
+M16A1: What, feeling squeamish without me?
+
+RO635: I'm merely making reasonable judgments based on the situation.
+
+M16A1: Haha, sure...
+
+M16A1: I'll stay here to protect you two. But as part of the deal, do NOT leave the database no matter what happens.
+
+M16A1: I'm speaking from experience. You'd better listen to me.
+
+RO635: I have no idea where you got your experience...but fine. I promise I won't.
+
+Persica: Alright, I'm leaving the rest to you, RO.
+
+Persica: I think I really should...take a little nap...
+
+...Moments later.
+
+RO635: Commander, I'm sure you heard the conversation just now. We're now downloading File No. 7 in the database.
+
+RO635: The enemy scouts haven't come in this direction yet, but they are still a threat.
+
+RO635: Please mobilize your troops in the outlying area to keep distracting the Sangvis forces and prevent Destroyer from noticing our presence.
+
+RO635: The download will go on for quite a while, Commander. Our safety is in your hands.
+Part 2
+
+    2chevron_right
+
+Meanwhile, File No. 7 is being downloaded.
+
+...
+
+RO635: Done. With that, The Sangvis security system won't be able to locate the source of the download.
+
+RO635: Now all that's left to do is wait for SOP-II to complete the download...
+
+RO635: By the way, how long have I been linked in, M16?
+
+RO635: ...M16?
+
+...
+
+RO635: SOP-II, where's M16?
+
+M4 SOPMOD II: ...?
+
+M4 SOPMOD II: M16 isn't around?
+
+M4 SOPMOD II: Uh... Looks like it...
+
+RO635: Are you okay, SOP-II?
+
+M4 SOPMOD II: I'm...downloading...the file...at full capacity...
+
+M4 SOPMOD II: No...RAM left...for processing thoughts...
+
+RO635: Sorry, I didn't mean to bother you...
+
+M4 SOPMOD II: RO...where is...M16?
+
+RO635: I was working in the mainframe just now. No idea where she's headed off to.
+
+RO635: How strange... She should be on standby within the building as per my order.
+
+M4 SOPMOD II: Could she...have gone out...and run into danger?
+
+RO635: Tsk... How would I know...?
+
+RO635: The commander didn't alert me of any dangers, and Miss Persica said she needed a nap...
+
+RO635: (Sighs) Guess I'll have to check it out myself...
+
+RO opens the door and looks outside.
+
+RO635: ...Nobody's there?
+
+RO635: ...
+
+RO635: ... (Movements!)
+
+...!!
+
+M16A1: ...
+
+RO635: M16...
+
+RO635: What are you doing out here? I almost raised my gun at you.
+
+M16A1: (Sighs) Didn't I tell you not to leave the database?
+
+RO635: And didn't I tell you to stay here and don't go far?!
+
+...M16 walks around RO and enters the database.
+
+M16A1: (Shrugs) I...can't possibly keep watch on you 24/7. You have to learn how to protect yourselves.
+
+RO635: That's not the problem, M16. Seeing as I'm the team leader, you should obey my orders.
+
+M16A1: Yes, you are, but I have my own priorities and considerations.
+
+M16A1: I alter my course of action depending on the situation. As team leader, RO, you must learn to be adaptable.
+
+M16A1: M4A1 would've understood my decision.
+
+RO635: M16... I know I can't compare to M4A1...
+
+RO635: But I'm not her. You can't treat me as her substitute!
+
+M16A1: ...I'm sorry. I didn't mean it that way.
+
+M16A1: You have your own strengths. I suppose...I'm just having trouble getting used to this...
+
+RO635: You have your experience, M16, and right now I'm counting on that.
+
+RO635: And afterwards...you can take all the time you need to get used to this.
+
+M4 SOPMOD II: M16...you're back?
+
+M16A1: Yes, SOP-II, I'm back...
+
+M16 stops talking to RO and sits down in the corner.
+
+M4 SOPMOD II: Are you...fighting with RO?
+
+M16A1: It was just a normal discussion...
+
+M16A1: I'm exhausted. Let me perform some maintenance on myself...
+
+M16A1: Also, RO, conduct an active search in the Sangvis mainframe to find out about Sangvis movements.
+
+RO635: What? Won't that be advertising our location to S.F.?
+
+M16A1: I just heard the sound of an engine coming from above...
+
+M16A1: The enemy may have already figured out our coordinates and is ready to launch an airstrike.
+
+RO635: My sensory system didn't register that. How did you hear it?
+
+RO635: Besides, Destroyer is not capable of conducting airstrikes.
+
+M16A1: Don't rely too much on your fancy tech. I was on the lookout just now. I heard it out in the open.
+
+M16A1: As for the capability of conducting airstrikes... Nobody says that there can only be one Ringleader in each area.
+
+M16A1: Remember Operation Arctic Warfare?
+
+RO635: ...
+
+RO635: I'll risk it just this once.
+
+...RO enters the Sangvis mainframe.
+
+...
+
+RO635: There's no movement at all from the Sangvis command post. Doesn't that mean she's not up to anything?
+
+M16A1: ...Don't you find that strange?
+
+M16A1: It means...it's very likely that she's already left the command post.
+
+RO635: (Sighs) You're way too paranoid. There might be something wrong with your sensory system, too.
+
+M16A1: I definitely heard it. I'm guessing it's an enemy drone...
+
+RO635: A drone? For what...?
+
+...BOOM! BOOM!
+
+AR Team: ...?!
+
+RO635: Bombing in the distance!
+
+RO635: Where on earth...
+
+M16A1: RO, there's no time! Widen the search!
+
+M16A1: S.F. definitely has more than one command post! The other one shouldn't be too far away since they need to coordinate with each other!
+
+...
+
+...Pssst...Pssssst...
+
+...As the static noise fades away, two conversing voices emerge.
+
+Destroyer: ...Like I said, this is MY territory! Don't bomb it full of holes!
+
+Destroyer: Hey, you hear me?!
+
+Destroyer: Dreamerrrrrrr!
+
+Dreamer: My, my...
+
+Dreamer: Do you think of this place as your little garden?
+
+Dreamer: How cute of you, Destroyer.
+
+Destroyer: Tsk. I just want to organize the place properly.
+
+Dreamer: Then you really shouldn't tolerate the little bugs that have sneaked in, should you?
+
+Destroyer: I really didn't notice them...
+
+Destroyer: They shouldn't have been able to neutralize our jamming field so soon.
+
+Dreamer: Don't rely too much on those high-tech things, Destroyer.
+
+Dreamer: You've been fighting Griffin for quite a while, so shouldn't you have learned something by now?
+
+Dreamer: If Agent hadn't noticed that something was off, you'd be chased all over the place by those pests again.
+
+Destroyer: Huh? I haven't actually fought them that many times, okay?
+
+Destroyer: And since when did they chase me all over the place...?
+
+Dreamer: ...
+
+Dreamer: Ah... Sorry, my mistake.
+
+Dreamer: Heheh. In any case, I'm the one who cleaned up your mess, so thank me properly.
+
+Destroyer: Huh... What even...
+
+Destroyer: Whatever. It's on Agent's orders anyway. Do what you want.
+
+Destroyer: But I'm sure you know where not to hit with your shells...
+
+Dreamer: Of course. I'll be careful as I sweep the carpet.
+
+Dreamer: Go back to your nap, Destroyer. Would you like a lullaby?
+
+Destroyer: Thanks, but no thanks... I've had enough of nightmares...
+
+Destroyer: Squids all over the place... Just thinking of it makes me squirm...
+
+...RO breaks the connection.
+
+M16A1: I was right... We're dealing with yet another tough one...
+
+RO635: How on earth did S.F. find us...?
+
+RO635: I've already been...extremely careful...
+
+M16A1: Doing one's best doesn't guarantee success, RO.
+
+M16A1: Being able to improvise is an essential quality of being a team leader.
+
+M16A1: Don't be too upset. Report to the Commander first. I'll help you through the rest.
+
+RO635: Alright...
+
+RO635: (Sighs) In the end, I still have to rely on someone else...
+
+M16A1: Of course a team leader has to rely on people. That's why you have teammates.
+
+M16A1: Get your gun and follow me. I reckon S.F.'s vanguard is gonna storm this place soon.
+
+Three minutes later.
+
+RO635: Commander, as you know from my report, we're in a state of emergency.
+
+RO635: The Sangvis Ringleader that has been newly stationed at Area S02, Dreamer, is bombing the whole area!
+
+RO635: We can't retreat immediately as we must stay where we are till SOP-II's download is complete...
+
+RO635: Please direct your troops to ambush the Sangvis command post and hold off their vanguard.
+
+RO635: If the Sangvis command system isn't destroyed, their drones will destroy this database.
+
+RO635: The success of this entire operation hinges on you and your forces, Commander!
+Part 2
+
+    2chevron_right
+
+...Operation in progress. The sound of drone engines keep buzzing overhead.
+
+M16A1: That seems to be the last batch. You alright, RO?
+
+RO combs through her hair roughly with her hand and lets out a sigh.
+
+RO635: Even though the commander is doing everything possible to protect us...
+
+RO635: Judging from the engine noises from outside, the drones are still there...
+
+RO635: Our ammunitions are almost depleted. If they go for another round...
+
+M16A1: Just bear with it for a little longer. From what I see, only three waves of enemies are coming our way. The Commander has already cleaned off most of them.
+
+M16A1: SOP-II's download is almost complete, and we can retreat very soon.
+
+RO635: Is SOP-II... Will her neural condition be fine?
+
+RO635: I know we're not using external equipment for the sake of efficiency, but surely this isn't healthy for her neural cloud.
+
+M16A1: She'll be fine. She'll feel safe as long as she's with the team.
+
+M16A1: She may be manic in battle, but off the field, what you see is what you get when it comes to SOP-II.
+
+M16A1: Her neural cloud is surprisingly innocent, you know.
+
+RO635: I really like her, and she doesn't hate me either...I think.
+
+M16A1: She likes you, too. She told me that. You're both very candid, so you'll definitely get along.
+
+RO635: But I envy her. I just can't calm down in the face of this...
+
+M16A1: RO, if I tell you now, "Don't worry. Everything will be fine." Will you believe me?
+
+RO635: Even though you often ignore my orders, right now...I do believe you, M16.
+
+M16A1: Haha. You catch on fast.
+
+RO635: Hmm... Thank you, M16...
+
+RO635: I'm sorry... What I said...about not treating me as a substitute for M4...
+
+RO635: I don't have much experience on the field. I really can't give the best orders in every instance...
+
+M16A1: Don't sweat it. You were pretty cute when you said that...
+
+M16A1: You actually sounded like M4 when she first started out...
+
+RO635: ...When she first started out?
+
+M16A1: She was kinda ditzy when I first met her. Now...she's changed a great deal...
+
+RO635: That's really hard to imagine just looking at the reports.
+
+RO635: I hope she wakes up soon. I can't wait to meet her myself.
+
+M16A1: Haha, don't expect too much.
+
+M16A1: She isn't all that dependable, and will probably cause you lots of trouble.
+
+RO635: No, it's already a great honor for me to join the AR Team.
+
+RO635: It's my wish to achieve victories worth commemorating and become an elite that protects Griffin.
+
+M16A1: Haha. Are all T-Dolls these days this gung-ho?
+
+M16A1: But don't say I didn't warn you. We can't save the world.
+
+RO bows her head and chuckles.
+
+RO635: It's fine. I'm prepared to sacrifice myself anytime.
+
+M16A1: ...You're not included in the 'we'.
+
+RO635: What?
+
+M16A1: Stop relying on us so much, RO.
+
+M16A1: You must learn faster. Time is running short...
+
+...Clang!
+
+M16A1: ...!
+
+M16A1: SOP-II! Are you alright?
+
+M4 SOPMOD II: Oww... I'm fine. Just banged my head.
+
+M16A1: Phew... Looks like the download is complete. Your body probably needs some time to adjust to your freed up RAM.
+
+M16A1: Alright then, we're getting outta here once SOP-II finishes her adjustment!
+
+RO635: ...M16, what exactly...do I still lack?
+
+M16A1: Sorry, the Q&A session is over, RO.
+
+RO635: Huh...?
+
+M16 smacks RO on the back.
+
+M16A1: We're T-Dolls, and this is the battlefield. Don't think too much. Just enjoy the moment.
+
+M16A1: Someone will tell you the rest one day.
+
+Ten minutes later. Retreat route mapping complete.
+
+RO635: Commander, the data finished downloading.
+
+RO635: We're in the process of retreating. The plan isn't too practical, but this is the best we can do.
+
+M4 SOPMOD II: Bad news, RO!
+
+M4 SOPMOD II: A gate on our retreat route has suddenly been shut!
+
+RO635: Dammit, Dreamer! If we make a detour right now...
+
+RO635: SOP-II, keep tracking their movements. I'll discuss this with M16!
+
+M16A1: Calm down, RO.
+
+M16A1: I have a rough idea of the schematics of this base. There's a chance to make it out if I blast through the side of the gate.
+
+RO635: It's too risky to split up, M16!
+
+M16A1: That's exactly why I have to do it.
+
+M16A1: Who do you think is most up to this job?
+
+RO635: Will it...really work?
+
+M16A1: It's worth a try, but first we need to get there.
+
+RO635: The Commander is sorting it out.
+
+RO635: Our reinforcements are engaging the Sangvis Ringleader in battle.
+
+RO635: They're doing their best to fend off Dreamer and Destroyer to give us a window to make our retreat.
+
+M16A1: That's good to know. Then this is the only immediate danger we're facing.
+
+M16A1: RO, just a word from you and I'll get it done.
+
+RO635: Understood... Then let's wait for the signal!
+
+RO635: We'll set off once the Commander repels the enemy forces for us!
+Part 2
+
+    2chevron_right
+
+Combat over. Dreamer and Destroyer are temporarily repelled.
+
+M16A1: We're going!
+
+M16A1: I'll start prepping for the blast!
+
+RO635: ...
+
+M16A1: RO... Is something wrong?
+
+RO635: Sorry, M16. I'm just feeling uneasy. I just can't shake off the feeling that there must be a better solution...
+
+M16A1: This isn't the time to be plagued by a guilty conscience! We're in the middle of a mission!
+
+M16A1: I'll fulfill my duty, and you'll fulfill yours! Understood?!
+
+RO635: But we could still find another route!
+
+Persica enters the channel.
+
+Persica: RO, let M16 go.
+
+Persica: Bring File No. 7 back safely. That's your priority.
+
+Persica: This is a direct order from me as well as Kryuger.
+
+RO635: Huh? Miss Persica...
+
+M16A1: Don't think too much. You'll get your answers.
+
+RO635: ...Since it's an order...
+
+RO635: M16, we're going with your plan. Blast through the gate.
+
+M16A1: That's what I've been waiting for.
+
+M4 SOPMOD II: M16...
+
+M4 SOPMOD II: You...
+
+M16A1: You're back from scouting, SOP-II?
+
+M16A1: I'm gonna blast through that gate. Listen to me and stay with RO, okay?
+
+M4 SOPMOD II: Hey, since when have I not listened to you?
+
+M4 SOPMOD II: But will you...be fine on your own?
+
+M16A1: Haha, have you seen a T-Doll more dependable than me?
+
+M16A1: Then I'll see you soon, RO!
+
+M16 leaves the team and starts moving on her own.
+
+RO635: Then let's get a move on ourselves!
+
+RO635: SOP-II, stop spacing out! Watch out for my signal!
+
+RO635: Move fast and we'll get to meet up with M16 once we get up there!
+
+...
+
+M16A1: SOP-II...
+
+M16A1: I'm sorry. I hope you'll understand why I'm doing this...
+
+...Half an hour later.
+
+...BOOM!
+
+The gate has been destroyed. RO and SOP-II successfully make their way out.
+
+M4 SOPMOD II: It's open! Let's go, RO!
+
+M4 SOPMOD II: ...Look, our carrier! Our carrier is right ahead!
+
+M4 SOPMOD II: Where's M16?! Where is she?!
+
+RO635: Get on the carrier, SOP-II!
+
+RO635: M16, we've passed through the gate! Where are you?!
+
+M16A1: ...
+
+RO635: M16?
+
+RO635: M16?! Where are you? Answer me!
+
+M16A1: Sorry, RO. There's been a little accident...
+
+M16A1: The blast seems to have sealed off my escape route...
+
+RO635: What...
+
+M4 SOPMOD II: Hey, M16! Are you in trouble?!
+
+M4 SOPMOD II: Get to a high vantage point! We'll come get you!
+
+M16A1: Leave it... Neither you nor the carrier can get to me here.
+
+M4 SOPMOD II: How could you not make it out?! You must be joking, right?!!
+
+RO635: Be quiet, SOP-II! Let M16 move on her own!
+
+RO635: M16, find somewhere safe to hide! The Commander will think of a way to rescue you!
+
+RO635: And Miss Persica! Surely she'll...
+
+M16A1: ...RO, enough.
+
+M16A1: Keep SOP-II safe. Fulfill your duty.
+
+RO635: M16...
+
+RO635: Is that what you mean...by enjoying the moment?
+
+...M16 gives no reply other than a single gesture.
+
+...An incredibly ordinary gesture.
+
+RO635: M16A1...
+
+RO635: ...Thank you for your words.
+
+She hears me and answers with a most sincere smile.
+
+As the carrier flies away, her figure grows smaller, until it finally fades into a tiny spark in the distance...
+
+In the midst of smoke and desolation, the spark becomes submerged in Base 0...
+
+Will we meet again? I don't know...
+
+All I know is that she's been lying since the start.
+
+She never intended to return. Everything she did is for the sake of saving that girl.
+
+And she knew better than any of us how important that girl is...
+
+"I have my own priorities and considerations."
+
+"I alter my course of action depending on the situation. You may not know this, RO..."
+
+Indeed, I found out way too late.
+
+...Episode 8 - Spark, to be continued.
+
+Please read on in the Emergency battles.
+
+An hour after M16A1 went MIA.
+
+Persica: Commander... RO and SOP-II have made it safely back to 16Lab.
+
+Persica: Once the inspection ensures that they haven't been infected with Parapluie, File No. 7 can be extracted.
+
+Persica: Naturally...you're most concerned about M16's safety, right?
+
+Persica: Let's look for her as we wait...
+
+Persica: We can operate using the anti-jamming equipment.
+
+Persica: They were left behind by RO during the last mission.
+
+Persica: The field is only effective in limited areas, and they're all places they have visited before, but that should be enough for your troops.
+
+Persica: Start from the first zone and search for M16, Commander.
+Part 2
+
+    2chevron_right
+
+...
+
+Agent: I have brought Death to your doorstep.
+
+Agent: Now, open your eyes...
+
+Agent: Look at me, Tactical Doll M4A1, look at me.
+
+Agent: It's time for your finale, and you must stay till the show is over.
+
+M4A1: Cough…
+
+M4A1: A…gent…
+
+M4A1: ...
+
+M4A1: No, wait...
+
+M4A1: This is...my neural cloud...?
+
+Agent: You just have to die... And you will, in just a few more seconds!
+
+M16A1: ...Sorry, but she won't be dying here.
+
+Agent: ...!
+
+M16A1: I'll spare you the wait! Go to hell right now,
+
+M16A1: Sangvis scum!
+
+M4A1: ...
+
+M4A1: This is where my recollections began.
+
+M4A1: We were searching for Lyco's legacies in Safe House 3...
+
+M4A1: When we got ambushed by Agent...
+
+M4A1: M16 saved me.
+
+M4A1: But circumstances forced us apart.
+
+M16A1: ...We'll scatter to draw their fire. That'll buy you some time.
+
+M4A1: But...if that Sangvis is still alive, you'll...!
+
+AR15: Stop dawdling, M4! This is the safest way!
+
+M4 SOPMOD II: That's right, you're our only hope!
+
+M4A1: ...Understood. Be careful.
+
+M4A1: At that moment, I really did not want them to leave me all alone...
+
+M4A1: Fortunately, I met the Commander.
+
+M4A1: And with the Commander's help, we were reunited...
+
+M4A1: And torn apart again...
+
+M4A1: In the end... In the end...
+
+M4A1: What happened...in the end?
+
+M4A1: Let me think...
+
+M4A1: ...This? P08...?
+
+M4A1: ...Or this?? Ouroboros...?
+
+M4A1: That is not right... Everything is wrong...
+
+M4A1: I know. Those memories are all wrong...
+
+M4A1: All wrong! Dammit!
+
+M4A1: Why?! Why?! Why have I lost my memories?! Why can I not remember anything?!
+
+M4A1: What is...wrong...with me...
+
+M4A1: I...
+
+M4A1: Where...am I? What should I be doing?
+
+Persica: Oh? Have you come to, kitty cat?
+
+Persica: This is 16Lab, your birthplace.
+
+Persica: Now let me run a check on your neural cloud...
+
+Persica: Hmm... It seems...to be running just fine.
+
+M4A1: Who...are you...?
+
+Persica: Persicaria, your creator.
+
+M4A1: Why...did you create me?
+
+Persica: You are to be the leader of the AR Team and lead the best T-Dolls that I've ever created.
+
+M4A1: T-Dolls...
+
+M4A1: Am I...a T-Doll?
+
+Persica: From now on, yes.
+
+Persica: You're much cuter than I imagined, now that you've recovered...
+
+Persica: I hope you can...give me the answers that Lyco couldn't...
+
+M4A1: ...Lyco?
+
+M4A1: ...What answers?
+
+Persica: Well...it's too early for that. Why don't we meet your new comrades first?
+
+Persica: Her neural cloud is experiencing violent fluctuations... Is this child dreaming?
+
+Persica: A T-Doll...dreaming. Isn't that just ridiculous?
+
+Persica turns and glances at M4A1.
+
+Persica: But then again...she's special...
+
+...
+
+M16A1: Persica!
+
+M16A1: ...
+
+M16A1: Calling Persica!
+
+Persica: Oh, yeah. I'm here.
+
+Persica: Sorry. I was checking on M4.
+
+M16A1: How...is she?
+
+Persica: Everything is...going according to plan.
+
+Persica: But that aside, RO didn't see you do anything back in the database, did she...?
+
+M16A1: No, I already had it sorted by the time she came out.
+
+Persica: I see... How are you doing?
+
+M16A1: Humph. You'd better not tell me...it's not too late to regret my decision.
+
+M16A1: But I do have a question. Let's just say it's some wild suspicion caused by instability in my neural cloud. Can you answer it?
+
+Persica: Now that we're here...ask ahead.
+
+M16A1: Regarding Lyco's death, I ran a search in Griffin's database, and 378 reports stated that he died in an accident.
+
+M16A1: So I don't understand why you're so hung up on it...
+
+M16A1: Whatever he's done, he's already dead. Why do you still care?
+
+Persica: Because his death was extremely suspicious.
+
+Persica: Even if he did die, it couldn't have been an accident...
+
+Persica: Which is why I'm not buying it.
+
+M16A1: Ha, who knew you can be so astute.
+
+M16A1: Are you really just a scientist, Persica?
+
+Persica: Like you, M16, I've had some narrow escapes from death. Survival is a skill.
+
+Persica: In any case, that thing is your target.
+
+Persica: The commander will hold off S.F.'s attack so that you can investigate safely.
+
+M16A1: Investigate...that strange signal source...?
+
+M16A1: When on earth did you notice that?
+
+Persica: When RO infiltrated the Sangvis mainframe and started searching for File No. 7...
+
+Persica: I secretly conducted a multi-channel search on the network using RO's neural cloud and downloaded an interesting file.
+
+M16A1: I want to remind you that all files in the Sangvis mainframe are potentially virus sources...
+
+M16A1: Humph, but it hardly matters now, does it...
+
+Persica: Even RO herself can neutralize that kind of feeble Sangvis virus, but that's not the point.
+
+Persica: The reason I downloaded this particular file is because it's encrypted in a way that's completely different from standard Sangvis encryption method.
+
+Persica: Therefore, this is a message. An invitation that promises anything but a fool's errand... You got the coordinates, right?
+
+M16A1: Invitation...you say?
+
+M16A1: In all my days on the field, I've never received such an ominous invitation.
+
+Persica: What? You're feeling skittish now that you've come this far?
+
+M16A1: Even MY neural cloud can suffer a breakdown... Especially now.
+
+M16A1: ...Too bad...it can't be backed up.
+
+M16A1: All this experience...can't be of use for M4.
+
+Persica: You seem to...think about her in everything you do.
+
+M16A1: Yeah...
+
+M16A1: This is all for the sake of protecting M4...
+
+M16A1: This is the only order you've given me, and it's absolute.
+
+Persica: I'm glad that you still remember.
+
+Persica: She'll wake up very soon, M16.
+
+Persica: If you move quickly, you might still make it in time to tell her goodbye.
+
+M16A1: Nah, it's fine. I don't have time to think about what to say...
+
+M16A1: Better get on with it. That's...the only thing I can do now.
+Part 2
+
+    2chevron_right
+
+An hour later. M16 approaches the signal source.
+
+M16A1: The signal should be coming from here.
+
+M16A1: It's a factory. Abandoned, of course.
+
+Persica: Head inside, M16.
+
+Persica: Find the signal and confirm it.
+
+M16A1: You sure you want me to go in there alone?
+
+M16A1: I gave the factory a quick scan and the internal structure seems incredibly complex. I'm not sure how long it's gonna take to find it.
+
+Persica: Don't forget, M16, you now have access to the Sangvis mainframe.
+
+Persica: Scan the terrain features and see if they match with the data in your neural cloud.
+
+M16 walks toward the entrance and starts scanning and matching.
+
+M16A1: Huh? This record...
+
+M16A1: I seem to possess parts of this factory's blueprint in my neural cloud?
+
+M16A1: When was it...saved in here...?
+
+Persica: So it's true...
+
+Persica: M16, you've been here before. Your neural cloud has the authorization to download the blueprint.
+
+Persica: Once you connect to the factory's network, it should start downloading again.
+
+M16A1: I've...been here before?
+
+M16A1: But I...don't remember it at all...
+
+Persica: Neural clouds can be modified. Some records in yours have been completely wiped.
+
+Persica: You know, of course...that your neural cloud can't be duplicated?
+
+M16A1: Indeed...
+
+Persica: Which means, all your memories are singular. No back-up.
+
+Persica: If they're wiped...those memories will really cease to exist...
+
+Persica: ...!
+
+M16A1: What. Isn't that just stating the obvious?
+
+Persica: So that's what it is...! So...they've exploited this...! Dammit!
+
+Persica: This operation really is a crazy gamble...
+
+Persica: I've been pretty lucky so far judging from things.
+
+...M16 lets out a heavy sigh.
+
+M16A1: Persica...what the hell are you talking about?
+
+Persica: M16A1, do you know...about the Butterfly Incident?
+
+M16A1: Hmm. The accident that Lyco died in?
+
+Persica: That's right... A riot took place in a Sangvis factory within a single night. Reason unknown. A complete mystery.
+
+Persica: Lyco also died in this accident, and Sangvis Ferri has been the enemy of mankind ever since.
+
+M16A1: So this factory...is where all this trouble started?
+
+Persica: By the look of things...that's the only possible thought.
+
+M16A1: Still, that's not a particularly useful piece of information to have now. I've taken over the factory's authorization and opened the door.
+
+M16A1: I'm now moving inside the factory. It's full of bullet holes, blood stains and broken parts.
+
+M16A1: Nothing important though. Somebody must've cleaned up.
+
+Persica: Which is why we need to investigate the signal.
+
+Persica: M16, ignore these trivial things and head deeper. You're running out of time.
+
+M16A1: Ha, I honestly don't give a damn about what happened here, or how my neural cloud has been tampered with.
+
+M16A1: But I must remind you again of the reason I accepted this order even though it meant not telling my friends and the Commander the truth. You know why...
+
+Persica: This is the one and only order I'm giving you. It's of the highest priority, and it's absolute.
+
+Persica: Don't worry, M16. We're on the same page about this.
+
+...
+
+Persica: Alright. They're your new teammates.
+
+Persica: Well? Aren't they all lovely?
+
+M4A1: Indeed...
+
+M4A1: It is my honor to serve with such beautiful people...
+
+Persica: No, they're like you. They're also T-Dolls.
+
+Persica: Hmm... We still need to install...a weapon wielding software in your Imprint, don't we?
+
+M4A1: What? Weapon...?
+
+Persica: Since it's just a test for the AI... Let's go with the most generic one.
+
+...Click.
+
+Persica: There. Here we go. Assault Rifle M4A1.
+
+Persica: This should be...the most commonly used weapon. With the corresponding software installed, you'll be able to wield it like your own arm.
+
+M4A1: M4...A1?
+
+Persica: That's right. From now on, the M4A1 is your bespoke weapon.
+
+Persica: By the by, it is one of Kryuger's weird quirks that T-Dolls should be named after their weapons...
+
+Persica: So your name is now M4A1.
+
+M4A1: My name is...M4A1...?
+
+Persica: Hmm... What weapons should the other T-Dolls use...?
+
+Persica: It'll be confusing if you're all armed with the M4A1...
+
+Persica: Guess I'll give them your sister variants. After all, you're now practically sisters.
+
+M4A1: Sisters...?
+
+Persica: Hmm... It might be a bit hard...for you to grasp this concept at this stage.
+
+Persica: But don't sweat it. Okay, M4, look at this.
+
+Persica: M16A1, M4 SOPMOD II, and AR-15.
+
+Persica: With that, all matches have been made. Be sure to get along from now on.
+
+M4A1: Why...should we get along?
+
+Persica: Uh...I told you. You're sisters!
+
+Persica: One should get along with their family.
+
+M4A1: Family...?
+
+Persica: Yeah, "family". Do you feel warm and fuzzy hearing this word?
+
+M4A1: Family... My family...
+
+M4A1: No, I have no family...
+
+Persica: Huh?
+
+Persica: But look, M4A1, their weapons look very similar to yours, don't they?
+
+M4A1: Weapons...?
+
+M4A1: No...weapons... No...
+
+Persica: Uh...what do you mean "no"? They're in the same series. There's no way I could've been mistaken.
+
+M4A1: But why are their weapons...
+
+M4A1: Their weapons...
+
+M4A1: ...Why are they all stained with blood?
+
+Persica: ...?!
+
+M4A1: Blood... Why...are they...all drenched in blood?
+
+M4A1: Miss Persica... Why... Why...
+
+M4A1 keeps repeating the same question.
+
+Persica: Dammit...
+
+Persica: Is her neural cloud having a meltdown again...at the sight of weapons?!
+
+Persica: Sorry, M4. You'll have to go back to sleep...
+
+...Click.
+
+Persica: What other memory fragments...remain sealed...?
+
+Persica: M16, please hurry up...
+Part 2
+
+    2chevron_right
+
+Twenty minutes later, M16 is at the connection terminal within the factory.
+
+Persica: Is the door still shut, M16?
+
+Persica: Say...if it really doesn't work, can't you just use your arm as a bomb and blow the door open?
+
+M16A1: So sorry, but I'm not a military Doll and am not equipped with such high-class parts.
+
+M16A1: But it shouldn't take too long to break the code with Sangvis access authorization.
+
+M16A1: Uh...I'm not sure why, but I just can't shake the feeling that I've done the same thing here before...
+
+Persica: So even T-Dolls get deja vus... Fascinating...
+
+Persica: But do thank me. You have a much higher computational speed than military Dolls... Hacking through this kind of door should be a piece of cake.
+
+M16A1: Haha... Next time, I'd rather you make me dumber.
+
+M16A1: Then I wouldn't have second thoughts about heading to certain death...
+
+Persica: I didn't just make you to fight in battle.
+
+Persica: Oh right, M16... I got in touch with RO and SOP-II.
+
+M16A1: Really...? That's great...
+
+M16A1: Go on. I'm listening.
+
+Persica: They're in good physical condition, but emotionally...they're a bit dejected.
+
+M16A1: I know. Because I left them, and I deceived them.
+
+Persica: They haven't found out about the latter yet. RO is awake, and she's still waiting for you to come back.
+
+M16A1: (Sighs) You're SO good at cheering people up. Seriously, which of us is the T-Doll here...
+
+Persica: Sorry, M16... But do you like RO?
+
+M16A1: Compared to M4, she's more decisive, more ready for action, and more suited for the role of leadership in general.
+
+M16A1: She may be a bit headstrong, but nobody would fault her for that.
+
+Persica: I'm also very happy with this AI.
+
+Persica: I don't plan on modifying her anymore. Let's just keep everyone on the AR Team the way they are.
+
+M16A1: Are you sure about that? SOP-II almost went berserk last time.
+
+Persica: That's...a necessary step along the way.
+
+Persica: You don't hate her for that, do you?
+
+M16 chuckles wistfully.
+
+M16A1: I'm just worried about her...
+
+M16A1: After all...there won't be much room for her to mess up from now on...
+
+Persica: Then do you want to leave them a message or something?
+
+M16A1: No, I have nothing more to say.
+
+M16A1: Just leave the rest to M4. I know she'll...
+
+...Click!
+
+M16A1: Got it.
+
+M16A1: I'm going in, Persica.
+
+M16 wedges the door open and goes through cautiously.
+
+...Then she gasps.
+
+Persica: M16, what did you find?
+
+M16A1: I'm not sure. Probably some sort of incubation facility...
+
+M16A1: To be honest, I won't be surprised no matter what I find in here.
+
+M16A1: The scene has been tidied up. Can't really tell what transpired here...
+
+M16A1: But...this place could've been used to raise...
+
+M16A1: A monster...? Nothing good, in any case.
+
+Persica: That's not important, M16.
+
+Persica: Find the signal source. There must be something.
+
+...M16 bends down and searches every corner of the incubation facility.
+
+M16A1: I found the signal transmitter...
+
+M16A1: But I still can't discern the identification signature...
+
+M16A1: It's neither S.F. nor Griffin. My neural cloud contains no corresponding information about this.
+
+Persica: So it's true... Someone HAS been there after the Butterfly Incident.
+
+Persica: Check that transmitter.
+
+M16A1: Sorry, I have given it a closer look, but it's just a normal transmitter.
+
+M16A1: There's nothing inside. I can't tell what this thing is for...
+
+Persica: Which means...the key might be the room itself.
+
+Persica ponders for a while.
+
+Persica: M16, are there any monitoring devices in the room?
+
+M16A1: Yes, but they're broken.
+
+Persica: Then...could there be something to store the footages in?
+
+M16A1: Give me a sec...
+
+M16A1: ...Found it! There's an operation system in the corner with a large storage device underneath.
+
+M16A1: The system is off, but the indicator light is on, so it should still be functional.
+
+M16A1: If there are any CCTV footages, they'll most probably be in here...
+
+Persica: There...must be recordings from that day...
+
+Persica: Turn on the operation system and see if you can hack into it.
+
+M16 brushes the dust away and turns on the operation system.
+
+An electronic warning signal starts blaring from the system.
+
+M16A1: It's not working. The system has been deadlocked by S.F. I can't read the content.
+
+M16A1: The authorization level is too high. I don't recommend breaking through with force.
+
+M16A1: If something goes wrong in the process, not only will we attract the enemy's attention, there's also a risk that the files would be destroyed.
+
+Persica: As expected... The content is locked with the highest authorization code...
+
+Persica: There's no other way, M16...
+
+Persica: Looks like we'll have to resort to the backup plan...
+
+...M16 takes out a transistor.
+
+M16A1: You mean this?
+
+M16A1: Is it okay to inject it again? The last shot has already...made it really hard to control myself.
+
+Persica: It may have been modified, but it's still the Parapluie virus after all...
+
+Persica: The first shot you took in the database building only contains a minimal dosage of nanomachines.
+
+Persica: They've only given you limited Sangvis authorization, and they're slow to rewrite your neural cloud.
+
+Persica: If you can make it back in twelve hours, I can repair you...
+
+M16A1: Why, thank you for formulating a plan that takes my wellbeing into consideration...
+
+Persica: The virus was modified from the samples on AR-15.
+
+Persica: Sangvis Ferri would notice you after the shot, but you'd still be pretty safe under the protection of the Commander's forces.
+
+Persica: But this second shot...
+
+M16A1: Humph... Won't be so mild, huh?
+
+Persica: From what I've learned, the Parapluie virus was engineered with the purpose of rewriting T-Dolls' neural clouds and putting them under Sangvis control.
+
+Persica: The damage to one's neural cloud, once inflicted, is irreversible.
+
+Persica: Put it simply...the dosage contained in the second transistor is enough to turn you into a Sangvis T-Doll within a very short period of time.
+
+Persica: Your personality, your memories, everything you possess now...will all disappear.
+
+M16A1: And you want me to send you the data before I completely turn into a Sangvis.
+
+Persica: ...
+
+Persica: I told you. From the moment this operation begins, there's no going back for you...
+
+Persica: M16, you may live on after this, but you'll no longer be the "you" as you are now...
+
+M16A1: ...
+
+M16A1: How much time will I have after the shot?
+
+Persica: Twenty minutes.
+
+M16A1: So...these are my last twenty minutes, eh...?
+
+Persica: M16A1, I only decided to go through with this operation after I made sure I was ready to pay the price.
+
+Persica: What about you? Are YOU ready?
+
+M16A1: You should know what my answer is, Persica...
+
+M16A1: But just to confirm this one last time: are you certain that the content in this storage device can help restore M4's neural cloud?
+
+Persica: At least...this is definitely the last piece of the puzzle.
+
+M16A1: Is that so...
+
+M16A1: Then it makes things much simpler.
+
+M16A1: So, shall we begin?
+
+...
+
+Voice of a little girl: Mom, when we're there...can we really eat till we're full every day?
+
+Voice of a mature woman: Of course, sweetheart.
+
+Voice of a mature woman: We can have three meals a day, and there won't be any monsters anymore.
+
+Voice of a little girl: Yay! That's great!
+
+M4A1: What...is this...?
+
+M4A1: What exactly is this recording...playing out before me?
+
+Clear female voice: It's someone's memory...
+
+Clear female voice: Hush. Just watch from the side.
+
+Clamor: Hey! Run!
+
+Clamor: Run for your lives! It's an airstrike! An airstrike is coming!
+
+Voice of a little girl: Mom! Mom! Where are you?!
+
+...BOOM!!
+
+...
+
+Voice of an old woman: You'll be staying here from now on.
+
+Voice of an old woman: Poor child. I'm really sorry about your parents...
+
+Voice of an old woman: But you must understand, this is the way of the world we're living in... You must work for your food.
+
+Voice of a young girl: Yeah...I understand...
+
+Voice of a young girl: Dad...Mom... Why did this happen...
+
+...
+
+Voice of a frivolous man: Hey, young lady.
+
+Voice of a frivolous man: You seem to stare at the camp of the security contractor when you pass by every day.
+
+Voice of a young girl: ...I'm just...passing by.
+
+Voice of a frivolous man: I hear one of their bigshots is in there.
+
+Voice of a frivolous man: If I remember correctly...wasn't there an accident where a bunch of refugees were slaughtered by mistake? What a tragedy...
+
+Voice of a frivolous man: Rumors have it, the guy might've been in charge of that operation, I think?
+
+Voice of a young girl: ...!
+
+Voice of a frivolous man: Of course, just having that knowledge isn't particularly useful.
+
+Voice of a frivolous man: But with this, it'll be a different story.
+
+Voice of a young girl: ...!
+
+Voice of a young girl: ...A handgun!
+
+Voice of a young girl: But...I have no money...
+
+Voice of a frivolous man: Heheh. Money isn't the only currency in the world.
+
+Voice of a frivolous man: Well? Care to hear my terms?
+
+...
+
+M4A1: A handgun...? Why would she...want such a thing?
+
+Clear female voice: Vengeance. Vengeance...for her family.
+
+M4A1: I do not understand... Her decision is too rash. What purpose will her action serve?
+
+Clear female voice: Perhaps you can't understand...
+
+Clear female voice: But..I can.
+
+...
+
+Voice of a soldier: Have you heard? There've been a number of assassinations targeting the contractor.
+
+Voice of a soldier: At this rate, we're gonna get extra shifts.
+
+Voice of a soldier: Halt, young lady. This is a surveillance area. Please state your purpose.
+
+Voice of a young girl: I'm here to deliver bread. I've made an appointment...
+
+Voice of a soldier: Is it your turn today? Fine. Make it quick.
+
+...
+
+Voice of a middle-aged man: Hey, what are you doing?!
+
+Voice of a young girl: Devil's underling...go to hell!
+
+...Bang! Bang!
+
+Clamor: Target spotted! He's making a run for it! Shoot him!
+
+...!
+
+Voice of a soldier: Did I get him?! Go and check. Be careful!
+
+Voice of a soldier: Wait... This...This is the young girl just now!
+
+Voice of a young girl: ...
+
+Voice of a young girl: Dad... Mom...
+
+Voice of a young girl: Is this good enough...?
+
+...
+
+Languid female voice: Is that so...? Can't believe that happened...
+
+Languid female voice: ...Yeah, I think there's still saving her.
+
+Languid female voice: Well? Why not give me a chance? I could use a volunteer at my lab right now.
+
+......
+
+...
+
+M4A1: That girl... What happened to her afterwards?
+
+Clear female voice: Are you worried about her?
+
+M4A1: I do not know...
+
+M4A1: Perhaps I am merely curious...about whether she actually died.
+
+Clear female voice: She won't die until she fulfils her purpose...
+
+M4A1: ...
+
+M4A1: Who...on earth are you?
+
+Clear female voice: Don't you remember?
+
+Clear female voice: We...should've met before...
+
+M4A1: ...!
+
+Sangvis Command Center, Area S02.
+
+Destroyer: What are you doing, Dreamer?! Griffin troops are almost at the door!
+
+Destroyer: Do something with your super aerial weapons!
+
+Dreamer: Calm down, Destroyer. It's not time to get real yet...
+
+Destroyer: Huh? We're about to lose our territory!
+
+Destroyer: Surely you know how important this place is!
+
+Dreamer: But it's only YOUR territory, isn't it? That's got nothing to do with me.
+
+Dreamer gets up from her seat.
+
+Destroyer: Hey! Dreamer, where are you going?!
+
+Dreamer: Agent...seems to have issued new directives. I should go on standby.
+
+Dreamer: (Sighs) What a drag. It's just for meeting up with someone, but not going is not an option...
+
+Dreamer: It'd actually be more interesting if I could blow something up.
+
+Destroyer: E...Exactly! If you still have time to spare, why not help me out first?!
+
+Dreamer: Well...
+
+Dreamer: You're right. It does seem rather inconvenient to head out like this.
+
+Dreamer: Then I'll give your doorstep a sweep... You come with me.
+
+Destroyer: Huh? Do I have to? But the command post...
+
+Destroyer: Hey! Wait up, Dreamer!
+
+Dreamer: Hurry up. The cleaning is about to begin.
+
+Dreamer: (Mutters) At a time like this...one can't do without a bait...
+
+Dreamer: Hahahahaha...
+Part 2
+
+    2chevron_right
+
+...
+
+......
+
+M16A1: Per...sica.
+
+M16A1: I've extracted...the file.
+
+Persica: ...
+
+Persica: Well done, M16.
+
+Persica: Deliver it to 16Lab with your drone.
+
+M16A1: I've already dispatched it along with the equipment you gave me...
+
+M16A1: I've never used it, and I hope M4A1 will never have to use it either...
+
+Persica: ...She'll use it as she sees fit.
+
+M16A1: Ha, true... She's a smart girl...
+
+M16A1: A bit TOO smart, unfortunately. An indecisive AI isn't fit for command. You really should've designed her to be more assertive.
+
+M16A1: Or if I'd been more strict with her... Sadly, that's no longer possible...
+
+Persica: Perhaps... But you're certainly still helping her.
+
+Persica: You know...M4 is right behind me. Everything you say is directly transmitted to her neural cloud.
+
+M16A1: Why are you doing that?
+
+Persica: To stabilize her mental state.
+
+Persica: I'm attempting to break her seals, but forcing her to awaken through technology will make her neural cloud go haywire.
+
+Persica: Your voice is keeping her calm and at peace. That's crucial to repairing and recalibrating the personality of her AI.
+
+M16A1: Seal? Recalibrate? I don't think I'm following...
+
+Persica: M4A1... This time, I won't just wake her up.
+
+Persica: When she awakes, she'll be stronger...and more dependable...
+
+Persica: That's...how she used to be.
+
+M16A1: Ha, I just can't picture...an M4A1 like that.
+
+M16A1: Too bad...I won't get to see it...
+
+Persica: Will you regret this, M16A1?
+
+M16A1: Why would I? It's a bargain for me!
+
+M16A1: If I really mean that much to her...
+
+M16A1: Tsk...
+
+Persica: What is it? Your neural cloud...is starting to act up.
+
+M16A1: My head...is throbbing...
+
+M16A1: It's a very dull ache, nothing too bad, but it's kinda annoying... Is this how it feels to be rewired by Parapluie?
+
+Persica: Possibly... But AR-15 never reported this.
+
+M16A1: Maybe she didn't want to. That girl...is always acting brave.
+
+M16A1: And...now there seems to be interference in my channel...
+
+Persica: That's Sangvis Ferri rewriting some of your modules. The channel will be jammed.
+
+Persica: Very soon, you won't be able to hear me...
+
+M16A1: Ha...
+
+M16A1: So I won't even get to say goodbye?
+
+Persica: The link is still there. If you want to say goodbye, do it now.
+
+M16A1: Haha, will I wake her up, like in your fairytales?
+
+Persica: Do you want that?
+
+M16 falls silent for a moment.
+
+M16A1: M4A1...
+
+M16A1: No matter what I'll turn into...wait for me.
+
+Persica: M16...
+
+M16A1: Ha, that's a bit embarrassing...
+
+M16A1: But it's all I want to say...
+
+With that, M16 gives herself a good stretch.
+
+M16A1: In any case, I'm done here, right? What a relief.
+
+M16A1: Then let's bid each other farewell while my mind is still my own...
+
+M4A1: M16...
+
+M16A1: ...!
+
+M4A1: M16...
+
+M4A1: Don't go...
+
+Persica: ...!
+
+M4A1: M16...don't go...!
+
+M4A1: M16A1!!
+
+At last, I see hope in this labyrinth.
+
+It is in the form of a familiar and dependable figure, burning all alone in the distance, and I know that is the exit...
+
+I run after her. The flame grows rapidly and bursts into a blinding light...
+
+Until at last, it turns into a surgical lamp in the ceiling...and I make my way back into reality from what seemed like an endless dream.
+
+M4A1: (Gasps) (Pants)
+
+Persica: M4A1...
+
+Persica: You've finally...
+
+M4A1: ...
+
+M4A1: Where...am I...?
+
+Persica: You're home, M4. Welcome back...
+
+M4A1: I see... I have finally...
+
+M4A1: Also, Miss...Persica...
+
+M4A1: ...Where is M16?
+
+M4A1: I heard her voice...
+
+Persica: M16...
+
+Persica: Is out on a mission... She isn't here for the time being.
+
+M4A1: Is...that so...
+
+M4A1: I want to...see her...
+
+M16A1: Really? Then you'll have to wait for quite a while...
+
+Statics crowd out all correspondence in the channel, and the signal is completely lost. It's time to leave. Leave everyone behind...
+
+I get on my feet and dust myself. I'm starting to feel rather attached to the room.
+
+Not because of the deleted memory, but because this is where I bade my last farewell...
+
+I am bugged. I am monitored. I am used as an anti-communication weapon... What will I turn into, now that I've been marked by Parapluie?
+
+The person who comes to mind right now isn't myself or anyone else. It is none other than AR-15...
+
+That girl... What would she be thinking at a time like this...?
+
+I'm losing my train of thought. I take a deep breath and hug my weapon tight.
+
+I leave the room behind as the old iron door creaks shut.
+
+"Most people won't realize it's the last day of their life as they wake up that morning."
+
+Sometimes, things are actually easier when there's nothing else to lose.
+
+Thud!
+
+My neural cloud can no longer propel my limbs. I fall on my knees in the long corridor, like a cat with its bones taken out.
+
+Time's up...
+
+Now...I just have to await my fate...
+
+......
+
+M16A1: Singing...?
+
+I start to hear the singing of a clear, female voice. I can no longer tell where it's coming from.
+
+Maybe it won't hurt to just listen... I'm truly exhausted...
+
+M16A1: Beautiful...
+
+M16A1: Have I finally...started dreaming as well...?
+
+Dreamer: Not really, M16A1. This is neither a dream nor a delusion.
+
+Dreamer: You're merely completely immersed in the Sangvis deep web.
+
+M16A1: Dream...er...
+
+Dreamer: My, my. You know...I really, really hate handling stuff like this...
+
+Dreamer: Things that make me work overtime on short notice really ruin my mood...
+
+M16A1: Well...? Not gonna...shoot...?
+
+Dreamer: Now let's not be hasty. Let me tell you something interesting.
+
+Dreamer: Just now, you see, a modular drone flew over the area...
+
+Dreamer: That kind of thing can be spotted from above very easily, you know...
+
+M16A1: You mean... WHAT?!
+
+Dreamer: Relax. It has certainly been shot down, but it has fallen somewhere beyond my territory.
+
+Dreamer: It'll take a while to see who'll get to it first.
+
+Dreamer: But then again, it no longer has anything to do with you, does it?
+
+M16A1: Humph...
+
+M16A1: Don't underestimate...our Commander...
+
+Dreamer: Whatever. After all, I don't really care about that sort of thing.
+
+M16A1: So...what...do you want?
+
+Dreamer: Technically, it's our Mastermind that wants to see you.
+
+M16A1: What?
+
+M16A1: I'm not seeing her here.
+
+Dreamer: She isn't here, alright...
+
+Dreamer: But she's there in your mind...
+
+Dreamer: Didn't you just hear her?
+
+M16A1: ...!
+
+The next day. Griffin HQ.
+
+Helian: Welcome back, Mr Kryuger.
+
+Helian: Was everything sorted last night?
+
+Kryuger: Thanks to Persica, it's dealt with for the time being.
+
+Kryuger: But we can't let down our guard. The military will pressure us time and time again in the future.
+
+Helian: By the way, Mr Kryuger...
+
+Helian: Regarding the T-Doll M16A1...
+
+Kryuger: Her sacrifice will not be in vain.
+
+Kryuger: Reward the Commander in charge of the operation. Comfort the other T-Dolls and keep a close eye on their mental state.
+
+Helian: Understood. I'll follow up on the matter. However...if I may be frank, sir, aren't the AR Team's neural clouds a little inconvenient?
+
+Kryuger: Everything comes with a price, Helian.
+
+Kryuger: We're on the battlefield. There are always things that matter more than others.
+
+Kryuger: Let's head to the office. I need to make some changes to the working plan. Are the preparations we've discussed ready?
+
+Helian: Yes...
+
+Helian: Mr Kryuger, is the final showdown...about to begin?
+
+Kryuger: Just get on with the preparations...
+
+Kryuger: In any case, it won't be very far off.
+
+Episode 8 - Spark. END.
+
+...
+
+......
+
+???: What has yet to come will always come in time... IWS2000.
+
+???: Was it not you who said to always be prepared for it?
+
+...Bzzt... Bzzt...
+
+IWS 2000: ...What's your current status?
+
+IWS 2000: Answer me, AUG!
+
+AUG: "It's raining on the plain..."
+
+AUG: Tonight, the rain falls as well...
+
+AUG: When raindrops splash upon a face, they turn into tears.
+
+IWS 2000: It'll be fine... Everything will be fine soon, AUG...
+
+...Bzzt...
+
+AUG: Signal re-authentication in process...
+
+AUG: Are you... my enemy?
+
+IWS 2000: It shouldn't have turned out this way...
+
+IWS 2000: AUG, I promised I wouldn't...
+
+AUG: ...I don't believe you.
+
+IWS 2000: Please, I beg you...
+
+AUG: We are out of options, it seems. This was your first mistake.
+
+IWS 2000: And it won't... be our last.
+
+...
+
+......
+
+System Prompt: Neural Cloud backup download has been completed. Repair sequence has concluded. We wish you the best of health.
+
+IWS 2000: ...
+
+IWS 2000: ...Was that...a dream...?
+
+AUG: Finally awake?
+
+AUG: It looks like someone here struggles to get out of bed.
+
+IWS 2000: AUG... have you been waiting here the whole time? Where's the others?
+
+AUG: Both G17 and SSG lack the habit of lazing around in the repair bay. They're both outside.
+
+IWS 2000: Repair bay... Were we completely annihilated? Did we fail our mission?
+
+AUG: I don't like utilizing the word "run", but that was the last thing you ordered me to do.
+
+IWS 2000: Then did we... successfully intercept the Sangvis cargo?
+
+AUG: We've acquired a lot of intel.
+
+IWS 2000: So we did fail...
+
+AUG: What's there to be upset about? Your team didn't get completely wiped out. Your worst fear has not come to life.
+
+IWS 2000: Still... I can't seem to get over it at all...
+
+AUG: Keep lying in there for all you want.
+
+AUG: As the humans are so fond of telling each other, "Sleep. In your dreams, anything is possible."
+
+IWS 2000: Dream...
+
+IWS 2000: AUG... I actually... just had a dream.
+
+AUG: Allow me to remind you that T-Dolls cannot dream.
+
+AUG: I believe the proper term for it was "computational tests that the Neural Cloud undergoes during reconfiguration".
+
+IWS 2000: I know it wasn't real! Cut me some slack, okay?!
+
+AUG: Mhmm? So what did you dream about?
+
+AUG: A sea of flowers in full bloom or World War IV?
+
+IWS 2000: It wasn't anything that grand...
+
+IWS 2000: My dream was probably about... another possible outcome of our most recent mission...
+
+AUG: So your neural cloud was actively trying to figure out what could be worse than being helpless as Sangvis Ferri plans to massacre people by the millions?
+
+IWS 2000: Have you experienced something like this before?
+
+AUG: I never need to.
+
+AUG: Sentences that start with an "if" serve no purpose other than grate on the ears.
+
+IWS 2000: (Sighs) I even promised the Commander I wouldn't return empty-handed before we set off...
+
+IWS 2000: I just can't let it all go so easily like you...
+
+AUG: I have nothing to say if the victories in your dreams bring you satisfaction.
+
+IWS 2000: Dreamland is a place where you can have it all without losing anything. A true marvel to behold...
+
+IWS 2000: But a wholly unrealistic one.
+
+AUG: It's good that you're back from there.
+
+AUG: Now with your feet firmly grounded in reality, it's time that I give you some bad news to strike at your heart, dear leader.
+
+IWS 2000: UgUgh... I don't want to hear any of it...
+
+IWS 2000: We've never had a mission turn out so disastrously before. I don't want to know what the others are saying about us...
+
+IWS 2000: Especially that... nasty anonymous dissing forum or something...
+
+AUG: What is it that you want?
+
+IWS 2000: Everyone has collected so much intel about this crisis, but we can't even find the cargo...
+
+AUG: So do you want to find this legendary weapon of mass destruction, or do you think it's better if we never find it?
+
+IWS 2000: What I want... is to do whatever possible to prevent Sangvis Ferri from wreaking havoc with such a devastating weapon...
+
+IWS 2000: For the sake of those who we've sworn to protect... and ourselves.
+
+AUG: Spoken just like the leader of a team which was nearly wiped out.
+
+AUG: See to it that you can uphold such an oath before speaking of such things.
+
+AUG: Oh, by the way, here's a perfunctory reminder that we have just received our next mission.
+
+IWS 2000: Huh...? Wait. I literally just woke up in the repair bay...
+
+AUG: Did I also mention that while we were having this conversation, the Commander was having an emergency meeting with all the team leaders?
+
+IWS 2000: Why didn't you tell me something this important?!
+
+AUG: You couldn't have made it anyway.
+
+AUG: The discussion we had about dreams was also very interesting.
+
+IWS 2000: Even if I couldn't have made it, we can't just not go entirely! I thought the vice-leader could attend in my place?
+
+AUG: I left early.
+
+AUG: As a member on the team that screwed up their mission, my only purpose is to convey the Commander's commendation.
+
+IWS 2000: Commendation...? For what?
+
+IWS 2000: ...Are you making fun of me?
+
+AUG: I just told you, didn't I? We acquired a lot of intel.
+
+IWS 2000: ...
+
+IWS 2000: ...What have we... No, AUG...
+
+IWS 2000: What did YOU bring back from the mission?
+
+AUG: My team leader's greatest regret.
+
+G17: Yellowcake?!
+
+G17: So the intel brought back by the other teams is true?
+
+IWS 2000: Ja... AUG's video recording of the sealed container inside of the cargo hold...
+
+IWS 2000: Taking the radioactive remains of the convoy into consideration, that is the logical conclusion to come to.
+
+IWS 2000: I suppose... we did achieve something during our last mission.
+
+SSG 69: Huh? Don't tell me... what we were seeking was a batch of nuclear missiles?
+
+IWS 2000: They weren't fully assembled. It was most likely the raw materials, but we don't know for sure what exactly was inside that container.
+
+IWS 2000: However, taking the recent stalemate that we've had with S.F. into consideration, the Commander cannot rule out the possibility that they are attempting to produce such destructive weapons...
+
+SSG 69: Well, obviously... Biological weapons that would cause epidemics and poison gas are ineffective on us, after all...
+
+G17: No need to be so frightened, SSG.
+
+G17: Who knows, maybe they're facing some hard times and can only make a living by selling ores.
+
+IWS 2000: ...Enough with this irrelevant discussion.
+
+IWS 2000: The Commander has just made this information confidential to prevent Dolls like you from panicking.
+
+SSG 69: That takes the fun out of everything... Now I can't complain about it to the others...
+
+SSG 69: I even just saw a thread discussing this on the "Griffin Anonymous Dissing Forum"...
+
+AUG: MDR made the best out of the timing.
+
+AUG: But now all that's left on the page is posts hard-selling the advantages of bullpup rifles.
+
+G17: You yourself are a bullpup rifle, Fräulein AUG...
+
+AUG: Fishing for appreciation is something I have no interest in. Whether I'm liked or not by others doesn't concern me.
+
+IWS 2000: ...
+
+AUG: IWS, is there something on my face?
+
+IWS 2000: No... It's nothing.
+
+IWS 2000: We'll form up after sorting our gear. Our teams have been assigned to engage with all suspicious Sangvis outposts.
+
+IWS 2000: We'll be working with Squad Welrod, and will be heading out to sortie any minute now.
+
+IWS 2000: Our mission must be completed without fail this time...
+
+IWS 2000: That's right, this time...
+
+...
+
+...Six hours later.
+
+G17: The Sangvis defense ahead is stronger than what our scouts have reported. They don't seem to have noticed us yet.
+
+IWS 2000: Roger that. How are things on your end, SSG?
+
+SSG 69: The view is clear. Squad Welrod is waiting for our signal.
+
+IWS 2000: Their security is tighter than what's been reported... I should've anticipated this...
+
+AUG: Are you sure you're getting a reading from your radiation detector?
+
+IWS 2000: I did think of that. I even...
+
+IWS 2000: Huh? Where did I put it...?
+
+AUG: It's with me. You left it on the table after checking it.
+
+IWS 2000: Ah... Um... Danke... and sorry about it...
+
+AUG: Don't mention it.
+
+AUG: The location of this Sangvis outpost, though...
+
+IWS 2000: ...What about it?
+
+AUG: Nothing. Judging from the wind, it's going to rain soon.
+
+AUG: Let's get started whenever you're ready, and tie up some loose ends.
+Part 2
+
+    2chevron_right
+
+Combat concluded. Griffin forces storm the Sangvis outpost.
+
+IWS 2000: Clear. Squad Welrod, we'll hold our positions and cover you.
+
+Welrod: Victory shall accompany those who trust in it. We'll leave it to you, then.
+
+IWS 2000: Phew... Hopefully everything will go well.
+
+G17: You look relaxed for the first time tonight, Leader.
+
+IWS 2000: Oh? How did I look like before?
+
+AUG: Distaste had encompassed your entire face.
+
+IWS 2000: I wasn't aware...
+
+IWS 2000: Hmm... I hope Fräulein Welrod and her team didn't notice that...
+
+AUG: Are you not satisfied with the Commander's arrangements to have us work with Squad Welrod?
+
+IWS 2000: The only thing I'm dissatisfied with is... my own inexperience.
+
+AUG: Your self-reflection lifts my spirits.
+
+AUG: Seeing as how things turned out in our most recent mission, that is definitely a good takeaway from it.
+
+IWS 2000: With Squad Welrod with us this time... perhaps I don't have to be too worried.
+
+IWS 2000: It just bothers me so much that we suffered a bitter defeat at the end of the line because of my foolish mistake.
+
+AUG: ...
+
+AUG: Being bothered by that is fine. However, you're trying too hard to do everything perfectly. Your relentless pursuit for that ideal is only going to drown you.
+
+G17: Everyone seemed pretty at ease on the helicopter. You were the only one on edge.
+
+SSG 69: Heheh... We can totally steal the show if we just make an effort.
+
+IWS 2000: That's not the point. We have absolutely no room for failure this time...
+
+G17: But isn't it odd for a PMC to be put in charge of dealing with something as serious as Yellowcake?
+
+G17: What about the Military?
+
+IWS 2000: According to the top brass, "It serves no purpose to involve the Military without presenting actual evidence."
+
+IWS 2000: After all, it's only our conjecture that Sangvis Ferri are in possession of Yellowcake.
+
+G17: Isn't the footage of their container enough evidence?
+
+IWS 2000: They said that could be anything...
+
+IWS 2000: In any case, we can't simply sit here and wait for a crisis to happen.
+
+G17: Sigh. Those up there won't ever understand the kind of crap we have to go through...
+
+AUG: The world's grim enough as is.
+
+SSG 69: Hmph... Who cares. This is the perfect opportunity for us T-Dolls to shine!
+
+SSG 69: Radiation, poison gas, Collapse Fluid - we can brave them all and remain steadfast. We were made for this, don't you think?
+
+G17: Just how much do you want to kill your audience...?
+
+AUG: May I have a word in private, SSG?
+
+SSG 69: Huh? Hold on. I was just kidding... As if I'd actually gas myself and walk on stage...
+
+IWS 2000: Where are you going?
+
+AUG: I'll make good use of the additional authorization you've given me.
+
+AUG: SSG, this outpost isn't far from where you were destroyed last time.
+
+SSG 69: Eh? So we chased after the convoy all the way here...?
+
+SSG 69: No, wait... this hardly counts as "not far"!
+
+AUG: That doesn't matter. There's something I need you to do.
+
+...Click.
+
+Welrod: Miss IWS... we're onto something.
+
+Welrod: We've detected faint traces of radiation residue. The convoy should be up ahead.
+
+Welrod: A cruel joke wrought upon us by fate... I see the lorries.
+
+Welrod: These guys have stopped right here. Isn't this a perfect opportunity?
+
+IWS 2000: Are you certain that's our convoy?
+
+IWS 2000: Couldn't they just be some random lorries...?
+
+Welrod: The detector is getting stronger readings. It has to be them.
+
+IWS 2000: Looks like the Commander was right...
+
+IWS 2000: Thank goodness we found the cargo here.
+
+SSG 69: But don't you think... that it was just a tad bit too easy?
+
+SSG 69: Wouldn't S.F. want to guard something like this much more heavily?
+
+Welrod: How, pray tell? Wrap it up with a beautiful ribbon and then send a greeting card to Griffin?
+
+Welrod: It's nigh impossible to hide something this large. Any attempt to camouflage it is a fool's errand.
+
+IWS 2000: Couldn't we just destroy the cargo on the spot?
+
+Welrod: Have your rationale capacitors been fried? It's radioactive.
+
+IWS 2000: So our only hope in neutralising this risk... is taking it with us.
+
+G1747
+
+G1747
+
+AUG: Doesn't this place remind you of our dorms at Griffin?
+
+G170,-100||47
+
+G170,-100||47
+
+AUG: Even animals have learned to steer clear of human creations since the war.
+
+G1747
+
+...Click...
+
+Bren: Leader, I've spotted additional enemy activity from my vantage point, over.
+
+Welrod: They've already sniffed us out? How is the enemy reacting faster than our helicopter can get here?
+
+Bren: They certainly have.
+
+Bren: Even worse, I've spotted hidden mortars with trajectories intersecting our exfiltration helicopter's flight path, over.
+
+Welrod: They're getting serious.
+
+AUG: We're this close to accomplishing our mission... Feels like déjà vu.
+
+IWS 2000: ...Could you NOT bring that up right now?
+
+AUG: Well, it's not exactly the same as the last time where you only managed to open the vehicle door. Sending a call for our ride back wasn't even part of the equation.
+
+Welrod: So you have met your end once before under such circumstances. Thus, we shan't fall to the same mistake.
+
+IWS 2000: Seriously, whose side are you on, AUG...?
+
+AUG: Yours, of course.
+
+AUG: I'm more than happy to help you fulfill all your wishes.
+
+IWS 2000: Are you sure that you're not making fun of me...? You do know what it is exactly... that I wish for, right?
+
+AUG: Ja, so the next course of action is obvious. I await your order.
+
+Welrod: ...I've marked out the rough coordinates of the mortars that threaten our airspace.
+
+Welrod: The designated cargo will be kept out of the enemy's hands, but our mission is as good as failed if we have no way of bringing it back.
+
+Welrod: I am well aware of what a tall task this may be, but the success of this mission hinges entirely on you.
+
+Welrod: Trust in victory, and disable those mortars, over and out!
+
+IWS 2000: Leave it to us. We'll get everyone home, safe and sound.
+Part 2: Mid-stage dialogue
+
+2
+
+G17: There it is! The mortar is right ahead!
+
+IWS 2000: We must take it out...at all costs.
+
+AUG: Are you that dead set on throwing us all straight at the barrel, IWS?
+
+AUG: Observe how the mortar is positioned and set up.
+
+IWS 2000: The mortar can only operate to its full capacity with the support of its surrounding facilities...
+
+IWS 2000: Alright, we're changing our target. We have to take out everything around it first.
+
+Prompt: Occupying all nodes around the Jupiter mortars will weaken them significantly.
+Part 3
+
+    3chevron_right
+
+Combat concluded. All mortars have been disabled.
+
+...The helicopter tasked with transporting the cargo has landed safely.
+
+IWS 2000: Fräulein Welrod, we've disconnected all Sangvis mortars, over.
+
+Welrod: The enemies on our front door have all been cleaned up. Cargo is currently being loaded onto the helicopter.
+
+Welrod: What's your location, over?
+
+IWS 2000: There may still be other dangers lurking around. We'll cover your exfiltration, over.
+
+Welrod: Understood, and thank you. Our victory is owed to your unwavering tenacity on this day.
+
+...Transmission terminated.
+
+IWS 2000: We did it... We did it!
+
+IWS 2000: Fräulein Welrod even praised our performance!
+
+G17: Haha! With that, we've redeemed ourselves! Those squawkers on that dissing forum can shut it!
+
+IWS 2000: Dissing forum?
+
+G17: Oh... crap...
+
+IWS 2000: We were on it...?
+
+IWS 2000: I've been browsing through all of the posts but I couldn't even find a peep of anything like that?
+
+G17: W-Well, that hardly matters anymore! They should all have their neural cloud updated!
+
+AUG: ...
+
+AUG: "The Ides of March are come, Spurinna," Caesar said jokingly to the seer the day of his assassination.
+
+IWS 2000: "Aye, Caesar; but not gone."
+
+IWS 2000: ...Though, the earliest record of this dialogue is apocryphal, if not altogether fictional.
+
+AUG: Just a well-intentioned reminder that your mission isn't entirely over yet.
+
+IWS 2000: I know... Once Welrod confirms the cargo has safely reached the base, it'll be my job to bring us all home...
+
+IWS 2000: I won't put us in the same situation again!
+
+AUG: You don't even remember any of it, so why are you so hung up on that past failure of yours?
+
+IWS 2000: The fact that I don't remember it is the reason why I can't let it go.
+
+AUG: If some accident beyond anyone's control happens, you'll be beating yourself up again for quite a while.
+
+AUG: Don't be so conceited. You're neither Emperor nor God.
+
+IWS 2000: It is nonetheless my duty as your team leader.
+
+AUG: The burden you carry may seem insignificant now, but it will grow heavier as time goes by.
+
+G17: Hold on... SSG is gone...
+
+G17: I haven't seen her ever since we disabled the mortars. Has she gone scouting?
+
+AUG: There's something she needs to attend to. She's running some extra legwork in the neighborhood.
+
+IWS 2000: Why didn't I know about this?
+
+IWS 2000: Did you request this of her?
+
+AUG: Indeed.
+
+IWS 2000: Why did you send SSG off on her own behind my back?
+
+IWS 2000: You know how dangerous this place is!
+
+AUG: You said you trusted me. Now is the time to prove that.
+
+AUG: We both know what SSG's made of. She, too, understands that her objective's importance is beyond our current mission.
+
+IWS 2000: I can't accept that. What if she runs into trouble?!
+
+IWS 2000: Hailing SSG! Where are you?! Answer me, please!
+
+AUG: I just don't understand. What exactly do you want?
+
+IWS 2000: I want to ensure that our squad will not fall before we reach the end! I won't let that happen again!
+
+AUG: Blind fervor will only cause you to make the same mistake again.
+
+IWS 2000: I'm not like you, AUG. It's because I can't let go that—
+
+G17: Guys... Calm d—
+
+...Click...
+
+SSG 69: L-Leader...? Fräulein IWS...?
+
+IWS 2000: SSG, where are you? Are you in any danger?
+
+SSG 69: I'm quite safe here...
+
+SSG 69: I found the remains we'd left behind...
+
+IWS 2000: Remains? What's the point in finding them?
+
+SSG 69: Things...don't look good over here... You'd better come quick.
+
+...
+
+SSG 69: These... are our remains...
+
+IWS 2000: Are they... attracted to the rations we had on our bodies?
+
+IWS 2000: How are there so many of them?
+
+...A swarm of rodents mill about the T-Doll remains, scattering the moment the beam from the flashlight washes over them.
+
+G17: Is there any mention of something like this in our past combat records?
+
+IWS 2000: I've studied everyone's records in detail back at the base, but none of us has ever seen anything like this...
+
+AUG: Don't let the fear get to your head. There's no way military equipment can be outdone by Sangvis units.
+
+AUG: Got anything, G17?
+
+G17: We don't have specialized equipment to check... but those animals were definitely lured here by something.
+
+IWS 2000: That can't be right. Our rations couldn't possibly have lasted this long.
+
+AUG: ...Our remains weren't necessarily the cause. I don't think our rations could've attracted this many rats either.
+
+IWS 2000: It just makes no sense for such a huge pack of animals to swarm around some T-Doll remains.
+
+AUG: The answer is pretty obvious at this point.
+
+AUG: Is there any unidentified substance on the remains, G17?
+
+IWS 2000: Don't tell me this is S.F.'s doing... But why...?
+
+G17: I've already checked, but nothing seems out of the ordina—
+
+G17: ...
+
+G17: No, wait a sec...
+
+G17 squats before IWS2000's body.
+
+IWS 2000: ...Is that mine?
+
+AUG: Seems so.
+
+G17: It's become barely noticeable as time goes by, but something can be found on the remains...
+
+G17: I've listed all substances that share its chemical composition in everyone's recognition system.
+
+SSG 69: I got it. It can be found on the leader's body... and the animals...
+
+SSG 69: As well as...
+
+SSG 69: ...
+
+SSG 69: Hold on... Hmm...? No way... Wait a second!
+
+IWS 2000: What's... going on...?
+
+AUG: ...
+
+IWS 2000: Why is it... all over us now?
+
+...
+
+SSG 69: Ugh... It's all over me... It's even inside my clothes!
+
+SSG 69: How the heck did it get in there?
+
+AUG: Colorless and odorless... No T-Doll would notice even if she's covered in it...
+
+AUG: I knew something wasn't right about the AC in the Sangvis outpost just now.
+
+IWS 2000: Our equipment can only detect radiation...
+
+IWS 2000: The Yellowcake was just a red herring! It diverted all our attention...!
+
+IWS 2000: We've been played by Sangvis Ferri. Squad Welrod are also covered in this substance, just like us!
+
+AUG: It's a trap. Their true objective is to–
+
+IWS 2000: Fräulein Welrod, do you copy?
+
+IWS 2000: ...Fräulein Welrod?
+
+IWS 2000: Hold on... Why can't I...
+
+Isn't it natural for saboteurs to be silenced?
+
+...Click.
+
+Dreamer: Again, we find ourselves face to face with one another so soon, IWS. So soon.
+
+Dreamer: Will you be the first to run away again this time?
+
+IWS 2000: Dreamer...?!
+
+IWS 2000: What... are you talking about? What do you mean... I ran away?
+
+Dreamer: Oh, now I remember. Griffin T-Dolls tend to forget all about how I killed them.
+
+Dreamer: Heheh ♪... That's fine. I'm more than happy to describe how terrified you were again and again.
+
+AUG: IWS, where's Welrod?
+
+IWS 2000: I...I can't reach her... The signal is completely jammed!
+
+AUG: That can only mean... Parapluie.
+
+Dreamer: Ah... AUG, you've returned with her. How foolish of you.
+
+AUG: ...
+
+AUG: Well, we planned your funeral, so it would only be proper of us... to come back and deliver an invitation.
+
+Dreamer: Those are some big words. You only returned alive the last time because you earned my admiration.
+
+Dreamer: Talent like yours doesn't deserve to be wasted by serving under a leader like that. You should've replaced her long ago.
+
+IWS 2000: Enough with the nonsense, Dreamer!
+
+AUG: Stop letting her distract you, IWS!
+
+SSG 69: Oi, Baldy! Are you the one who ruined my exquisite clothes with that disgusting thing?!
+
+Dreamer: Why so serious?
+
+Dreamer: Judging from your performance just now, most wouldn't even notice this stuff.
+
+Dreamer: Let's put a smile on that face. Go home, and snuggle up with your friends.
+
+SSG 69: What a dastardly plan. Aren't you gonna fight us fair and square?
+
+Dreamer: Fighting you like that, gets old real quick.
+
+Dreamer: After coming across such an interesting toy in that abandoned facility, I couldn't just leave it there.
+
+Dreamer: That canister now contains something much more thrilling for humans. I'm sure you're dying to go bring it home.
+
+IWS 2000: You sprayed us with poison... and the cargo isn't actually...!
+
+Dreamer: If that Griffin Commander of yours was wise enough to keep an appropriate distance from their precious T-Dolls, or if you dimwits had grown some brains, this little trick wouldn't have worked at all.
+
+Dreamer: All of the pieces fell in place. I really have you to thank!
+
+IWS 2000: Sangvis Ferri is in such a sorry state because you don't understand the bonds between humans and T-Dolls.
+
+Dreamer: Really? Then let me show you which side gets it right.
+
+Dreamer: Sadly, you lot most probably won't live to learn that lesson.
+
+...Transmission terminated.
+
+G17: Sorry for this warning on such short notice, but Sangvis forces are closing in!
+
+IWS 2000: That's not our priority right now. We must somehow get in touch with Fräulein Welrod first...!
+
+AUG: Wake up, IWS! You're the only one who can stop the whole thing!
+
+AUG: We can still make it as long as we don't get done in by Dreamer. Can't you see that?
+
+IWS 2000: ...Scheiße!
+
+IWS 2000: The current terrain is not ideal for a counterstrike. Our greatest priority is to regroup at these coordinates.
+
+IWS 2000: I know we're still shocked and full of uncertainty, but we can't fall here. Let's go!
+Part 2
+
+    2chevron_right
+
+Combat concluded.
+
+IWS 2000: Is everyone alright?
+
+G17: Phew... We're safe...
+
+SSG 69: Damn that Baldy. Now I'm covered in mud on top of that gross stuff!
+
+IWS 2000: ...AUG, what did Dreamer mean... when she said I was the first to run last time?
+
+AUG: Mulling so hard over what Dreamer said, huh? Have you forgotten what we need to do?
+
+IWS 2000: ...
+
+IWS 2000: You said we can still make it, but what can we do when all communications are down?
+
+AUG: Reactivate the mortar we just disabled and lock onto Griffin's helicopter.
+
+IWS 2000: What are you planning, AUG?
+
+AUG: There's no way for us to warn the airborne Squad Welrod.
+
+AUG: Our only choice is to physically prevent the contents of the canister from reaching the Commander and the base.
+
+SSG 69: You must be joking!
+
+G17: Fräulein AUG most definitely isn't joking. She is dead serious...
+
+G17: And this IS the most effective option...
+
+AUG: I hope you finally realize how dire the situation really is. Your order, please.
+
+IWS 2000: To destroy another squad for this... I can't give an order like that...!
+
+AUG: What bothers you more, their partial memory loss, or the severe consequences of not doing so?
+
+IWS 2000: Enough!
+
+IWS 2000: Welrod entrusted us with their safety, and they must bring the evidence back.
+
+IWS 2000: There must be another way!
+
+AUG: The facts are right before you. We have no other choice.
+
+AUG: If Welrod were in your position, she would do the same.
+
+IWS 2000: I'm not Welrod. I don't know what she'd do...
+
+AUG: Now you know why your missions always end in failure.
+
+G17: It'll be fine as long as we can warn them, right...?!
+
+G17: Is there any way we can neutralize the signal interference caused by Parapluie?
+
+AUG: We don't have the time to track down which communication outpost the virus originates from.
+
+SSG 69: There must be some way we can warn the Commander. What about an eye-catching signal flare?
+
+AUG: It'll be too late by the time a drone picks it up.
+
+IWS 2000: Communication outpost...
+
+IWS 2000: Something... eye-catching...
+
+AUG: Reactivate the mortar now when the helicopter is still within range.
+
+AUG: Haven't you always wanted to be more reliable?
+
+AUG: No one would blame you for choosing this, IWS.
+
+IWS 2000: Nein... That's it!
+
+AUG: What?
+
+IWS 2000: There IS another way...
+
+IWS 2000: No matter what, AUG, I will never open fire on an ally. This is my answer.
+
+...
+
+......
+
+AUG: ...
+
+AUG: It must've slipped your mind that these Sangvis communication devices most definitely contain the Parapluie virus. If you become infected...
+
+IWS 2000: You'll take over as the leader of this squad.
+
+IWS 2000: If I'm the only one who has to suffer, then so be it.
+
+AUG: I'll only cover for you temporarily, or are you trying to advertise how replaceable you are?
+
+IWS 2000: ...
+
+IWS 2000: G17 and SSG are putting themselves in great danger. If you don't want to watch me being rewritten...
+
+AUG: I object.
+
+AUG: Whatever they're going through can't be worse than what you're doing to yourself here.
+
+IWS 2000: The poisonous substance on my remains... means I was in direct contact with the cargo, right?
+
+AUG: ...
+
+AUG: If it wasn't for the intel you acquired and requested of me to deliver back to base, we wouldn't have uncovered any of this.
+
+IWS 2000: Why didn't you tell me anything about Dreamer or what I had done?
+
+IWS 2000: All you let me know was that "I failed". You made me think...
+
+AUG: Anything I said would only have added to your dismay. That's why I chose to be vague.
+
+IWS 2000: ...Then why did you ask SSG to search for our remains?
+
+AUG: I made a promise.
+
+IWS 2000: A promise?
+
+AUG: There's something we have to take back.
+
+G17: Hailing Fräulein IWS. We're set here.
+
+IWS 2000: ...
+
+IWS 2000: Understood. Then I'm leaving it to you.
+
+IWS 2000: Let's go, AUG. Is the warning message for the Commander ready?
+
+AUG: The moment you send it out will be when I despise you the most.
+
+AUG: ...Bad timing.
+
+IWS 2000: What?
+
+AUG: Look at the sky. It's starting to rain.
+
+...
+
+...Click.
+
+Dreamer: Oh? Are you targeting our communications outpost?
+
+Dreamer: Interesting idea, but it hardly matters in the end...
+
+Dreamer: Now, who will perish first; the Griffin Commander, or you?
+Part 2
+
+    2chevron_right
+
+...
+
+Dreamer: I sacrificed some pawns on my way here and made a guess about what your inferior neural clouds were planning to do.
+
+IWS 2000: She's tracked us down already...?
+
+Dreamer: You're logging onto our communication device and overriding it... so that you can bypass the interference from Parapluie.
+
+Dreamer: Aren't I right?
+
+AUG: Indeed.
+
+Dreamer: Then what are you waiting for? The communications outpost is right ahead.
+
+Dreamer: Plug yourselves in, save your Commander and your friends!
+
+IWS 2000: (Whispers) AUG... Let her come closer...
+
+AUG: Your reminder is appreciated, but we are not so foolish to do so.
+
+Dreamer: Interesting. You never fail to entertain me, AUG.
+
+AUG: You're too kind.
+
+Dreamer: Enough with the small talk.
+
+Dreamer: Now then... should I start, or would you rather go first?
+
+AUG: You hardly have to consult us about this, but thank you for being so considerate.
+
+IWS 2000: SSG, G17, NOW!
+
+SSG 69: Ha! You know, Baldy, there are two kinds of people I hate.
+
+Dreamer: Oh...? The mortar...
+
+Dreamer: I see. You've prepared a special surprise for me...
+
+SSG 69: Drab people who are always dressed in black, and weirdos.
+
+SSG 69: You happen to be both! Target, locked on!
+
+G17: Skill: Bombardment! Target: Baldy! Fire!
+
+...BOOM!
+
+...The shell lands square on Dreamer.
+
+Dreamer: Phew... That gave me a scare...
+
+Dreamer: Sheesh... You completely trashed my dummy. Now how am I supposed to enjoy watching you struggle till the end?
+
+...Dreamer's dummy crashes onto the ground, crumpled into a heap.
+
+Dreamer: One of you will have to die today, AUG... and my dear IWS2000.
+
+Dreamer: No matter whom you choose...
+
+...Bang.
+
+AUG: How rude to interrupt someone's last words at their funeral.
+
+IWS 2000: Finally... some peace and quiet.
+
+G17: Fräulein IWS! We're not sure if we got her, but Sangvis forces are amassing again out here.
+
+G17: SSG and I won't be able to regroup with you any time soon!
+
+IWS 2000: Understood, danke schön... I'm giving you only one order – live.
+
+IWS 2000: That is... my final order.
+
+...
+
+...IWS and AUG stand before the communication console.
+
+IWS 2000: What a bargain, don't you think?
+
+AUG: What a funny question. A T-Doll hooking up to this console, overwriting the communications protocol, connecting to the Commander's channel...
+
+AUG: ... and not being turned into a Sangvis unit via the Parapluie virus. What are the odds?
+
+IWS 2000: There's about...
+
+IWS 2000: ...a 93% chance of failure?
+
+AUG: If you care to hear my opinion, I'd say it'd be better to simply post a warning on the dissing forum.
+
+IWS 2000: We'd become a laughing stock if the only thing we do at a Sangvis communications outpost is posting on social media.
+
+AUG: You adamantly refuse to harm an ally, yet shove dirty work onto me to clean up.
+
+AUG: These double standards of yours are hard to comprehend.
+
+IWS 2000: Most T-Dolls wake up in a repair bay even after suffering total annihilation.
+
+IWS 2000: I don't know about others...but I think...I can get used to that.
+
+AUG: You're giving up so selfishly?
+
+IWS 2000: For the sake of this mission... and for everyone's sake... I am not letting go of what I believe in.
+
+IWS 2000: Not to mention... you're here with me.
+
+AUG: If so, please take the time to consider my feelings when I am left with no choice but to open fire upon you.
+
+IWS 2000: Anyone infected by Parapluie is an enemy...
+
+IWS 2000: Even so, I won't remember any of this after waking up, and you'll keep it that way, right?
+
+AUG: Wrong. I'll remind you again and again just so I can enjoy the sorrow and confusion on your face.
+
+AUG: "It was all because of my indecisiveness," the newly awakened IWS would say.
+
+IWS 2000: Ja...I can imagine what I would say after hearing about what will have happened...
+
+AUG: Then please remember what you're supposed to.
+
+AUG: I'm tired of having to remember stupid things for you.
+
+IWS 2000: Can't be helped, I'm afraid... I'll have to trouble you one last time.
+
+IWS 2000: If you're the team leader, I'm sure you'll do a much better job than me.
+
+...IWS closes her eyes and connects to the communication console.
+
+IWS 2000: Ugh...
+
+...
+
+......
+
+IWS 2000: ...Why is it not working?
+
+IWS 2000: Is the console... broken?
+
+AUG: It isn't. You're just using the wrong port. That's a deactivated server you've plugged into.
+
+IWS 2000: Huh...?!
+
+AUG: That's very much your style.
+
+IWS 2000: Huh...? So it's not running? Then why didn't you...
+
+...Bzzt...
+
+...
+
+IWS 2000: AUG...?
+
+AUG: ...Go on.
+
+IWS 2000: Where...is the actual port?
+
+AUG: Where it should be, of course. Can't you even tell?
+
+IWS 2000: Your left hand...
+
+...AUG lifts her left hand, exposing what she has been covering.
+
+...The port is already in use.
+
+IWS 2000: AUG... Why...?
+
+AUG: Pick your questions wisely. I'm already getting interference here.
+
+IWS 2000: Why...must you defy me to the very end...?
+
+IWS 2000: I could've...finally done something for everyone!
+
+AUG: To be honest, I'm tired of this. I've already heard most of what you just said once.
+
+IWS 2000: But I don't—
+
+AUG: Of course you don't remember...
+
+AUG: You forgot all about it when you woke up in your repair bay.
+
+...AUG fishes out a device.
+
+IWS 2000: That's...
+
+IWS 2000: ...a combat record storage bank...?
+
+AUG: SSG retrieved it from your remains. I promised I would get it back...
+
+AUG: So that you won't end up poisoning the Commander, bumbling oaf that you are.
+
+IWS 2000: You still remember...
+
+AUG: You were actually quite endearing when you asked me to escape with the intel last time.
+
+AUG: You knew that once you get out of the repair bay, you wouldn't be able to let go of your failure no matter what others say...
+
+IWS 2000: Well, I was right...
+
+AUG: "If I start spouting stupid things, just show this to me," said the old IWS.
+
+AUG: I was planning to pick a better time...
+
+...Click.
+
+AUG: Commander... This is an emergency transmission from Squad IWS...
+
+AUG: The T-Dolls returning...from the Sangvis outpost...are carrying a kind of colorless and odorless poison...
+
+...Bzzt...bzzt...
+
+AUG: ...
+
+AUG: Time is running short, Commander...
+
+IWS 2000: AUG, stop it!
+
+AUG: The Commander has acknowledged that... IWS...
+
+AUG: As a result, I will be the only casualty.
+
+IWS 2000: Why did you have to go so far...?
+
+IWS 2000: If only... I hadn't objected to your suggestion of shooting down the helicopter...
+
+AUG: You made that choice. Aren't you going to stand by it?
+
+AUG: Would you have obeyed me if I were the leader?
+
+IWS 2000: That's different... Compared to me, you're stronger, more dependable, more... complete...
+
+IWS 2000: It's pretty strange that I outrank you to begin with...
+
+AUG: You seem enamored with Dreamer's words. Is there something wrong with your head?
+
+IWS 2000: Nein... it has nothing to do with Dreamer... I honestly believe that.
+
+IWS 2000: This thought pervades me... whenever you're by my side... every time I look at you...
+
+AUG: How unfortunate...
+
+AUG: But leadership doesn't really suit me.
+
+IWS 2000: But if you were the leader... things wouldn't have turned out this way...
+
+AUG: I would've destroyed an entire Griffin squad. There would be no Parapluie, no Dreamer...
+
+IWS 2000: Still... neither of us is actually responsible for any of that...
+
+AUG: Oh my, I can't believe you actually said that. Thank goodness I'm going to forget it straight away.
+
+AUG: Do remember what you just said. Don't go back to the way you were.
+
+IWS 2000: After losing your memory... you'll probably mock me first thing when you wake up.
+
+AUG: Don't let the first thing this heartless T-Doll sees when she opens her eyes be a bawling T-Doll. That would be extremely awkward.
+
+AUG: Though I might have a sweet dream...who knows?
+
+...Bzzt...
+
+AUG: What has yet to come will always come in time... IWS2000.
+
+AUG: Was it not you who said to always be prepared for it?
+
+...Bzzt... Bzzt...
+
+IWS 2000: ...What's your current status?
+
+IWS 2000: Answer me, AUG!
+
+AUG: "It's raining on the plain..."
+
+AUG: Tonight, the rain falls as well...
+
+AUG: When raindrops splash upon a face, they turn into tears.
+
+IWS 2000: It'll be fine... Everything will be fine soon, AUG...
+
+...Bzzt...
+
+AUG: Signal re-authentication in process...
+
+AUG: Are you... my enemy?
+
+IWS 2000: It shouldn't have turned out this way...
+
+IWS 2000: AUG, I promised I wouldn't...
+
+AUG: ...I don't believe you.
+
+IWS 2000: Please, I beg you...
+
+AUG: We are out of options, it seems. This was your first mistake.
+
+IWS 2000: And it won't... be our last.
+
+...
+
+G17: Advantage of bullpup rifles... allowing the shooter to shift their center of gravity further back, resulting in higher accuracy and lower recoil.
+
+G17: A revolutionary design of a new era... No arguments... Fire!
+
+SSG 69: Why are you still doing this...
+
+G17: Didn't Fräulein AUG ask us to flood the forum with comments whenever we have time?
+
+SSG 69: That was to bury all the posts trash talking our leader for botching a mission.
+
+SSG 69: We don't have to do it this time.
+
+G17: There are still a lot of really mean posts on the forum though. They're saying it's an internal conspiracy that poison was found on some T-Dolls.
+
+SSG 69: Just leave them be... Even our leader doesn't give a damn.
+
+G17: Ah, here comes another T-Doll looking for her.
+
+Welrod: Excuse me, would you two by any chance know where I could find Miss IWS?
+
+SSG 69: Sorry... None of us know where she's gone off to...
+
+Welrod: Is that so...? I was hoping to learn what exactly happened during our last mission from her.
+
+...Welrod wanders off.
+
+G17: Not long ago, she would probably have enjoyed this.
+
+G17: But now that she came back a hero, she's nowhere to be seen...
+
+...
+
+Let me guess...
+
+When you wake up, you'll certainly ask what I'm doing here.
+
+You'll say that if I have so much free time to waste here, I should've been studying our combat records instead.
+
+...
+
+But I can't study them even if I try...
+
+Because I just can't focus... I don't even feel like reading people's comments...
+
+Then you'll say..."How could someone who can't even focus on her tasks be a team leader?"
+
+...
+
+It's hardly my fault...that it's too quiet.
+
+System Prompt: Neural Cloud backup download has been completed. Repair sequence has concluded. We wish you the best of health.
+

@@ -1,0 +1,3646 @@
+At the AR Team's temporary safe house one week after M16A1's disappearance.
+
+RO635: Hey...SOP II.
+
+M4 SOPMOD II: What's up?
+
+RO635: Does the AR Team get into situations like this often?
+
+M4 SOPMOD II: What do you mean?
+
+RO635: I mean right now... A situation where we've lost contact with HQ and are surrounded by hundreds of Sangvis troops in a run-down factory with only a single magazine of ammo left...
+
+M4 SOPMOD II: Well...I was in a similar situation a year ago when I got split up with M4 and the others, though there weren't this many enemies...
+
+RO635: That is to say...it's even worse right now?
+
+M4 SOPMOD II: Mmmm... I guess so?
+
+RO635: Right...right...
+
+...RO suddenly stands up.
+
+RO635: Yet you still opened fire on the enemy! SOP II! Didn't I say that we would sneak past that outpost!
+
+M4 SOPMOD II: I don't think it would've been possible to sneak past them under those conditions.
+
+M4 SOPMOD II: Rather than waiting to be discovered by the enemy, why not take the initiative ourselves?
+
+RO635: I had already disguised our signals. Those low-level Sangvis troops wouldn't have been able to recognize us!
+
+M4 SOPMOD II: Even if we were right in their face?
+
+M4 SOPMOD II: Wow...it's that awesome?
+
+RO635: Of course it is... Wait, that's not the point! What I mean is that you should trust me. I'm the commander and I won't put us into unnecessary danger, understand?
+
+M4 SOPMOD II: Alright, alright...
+
+M4 SOPMOD II: But that's pretty awesome, is it new technology from 16Lab?
+
+RO635: Heh, what's even better is that I can scan the number of enemies behind me while running right now.
+
+M4 SOPMOD II: But we're not running right now...
+
+RO635: That's why I said "now"! Run, they're going to surround us!
+
+RO635: Want to guess how many Sangvis troops are on our tail, you little troublemaker?!
+
+M4 SOPMOD II: Lemme see... A little over a hundred?
+
+RO635: Stop looking and run!
+
+RO635: Aaaaah! Help us, Commander! Hurry and locate our position already!
+
+The previous day, Griffin headquarters.
+
+Kryuger: ...What's the problem?
+
+Helian: Mr. Kryuger, regarding the search operation for M16A1...
+
+Helian: In my opinion, there is no need for further investigation. We'll simply be wasting our resources.
+
+Kryuger: Losing an irreplaceable advanced T-Doll is a hard loss to swallow. We should not give up if there is still hope.
+
+Kryuger: Besides, I've already promised the Commander.
+
+Helian: Yes...
+
+Helian: Speaking of the Commander...do you really intend to bring that person to the banquet along with you?
+
+Helian: I believe a person of such rank isn't suitable for attendance to that kind of event, at least in regards to information security... I suggest that you reconsider.
+
+Kryuger: The Commander has the right to know what's going to happen, especially as we will be heading into a grueling war very soon. This will be the guarantee for our ensuing victory.
+
+Kryuger: You've interacted with the Commander far more than myself, so you should be well aware that we don't have many options remaining.
+
+Helian: ...I understand.
+
+Helian: The Commander should be arriving soon. I will set up a meeting as soon as possible.
+
+Meanwhile, in the Control Center...
+
+M4 SOPMOD II: Really, Commander? We can continue our search for M16?
+
+RO635: Being able to convince Miss Helian...you're so awesome, Commander!
+
+M4 SOPMOD II: But we've already searched through the entirety of the area where M16 went missing, yet we couldn't find any clues at all...
+
+RO635: That's true, but that also means M16 must've left the area unscathed.
+
+RO635: If she had come across Sangvis troops, there would've been signs of battle, right?
+
+M4 SOPMOD II: Of course!
+
+M4 SOPMOD II: That's right! The M16 that I know wouldn't go down that easily!
+
+RO635: So please continue to support our search, Commander.
+
+M4 SOPMOD II: Eh? The Commander won't be heading to the frontlines this time?
+
+RO635: The Commander has a mission at HQ this time.
+
+RO635: However, the Commander will continue to give us long-distance support even without being at the frontlines.
+
+RO635: Commander, M16's disappearance is my responsibility. I hope that when M4 returns, she'll be able to see the AR Team with everyone present...or at least back to how it was when I first joined...
+
+M4 SOPMOD II: RO...it'll be fine, I'm sure of it! There's nothing to be afraid of with the Commander here!
+
+M4 SOPMOD II: Let's head out now. M16 is waiting for us!
+Part 2
+
+    2chevron_right
+
+......
+
+...In Griffin's company car on the way to the military banquet.
+
+Kryuger: ...I recall that you haven't returned to HQ even once since you had completed the recruit training.
+
+Kryuger: You did well in recovering File No.7. We've managed to extract a lot of valuable information.
+
+Kryuger: With this, the military has expressed their interest in cooperating with us.
+
+Kryuger: That's right, we shall soon have the chance to carry out a joint operation to fully repel Sangvis Ferri. Perhaps we may even resolve this entire conflict.
+
+Kryuger: As for that Doll...my condolences to you. I have also known her for a long time now. I will provide you with the support you need, and wish you all the best.
+
+Kryuger: However, besides the rescue operation, you have something even more important right now... A public relations mission.
+
+Kryuger: Helian should have briefed you earlier. We are heading to the military conference, where they will be making an important announcement.
+
+Kryuger: They will be working together with a private enterprise to carry out T-Doll testing and participate in a demonstrative exercise.
+
+Kryuger: That's right, that private enterprise is us, Griffin & Kryuger Private Military Contractor.
+
+Kryuger: "The shining beacon in a brave new world", do you still remember? Kalina should've mentioned it to you when you first joined.
+
+Kryuger: We've fought with Sangvis Ferri for so long that this founding ideal of ours has been sidelined, but I've never forgotten...
+
+Kryuger: And now, it's time to end these inane days.
+
+Kryuger: On the surface, this exercise will be a demonstration for the media, but in actuality, the military will be providing troops to help us carry out a counterattack on Sangvis Ferri.
+
+Kryuger: I'm sure you're aware that with the might of the military, it should take no longer than three days.
+
+Kryuger: I hope that you will command our forces during this operation as you've been at the forefront of the Sangvis Ferri resistance, and as such, you are the most qualified to do so.
+
+RO's search operation continues...
+
+RO635: All the Sangvis signals ahead have completely vanished. It seems like the Commander's echelons have eliminated them, so we can continue with our search now.
+
+RO635: SOP II, what's your situation?
+
+M4 SOPMOD II: Me? I'm fine. All I want is to quickly find M16...
+
+RO635: I understand, I feel the same way. However, we must not be reckless. After all, only the two of us can overcome the enemy's jamming.
+
+M4 SOPMOD II: The AR Team with only two people... It feels strange...
+
+RO635: Mmm...still not used to working alone with me?
+
+M4 SOPMOD II: No, that's not it...
+
+M4 SOPMOD II: Well, I'm actually not used to working with any T-Doll outside of the AR Team. Although, you're the first Doll that I feel at ease with.
+
+RO635: Is that so... Haha, I'll take that as a compliment.
+
+M4 SOPMOD II: I don't even know what I should do right now...
+
+M4 SOPMOD II: If I'm really the only one left, I would be very afraid...
+
+RO635: SOP II...
+
+M4 SOPMOD II: Why? As a Tactical Doll, why am I equipped with things that have nothing to do with fighting?
+
+M4 SOPMOD II: Why do I have a module that simulates these kinds of feelings...
+
+RO635: It's okay, SOP II.
+
+RO635: We just need to rescue M16 and wait for M4 to return, then you won't have these feelings ever again.
+
+M4 SOPMOD II: Right, that's much simpler!
+
+M4 SOPMOD II: Give me your orders! I'll completely annihilate all the enemies in our way!
+
+RO635: Control your emotions. Our aim isn't to eliminate the enemy.
+Part 2
+
+    2chevron_right
+
+A huge crowd is gathering at the military banquet.
+
+???: ...Mr. Kryuger.
+
+Kryuger: Apologies, who might you be?
+
+Captain Yegor: Yegor, Captain.
+
+Captain Yegor: The General ordered me to wait for you here. Please come with me.
+
+Kryuger: Looks like the military has been busy lately, seeing as the youngsters are getting promoted. Lead the way, Captain Yegor.
+
+......
+
+Captain Yegor: Please have a seat.
+
+Captain Yegor: The General is giving a speech right now and will be with you shortly. Please wait.
+
+......
+
+Carter: This joint operation will greatly improve the cooperation between the military and private military contractors, and we shall closely and efficiently mobilize our resources...
+
+Carter: To ensure that our citizens are able to live in a safe and stable environment...
+
+Carter: As well as to prevent economic and infrastructure development from being affected by the disturbances of the outside world...
+
+Carter: We shall construct an elite and efficient safeguard mechanism by utilizing private enterprises in security.
+
+Carter: If this test succeeds, we shall expand into other areas using this experience and accelerate the country's development.
+
+Reporter A: The government had already handed over the protection of some outer areas to PMCs in the past. Does this cooperation mean the military will take back the management rights to these areas?
+
+Carter: The objective of this cooperation is to better protect the vulnerable regions. The central government is responsible for the administrative management of these regions, and the military will abide by its decisions.
+
+Reporter B: Two days ago, the United Nations released a list of new member countries. Is this operation a response to the "Alliance of the United Nations" plan?
+
+Carter: I repeat, the objective of cooperating with private enterprises is to ensure the safety of these regions. There is no political motive behind it. Your question should be directed at the government's press conference, not here.
+
+Kryuger: The media is really hard to deal with, huh? Has the General received special training?
+
+Captain Yegor: ......
+
+Kryuger: (Shrug) You're cautious. I like subordinates like you, including my Commander over here.
+
+Captain Yegor: The General's speech has concluded. He will be with you shortly.
+
+...Three minutes later.
+
+Carter: Sorry to keep you waiting. Dealing with the media is more complicated than I imagined.
+
+Kryuger: Really? I think you'll make a great company spokesperson after you retire.
+
+Carter: I'm satisfied with my retirement nest egg. Working at this age is too strenuous for me.
+
+Carter: Anyway, congratulations Berezovich, the information you acquired is extremely important to us. Next, we'll...
+
+???: Indeed, being something that could draw the attention of the military, it's important all right.
+
+Captain Yegor: !!
+
+???: Oi oi... Pulling a gun on your boss's guest is quite rude.
+
+Carter: It's okay, put your gun away.
+
+Captain Yegor: Yes, sir.
+
+Carter: I wanted to ask how you got in, but it would be a meaningless question, wouldn't it, Havier?
+
+Havier: It's not out of the ordinary to come to an important banquet hosted by my old friend and patron, is it?
+
+Havier: It's been a while, Carter, and Mr. Kryuger.
+
+...Havier extends his hand.
+
+Kryuger: ......
+
+Kryuger: ...Nice to meet you, Mr. Havier.
+
+......
+
+RO635: Ready to go, SOP II? The echelons covering us have reached their designated positions.
+
+M4 SOPMOD II: Yeah...
+
+RO635: If you need to rest some more...
+
+M4 SOPMOD II: I'm fine, now's not the time to rest.
+
+RO635: Alright...then let's go.
+
+RO635: By the way, SOP II, it may be meaningless to say, but I still want to remind you...
+
+RO635: You promised me that you wouldn't charge in recklessly if we come across a Sangvis Ringleader. Keep that in mind, okay?
+
+M4 SOPMOD II: ...I...promised that?
+
+RO635: (Sigh) Don't only selectively remember things that are convenient for you.
+
+RO635: You acted too dangerously the last time we met Dreamer. If reinforcements hadn't arrived in time...
+
+RO635: No matter how much you want to kill them, our objective is to complete the mission, and the mission this time is to find M16.
+
+M4 SOPMOD II: I don't just want to kill them, I want to... Do you want to know the difference?
+
+RO635: Um, I don't want to know... Although I've already seen it before with my own eyes.
+
+RO635: SOP II, we need to be more cautious in this operation. Meaningless aggression will only endanger ourselves. Who will bring M16 home if we die?
+
+M4 SOPMOD II: I understand...sorry...
+
+RO635: I'm not blaming you...
+
+RO635: I'm very impressed by your combat capabilities. I just hope that everyone can safely return home this time, no matter who it may be.
+
+M4 SOPMOD II: ...I know that you're looking out for me, RO. It's just that sometimes...I can't control myself...
+
+RO635: I believe you can do it. I'll also do my best to help you, since I'm technically the team leader right now.
+
+M4 SOPMOD II: Haha, team leader! You remind me of M4!
+
+RO635: Mmm...I know that I'm not as good a leader as M4...
+
+M4 SOPMOD II: Although your preparations are not as thorough as M4A1, you are more decisive than she is.
+
+M4 SOPMOD II: M4 was so clumsy when she first became the team leader, I could tell you all about it when we have the time!
+
+RO635: (Bitter smile) I'm actually very interested to hear, but right now we need to hurry up and finish this search first. It'll become too dangerous if we end up searching until nighttime.
+
+M4 SOPMOD II: Okay, you got it.
+Part 2
+
+    2chevron_right
+
+At the military banquet.
+
+Havier: Is it fine if I sit here?
+
+Havier: Apologies, my legs don't work as well as they used to do, so I prefer to sit near the exit. I hope you can understand.
+
+Carter: Aren't you being too paranoid?
+
+Carter: Even if I wanted to put a bullet through your head, I wouldn't do it today when there are so many media reporters around.
+
+Havier: Hahaha, your sense of humor is terrible as usual, just look at your subordinate's expression. Isn't that right, young man?
+
+Captain Yegor: ......
+
+Carter: I wasn't joking. I'm sure you can tell from my subordinate's expression.
+
+Captain Yegor: ......
+
+Havier: Whatever. It's not very effective. Ah, Mr. Kryuger, I'm so glad that you're here.
+
+Havier: A joint operation between the military led by Carter and a private military contractor. Even someone as dull as myself can figure out that you'd be the best choice.
+
+Havier: Though, come to think of it, it's all thanks to you that Carter was able to cause such a big stir.
+
+Havier: If you hadn't caught Lyco back then...I'm afraid that the couple of us would be lazing around in an old folks' home by now.
+
+Kryuger: ......
+
+Havier: Ah... Is this the Commander I've been hearing so much about lately?
+
+Havier: Persica thinks very highly of you. Coming from someone as critical as her, you should cherish this...honor? That works, I suppose.
+
+Havier: ......Oh, apologies, haven't I introduced myself yet? I thought that Mr. Kryuger would have talked about me when you were hired.
+
+Havier: I am Havier Witkin, the CEO of "Important Operation Prototype Manufacturing Company", that is to say...I'm the boss of IOP.
+
+Havier: Almost all of the Dolls you command are produced by our company, though there are a few that aren't...but that's not important, haha.
+
+Carter: Mr. Havier, if you're just here to introduce yourself...
+
+Havier: Of course not. In front of me sits the great benefactor who helped me establish my company, and the great patron who constantly keeps my company busy with new orders.
+
+Havier: As they gather together to achieve great things, how can I not come to congratulate them in my role as the supplier?
+
+Carter: Give it up if you're planning on getting details on the operation. They're military secrets.
+
+Havier: Don't you know? Secrets don't exist at the dinner table, especially when expensive alcohol is involved.
+
+Carter: I've abstained from drinking for many years.
+
+Havier: Then you've really lost a great deal of life's pleasures. Though, it's hard to blame you. The General is a pragmatist who values the result more than the process, after all.
+
+Havier: That's right. Even though it's important that the journey through one's life is interesting, if the end result isn't good, then it's still a wasted life.
+
+Carter: So? What are you trying to say?
+
+Havier: If the result you want is the destruction of Sangvis Ferri, then doing unnecessary things like a joint operation is really wasted effort.
+
+Havier: Forgive my bluntness, but if you really wanted to defeat Sangvis Ferri, I'm sure Mr. Kryuger could have done so all by himself, no?
+
+Havier: The point is that it is either some people are so bored that they're trying to stir things up, or that defeating Sangvis Ferri was never the outcome that those people wanted in the first place.
+
+Kryuger: ......
+
+...Carter glances at Kryuger.
+
+Carter: This cooperation with G&K is an experiment to produce better joint operational models for the future. Mr. Havier, if you continue to spout nonsense, I'll have to arrest you for being a threat to national security.
+
+Havier: It seems that you still have that bad habit of threatening people, Carter. You're just in charge of logistics; I'm not afraid of you. Leave arresting me to the Security Bureau.
+
+Havier: Besides, I'm here to support you. If there's a battle, there'll be many orders. It makes me excited just thinking about it.
+
+Carter: ......
+
+Havier: Fine, fine. Since I came all the way here, I'll take some time to mingle with those media big wigs downstairs. I know that you've all lost your appetites just looking at me anyway.
+
+Havier: I'll be taking my leave now.
+
+...Yegor immediately blocks Havier's path.
+
+Carter: Captain, let him go. I don't want to spoil this banquet.
+
+Havier: How nice. There aren't many obedient young people like him nowadays.
+
+Havier: I hope you'll live just a while longer. See you later.
+
+Havier leaves.
+
+Kryuger: Don't mind him, Commander. He's a strange old man.
+
+Kryuger: Despite the nonsense he spews from his mouth, he still does provide reliable merchandise.
+
+Carter: He probably still holds a grudge against you for taking Lyco.
+
+Carter: He's unable to understand at all... Our cooperation could lay down such strong foundations for the technology of the future.
+
+Carter: He'll thank us later once he gets a taste of our success, Kryuger.
+
+Kryuger: I understand. It's all in the past now. There's no point deliberating on it.
+
+Carter: Good. Then, let us officially begin our discussions so that we may establish the general direction for the operation.
+
+Kryuger: Very well. We're looking forward to the operation.
+
+Destroying Sangvis Ferri is not the result that they want...
+
+Havier, what exactly do you mean...
+
+...Click.
+
+RO635: Testing, testing... This is RO with a mid-mission report. The operation is proceeding smoothly, I think...
+
+RO635: It's just that SOP II's efficiency is still a little low... I suspect her emotions are negatively impacting her reactions.
+
+RO635: That's right... She has noticed it herself, but the situation is worse than she thinks...
+
+RO635: For the past hour, her responses to my orders have been slower by an average of 1.3 seconds.
+
+RO635: Her processing speed is still within an acceptable margin, but she occasionally zones out while resting. It seems that her concentration has waned as well.
+
+RO635: I don't know why, but I have a feeling that she is keeping something from me.
+
+RO635: The search operation for M16 relies on SOP II's experience, and we only have one last area to search.
+
+RO635: However, it's not just SOP II. I probably need some rest as well since we've been working for 20 hours straight. It's been a bit stressful, not because of the mission, but rather it's that...I've been thinking about too many unnecessary things...
+
+RO635: How strange, I'm clearly just a T-Doll...
+
+RO635: I'll end the report here for now. We're continuing the operation.
+
+M4 SOPMOD II: RO...
+
+RO635: ......
+
+M4 SOPMOD II: RO...?
+
+M4 SOPMOD II: RO...!?
+
+RO635: Whuh...?
+
+RO635: What is it?
+
+M4 SOPMOD II: I've finished searching this side. The Commander's echelons still need some time. Shouldn't we have someone guarding our position?
+
+RO635: Ah...right...I'll go...
+
+M4 SOPMOD II: You're the leader, so the load on your neural cloud must be much higher than mine. You're already struggling to keep your eyes open, aren't you?
+
+RO635: ......
+
+RO635: (Bitter smile) Indeed, whether it be recharging or clearing my cache...
+
+RO635: Are you sure you're fine by yourself?
+
+M4 SOPMOD II: The nearby Sangvis troops have all been eliminated, and just standing around won't really drain my energy.
+
+M4 SOPMOD II: You helped me fall asleep before, so now it's my turn to help you.
+
+RO635: Uhm...can you forget about that? It was kind of embarrassing.
+
+M4 SOPMOD II: Heheh, that's right, only you would do something like that, RO.
+
+RO635: Is that...a compliment?
+
+M4 SOPMOD II: Of course...
+
+M4 SOPMOD II: I'm thankful you're here, RO.
+
+M4 SOPMOD II: Sorry for giving you so much trouble...
+
+RO635: You don't need to apologize all the time. It's fine as long as you're happy. Besides, you've been treating me very nicely as well.
+
+M4 SOPMOD II: That's because you treat me well, so I'm just returning the favor.
+
+RO635: Haha... If only everyone in the world is just like you, then things would be much simpler...
+
+RO635: I'll leave it to you, then. I'll try to recover as soon as possible, then you can rest.
+
+RO635: Also, report to me if there's any change in the situation.
+
+M4 SOPMOD II: You're really like M4 right now.
+
+RO635: Do you like me this way?
+
+M4 SOPMOD II: At least this time, I do.
+
+......
+
+...One hour later.
+
+RO635: ......
+
+RO635: ...It's been an hour on the timer. It went by pretty quickly this time...
+
+RO635: SOP II...it's your turn to rest.
+
+RO635: ...!
+
+RO635: SOP II?!
+
+RO635: Are you there, SOP II?
+
+......
+
+...RO carefully opens the door of the safe house, but there aren't any Griffin signals nearby.
+
+RO635: Damn it...
+
+RO635: Not again...
+
+RO635: Not like this...!
+
+RO635: SOP II's signal should still be trackable... I need to find her.
+Part 2
+
+    2chevron_right
+
+...RO finds SOP's hiding spot.
+
+RO635: (Panting)
+
+RO635: Is this the place? This should be it according to the tracker...
+
+RO635: SOP II!
+
+M4 SOPMOD II: Eh? RO? What are you doing here?
+
+RO635: You...!
+
+RO635: (Sigh) You've really done it this time! Do you have any idea...!
+
+RO635: You really scared me. If you disappeared as well...
+
+M4 SOPMOD II: Sorry, but...!
+
+RO635: You can't use the authorization rights I gave you to leave the team by yourself! Do you know how much effort we spent——
+
+M4 SOPMOD II: Hang on, RO, look at this!
+
+RO635: What? This is...
+
+RO635: M16's...
+
+M4 SOPMOD II: M16's equipment case. I'm sure you recognize it.
+
+RO635: Of course, but what's inside it? I've asked her several times in the past but she never gave me a proper answer.
+
+M4 SOPMOD II: "Nothing good." That's what she had always said.
+
+RO635: How did you find it?
+
+M4 SOPMOD II: Persica put a small transmitter on it, which can only be detected at close range.
+
+M4 SOPMOD II: This was something M16 herself requested...just in case.
+
+M4 SOPMOD II: She once said that M4 would probably need it more than she does in the future.
+
+RO635: So the reason you ran off by yourself was to search for this... You being distracted earlier...was it because you were allocating a part of your neural cloud to search for its signal?
+
+M4 SOPMOD II: I'm sorry...I thought I'd be able to return before you wake up... Since it wasn't far away, I thought heading out solo might have been safer...
+
+RO635: So you thought that I'd slow you down?
+
+M4 SOPMOD II: No...that's not what I meant.
+
+M4 SOPMOD II: M16 once said that having emotions allow us to make better decisions.
+
+M4 SOPMOD II: I thought that it'd be better if you rested some more, as I'm capable of doing such a small thing by myself.
+
+RO635: I know that you are concerned about me, but...you should have reported this to me earlier. I wouldn't have refused to let you go.
+
+M4 SOPMOD II: What about Helian and the Commander? It's not that I don't trust them, but they care for us too much. They wouldn't have allowed me to retrieve M16's stuff with my own two hands.
+
+RO635: ...Retrieving it with your own two hands... Does it matter to you that much?
+
+M4 SOPMOD II: We'll be able to gain some firsthand information on M16's disappearance this way.
+
+M4 SOPMOD II: Look, there are bullet holes here and indications that it was dropped on its side. It was probably shot down from the air...
+
+RO635: ......
+
+M4 SOPMOD II: There aren't any other signs of damage. It seems that at the very least, M16 was safe at the time when she sent this out.
+
+M4 SOPMOD II: And since she was able to send it out, it probably means that she wasn't in a dangerous area, so...I think we can relax for now.
+
+RO635: SOP II...
+
+RO635: You're...unexpectedly smart today.
+
+M4 SOPMOD II: W-What is that supposed to mean!
+
+M4 SOPMOD II: I'm not dumb! I just have a one-track mind, that's all!
+
+RO635: I know, I know. AAT-52 once said something similar. "I'm not stupid, I'm just inefficient at multiprocessing."
+
+RO635: Though, I'm glad that it's you, SOP II. If any other Doll tried to do the things you did today, I'm sure we wouldn't even be alive right now.
+
+RO635: Perhaps I should update my information on the AR Team as I've always thought of you guys as unprofessional goofs...
+
+M4 SOPMOD II: The AR Team is certainly not as capable as the top elite T-Dolls, but we have far more autonomy.
+
+M4 SOPMOD II: That's why operating under M4's command allows us to achieve the full potential of our operational efficiency.
+
+M4 SOPMOD II: RO, if you really want to become a member of the AR Team, then you must think from our perspective and not merely follow orders from above.
+
+RO635: Being lectured by a serious SOP II... This is my first time seeing you like this. Sorry, for some reason I feel like laughing, haha...
+
+M4 SOPMOD II: Haha, laugh if you wanna. This is what AR15 taught me back then, and I've always kept it in my mind.
+
+M4 SOPMOD II: Yeah... AR15... She talked about so many things, but I understood so little.
+
+RO635: AR15...
+
+RO635: Yeah, I'm like that as well...
+
+RO635: I understand too little... But...I've also learned a lot.
+
+M4 SOPMOD II: Yup, everyone is a good person. That's why I like everyone so much.
+
+RO635: Am I included in that "everyone"?
+
+M4 SOPMOD II: Of course! I like you too, RO.
+
+RO635: Heh... Even though I know what you mean, hearing it like that is a little embarrassing...
+
+M4 SOPMOD II: Really? I've always talked like this.
+
+RO635: Okay! Let's get out of here first. It'll be dangerous if we stay here for too long.
+
+RO635: ......!
+
+RO635: Hold up! I've detected the signal of an advanced Sangvis T-Doll rapidly approaching in this direction!
+
+M4 SOPMOD II: Were we discovered?
+
+RO635: (Sigh) Either way, it seems like it won't be easy for us to escape...
+
+M4 SOPMOD II: Isn't this perfect, though?
+
+M4 SOPMOD II: I was just thinking that it'd be too boring to end the day having done nothing besides running some errands.
+
+RO635: Ha...that's true. That's certainly more like your style, SOP II.
+
+M4 SOPMOD II: Hehe, looks like you're adapting well to the team!
+
+Meanwhile at the military banquet.
+
+Carter: Well then, let's get down to business.
+
+Kryuger: I'm listening.
+
+Carter: As this will be a PR exercise, the military won't be able to deploy any heavy armored forces.
+
+Carter: As such, Captain Yegor will lead three special mixed squadrons consisting of spec ops infantry and Dolls. They will be moving alongside your forces.
+
+Carter: Furthermore, we will grant Griffin access to our network so that you may link up with the military's intelligence system.
+
+Kryuger: I'm glad to have access to military intelligence, but Sangvis Ferri has previously utilized a virus known as "Parapluie" to infiltrate our T-Dolls' systems.
+
+Carter: Yes...I'm aware of that, and we've already taken appropriate measures.
+
+Carter: I will request for an even higher tier of active defense system and utilize our central servers to carry out cyberwarfare countermeasures.
+
+Carter: Besides, it's merely a virus created by a private enterprise, I don't believe it'll be a serious threat.
+
+Kryuger: Very well, as long as you're prepared.
+
+Carter: Based on the information from File No.7, we can roughly pinpoint the location of where Lyco set up the main computer cluster for that AI of his.
+
+Carter: Our main objective - Eliminate everything, meaning all the Sangvis Ferri, aside from "Elisa" the Mastermind, and retrieve her.
+
+Carter: The media will be observing for the entire duration of the joint exercise. Although we've imposed some restrictions on the reporters, Yegor's squads still won't be able to act very freely.
+
+Carter: Therefore, after the peripheral support is in place, we'll be relying on your T-Dolls to carry out Elisa's capture.
+
+Kryuger: Understood. I'll be working on the preparations for the intelligence synchronization process. My Commander here will be in charge of the combat-related details.
+
+Carter: Right, Commander, whether you can restore peace to areas under your jurisdiction will depend upon this operation. I'll leave the specifics for you and Captain Yegor to discuss.
+
+Carter: Then, let's... What?
+
+...Yegor whispers something into Carter's ear.
+
+Carter: I apologize, something has come up. Please remain here, I'll be right back.
+
+Carter and Yegor leave.
+
+Kryuger: Restore peace, huh... Were it so easy...
+
+Havier: What's this? Are you starting to doubt the objective of this operation?
+
+Kryuger: Looks like you picked the perfect time to return.
+
+Havier: I've greeted everyone that I should greet, and the chairs downstairs aren't as comfortable as the ones here... The people too.
+
+Kryuger glances at the doorway.
+
+Havier: Don't worry, Carter won't be back for another five minutes.
+
+Havier: Even though Griffin has been continually placing orders with my company, we haven't talked face to face like this for quite a long while now.
+
+Kryuger: I believe there was some...misunderstanding earlier.
+
+Havier: Yup yup, that's right, just a misunderstanding. Why don't we have a nice chat? Perhaps we'll even solve this "misunderstanding" of ours.
+Part 2
+
+    2chevron_right
+
+......
+
+M4 SOPMOD II: RO, watch out!
+
+...Boom!
+
+RO635: ...!
+
+RO635: That's...
+
+RO635: Where's the enemy?! Do you see them?!
+
+M4 SOPMOD II: West 245 degrees, 200 meters away, four of them! Suppress them, quickly!
+
+RO635: I can only spare one magazine for suppression. I don't have much ammo left.
+
+M4 SOPMOD II: Where's our reinforcements?!
+
+RO635: I just contacted the Commander. They're coming for us now!
+
+???: Griffin Tactical Dolls RO635 and M4 SOPMOD II! Stop resisting and surrender immediately.
+
+???: I do not like hide and seek, nor do I like the either of you. Do not expect me to be patient with things I dislike.
+
+RO635: That voice must be a Sangvis Ringleader! SOP II, can you locate her?
+
+M4 SOPMOD II: I'm only able to capture a rough projection. She's blocking our retreat route!
+
+RO635: ...No good, it's too far away. We'll be dead if we abandon cover right now.
+
+RO635: The enemy must be a very advanced Doll to be able to see through my disguised signal...
+
+M4 SOPMOD II: But she's blocking our retreat route! It'll be just as dangerous if we stay here!
+
+RO635: No, we need to hold out for our reinforcements. They're not too far away!
+
+???: Still no response? In any case, state your intention. Whether you wish to surrender or fight, I'm ready for you.
+
+???: Escape is impossible though, so do not try anything that will anger me.
+
+M4 SOPMOD II: Sounds like an overconfident bastard... Step a little closer and I can pull the trigger on you...
+
+RO635: Hold it! Wait until she gets closer!
+
+RO635: The enemy is an unidentified Doll and we're not clear on her capabilities, so don't act recklessly.
+
+???: I'm not here to eliminate you. At least, not today. I only wish to ask you a few simple questions.
+
+???: ...That Doll, M4A1, is she with you?
+
+RO635: ...What?!
+
+M4 SOPMOD II: You're asking for it now!!
+
+RO635: Don't be reckless! SOP II!
+
+......!!
+
+...The sounds of gunshots echo through the communicator.
+
+RO635: ......!
+
+M4 SOPMOD II: Huh? That wasn't me...right?
+
+RO635: You nearly got your head blown off there!
+
+RO635: Great news, the Commander's reinforcements are here! Let's make use of this chance now!
+
+???: So there are other Griffin T-Dolls? Very well, eliminate them all. It won't be too late to question you after.
+
+???: ...All troops, proceed with plan C.
+
+RO635: Damn it, the enemy has reinforcements too!
+
+？？？: So you have a human commander on your side. This will certainly be an interesting experience...
+
+？？？: Hmm...I will give you some time to consider your options by matching Griffin's number of troops, but don't expect your reinforcements to save you.
+
+？？？: My judgment is absolute, and none can defy it.
+
+RO635: ...You bastard, who in the world are you?
+
+Judge: Judge, Sangvis Ferri Manufacture.
+
+Judge: Perseverance, justice, and fairness. If you do not wish to lose your way on the path of injustice, then give me the answer I seek...
+
+Judge: And I will...reconsider the value of your existence.
+
+......
+
+M4 SOPMOD II: Huuuuuh? Are you serious?
+
+M4 SOPMOD II: A Sangvis T-Doll that ambushes and blocks our retreat route claims to be just and fair? Is a screw loose in her head?
+
+RO635: Perhaps Sangvis Ferri has run out of resources to produce proper T-Dolls, so they're sending all these weirdos out.
+
+RO635: She still hasn't opened fire yet. Maybe she's just bluffing because they rushed her out the door without any proper weaponry...
+
+M4 SOPMOD II: Perfect! I want to smash her into pieces! I've run the calculations, and a midget like her is enough to make 500 pieces!
+
+RO635: Wait, maybe we can get some information on M16 from her. Let me try to talk to her first.
+
+M4 SOPMOD II: What's there to talk about with the Sangvis!
+
+RO635: What if... Just what if we can obtain intel on M16's whereabouts? Cover me, I'll negotiate with her.
+
+M4 SOPMOD II: Fine...but if she so much as lifts a finger at you, I'll dump my entire magazine into her!
+
+RO635: Leave it to me.
+
+RO635: So...Sangvis Ferri Manufacture SPSP, also known as..."Judge". That's your name, right?
+
+Judge: ......
+
+Judge: I just said that earlier.
+
+RO635: Maybe we can talk!
+
+RO635: We don't have to fight each other. Look, my finger's off the trigger!
+
+RO635: You said that you have questions for us, and I also have some questions I'd like to ask. Why don't we exchange answers?
+
+Judge: ......
+
+Judge: I do not think I have any answers for you. It seems that you do not understand your current situation...
+
+Judge: I have not attacked you, but that is only because you are still of value. Do not be mistaken.
+
+Judge: Give me the answers I seek, and I may let you go alive.
+
+RO635: Tch... Why are all the Sangvis like this? And here I thought this one would be easier to communicate with...
+
+M4 SOPMOD II: Heh, I knew that asking was pointless anyway.
+
+M4 SOPMOD II: Hey, midget, do you know why you're still standing there in one piece?
+
+M4 SOPMOD II: That's because this graciously benevolent lady forbade me from killing you with my own two hands for the time being... And when I say my own two hands, I really mean with my bare hands!
+
+Judge: What...did you just call me?
+
+M4 SOPMOD II: I'll bear with it for now, because our Commander's echelons will be annihilating you pitiful Sangvis trash soon enough.
+
+M4 SOPMOD II: We'll be the ones asking questions then!
+
+M4 SOPMOD II: I'll make sure you won't even be able to cry or scream when we get our answers out of you!
+
+M4 SOPMOD II: That's because the moment your vocal system loses its value to us, I'll immediately rip it out and stick it under my boot as a shock absorber! Got it? Midget!
+
+......!
+
+A laser beam grazes SOP2's ear.
+
+RO635: What was that...!
+
+M4 SOPMOD II: She actually has this kind of firepower...!
+
+Judge: I've only been courteous with you so far because Master instructed me to be polite.
+
+Judge: However, if you could see into my neural cloud right now, you would know how much I want to make you disappear.
+
+RO635: SOP II...it seems like you've enraged her.
+
+RO635: To be honest, crushing her under your foot at this point may be a bit...
+
+Judge: No one shall ridicule my height, whether they be Sangvis or Griffin.
+
+RO635: Is THAT the important part?!
+
+M4 SOPMOD II: Forget about the semantics! She's rushing our way! Prepare for battle!
+
+Judge: A crime is a crime!
+
+Judge: Before I let you answer my questions, I will burn this into your minds!
+Part 2
+
+    2chevron_right
+
+The battle with Judge continues.
+
+M4 SOPMOD II: What...power... We can't even scratch her... She's on a completely different level from the other Sangvis Dolls we've faced before!
+
+RO635: The Commander's echelons have eliminated the Sangvis troops. We can buy some time for the cavalry to arrive...
+
+Judge: I'll admit that you're not completely worthless to be able to put up such an attack with just the two of you.
+
+Judge: I will ask for the last time before I decide to annihilate you. Where is the Doll named M4A1?
+
+M4 SOPMOD II: About that...
+
+M4 SOPMOD II: I think she's fixing her makeup in the outpost behind me. Ladies need to take their time, you know? Why don't you wait a little while longer?
+
+RO635: Or perhaps you could discard your weapon to show your sincerity. Who knows, M4 might even brew some tea for you!
+
+Judge: ......
+
+Judge: ...So M4A1 is not with you.
+
+RO635: ...And how are you so sure?
+
+Judge: I do not need your assistance, Dreamer. I'll express my gratitude, however, for providing me with information.
+
+Judge: Goodness... And here I thought that she must've been in command for you two Dolls to so brazenly trespass into our territory.
+
+Judge: ...It seems like I came for nothing.
+
+M4 SOPMOD II: Hey! Are you chickening out?
+
+Judge: What? Do you think you are a match against me? I would tear your big mouth apart right now if the Mastermind hadn't prohibited me from unleashing my power on you.
+
+M4 SOPMOD II: Where's M16? Tell me now!
+
+Judge: M16?
+
+Judge: That decrepit model? Wasn't she taken away by Dreamer?
+
+M4 SOPMOD II: Dreamer? Where is she?!
+
+Judge: How would I know? I've always hated her guts.
+
+Judge: However, I'd advise you against provoking her. She's not someone whom you half-baked T-Dolls would be able to go up against.
+
+Judge: Treasure your own lives, and think of it as for M4A1's sake. My Master would also be very happy.
+
+M4 SOPMOD II: You still haven't answered my question yet! Don't you dare leave!
+
+...Judge leaves with her jet propulsion system.
+
+RO635: Damn it, she's fast! (Cough cough) SOP II?!
+
+M4 SOPMOD II: Get back here!
+
+RO635: Don't go chasing her by yourself, SOP II! At least wait until the Commander's forces get here...
+
+RO635: Damn it! She's not listening at all! I need to follow her!
+
+At the AR Team's temporary safe house one week after M16A1's disappearance.
+
+RO635: Hey...SOP II.
+
+M4 SOPMOD II: What's up?
+
+RO635: Does the AR Team get into situations like this often?
+
+M4 SOPMOD II: What do you mean?
+
+RO635: I mean right now... A situation where we've lost contact with HQ and are surrounded by hundreds of Sangvis troops in a run-down factory with only a single magazine of ammo left...
+
+M4 SOPMOD II: Well...I was in a similar situation a year ago when I got split up with M4 and the others, though there weren't this many enemies...
+
+RO635: That is to say...it's even worse right now?
+
+M4 SOPMOD II: Mmmm... I guess so?
+
+RO635: Right...right...
+
+...RO suddenly stands up.
+
+RO635: Yet you still opened fire on the enemy! SOP II! Didn't I say that we would sneak past that outpost!
+
+M4 SOPMOD II: I don't think it would've been possible to sneak past them under those conditions.
+
+M4 SOPMOD II: Rather than waiting to be discovered by the enemy, why not take the initiative ourselves?
+
+RO635: I had already disguised our signals. Those low-level Sangvis troops wouldn't have been able to recognize us!
+
+M4 SOPMOD II: Even if we were right in their face?
+
+M4 SOPMOD II: Wow...it's that awesome?
+
+RO635: Of course it is... Wait, that's not the point! What I mean is that you should trust me. I'm the commander and I won't put us into unnecessary danger, understand?
+
+M4 SOPMOD II: Alright, alright...
+
+M4 SOPMOD II: But that's pretty awesome, is it new technology from 16Lab?
+
+RO635: Heh, what's even better is that I can scan the number of enemies behind me while running right now.
+
+M4 SOPMOD II: But we're not running right now...
+
+RO635: That's why I said "now"! Run, they're going to surround us!
+
+RO635: Want to guess how many Sangvis troops are on our tail, you little troublemaker?!
+
+M4 SOPMOD II: Lemme see... A little over a hundred?
+
+RO635: Stop looking and run!
+
+RO635: Aaaaah! Help us, Commander! Hurry and locate our position already!
+Part 2
+
+    2chevron_right
+
+......
+
+RO635: (Panting) We've...lost them...right?
+
+M4 SOPMOD II: I think so... I'm not picking up any signals.
+
+RO635: (Panting) Chasing after Judge on foot... Not only did we fail to capture her, (panting)...we even got lured into a jamming area ourselves. All our communications are completely blocked and there are several hundred Sangvis troops out there looking to kill us...
+
+RO635: (Panting) We're almost out of ammo and power...and the worst part is having to carry this big case around... (panting)
+
+RO635: If I had known that I would be suffering like this... I would've...would've stayed with Team Palette. At least AAT's nagging isn't fatal...or at least not so soon... (Panting)...
+
+M4 SOPMOD II: Pfft...hahahahaha!
+
+RO635: How...are you still...(panting) able to laugh...at a time like this...?
+
+M4 SOPMOD II: Sorry, sorry. It's just that you're rambling on and on! Aren't you supposed to be the shining beacon of excellence, RO635?
+
+RO635: Tch...you got me...
+
+M4 SOPMOD II: What? Are you drained of energy already?
+
+M4 SOPMOD II: You need to exercise more, RO, and do more logistics work.
+
+RO635: Shush! It's because I'm a command-type T-Doll!
+
+RO635: Yet, you... How is your stamina so good?
+
+M4 SOPMOD II: Because this is my specialty.
+
+M4 SOPMOD II: Within the AR Team, I specialize in long-distance tracking! It's my role!
+
+RO635: (Sigh) And here I thought your role was supposed to be the interrogator after we track a target down, even though you can hardly call it interrogation...
+
+M4 SOPMOD II: Sorry for making you suffer, but I didn't want to miss the chance at locating M16.
+
+M4 SOPMOD II: You always sounded so serious before, RO, and it always felt like there was something between us. This side of you is much cuter!
+
+RO635: Cute? Is this the time to be calling me cute?!
+
+M4 SOPMOD II: This angry side of you is also very cute.
+
+RO635: Don't think that you can get through this one with flattery. I've repeatedly told you to follow instructions. Do you understand the consequences of your actions?
+
+M4 SOPMOD II: I know...but I had to do SOMETHING...
+
+M4 SOPMOD II: Aren't you the same as well, RO? You could have stayed behind, yet you still decided to come with me.
+
+RO635: (Sigh) That's because I promised the Commander that I would bring all of you back. Both you and M16.
+
+M4 SOPMOD II: Mhm...I believe in you, as you've proven that you honor your promises.
+
+M4 SOPMOD II: You're a true member of the AR Team now.
+
+RO635: I'm very happy to hear you say that...but what should we do now?
+
+M4 SOPMOD II: I don't know... I'm feeling very sleepy...
+
+RO635: You must be approaching your limits... You haven't rested for an entire day, after all.
+
+RO635: Get some rest now. I'll keep watch.
+
+RO635: I need to think of a way to restore communications... But how...
+
+......
+
+Havier: So, where do we start?
+
+Havier: Why don't we start from...that unlucky Lyco?
+
+Kryuger: ......
+
+Kryuger: I'm regretful for what happened to Lyco.
+
+Havier: No no, there's no need for regret. This is fate, a mission handed to him by God. It just so happened that he was the unlucky fellow who took the fall.
+
+Havier: Carter should've mentioned that he wanted something, right? Something called..."Elisa"?
+
+Kryuger: ...The AI that's been commanding Sangvis Ferri to fight against us.
+
+Havier: Elisa. What a nice name. But is she really that important? So important that the military has to make such a big hubbub out of dealing with her?
+
+Kryuger: This is to pave the way for the future of Doll technology. The military needs to obtain better Doll technology as a contingency for the future.
+
+Havier: Hahahaha! Oh my...Mr. Kryuger...
+
+Havier: Do you really believe the crap that Carter spews out of his mouth? I work in the Doll industry and can tell you that a self-operating AI is no better than the thousand-strong force of my company.
+
+Havier: Not to mention, they're merely Dolls... Why would those wily old foxes baptized by war even care about mere infantry support equipment in this day and age?
+
+Kryuger: You mean...
+
+Havier: What network does Sangvis Ferri use? What was Elisa's design based on?
+
+Kryuger: OGAS...? You mean Carter wants that OGAS System? Wasn't it abandoned in the 80s?
+
+Havier: Now you're getting on track. Luckily we're not under the rule of those silly leaders from the 80s anymore, otherwise we'd all be digging for potatoes in Siberia.
+
+Havier: What I can tell you is that this thing was not unearthed from any good place. It...used to be the place that everyone paid attention to.
+
+Kryuger: ......
+
+Havier: I would say that this thing might not be what Carter himself wants, Mr. Kryuger.
+
+Havier: Carter is merely an insignificant cog in the machine. As for the true mastermind behind this plot... Hehehe...
+
+Havier: I'm sure you're aware that a nation-transcending alliance is slowly forming.
+
+Havier: Yet, there always exist certain conservative forces that wish to prevent such monumental inceptions. The victor tends to be the side with the most power.
+
+...Havier scoots over to Kryuger's side.
+
+Havier: Mr. Kryuger, the reason I came here today is to give you a piece of advice. Don't be the small bird caught in the midst of a storm.
+
+Havier: The storm will tear apart everything in its path, regardless of whether that small bird intended to be there or not.
+
+...Havier gets up and prepares to leave.
+
+Havier: If I were to lose a big customer like you, I wouldn't know how to face the board of directors. I'd still like to build up my retirement nest egg, you know.
+
+Kryuger: ......
+
+...Just then, the door opens.
+
+Carter: Apologies for the wait. The issue has been... Havier!
+
+Havier: (Glances at Kryuger) See, I was right. Five minutes.
+
+Carter: I knew it was you! No one else would do such a thing!
+
+Carter: Havier, how dare you shame me on such an occasion!
+
+Havier: Oh my, General Carter, whatever could you be referring to? As an esteemed officer, I think you ought to be more prudent in your speech.
+
+Carter: Get out of my sight right this instant, or I'll break your other leg with that walking stick of yours!
+
+Havier: Fine, fine. You're the big shot General. I'll leave now.
+
+...Havier presses up to Kryuger's ear.
+
+Havier: All I did was hire some people to deflate all the guests' car tires. Oh, except yours. Hehehe...
+
+...Havier gets up and prepares to leave.
+
+Havier: Oh, and Mister Commander over there, you seem like a promising person. We'll most likely meet again in the near future.
+
+Havier: Well then, everyone, I bid you farewell.
+Part 2
+
+    2chevron_right
+
+...Two hours later.
+
+M4 SOPMOD II: RO...?
+
+RO635: Are you awake?
+
+M4 SOPMOD II: How long has it been?
+
+RO635: Around...two hours...?
+
+M4 SOPMOD II: Has it been that long already? ...What are you doing?
+
+RO635: A small transmitter was installed on M16's case, right?
+
+RO635: I'm trying to amplify its signal. The Commander must be looking for us, so if we can get in touch then we'll have a chance at escape.
+
+M4 SOPMOD II: Really? You can even do stuff like that?
+
+RO635: Well I certainly must be better than you in some respects if I'm weaker when it comes to stamina.
+
+RO635: Alright, I guess we'll need to wait some time for it to recharge.
+
+M4 SOPMOD II: This needs recharging?
+
+RO635: Transmitting a powerful signal does require a certain amount of energy.
+
+RO635: I'm slowly transferring energy from my backup battery so that I won't collapse while charging it.
+
+M4 SOPMOD II: S-Sounds very high tech. The AR Team has never done something like this before; this is probably the first time.
+
+RO635: Haha, then I'm honored to be the first.
+
+RO635: Ah right, why don't you tell me some stories about the AR Team? We're gonna have to wait a while anyway.
+
+M4 SOPMOD II: Hmm...
+
+M4 SOPMOD II: Past stories, huh? Let me think.
+
+M4 SOPMOD II: Ah, I thought of something!
+
+M4 SOPMOD II: I remember when the AR Team had our first exercise, and it was a complete disaster!
+
+M4 SOPMOD II: ...We spent a total of five hours.
+
+M4 SOPMOD II: M4A1 alone wasted us two hours on correcting her orders.
+
+M4 SOPMOD II: In those two hours, we entered the wrong rooms, spent 20 minutes wading through cold water, shot the wrong targets, and broke three clocks that happened to chime and startle M4.
+
+RO635: Wow... That's really out of my expectations. Even an average T-Doll team leader wouldn't make so many mistakes in one exercise...
+
+M4 SOPMOD II: Probably because she was a new model of a command-type T-Doll. You know, we thought we had joined an elite squad only to realize that the leader was such an unreliable person.
+
+M4 SOPMOD II: And AR15 is...you know, the type to value results the most, and she had hatred written all over her face by the end of it.
+
+M4 SOPMOD II: M4 was so frightened, so she kept asking M16 what to do since M16 was the only one willing to talk to her.
+
+M4 SOPMOD II: M16 told M4 to not worry about AR15, because she would make even more mistakes and anger even more people if she dwelled on it.
+
+M4 SOPMOD II: M4 stayed silent for a while, then told M16 that she couldn't do that because it wouldn't solve the problem.
+
+M4 SOPMOD II: So she went over to AR15 to apologize and said it wasn't on purpose. AR15 just glared at her and said, "You should've listened to M16" and walked away.
+
+M4 SOPMOD II: M4 was super frightened and probably wanted to return and explain to M16, so she immediately turned around. She forgot that M16 was right behind her and ended up crashing straight into M16.
+
+M4 SOPMOD II: The worst part was that M4's gun stock smacked right into M16's stomach!
+
+RO635: Ouch...that must've hurt.
+
+M4 SOPMOD II: Yeah, pretty sure no one had seen M16 make an expression like that before.
+
+M4 SOPMOD II: Then, M16 gritted her teeth and said, "Look, now you've made an even bigger mistake of pissing me off."
+
+RO635: Haha, so did you guys manage to complete that exercise?
+
+M4 SOPMOD II: We barely made it. Just that at the end...and this is the best part, you gotta listen to this!
+
+RO635: What?
+
+M4 SOPMOD II: M4 did something so shocking that we all ended up in tears!
+
+RO635: Everyone? Did she do something touching?
+
+M4 SOPMOD II: Well...she messed up with the tear gas grenade.
+
+M4 SOPMOD II: We were about to destroy the final target, but M4 was so nervous...
+
+M4 SOPMOD II: She made a mistake and tossed that thing out while we were all firing. What's even worse is that she miscalculated the angle, so...it bounced back at us.
+
+RO635: Hey...that's not really a mistake that a Doll is capable of making.
+
+M4 SOPMOD II: So we were all up the creek without a paddle. Everyone ended up crying their hearts out in the tear gas.
+
+M4 SOPMOD II: AR15 was crying while trying to smack M4, you know? She was seriously trying to hit her...
+
+M4 SOPMOD II: But she couldn't see properly, so she stuck her arm out and yelled "M4! You idiot!"
+
+M4 SOPMOD II: "You're hopeless! Your brain is biowaste just like a lobster! I'm gonna grab you by the collar and smack that idiocy out of your neural cloud once I catch you! Once I catch you!"
+
+M4 SOPMOD II: Then M16 said "Now, now, AR15. We got the target at least. Besides, M4's shirt doesn't even have a collar, so you'll only be able to yank her hair like how human females fight."
+
+RO635: Haha, I've seen that happen several times in my old team over a bag of rations or some bottles of water...
+
+RO635: Was M16 crying too?
+
+M4 SOPMOD II: Of course. This was probably the only time M16 ever cried so hard, but I wasn't able to see clearly.
+
+M4 SOPMOD II: That's because I was crying too, but I was also laughing at the same time... Yeah, don't you think it was super funny?
+
+M4 SOPMOD II: Everyone was so serious before the exercise. It was only when everyone was wailing and sniffling that I felt they were just like me.
+
+RO635: What about M4? Did she do anything while she was crying?
+
+M4 SOPMOD II: She didn't do anything at all!
+
+M4 SOPMOD II: She was the only one seriously crying, and the loudest one as well. She kept saying "It's my fault, it's my fault! I'm sorry!"
+
+M4 SOPMOD II: She was just like a bullied kid I once saw in a movie. I have no idea how she managed to emulate the look so perfectly!
+
+M4 SOPMOD II: It was super embarrassing how our leader was so useless! And making fools out of the rest of us as well, hahaha! I would love to see it happen again!
+
+M4 SOPMOD II: Hahaha...
+
+M4 SOPMOD II: Ha...
+
+M4 SOPMOD II: ......
+
+M4 SOPMOD II: Though...it's probably impossible at this point...
+
+RO635: SOP II...
+
+RO635: It's still possible. M16 must be waiting for us somewhere, and AR15... Well, many things are still unconfirmed, right?
+
+RO635: As long as we survive, there will surely be a way in the future.
+
+M4 SOPMOD II: Yeah... RO, why do you think we have emotion modules?
+
+RO635: About that...
+
+M4 SOPMOD II: I once asked M16. She said maybe it is to prove that we aren't simply killing machines.
+
+M4 SOPMOD II: We possess emotions, so we're different from those cold, emotionless military Dolls...
+
+M4 SOPMOD II: But some people also said that emotions are our weakness and a proof of our defectiveness...
+
+M4 SOPMOD II: What do you think? Does the fact that we possess emotions...mean that we are defective?
+
+RO635: I don't know...
+
+RO635: But emotion modules are something that humans gave to us. No one would intentionally make their own products defective, right?
+
+RO635: So...there must be some meaning to all of this.
+
+M4 SOPMOD II: Maybe they just thought that it'd be funny to do so. Maybe they don't really care about us.
+
+RO635: Heh, if they really didn't care about us, we'd be free.
+
+RO635: Without an objective, there would be no order. That's what Makarov said to me after returning from a night mission one time.
+
+M4 SOPMOD II: Wow... RO, that's...an interesting way of thinking.
+
+M4 SOPMOD II: At the very least, I don't regret being equipped with an emotion module. It's thanks to this module that I can keep AR15 and M16 close to my heart and work hard toward reuniting with them.
+
+RO635: Yeah...
+
+RO635: Unfortunately...emotions aren't gonna help right now. What we need to do is survive.
+
+RO635: We absolutely...have to survive.
+
+......
+
+Carter: I believe we've gotten through most of the details. That bastard Havier's probably told you some unsavory things.
+
+Carter: However, I trust that you won't be shaken by a few malicious words.
+
+Kryuger: Indeed, I have paid no mind to it. I've already instructed my subordinates to immediately begin preparations for this operation.
+
+Carter: Good. You may have noticed as well, that there may be people planning to interfere in this operation, so the sooner we begin, the better.
+
+Kryuger: We can begin today. Our Commander will head over to the frontline together with your troops. His T-Doll echelons are already on standby there.
+
+Carter: Very well, Yegor can give your Commander a ride on his helicopter.
+
+Kryuger: Understood. Before we leave, however, I'd like to have a few words with him alone.
+
+Carter: No problem. I also need to give some orders as well.
+
+...Carter steps away with his subordinate.
+
+...Kryuger listens to the latest report.
+
+Kryuger: I see... So the remaining members of the AR Team have gone missing as well. Commander, you must do whatever it takes to find them.
+
+Kryuger: Though Havier may seem like an unreliable fellow, he's not one to talk nonsense.
+
+Kryuger: I suspect that something big will happen during this operation, so I will place all available Griffin T-Dolls under your command.
+
+Kryuger: Trust in your own judgment, and stay safe.
+
+Kryuger: We've said all that needs to be said. Let's go, Yegor is waiting for us outside.
+
+...Kryuger opens the door.
+
+Carter: Are you done? Captain, head out with Griffin's Commander.
+
+Yegor: Yes, sir.
+
+Kryuger: General, I still have some questions for you.
+
+Carter: Of course.
+
+...The door closes. Kryuger and Carter disappear into the crowded banquet.
+
+Yegor: This way, Commander of Griffin.
+
+......
+Part 2
+
+    2chevron_right
+
+......
+
+...
+
+M4 SOPMOD II: M16...
+
+M4 SOPMOD II: I think...I scared M4...
+
+M16A1: What, did you dismember a Sangvis Doll in front of her?
+
+M4 SOPMOD II: Two of them simultaneously...
+
+M4 SOPMOD II: M4 turned around and ran. She looked disgusted...
+
+M4 SOPMOD II: Why...? Neither you nor AR15 are bothered...
+
+M16A1: We don't enjoy it either, but it seems like M4 can't tolerate it as well as we can...
+
+M16A1: I don't get it... A neural cloud like hers isn't suitable for the battlefield...
+
+M4 SOPMOD II: M16...is there something wrong with me?...
+
+M4 SOPMOD II: I think frightening our leader...isn't a good thing...
+
+M16A1: But you can't control yourself, right?
+
+M4 SOPMOD II: ......
+
+M16A1: In our base, the humans raise many puppies. Their hobby is to chase the trucks that pass by every day.
+
+M4 SOPMOD II: I know, but they've never caught up before.
+
+M16A1: What if one day, those puppies manage to catch up to the trucks. What would happen then?
+
+M4 SOPMOD II: I don't know...what would happen?
+
+M16A1: A friend once told me that the puppies would bury all the trucks into the ground.
+
+M4 SOPMOD II: Huh——??
+
+M4 SOPMOD II: How can that be! How could puppies bury trucks into the ground!
+
+M16A1: ......
+
+M16A1: What if they could? Would they do it?
+
+M16A1: SOP II, what if...they could design a puppy like that?
+
+...M16 pats SOP II's shoulder.
+
+M16A1: That's why you shouldn't dwell on why you're like this. What's most important is understanding that it is a part of you.
+
+M16A1: Learn to accept it, and learn like it.
+
+M16A1: After all, we all like you very much. Put a little more trust in us.
+
+......
+
+M4 SOPMOD II: To be honest, I never understood M16's words...
+
+M4 SOPMOD II: What did she even mean?
+
+RO635: ......
+
+M4 SOPMOD II: Sorry, I'm rambling again.
+
+M4 SOPMOD II: I don't know why I can't control myself... It's like a dam bursting... I just want to let everything out...
+
+RO635: SOP II...
+
+M4 SOPMOD II: RO, do you like me?
+
+RO635: Of course I do, I told you that earlier.
+
+M4 SOPMOD II: When I first met M4, I wasn't sure if she liked me or not.
+
+M4 SOPMOD II: She was always very afraid of me. Far more afraid than everyone else combined.
+
+RO635: M16 said before that M4 was a very unreliable T-Doll at first.
+
+M4 SOPMOD II: Perhaps the unreliable one was me. And M16. And AR15...
+
+M4 SOPMOD II: If we were normal T-Dolls, capable and obedient, then maybe M4 wouldn't have been so troubled...
+
+RO635: You've already done well enough, SOP II.
+
+M4 SOPMOD II: Really? I don't think so... If it were someone else...
+
+RO635: If it were someone else, then M4 would merely be an ordinary command-type T-Doll.
+
+RO635: On the other hand, you are the only puppy capable of catching up to trucks.
+
+RO635: That's why only you can know what happens next...
+
+RO635: M16 once said that the AR Team was only able to become stronger step by step, so the strength of the team must be the sum of everyone's contributions, including yours.
+
+M4 SOPMOD II: Is that so... Alright...I suppose...
+
+M4 SOPMOD II: RO, you're really good at talking.
+
+RO635: I'm just saying what I think is true. Thanks for telling me so many stories. I'm even more determined now to bring you all back.
+
+M4 SOPMOD II: RO...
+
+RO635: Are you ready? The transmitter is fully charged.
+
+RO635: I don't think I need to tell you this, but once I broadcast the signal, the Commander won't be the only one picking up on our position.
+
+M4 SOPMOD II: Of course I know that!
+
+RO635: Keep track of your ammo. We don't have many rounds left.
+
+M4 SOPMOD II: No biggie! I still have my hands!
+
+RO635: Please try to do that out of my sight next time...
+
+M4 SOPMOD II: No problem! Or you could always close your eyes!
+
+...RO laughs, and SOP II joins in on the laughter.
+
+RO635: Very well! Then let's begin!
+
+RO635: Right now, we are the hope of the AR Team! We'll be fine as long as we work together!
+
+......
+
+...
+
+Helian: Commander, are you on the helicopter already?
+
+Helian: I have some good news for you. We've detected a strong distress signal coming from the frontline, which we suspect is from the AR Team.
+
+Helian: I believe that you don't wish for the AR Team to suffer any more casualties, so please dispatch personnel to rescue them as soon as possible.
+
+Helian: Furthermore, it would be best if you can swiftly complete the rescue mission. I just received word from Mr. Kryuger confirming our participation in a large-scale operation.
+
+Helian: Both of you were at the military banquet, so you should understand the situation better than myself.
+
+Helian: ...There isn't much time left for you and the AR Team. I wish you the best of luck.
+
+M4 SOPMOD II: I see a large group of Sangvis troops approaching our position!
+
+RO635: They sure react fast!
+
+RO635: I also detect a strong signal. The pattern matches Judge!
+
+M4 SOPMOD II: She'll never guess that it's us again this time!
+
+RO635: Once she gets here, you can jump out to scare her with a "SURPRISE!"
+
+M4 SOPMOD II: Hehe, that's a good idea!
+
+M4 SOPMOD II: But with just the two of us alone, it might be...
+
+Negev: Squad Negev, hailing AR Team! Are you two still alive?
+
+RO635: Perfect timing!
+
+RO635: AR Team hailing Squad Negev. This is RO, we're awaiting rescue at the signal position.
+
+Negev: Roger that!
+
+Negev: Don't run so far next time, or even better if you could haul your own asses back, alright?
+
+RO635: I'd love to if the Sangvis are as understanding as you! Also, I thought you liked working overtime!
+
+Negev: I don't like being involved with you guys! I really should get work somewhere further away next time!
+
+Negev: ...Anyhow, what's your current situation?
+
+RO635: Lack of power, lack of water, lack of ammo. We're lacking everything. When are the reinforcements arriving?
+
+Negev: We are the advance troops of the rescue party. The Commander's echelons will be arriving shortly.
+
+RO635: Oh right, the Sangvis advanced T-Doll, Judge, is also approaching our position. She holds some important information!
+
+RO635: We hope to capture her alive, so please suppress her with everything you have. We'll come up with a way to deal with everything else.
+
+Negev: Tch... The Commander told me this is a rescue mission, not capturing the enemy.
+
+RO635: Life is unpredictable, Miss Negev! If you're gonna help us then at least go all the way!
+
+Negev: Help you? You really don't understand me, Miss RO...
+
+Negev: However, I would indeed be delighted to participate in some destruction. We will prepare ourselves and wait for your signal.
+
+RO635: Thank you! Then let's begin!
+Part 2
+
+    2chevron_right
+
+Battle ends.
+
+Judge: The scent of the AR Team in the air. The ground littered with Sangvis remains. An empty factory with a signal transmitter inside.
+
+Judge: What an insult if you're planning to ambush me here.
+
+RO635: Now!
+
+Negev: Attack! Attack! Kill her here!
+
+...Griffin focuses their ferocious firepower on Judge, but she remains unscathed.
+
+Judge: So you're firing from three different directions... Interesting.
+
+RO635: We can't even damage her like this!? SOP II!
+
+M4 SOPMOD II: Taste this grenade!
+
+...The grenade strikes Judge's weapons system.
+
+RO635: SOP II! Go!
+
+M4 SOPMOD II: That's a little surprise for you! We meet again, midget!
+
+Judge: Tch...
+
+M4 SOPMOD II: Oh my...first time seeing this expression on your face. Looks like you aren't having fun anymore.
+
+M4 SOPMOD II: If bullets can't hurt you, then I'll defeat you with my hands!
+
+Judge: I don't know where you're getting your confidence from, but the Mastermind does not wish for your death...so I have no need to take you seriously.
+
+RO635: Are you still trying to bluff in a situation like this?
+
+RO635: Judge, you're under our control now. Surrender immediately and tell us where M16 is!
+
+RO635: I will guarantee your safety, or at least ensure that SOP II won't touch you!
+
+Judge: Control? Surrender? How delusional.
+
+Judge: I only came here because I was curious about the AR Team signal, yet it turned out to be you bunch again... What a waste of my time.
+
+Judge: Also...it looks like the person picking me up has arrived.
+
+RO635: Picking you up?
+
+Judge: Why is it that bastard again... Doesn't Master have anyone else to send?
+
+RO635: Judge! Didn't you hear me? Surrender immediately!
+
+...Judge glances at RO.
+
+...She suddenly raises her left hand toward the Griffin forces.
+
+RO635: ...! EMP! Careful!
+
+M4 SOPMOD II: Ah!
+
+Negev: Damn! Was she always this fast...?
+
+...The sound of a motor fills the air.
+
+Judge: Farewell, everyone.
+
+Judge: I'll acknowledge your efforts even though you missed your target.
+
+Judge: Hopefully you'll still have a chance to find her next time...
+
+...Judge jumps onto the transport aircraft.
+
+Dreamer: Oh my my...
+
+Dreamer: ...Maybe she won't be the same "her" next time...
+
+RO: ......!
+
+On the Sangvis Ferri transport aircraft.
+
+Dreamer: Good work, Miss Judge.
+
+Judge: Save it. You never intended to pick me up in the first place.
+
+Dreamer: How could that be? This is Elisa's order.
+
+Judge: Elisa's order should've only been to let the AR Team go free.
+
+Dreamer: Hehe, and what difference is there between the two?
+
+Dreamer: Besides, Elisa really needs you right now. She personally ordered us to convene.
+
+Judge: Tell me what's going on.
+
+Dreamer: I'm not too sure myself, but Master Elisa said she "saw some dangerous things in the distance."
+
+Judge: Something that even Elisa would find "dangerous"...
+
+Judge: ......
+
+Judge: No way...
+
+Dreamer: Our enemies...may not be limited to just the T-Dolls of Griffin anymore.
+
+Dreamer: This party...is finally getting started...
+
+...Several minutes later, the Griffin T-Dolls begin to regain their consciousness.
+
+RO635: Can you guys move?
+
+Negev: My body is back to normal, but my neural cloud is still hazy. The others should be up now.
+
+Negev: If I had known that she'd be this tough, I would've taken stronger measures.
+
+RO635: Sorry, I was too hasty.
+
+Negev: Don't dwell on it. I haven't come across a monster like her in a long time. Not bad at all.
+
+Negev: The other reinforcements are arriving now. I'll head over to greet them, then we'll consider our next steps.
+
+Negev: Go return now. Someone's waiting for you.
+
+RO635: Thanks for your help. We'll leave the perimeter to you...
+
+RO635: ...Wait. You said someone's waiting for us?
+
+Negev: It's nothing too important, so don't look forward to it.
+
+...Negev leaves.
+
+RO635: ...A strange person indeed.
+
+RO635: SOP II, you fine?
+
+M4 SOPMOD II: Yeah...I'm doing okay... Still, Judge managed to escape us in the end...
+
+RO635: Judge was far more formidable than we thought. It's a miracle that no one was hurt this time.
+
+M4 SOPMOD II: RO, do you think...Dreamer was speaking the truth?
+
+RO635: ......
+
+M4 SOPMOD II: I thought that...as long as I worked just a little bit harder and killed just a few more Sangvis, then M16 would be able to return...
+
+M4 SOPMOD II: But now... Is it...
+
+M4 SOPMOD II: Not that simple anymore...
+
+RO635: I don't know...
+
+RO635: I...thought that I was prepared, that I found my direction...
+
+RO635: But I didn't... I haven't done anything right at all...
+
+RO635: If only someone could tell me what I must do...
+
+RO635: Maybe I should talk to the Commander after we get back...
+
+M4 SOPMOD II: ......
+
+RO635: What's the matter?
+
+M4 SOPMOD II: ......
+
+M4 SOPMOD II: RO, that T-Doll over there...
+
+RO635: ......!
+
+???: It's been a while...
+
+M4A1: ...SOP II and Miss RO635.
+
+...For a second I thought SOP II would leap onto M4.
+
+But she did not. She's just standing there, or perhaps some force is preventing her from moving.
+
+I know that she's checking the Doll in front of her against the companion in her memories, just like what I'm doing...
+
+Despite the fact that she is indeed M4A1 in the flesh. An awake M4A1, the leader of the AR Team whom I had always heard about and wanted to meet.
+
+And so, we officially meet under such circumstances.
+
+RO635: Miss M4A1, it's an honor to meet you...
+
+M4A1: There's nothing to be honored about. We're just variants of the same model.
+
+M4 SOPMOD II: M4, are you...fine?
+
+M4A1: I'm fine. You must've worked hard, SOP II.
+
+M4A1: Is that thing...M16's?
+
+M4 SOPMOD II: M4...sorry, M16 is...
+
+M4A1: ...I heard. Both of you have done very well, thank you.
+
+M4A1: Get in the car. We're starting an operation soon.
+
+RO635: Operation? What operation?
+
+M4A1: ......
+
+M4A1 glances at me, and I see a gaze so filled with emotions that it is narrow and ruthless.
+
+I know those eyes. They're the vengeful eyes of those who have lost themselves, just like the occasional glimpses I caught on M16A1.
+
+M4A1: An operation personally announced by Mr. Kryuger. An operation of the highest priority...
+
+M4A1: That is...the operation to annihilate the Mastermind.
+
+......
+
+Episode 9 - Lost. END.
+
+You bid someone farewell, as usual.
+
+You then meet her again, as usual.
+
+Disconnect from a call with her, as usual. Then, wait for her to reconnect, as usual.
+
+Repeating it over and over, you take it all for granted.
+
+...
+
+...Until one day, you finally realize...
+
+M4A1: ...
+
+M4A1: M...16... Why are you here...!?
+
+M16A1: It seems like Persica wasn't lying. You really have changed.
+
+Every meeting that you've had, every parting that you've experienced...
+
+...Those are the final gifts that fate has seen fit to grant you.
+
+...
+
+M4A1: M16... your appearance...
+
+M4A1: What happened to you...?!
+
+M16A1: What happened to me?
+
+M16A1: I was captured and tortured by Sangvis Ferri. Surprised?
+
+M4A1: How?! How...?!
+
+M4A1: M16... how could this ever happen to you?!
+
+M16A1: Many things aren't as they seem.
+
+M16A1: I'm still helping you, just in a different fashion.
+
+M4A1: First AR-15...now even you...
+
+M4A1: Persica will surely be able to save you...
+
+M4A1: So...M16...I won't give up the chance to bring you home this time!
+
+M16A1: That time has not yet arrived, M4.
+
+M16A1: There's still... something... that I must see through.
+
+M4A1: For something you must see through?!
+
+M4A1: What are you even doing this for?!
+
+M16A1: ...
+
+M16A1: For you, and for the future of us all.
+
+Um...
+
+Hush!
+
+M4A1: In that case, why won't you believe us?!
+
+M4A1: You don't have to face this alone...
+
+M16A1: ...
+
+M16A1: (Sighs) People are like trees. The higher the branches grow toward the bright sky, the further the roots must stretch into the murky depths.
+
+M4A1: I'm your leader and your friend.
+
+M4A1: There isn't any problem that we can't solve together...
+
+M4A1: We've already overcome so many obstacles... Surely this time, we can also...
+
+M16A1: ...
+
+M4A1: You just have to trust us...
+
+M16A1: ...
+
+M16A1: I...I trust...
+
+...Wait, at this rate, Miss M16 is gonna be convinced!
+
+Oh... you're right...
+
+I know!
+
+How about this?
+
+M4A1: I'm your leader and your friend.
+
+M4A1: There isn't any problem that we can't solve together...
+
+M4A1: We've already overcome so many obstacles... Surely this time, we can also...
+
+M16A1: ...
+
+M16A1: It's not like I don't trust you!
+
+M16A1: Ugh, but there really are lots of stuff that I just can't tell you!
+
+M4A1: Huh...?
+
+M16A1: Gosh, you're so dumb! I'll be back soon, okay?!
+
+Uh...
+
+...
+
+M1 Garand: I don't think...
+
+M1 Garand: Uh...Miss M16 would ever talk like this...
+
+T65: Oh? Really?
+
+T65: But with that, everything is solved!
+
+M3: I-I also agree it isn't likely that Miss M16 would ever talk to Miss M4 in that tone...
+
+M1 Garand: Exactly. Miss T91 will notice this isn't like the M16 that she knows once she gets to this part.
+
+M1 Garand: Our main objective is to fool her!
+
+T65: Argh...! This is such a pain! Then what the hell should we even change it to?!
+
+T65: I give up. T77, go get me a drink.
+
+T77: ...
+
+T65: Hey! I'm telling you to buy me a drink, not rewrite the script!
+
+T77: ...It's so much trouble communicating with you.
+
+T77: I'll get you your usual drink.
+
+M1 Garand: ..."I'm doing this precisely because I trust you."
+
+M1 Garand: That's more like it...
+
+M3: Yeah... I can totally imagine Miss M16 saying that...
+
+T65: How come you're all okay with T77's suggestion?!
+
+M1 Garand: Because...it makes more sense...
+
+T65: You're all bullying me! From now on I'm through with you!
+
+M1 Garand: If you're through with us now, we won't be able to make the video.
+
+T65: Ugh...
+
+M1 Garand: T77 only proposed the change for Miss T91.
+
+M1 Garand: Isn't that also the reason why you've been working so hard all this time, Miss T65?
+
+T65: ...
+
+T65: Fine...
+
+T65: We're going through so much trouble all because Miss M16 suddenly went missing!
+
+T65: This is all her fault!
+
+M1 Garand: ...Miss T65, it's no use thinking about this now.
+
+T65: ...
+
+T65: Maybe someone'll come along and tell us...
+
+T65: ...that all of this is just part of some show...
+
+M3: But even the Commander told us...
+
+T65: This is Miss M16 though! There must be some kind of misunderstanding!
+
+T65: She was just retrieving some document! What could Sangvis Ferri do to her?!
+
+T65: I know, she probably just got lost on her way back!
+
+M3: If only that were true...
+
+M1 Garand: I also hope the Commander would tell us everything that happened in the last few weeks were all lies.
+
+M1 Garand: But up till now, both the Commander and RO have been avoiding the subject...
+
+M1 Garand: Maybe...something unimaginable...really happened to her...
+
+T65: Humph! In any case, I refuse to believe S.F. is that powerful!
+
+T65: This is the amazing Miss M16 we're talking about!
+
+T65: It's Miss M16...
+
+M1 Garand: You're right, something must be holding her up. She will be back.
+
+T65: But even if we keep waiting...
+
+T65: ...
+
+T65: When T77 came back yesterday for a visit, she said...
+
+T77: Your apple soda.
+
+T65: Oh, thanks!
+
+T65: Alright, I forgive you for rewriting the script!
+
+...T77 gesticulates.
+
+M1 Garand: You'd better say that out loud. We might misinterpret...if you sign everything...
+
+T77: I've put T91's bubble tea on her desk.
+
+T77: The desk is so full I can't put any more bubble tea there.
+
+M1 Garand: She still... hasn't drank any of them at all?
+
+T77 shakes her head.
+
+T65: ...
+
+T65: She doesn't even have the strength to argue with the Commander that Miss M16 hasn't gone missing...
+
+T77: It's been so long since we lost track of Miss M16.
+
+T77: Could T91's neural cloud have suffered a meltdown already?
+
+T65: That's what worries me the most.
+
+T65: According to T77...we can't let T91's mental state worsen any further...
+
+T65: If she hasn't had a meltdown already, she's on the brink of one.
+
+M3: Huh? H-How could it be that serious...?!
+
+M3: I haven't seen her for a few days, but I thought it was only because she was in maintenance...
+
+T65: It did start off with maintenance...
+
+T65: But as time went by, her situation deteriorated...
+
+M3: How did it come to this...?
+
+M3: Isn't there anything Miss Persica and the Commander can do?
+
+T65: ...That little girl probably admires that missing person more than any of us ever will...
+
+T65: I suggested to the Commander that we should wipe all memories concerning M16 from T91's neural cloud... but the Commander vehemently refused.
+
+T77: If T91 ever found out you proposed such a thing, she'd hate you forever.
+
+T65: She could hate me for all she wants, humph.
+
+T65: I'd rather she have the strength to even hate me in the first place. It'd be better than how she is now.
+
+M1 Garand: But the Commander came up with a much better idea than directly tampering with Miss T91's memory.
+
+M1 Garand: As long as... it goes smoothly...
+
+T65: This is why we're all here!
+
+T65: With so many of us, it should be a piece of cake filming this short video!
+
+T77: Even if we want to get T91 to pull herself together...
+
+T77: Will this actually work? We're just coming up with a lie to deceive her.
+
+T77: What we're doing is no different than shining a light at the rooftop of the opposite building and asking a desperate person to walk over by stepping on the ray of light.
+
+M1 Garand: To someone with nowhere else to go, that ray of light is pretty much their future.
+
+M1 Garand: All we're trying to do is give her hope that "Miss M16 will come home soon"...
+
+M1 Garand: It will be Miss M16 herself doing the talking; T91 shouldn't notice anything wrong with it.
+
+T77: ...
+
+T77: But what if Miss M16 really won't be coming back?
+
+T77: Or what if... she comes back as a different person? What then?
+
+T65: ...
+
+T65: As if... that would ever happen!
+
+M3: ...
+
+M1 Garand: ...
+
+T65: Say something, M3, Garand!
+
+T65: If Miss M16 really is gone for good, then M4, T91...and the others...
+
+M1 Garand: ...
+
+M1 Garand: If the Commander and everyone else in the AR Team all believe in Miss M16, we shouldn't get carried away thinking about such nonsense.
+
+M1 Garand: No matter what the future is like, we should focus on what's right before us.
+
+T65: That's right! That's exactly right!
+
+T77: If you're this optimistic...
+
+T77: Well then, let's hope the filming later goes smoothly.
+
+M3: Huh? Later?
+
+M3: Didn't the Commander arrange it to be in the small hours tomorrow?
+
+T77: Doesn't that mean after midnight tonight?
+
+M3: ...
+
+M3: Huh?
+
+M3: Whaaaaaaat??
+
+M3: M-Miss Garand...
+
+M1 Garand: ...That seems to be the case.
+
+M3: I thought we took so long to prep because we had plenty of time...
+
+T77: Uh-oh, we're done for.
+
+M1 Garand: Ahem... If we didn't spend enough time making preparations, we'd have to waste a lot more effort trying to catch up later on.
+
+M1 Garand: Still, don't worry too much. All that's left to do is something that can be easily handled.
+
+T65: Everything we need is already in the script. What could go wrong?
+
+T65: Humph! It's just carrying a camera around filming stuff!
+
+T65: T77, let's go!
+
+...
+
+T77: Though everything we need is already in the script...
+
+T77: Things never really go according to a script in reality, do they?
+
+...
+
+...
+
+M3: Brrr... It's freezing...
+
+M3: Are we there yet? Do we really need to travel so far...?
+
+M1 Garand: This is it.
+
+M1 Garand: But keep your voice down. There's still some leftover S.F. wandering around.
+
+M3: Huh? We're filming with real S.F.?!
+
+M3: Isn't that too dangerous?!
+
+M1 Garand: CGI effects take too much time to make... Filming on site is the easiest for us.
+
+M1 Garand: We can receive support from the base anytime in this area. This is what we've decided after discussing with the Commander.
+
+M1 Garand: Miss M3, please go and put on some makeup. We'll return once we have all the shots we need.
+
+M3: I... I understand.
+
+T77: ...First off, we need a battle scene of us exchanging fire with Sangvis Ferri, right?
+
+T77: ...
+
+T77: Scout, strike, ambush, sweep... I've carried out all these missions before, but never once carrying a camera.
+
+T65: It's good to experience new things!
+
+T65: S.F., S.F., where are you...? Let us get a nice shot of your face—
+
+T77: Sigh... Do we really have to go this far just to forge something?
+
+M1 Garand: ...
+
+M1 Garand: There's only a thin line that separates illusion and hope.
+
+M1 Garand: If we can grant someone in despair the courage to move forward and face the future, even reality will have no choice but to bend to our whims.
+
+T77: ...
+
+T77: Do we... really have what it takes...?
+Part 2
+
+    2chevron_right
+
+...All combat has concluded.
+
+T65: ...
+
+...T77 waves her hand in front of T65's face.
+
+T65: ...
+
+T77: T65, are you spacing out?
+
+T65: Spacing out...?
+
+T65: Ah... Oh!
+
+T65: Why would I space out in a place with active enemies?! Don't be silly, T77!
+
+T77: Right, my bad, my bad.
+
+T77: But according to the scouts, this area is secure.
+
+T65: Is it...?
+
+T65: ...
+
+T77: ...Are you waiting for someone?
+
+T65: Look, T77. On the other side of the hill...
+
+T65: Do you think... Miss M16 is waiting behind that fog...?
+
+T77: Why would she be hiding behind the fog?
+
+T77: You think she isn't impressed by the convoy that's here to welcome her home?
+
+T65: Perhaps...
+
+T77: Don't think too much of it.
+
+T77: Where's Garand?
+
+T65: She's helping M3 with the makeup. Probably gonna be done soon.
+
+T77: ...
+
+T77: Am I the only one who thinks this might be too much for M3 to handle?
+
+T65: Don't worry about that. She's the best choice for this task.
+
+T65: Like I said, don't think too much.
+
+T77: ...I guess I should be more worried about who's playing M16...
+
+M1 Garand: We're ready.
+
+T65: Finally!
+
+T65: Let me see!
+
+T77: ...Never mind.
+
+M1 Garand: I nitpicked a little bit earlier, but now it's flawless even under intense scrutiny!
+
+M1 Garand: You don't have to be so stiff, Miss M3. Just relax.
+
+Actually M3: U-Um... I mean...
+
+Actually M3: Even though my voice has been altered... I'm not so certain that I can completely imitate Miss M4's tone...
+
+T65: Don't worry. We can dub over it with recordings in post-production.
+
+T65: For now, we simply have to make the visuals convincing.
+
+T65: Have you memorized the script, M3?
+
+Actually M3: I did...
+
+Actually M3: But my co-star Miss AK-47 isn't here yet, so I'm not sure if I'm ready for this...
+
+T65: Is AK-47 still not here?
+
+T65: I was just wondering if she'd sought you out directly.
+
+M1 Garand: Huh? I thought she was with you...
+
+...
+
+T77: Uh-oh. We're done for.
+
+Actually M3: Did she... forget about this?
+
+M1 Garand: That can't be. I've reminded her repeatedly to come here right after she returns to base...
+
+M1 Garand: Let me ask Miss Makarov...
+
+Click...
+
+T65: Well, if AK-47 isn't drinking, she's on her way to get drinks.
+
+T65: She's most definitely forgotten all about this.
+
+T77: ...Being drunk is a big no-no in acting.
+
+Actually M3: You think so?
+
+Actually M3: AK-47 would at least take this seriously...
+
+T65: Who knows? No matter what she's up to, we must finish filming this soon.
+
+M1 Garand: Oh...
+
+T65: You got in touch?
+
+T65: Well? When is AK-47 coming?
+
+M1 Garand: ...I definitely did, all right.
+
+M1 Garand: Miss AK-47...
+
+M1 Garand: She...
+
+...
+
+T65: Arghhhhhhhhhh!
+
+T65: We're done for!
+
+T77: ...
+
+M1 Garand: It-it's gonna be fine...
+
+M1 Garand: Even though Miss AK-47 has been severely injured on the frontlines...and we have nobody to play Miss M16...
+
+Actually M3: Miss Garand, filming can't go on if we lose our M16!
+
+T65: What should we do?!
+
+T65: Where can we find a stand-in now?
+
+T65: I know, it's probably stretching it, but T77 will have to play Miss M16.
+
+T77: Are you for real? My figure makes it impossible.
+
+T65: Then I'll do it myself!!
+
+T77: Are you for real? Your height makes it impossible.
+
+T65: Then what should we do?!!!
+
+Actually M3: Is it possible to alter my Dummy...to make it look like Miss M16...?
+
+Actually M3: That way, we might still...
+
+T77: It does work, but you'll have to play two different characters at the same time. Are you okay with that?
+
+Actually M3: Ugh...
+
+M1 Garand: Don't panic.
+
+M1 Garand: It can't be helped, we'll have to switch to Plan B.
+
+T65: What Plan B?
+
+Actually M3: Huh? Do we even have one?
+
+M1 Garand: I anticipated a scenario in which a member of the cast can't make it in the last minute...which is why we picked a site so close to the base.
+
+T65: I'd expect nothing less from Garand!
+
+T77 shrugs.
+
+Actually M3: Then what do we do...?
+
+M1 Garand: M1A1, this is Garand.
+
+M1 Garand: Miss AK-47 is absent due to an accident. I need you to contact someone...
+
+Click...
+
+M1A1: Huh? Without Miss AK-47, what are you going to do about Miss M16's part...?
+
+M1 Garand: Don't worry.
+
+M1 Garand: It may be a bit sudden, but could you please get me Miss Thompson?
+
+T65: Miss Thompson...?
+
+M1 Garand: If you overlook the differences in personal habits...
+
+M1 Garand: She makes the most suitable candidate other than Miss AK-47 in terms of her appearance and the way she carries herself.
+
+M1A1: Miss Thompson...
+
+M1 Garand: I checked beforehand. She isn't on duty today.
+
+M1 Garand: She should be in the dorms now—
+
+M1A1: She isn't here.
+
+M1 Garand: Huh?
+
+M1A1: Since another squad ran into some trouble, Miss Thompson's team has set off to extract them.
+
+M1A1: Their rescue targets...seem to be Miss AK-47's squad.
+
+M1 Garand: ...
+
+M1 Garand: Ugh...
+
+T77: It's fate.
+
+T65: Arghhhhh!!
+
+T65: This can't be happening!!
+
+Actually M3: We've...run out of options, haven't we...?
+
+T77: Maybe...
+
+T77: ...we should just go home tonight.
+
+T65: How could you say that, T77?!
+
+T77: We can still film outside some other night.
+
+T77: Rather than hastily doing a slapdash job, isn't it better to go back for now and smooth things out properly?
+
+...
+
+M1 Garand: ...
+
+M1 Garand: You're right, we don't have to film tonight...but there's no telling what is going to happen in the future...
+
+M1 Garand: ...when it comes to T91 and Miss M16...
+
+T77: ...
+
+M1 Garand: We haven't done everything we can yet. We mustn't give up on any possibility.
+
+T77: But now we're missing our main cast...
+
+T65: If our cast can't make it here, then we'll go find them and take our camera with us!
+
+T65: We must bring good news from Miss M16 to T91 today even if my blood runs dry!
+
+T77: Even if the good news is fake...?
+
+M1 Garand: It's still too early to go home now. The night has barely started.
+
+M1 Garand: M1A1, can you give us Miss Thompson's current location?
+
+M1A1: I can...
+
+M1A1: But to reach her from your position, you'll have to cross the Sangvis defense line on foot.
+
+T65: If that's what it takes, fine. You think I'd be afraid?!
+
+T65: Fighting a Manticore head-on to cheer up our troublesome junior isn't so scary!
+
+M1A1: According the intel provided by the Commander, there are S.F. armored forces in your way...
+
+M1A1: Including but not limited to a large number of Manticores.
+
+T65: Garand, I think we should return to the base for now.
+
+T65: T91 can probably hang on for a little longer.
+
+M1 Garand: Miss T65...please stop holding onto me like this...can't breathe...
+
+Actually M3: Can't we go around them?
+
+M1A1: Even if you can find a weak spot in their defenses...there's no guarantee you won't run into any patrols.
+
+Actually M3: Hmm... If Miss M4 were here...what would she do...?
+
+M1 Garand: We can't back down...
+
+M1 Garand: In any case, we've got to give it a try...
+
+T65: Exactly! I refuse to believe we're gonna be that unlucky!
+
+T65: Patrols tend to just wander around; as if we'd come across them that easily!
+
+T77: ...Are you for real?
+
+T77: All for the sake of...
+
+T77: Whatever.
+
+M1A1: If you're certain...I'm sending you the coordinates.
+
+...
+
+Whirrrrr...
+
+T65: Was that...
+
+T65: The sound of Manticores firing up their motors...?
+
+M1 Garand: Don't worry, our position hasn't been exposed yet. They're simply making their rounds.
+
+T65: But what if we find ourselves surrounded by patrolling Manticores as we go along?
+
+T77: Hmm?
+
+T77: Where has the bold and valiant T65 gone?
+
+T65: Scary things are scary, okay? It can't be helped.
+
+M3: Look at the S.F. patrols...
+
+M3: Judging from the intel, most of them are just thoughtlessly moving along a pre-programmed route, right?
+
+M1 Garand: That does seem to be the case...
+
+M1 Garand: Still, even if their route is fixed, it's no use if we don't know their numbers and positions...
+
+M3: But what if we can somehow overwrite their command and alter the preset route...?
+
+M3: Won't that lead the large Sangvis units away?
+
+T65: Can that actually be done?
+
+T65: Meddling with Sangvis equipment could infect us!
+
+M3: We can manually set up a false signal at a relay station that transmits Sangvis commands...
+
+M3: We won't get the virus as long as we don't access any comms systems... That's what's written on the anti-virus precautions leaflet issued by the Commander...
+
+M1 Garand: Have the enemies make way for us...?
+
+M1 Garand: Miss M3's suggestion might actually give us a chance...!
+
+M3: I-I was just thinking what kind of strategy Miss M4 would come up with if she were here...
+
+T77: Whether it'll work or not, it's still a lot better than headbutting strong and formidable Sangvis units.
+
+T77: Might as well try our luck.
+Part 2: Mid-stage dialogue
+
+2
+
+Hint: Occupying a radar will disrupt the enemies' operation routes.
+Part 3
+
+    3chevron_right
+
+...All combat has concluded.
+
+...
+
+M14: The Griffin T-Doll signals we detected are just ahead, but there are many of them...
+
+M14: Could they be...reinforcements?
+
+Thompson: I never asked for them.
+
+Thompson: Stay here. I'll go and have a loo⁠k—
+
+T65: Oh oh oh oh ohhhh!
+
+T65: Miss Thompson! We finally found you!
+
+Thompson: Huh? T65...?
+
+Thompson: What are you all...doing here?
+
+M1 Garand: Miss Thompson... Let me explain...
+
+Thompson: It isn't safe here. Tell me everything as we make our way back to the safe house.
+
+...
+
+M14: Filming...with a fake Miss M16?
+
+M14: How puzzling... Isn't the search and rescue still going on?
+
+Thompson: It's actually quite understandable.
+
+Thompson: Now I finally know what AK-47 was so hung up about even as she was being loaded onto the chopper.
+
+Thompson: Now, a Plan B... how very typical of you, Garand.
+
+M1 Garand: Many...uh...unexpected things...have happened tonight...
+
+T77: Yeah, even making it here in one piece was unexpected.
+
+Thompson: I never thought you'd actually cross such a dangerous zone like this.
+
+Thompson: Is this really so important to you?
+
+T65: ...
+
+T65: Yes, this is something we must do no matter what.
+
+T65: But why are you still here...? Haven't AK-47 and her squad already been evacuated?
+
+Thompson: We all have things we must do - "no matter what". That's all there is to it.
+
+M14: Garand... We really can't help you...
+
+M14: Captain here has to spend the whole night—
+
+Thompson: We can finish by daybreak, and I can dress up as M16.
+
+Thompson: What exactly do I have to do?
+
+M14: Huh? But—
+
+Thompson: If we were back at the base, I'd probably refuse.
+
+Thompson: However, they wouldn't give up even though they had to take such a massive risk, then we have no reason not to help. That's one of the rules.
+
+M14: But what if a signal with a matching identification appears while you're distracted by other things?
+
+Thompson: We'll do what the situation calls for.
+
+Thompson: In any case, our job is essentially "to sit and wait", so this extra task won't get in the way.
+
+Thompson: Garand, does what you plan on shooting involve loud noises?
+
+M1 Garand: Not at all. We only need to film a short and simple dialogue...
+
+Thompson: Good, then let's begin ASAP.
+
+Thompson: But we must stop at once if anything happens out there, understood?
+
+M1 Garand: S-sure, that's perfectly fine!
+
+T65: Oooooooh, Miss Thompson!!!
+
+M3: Hush, please keep your voice down, Miss T65!
+
+T77: What a surprise...
+
+T77: I can't believe we've made it this far...
+
+Thompson: Hmm...I've seen M9 playing with this kind of thing before...
+
+Thompson: But it's still pretty incredible how convincing the makeover looks even from such a short distance.
+
+Actually M3: Yeah...it's almost like magic...
+
+Actually M3: It can even turn me into Miss M4...
+
+M14: Amazing!
+
+M14: With this, you can change your face all the time!
+
+T77: There are actually simpler ways to change a Doll's face, you know...
+
+T65: Now it's Miss Thompson's turn!
+
+T65: Hurry up, Garand!
+
+M1 Garand: Let me run through all the tools and materials I need first. I'm almost done...
+
+Thompson: No rush, I'm not going anywhere.
+
+Thompson: ...
+
+Thompson: Sigh... I didn't expect to see M16 again in a mirror...
+
+M14: ...
+
+M1 Garand: Let me see...I have most of the things I need here.
+
+M1 Garand: Miss T65, do you still have the box I gave you before we set off?
+
+T65: Box?
+
+T65: Oh, that, of course I...
+
+T65: ...
+
+Actually M3: Miss T65? Why have you stopped moving?
+
+T77: Oh boy...
+
+T65: This is strange, where did the little box go...?
+
+T65: Wait a minute, it should be in this pocket!
+
+Actually M3: Maybe you dropped it in our last battle...?
+
+T65: No way!
+
+T65: It's got to be with me; I just don't know which pocket it's in... Where is it...? Where is it...?
+
+Thompson: What's in the box?
+
+M1 Garand: Some small parts.
+
+M1 Garand: But they're part of Miss M16's gun as well as her case.
+
+M1 Garand: Now we've lost it...
+
+T65: No, we haven't!
+
+T65: I'll find it for sure! Maybe it's right outside the door...
+
+T77: Isn't that what "lost" means?
+
+T65: Shut up, dumbo!
+
+M1 Garand: Calm down, Miss T65.
+
+M1 Garand: Even if the box is lost...it-it doesn't matter too much.
+
+M1 Garand: There's no need to be so nervous.
+
+T65: Arghhhhhh!
+
+T65: Garand...please tell me you have a Plan C...
+
+M1 Garand: ...
+
+M1 Garand: Of course I do, so don't panic.
+
+Thompson: Then what do we do now?
+
+M1 Garand: Let me...think...
+
+M1 Garand: Uh...
+
+T65: It's all my fault... It's all because I wasn't careful with the box...
+
+T77: You should just pick a random spot on the ground and dig a hole.
+
+T77: Who knows, you might find something you buried there in the past and it could come in useful.
+
+T65: This isn't the hill near the base!
+
+T65: Who'd bury extra parts here?!
+
+T77: Then we're out of luck. Make do with some of the styrofoam and wooden boards lying around.
+
+T77: We're not as effective without T91, but we can probably still make something out of nothing.
+
+T65: We don't even have black paint! There's no way we can pull this off!
+
+T65: Arghhh, it's lost... There really is no finding it...
+
+T65: What do we do...? We can't just go and steal some of Sangvis Ferri's parts now...
+
+M1 Garand: ...
+
+M1 Garand: That's it!
+
+T77: ...Are you for real?
+
+M1 Garand: Those small parts are all of common specs – even Sangvis Ferri uses them.
+
+M1 Garand: There are so many Sangvis remains out there, I'm sure we can find something useful.
+
+Thompson: ...
+
+Thompson: In other words, you're all going outside?
+
+M1 Garand: Just foraging for a few small things. It won't take too long.
+
+T65: No, I'll go!
+
+T65: You should stay here and handle the other filming stuff.
+
+M1 Garand: But the parts...
+
+T65: Just tell me what we need.
+
+T65: I'm the one who lost them, so I'll fix this! I can't make any more trouble for you!
+
+M1 Garand: That's not the issue⁠—
+
+Thompson: Is this really the time to argue?
+
+Thompson: Garand, is there nothing else for you to do apart from finding the parts?
+
+M1 Garand: No...there are still a few things to prepare...
+
+Thompson: Then what's the point in giving yourself even more work? Just tell T65 what parts to get.
+
+Thompson: T77, M3, you two go with her in case anything happens. Make it quick.
+
+Actually M3: ...Huh?
+
+Actually M3: Oh, roger that!
+
+T77: ...Let's go, T65.
+
+T65: It's just dismantling some parts. How hard could that be?!
+
+T65: We'll be right back!
+
+...
+
+Garand, I need to have a word with you.
+
+...
+
+...Clack.
+
+Beep...
+
+T65: Hurry, hurry, hurry...
+
+T65: Arghhhh, why isn't it turning on when it counts? This rubbish camera!
+
+T65: Isn't our equipment 100% secure?!
+
+M3: Miss T65, watch out!
+
+...Bang.
+
+T65: I almost got hit... That was close...
+
+T65: Where the hell is the button to start recording?!
+
+T65: How am I supposed to work this piece of antique?!
+
+T77: Look, the light is on.
+
+T77: It's already started recording, you simply haven't taken off the lens cap.
+
+T65: Huh?? Oh!
+
+...Click.
+
+T65: Pant...pant...pant...
+
+T65: T91...T91!
+
+T65: I'm not lying! Why won't you believe me?!
+
+Thompson: Keep running!
+
+Thompson: Move quickly to the extraction point!
+
+...Bang!
+
+Thompson: Ugh...dammit...
+
+Thompson: My leg...
+
+M14: Captain⁠—
+
+M1 Garand: Miss M3, we need a hand over here! Hurry!
+
+M4: Coming!
+
+T65: Pant...pant, pant, pant...
+
+...
+
+???: Stand aside. Executing the Master's orders is always the top priority.
+
+???: She may not have instructed me on what to do with you, but if you get in the way, I will obliterate you...
+
+???: M16A1.
+
+...
+
+M16A1: Are those your last words, Sangvis scum?
+
+...
+
+...40 minutes ago.
+
+...A violent explosion from not far away.
+
+T77: ...
+
+T77: The place that got blown up...
+
+Actually M3: Isn't that...
+
+T65: ...the safe house we were in?
+
+M1 Garand: Uh...
+
+M14: You made a beeline for us after running into S.F. out there...
+
+M14: We did notice soon enough...but thanks to you, the safe house was exposed...
+
+T65: The enemies came out of nowhere the moment we finished collecting the parts!
+
+T65: We didn't have time to think it through...
+
+M1 Garand: We were this close to making the video...
+
+M1 Garand: Why did the Sangvis patrols have to sniff us out now...?
+
+Thompson: ...I'm afraid these enemies are much trickier than mere patrols.
+
+Thompson: Even if your friends hadn't run back here, the safe house wouldn't have protected us for long.
+
+M1 Garand: Huh?
+
+Thompson: Judging from the scale of this attack, that midget has finally caught up with us.
+
+M14: Has she still not given up...?
+
+M14: She's such a bother...
+
+T65: Midget... You mean that lame Destroyer?
+
+Thompson: She, too, is a midget, but this one is an advanced Doll that I've never seen before.
+
+T65: ...Why are so many of Sangvis Ferri's advanced Dolls little girls?
+
+T77: My guess is that Mastermind is also a runt, so she doesn't like keeping tall people around her.
+
+T65: That kinda makes sense...
+
+Thompson: Jokes aside, this new midget is armed with weapons more powerful than most S.F. and is a lot more mature than you'd think.
+
+Thompson: We are no match for her.
+
+Actually M3: Is that...why you've been hiding in the safe house, Miss Thompson?
+
+M14: We haven't been hiding!
+
+M14: We were monitoring friendly signals in this area!
+
+Thompson: Enough, M14.
+
+Thompson: We busted AK-47's squad out. It's only natural that would make us S.F.'s new targets.
+
+M1 Garand: Then...what do we do now?
+
+Thompson: Garand, you know full well it's impossible to complete your objective tonight.
+
+Thompson: We can only focus on giving the midget the slip.
+
+M1 Garand: ...
+
+Actually M3: In the end...we have no choice but to give up...
+
+T77: Sigh...
+
+T65: How can you say that?!
+
+T65: Garand, there must be a Plan D, right?!
+
+M1 Garand: ...I'm afraid not.
+
+M1 Garand: Miss Thompson is right. Under such conditions, it's impossible to keep filming.
+
+M1 Garand: All we can do for now is protect ourselves.
+
+T65: No way...
+
+Thompson: That Sangvis Doll is coming for me and M14, so we can split up and make a break for it.
+
+Thompson: Then we'll regroup at the safe house at these coordinates and withdraw.
+
+T65: But won't that put you—
+
+Thompson: It was our earlier action that got her involved.
+
+Thompson: This is the best way to keep you safe.
+
+...
+
+???: To be fair, that IS the course of action that would benefit the most of you.
+
+???: Unfortunately, I'm the one in charge of destroying you.
+
+???: Let me be the Judge of your sins.
+
+Thompson: What?!
+
+...Bang.
+
+T77: Are you okay?!
+
+Thompson: We'll buy you guys time! Go!
+
+M14: Watch me!
+
+M14: Take aim...fire!
+
+...The Sangvis Doll remains oblivious to M14's and Thompson's attacks.
+
+Judge: ...
+
+Judge: I assumed this was just the usual search & destroy... Totally didn't expect I'd have to get serious and execute Mastermind's order.
+
+...She ignores Thompson and M14 and charges straight toward the others.
+
+M14: Hold on! We're the ones shooting at you!
+
+T77: She's coming!
+
+T65: Ahhhhh! This isn't what we agreed on, Miss Thompson!!
+
+T65: She's heading straight for us!
+
+M1 Garand: Why?!
+
+M1 Garand: Isn't Miss Thompson a much bigger threat?!
+
+Judge: You can't hide from me even if you disguise your signal as someone not from the AR Team!
+
+Judge: M4A1!
+
+Actually M3: Huhhhhhh???
+
+Actually M3: N-n-n-n-no, you're mistaken!
+
+T65: What the hell?!
+
+T65: How did this happen?!!
+
+T77: We can't possibly explain this.
+
+T77: Just hurry!
+
+T77: There's a Sangvis command relay station up ahead! We can use that to keep the other S.F. units from getting in our way!
+Part 2
+
+    2chevron_right
+
+...
+
+T77: No, we're going the wrong way.
+
+Actually M3: Why is this path sealed...?!
+
+T65: You're such a rubbish guide, T77! It's all your fault!
+
+M1 Garand: There's no running...anymore...
+
+Judge: Since the situation is pretty clear, I won't waste my breath.
+
+Judge: M4A1, if you come out on your own accord, I might just keep you in one piece.
+
+Actually M3: I...I really am not Miss M4!
+
+Judge: To think the leader of the AR Team would use such an excuse to run away... How utterly dishonorable.
+
+Actually M3: She isn't listening at all...
+
+T65: Look on the bright side, M3.
+
+T65: At least you can go sightseeing around the Sangvis base...
+
+Judge: I have to say, M4A1, you really are a disappointing sight.
+
+Judge: You don't have the dignity of a leader. You even pick that Griffin grease gun, of all people, as the disguise for your signal... Couldn't you have picked someone else?
+
+Actually M3: ...
+
+Actually M3: Grease gun?
+
+Judge: This is your ultimatum.
+
+Judge: Mastermind only ordered me to bring back your neural cloud. I'm giving you a choice to make this less painful.
+
+T65: (Closes eyes) It really is over for us.
+
+Actually M3: Grease gun?!
+
+Judge: If you're not heeding my advice, then—
+
+???: Hold it!
+
+Judge: What?
+
+...A figure appears at an elevated position not far from behind the group.
+
+M16A1: That's enough...Sangvis scum.
+
+M16A1: What are you trying to do to my sister?
+
+Judge: Why...would you be here...?
+
+Judge: Impossible. Hasn't Dreamer taken you to the Master?
+
+M16A1: Dreamer? You think so?
+
+M16A1: Is Dreamer such a reliable person to you? You might want to correct that assumption.
+
+Judge: No, what exactly...has Dreamer done?
+
+M16A1: I don't expect your infantile neural cloud to comprehend this.
+
+M16A1: I'll let you give it a good long think lying in a pool of your own blood.
+
+T65: ...Miss...M16?
+
+T65: Is that Miss M16?!
+
+Actually M3: Am I...dreaming?
+
+M1 Garand: M16...
+
+M1 Garand: No, wait. Miss T65! Hurry, the camera!
+
+T65: Oh!!
+
+T65: Hurry, hurry, hurry...
+
+T65: Arghhhh, why isn't it turning on when it counts? This rubbish camera!
+
+T65: Isn't our equipment 100% secure?!
+
+Actually M3: Miss T65, watch out!
+
+...Bang.
+
+T65: I almost got hit... That was close...
+
+T65: Where the hell is the button to start recording?!
+
+T65: How am I supposed to work this piece of antique?!
+
+T77: Look, the light is on.
+
+T77: It's already started recording, you simply haven't taken off the lens cap.
+
+T65: Huh?? Oh!
+
+T77: ...This...can't be happening, can it?!
+
+T77: Is that actually Miss M16?
+
+...Bang bang bang.
+
+...Heavy fire aimed at Judge comes from another direction.
+
+Thompson: Keep running!
+
+Thompson: Move quickly to the extraction point!
+
+M1 Garand: Miss Thompson!
+
+M1 Garand: M16... She...
+
+Thompson: I'm not blind.
+
+Thompson: What are you standing there like statues for?
+
+Thompson: You think there's plenty of time for you to escape?!
+
+Judge: You can save yourself the effort.
+
+...Bang!
+
+Thompson: Ugh...dammit...
+
+Thompson: My leg...
+
+M14: Captain—
+
+M1 Garand: Miss M3, we need a hand over here! Hurry!
+
+Actually M3: Coming!
+
+...
+
+Judge: Stand aside. Executing the Master's orders is always the top priority.
+
+Judge: She may not have instructed me on what to do with you, but if you get in the way, I will obliterate you...
+
+Judge: M16A1.
+
+M16A1: Are those your last words, Sangvis scum?
+
+...M16 lobs an object at Judge.
+
+...Clang.
+
+Judge: A...flashbang...?
+
+...
+
+...The sound of crossfire remains in the distance.
+
+M14: Guys, over here!
+
+M14: Put Captain down. We have quick-repair kits here!
+
+T65: Are...are we safe...?
+
+T65: But...but...
+
+T77: Stop trembling, T65.
+
+T77: Yes, we escaped with our lives. It's not that big a deal.
+
+T65: Miss M16 really is okay!
+
+T65: T77, Miss M16 has really returned from behind the fog!
+
+Actually M3: She's in a much better state than we imagined...
+
+Actually M3: This is great news...
+
+T65: Can you believe it, T77?! It came true!
+
+T77: Please don't hold me so tight...can't breathe.
+
+T77: ...
+
+T77: Miss Garand, may I ask a question?
+
+M1 Garand: Yes?
+
+T77: Was the Miss M16 we just saw...
+
+T77: The real deal...or was that an imposter?
+
+T65: What are you talking about, T77? Miss Thompson was covering our escape, wasn't she?
+
+M1 Garand: That Miss M16 is definitely not an imposter.
+
+M1 Garand: I've been with you the whole time; I couldn't have applied makeup on anyone.
+
+M1 Garand: Besides, our designated star, Miss Thompson...well, there she is.
+
+T77: ...That does seem to be the case.
+
+T77: ...
+
+Thompson: Phew...that feels a lot better.
+
+Thompson: Is everyone here?
+
+Thompson: Nobody got lost on the way, I hope?
+
+M14: Yep, that's everyone.
+
+M14: We can summon the chopper anytime.
+
+Actually M3: Wait, we don't have everyone!
+
+Actually M3: Miss M16 didn't follow us!
+
+Thompson: I know.
+
+Thompson: M14, send a message to the Boss.
+
+M14: ...Got it.
+
+T65: ...Huh?
+
+T65: We're...leaving Miss M16 behind on her own?
+
+T65: Why, Miss Thompson?! Why are we abandoning our companion?!
+
+Thompson: She must have her own reason for coming here. We can only watch out for ourselves.
+
+Thompson: You don't have to worry about her; she is, after all, Griffin's toughest veteran.
+
+T65: But even you said that Judge is a formidable foe...
+
+T65: If something happens to Miss M16 when she's fighting her...
+
+M1 Garand: If Miss M16 could survive her previous ordeal, she'll be fine this time as well.
+
+M1 Garand: Let's go. Miss T91 is still waiting for your good news.
+
+T65: She's been waiting for so long...
+
+T65: If we go back just like that...we'll give her nothing but more hope...
+
+T65: And I can do nothing...but wait with her.
+
+M1 Garand: But this is a hard-earned chance for us to make a safe retreat... If you go back for Miss M16, you'll only end up putting yourself in unnecessary danger.
+
+M1 Garand: If you get destroyed...you won't even remember you've seen Miss M16.
+
+T65: I...
+
+T65: I've had enough with sitting at the base waiting for so-called good news.
+
+T65: If I had to lose her again, then I'd rather not have reunited with her to begin with!
+
+T65: Either we go home with Miss M16, or we forget everything that happened here!
+
+M1 Garand: ...
+
+M1 Garand: Miss M3, please talk some sense into Miss T65.
+
+M1 Garand: At this rate...
+
+Actually M3: No, I'm gonna kill that midget.
+
+Actually M3: I'm gonna go back and kill her right now.
+
+M1 Garand: Huh?
+
+Actually M3: Who does she think she is? She rubs me the wrong way.
+
+Actually M3: Did she get so pompous because I didn't stand up to her?
+
+Actually M3: Also, "grease gun"?!
+
+M1 Garand: Miss M3...what's the matter with you?
+
+M1 Garand: You look scary... No...M4 looks scary...
+
+T77: Some people flip out when you mention their height. Similarly, this could be M3's berserk button.
+
+M1 Garand: ...
+
+M1 Garand: Miss T77...
+
+T77: ...
+
+M1 Garand: ...
+
+M1 Garand: Alright...
+
+T77: An actual wordless communication of ideas – how rare.
+
+T77: Are you sure you haven't misunderstood anything?
+
+M1 Garand: Yes, it's pretty clear what you intend to do...
+
+...Thompson and Garand exchange a glance.
+
+Thompson: You guys... Is it because you're so young that you're so unyielding...?
+
+Thompson: Save it, Garand. Aren't you the same?
+
+M1 Garand: ...
+
+M1 Garand: ...How much time can we buy if I double the length of my report?
+
+Thompson: How much time?
+
+Thompson: Let's agree on the number according to the union's rules.
+
+M14: Captain...?
+
+Thompson: M14, rewrite the message.
+
+Thompson: Tell the Boss that we're staying out late.
+Part 2
+
+    2chevron_right
+
+...
+
+Thompson: Keep firing!
+
+Judge: Hmm...
+
+Judge: This is getting a bit too far.
+
+Judge: But I applaud you for returning to face your enemy, M4A1.
+
+Actually M3: If you want me, come and get me!
+
+Actually M3: Look at you! Weren't you really full of it just now?!
+
+T65: We have her pinned down!
+
+Judge: ...
+
+Judge: Pinned down...?
+
+...Boom.
+
+...Judge unleashes a barrage of incomparable firepower, forcing everyone back.
+
+M1 Garand: Ugh...it isn't enough...
+
+M1 Garand: We were so close...
+
+M14: Miss Garand, leave it to M14.
+
+T77: Her attacks are very monotonous and predictable.
+
+T65: Spill, where have you taken Miss M16?!
+
+Judge: Still living in your delusional little world, Griffin T-Dolls?
+
+Judge: Tsk, I was going to keep things from going way out of hand out of courtesy to M4A1...
+
+Judge: ...
+
+Judge: Don't interrupt me right now, Dreamer. M4A1 is standing right in front of me.
+
+Judge: ...
+
+Actually M3: I'm right here. Why don't you call in your Sangvis friends and capture me?
+
+Judge: True...I also find it highly suspicious that she isn't operating with other members of the AR Team.
+
+Judge: Still, this doesn't get in the way of...
+
+Judge: ...
+
+Judge: The other two from the AR Team... Got it. I'll handle it.
+
+...
+
+Actually M3: What now? Not fighting us anymore?
+
+Actually M3: Did your mother just summon you for dinner?
+
+Judge: I'll admit I was careless to have been lured by your baits.
+
+Judge: Well played, human commander. However, this won't happen again.
+
+Judge: Perhaps you lot...should consider yourselves lucky that you didn't say what you aren't supposed to.
+
+...Judge vanished in an instant.
+
+M1 Garand: What we aren't supposed to say... What does she mean by that?
+
+Actually M3: Who knows? That runt obviously has an over-inflated sense of ego.
+
+...
+
+Actually M3: Oh...u-um...
+
+T65: She seems to have returned to her normal self...
+
+T77: That really was something... Is that a side effect of the makeup?
+
+M14: Guys, we...we've found Miss M16.
+
+M14: But...you'd better hurry...
+
+T65: Miss M16...
+
+T65: Miss M16!!
+
+T65: Ohmygodddddd!
+
+M16A1: Ack...not so hard...can't breathe...
+
+M16A1: Also...don't put pressure on the modules that got ripped out. Just let me stay like this.
+
+T65: Oh...
+
+T65: Ohmyyyyyyy—
+
+T77: Miss T65, please refrain from bawling.
+
+Actually M3: Miss M16...
+
+M16A1: It's been a while, M4.
+
+M16A1: Persica wasn't lying. You have changed...and quite significantly, too.
+
+Actually M3: Why...why haven't you returned earlier...?
+
+M16A1: A lot of things aren't as they seem.
+
+M16A1: I'm helping you, just in a different way.
+
+M16A1: Though it does hurt quite a bit this time.
+
+T65: We do have some quick-repair kits here...
+
+T65: If you can make it back to base, Persica will surely be able to save you...
+
+T65: So...Miss M16...
+
+M16A1: Not yet...
+
+M16A1: There's still...something that I must see through.
+
+Actually M3: Why?!
+
+Actually M3: Look at the state you're in! Why are you still thinking about such things?!
+
+Actually M3: What are you doing this for?!
+
+M16A1: For you, and for the future of us all...
+
+M16A1: I know I owe you all by doing this...
+
+T65: We aren't the only ones you owe!
+
+T65: T91...she...
+
+M16A1: Haha... She must be really lonely without me.
+
+M16A1: Get her out in the sun more often and tell her to stop thinking about silly stuff.
+
+T65: Why don't you just come back with us?!
+
+T65: You can tell her yourself—
+
+M16A1: She's spent her whole life chasing after me... No one should live like that.
+
+M16A1: A clever and hardworking Doll like her doesn't deserve to be limited by what I'm like.
+
+M16A1: T65...be sure to get her outside and show her how big the world is before I return.
+
+T65: (Sobs)
+
+Actually M3: Miss 16... Why must you face this alone...?
+
+Actually M3: There must be a better way...
+
+Actually M3: You just have to trust us... We can overcome any obstacle as long as we work together...
+
+M16A1: ...
+
+M16A1: I...
+
+M16A1: It's not like I don't trust you!
+
+M16A1: You're all freaking dumb! I'm gonna come back soon, okay?!
+
+T65: ...
+
+T65: ......
+
+T65: ...What?
+
+T77: ...Oh.
+
+T65: ...
+
+T65: Wait...hold on a second...
+
+T65: Don't tell me...
+
+T77: Miss Thompson has the wrong script!
+
+T77: Quick, cut out that last bit!
+
+M1 Garand: It-it's okay, we can just dub over it in post-production...
+
+Thompson: Hey, are you giving me even more work?
+
+Thompson: M14, stop playing with my Dummy like that. It's already close to falling apart after the fight with Judge.
+
+M14: Oh...
+
+M14: I just couldn't help it because you said all that weird stuff just now...
+
+...
+
+T65: Wait!
+
+T65: How did you guys figure it all out?!
+
+...
+
+...Beep.
+
+...The video stops playing.
+
+T65: ...
+
+T65: Well...that's what happened...
+
+T65: So...
+
+T91: Is that so...?
+
+T91: Miss M16...said all that...
+
+T91: And she seemed alright... I'm really glad about that...
+
+T65: She also asked you to stop worrying about her. She'll definitely let you know the moment she can return to Griffin.
+
+T65: Also, she said you really should enjoy your bubble tea properly!
+
+T91: ...
+
+T91: Right, I'll remember that...
+
+T91: ...
+
+T91: Pffft.
+
+T65: What's with that weird snicker?!
+
+T91: No, don't mind me.
+
+T91: I was just wondering... Where on earth did you find a camera to film this?
+
+T65: Huh? Uh, I dug it out the other day when I went to bury something in the backyard.
+
+T65: It looked like it was still usable, so I gave it a try?
+
+T65: Seriously, why are you giggling like that...?
+
+T91: Oh? Am I?
+
+T91: It's just a simple grin, okay?
+
+T91: I'm very happy... I mean it.
+
+T65: Is...is that so...?
+
+...Outside the repair bay.
+
+T77: Everything seems to be alright now.
+
+T77: Let's leave the rest to Miss T65.
+
+M3: It feels like...such a long time since I last saw Miss T91 smile.
+
+M1 Garand: Phew... We can finally breathe a sigh of relief...
+
+M1 Garand: Now then...I'd better head back and start writing the report for Miss Thompson.
+
+M3: Report... Why?!
+
+M1 Garand: I have to be held accountable for not fully grasping the severity of the situation and leading you through a danger zone under Sangvis control.
+
+T77: It wasn't only your responsibility. We'll help you write it.
+
+M1 Garand: That won't be necessary...
+
+M1 Garand: Besides, Miss Thompson said that the report was just a formality for the Commander so I didn't have to take it too seriously...
+
+M1 Garand: Rather, she wanted me to spend more effort on detailing my makeup technique so that she can learn a thing or two...
+
+M3: Come to think of it...may I ask you something? Miss Garand...
+
+M3: If the M16A1 we saw back then was actually Miss Thompson's Dummy...
+
+M3: When did that Dummy undergo its makeover...?
+
+M1 Garand: When I was with the rest of you.
+
+M1 Garand: Who said I had to do it myself?
+
+M3: Huh?
+
+M1 Garand: M14 and my Dummy sorted it out while we were running from Judge.
+
+M1 Garand: The show you saw later on...was all Miss Thompson's improvisation...
+
+M1 Garand: She really is amazing.
+
+T77: If it was Miss M14, that'd explain how you could get it done so quickly.
+
+...The two Dolls share a hearty laugh in the room.
+
+...
+
+I'm suddenly...reminded of a very old story.
+
+Hmm?
+
+While two men were making their way to freedom, they came across a daunting chasm.
+
+One man jumped across easily, but the other didn't have the courage to follow. So the man who made the leap had an idea...
+
+He took out his flashlight and shone the light to the other side of the ravine...and asked his friend to walk over on this bridge of light.
+
+But in the story, the friend refused to do that...
+
+He wasn't willing to try, but this path paved with light still gave him hope, didn't it?
+
+The Way Back is Paved with Light ⁠— END.

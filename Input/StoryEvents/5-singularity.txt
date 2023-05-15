@@ -1,0 +1,6044 @@
+...
+
+AK-12: How unsightly.
+
+AK-12: The Griffin forces have all withdrawn. She won't survive if we leave her here.
+
+AK-12: ...What do you think?
+
+Familiar voice of a T-Doll: Angelia didn't ask us to take her in.
+
+Familiar voice of a T-Doll: You said yourself that our job this time is to observe. We can't get involved until new orders come.
+
+AK-12: Even if she dies...? Are you really okay with that?
+
+Familiar voice of a T-Doll: Orders are orders. T-Dolls can't disobey.
+
+AK-12: I know you can, and so do you.
+
+Familiar voice of a T-Doll: ...
+
+Familiar voice of a T-Doll: Are you abetting me in breaking the rules?
+
+AK-12: I remember you're quite famous for disobeying orders.
+
+AK-12: Well, do indulge my curiosity.
+
+Familiar voice of a T-Doll: You're right.
+
+Familiar voice of a T-Doll: I suppose no one would bat an eye no matter what I do on a team with such a name.
+
+Familiar voice of a T-Doll: Then here's a question, AK-12... Is Task Force DEFY hiring?
+
+AK-12: Humph, sly old fox...
+
+AK-12: We actually do have an opening.
+
+...
+
+AK-12: In that case, DEFY will welcome its second temporary member.
+
+AK-12: Don't let her drag us down, because this team...
+
+AK-12: Well, it's made up of brand new, elite Doll models.
+
+...35 minutes ago.
+
+Current time is 1600 hours.
+
+AK-12: It's no different from an actual battlefield at this point...
+
+AK-12: I honestly couldn't imagine that a PMC could cause such a huge disturbance, just going by the data we received.
+
+AK-12: But this ought to be a good thing, right? At the very least, it'll be easier for us to take action.
+
+AK-12: Ah, it's time.
+
+AK-12: Now then...
+
+AK-12: Guess it's time for us to make our entrance.
+
+AK-12: Ange, this is about the situation just now.
+
+AK-12: We've confirmed that a team of human soldiers attacked the safe house where our target M4A1 was located.
+
+AK-12: The exact casualty status of Griffin is unknown, but we can be sure that M4A1 herself was left in place.
+
+AK-12: This is very strange, do you know why they would do that?
+
+Ange: There's nothing strange about that. They must have their own agenda.
+
+Ange: What about the disconnection procedure I had you execute?
+
+AK-12: I've verified its completion, though it's a bit...flawed.
+
+AK-12: The Doll M4A1 seems to be the center of attention for both sides. Is it alright to not recover her?
+
+Ange: Let AR-15 decide. She knows what to do.
+
+AK-12: You do know your old subordinates well.
+
+Ange: You sound jealous.
+
+AK-12: Don't say I didn't warn you. Excessive self-confidence is an undesirable trait in commanders.
+
+Ange: Oh, I know that better than anyone else.
+
+...The transmission ends.
+
+AK-12: Yet another troublesome day, and I can't help but worry...
+
+AK-12: Laws, systems, orders...why do humans have to live like Dolls?
+
+AK-12: Have you thought about that question before...
+
+AK-12: ...AR-15?
+
+ST AR-15: ...I'm prepping my gear. Leave me alone.
+
+AK-12: Oh? And where are you going all by yourself?
+
+ST AR-15: Do you have to ask about everything I do? Ange authorized me to act independently, didn't she?
+
+AK-12: Are you sure you want to go at it alone? You've still got Parapluie in you now, right?
+
+AK-12: While it hasn't completely spread throughout your neural cloud, all your external connection functions have been locked down to avoid further contagion.
+
+ST AR-15: So?
+
+AK-12: Which means, you can't control dummies and you can't sync information on battlefield conditions with us. I trust I don't need to explain the implications of that.
+
+ST AR-15: Indeed, I can't access the Zener Network, but I can still use the radio to establish basic comms.
+
+ST AR-15: That's good enough for me. I'm best suited to working alone.
+
+AK-12: I'm simply worried that you'll regret working alone afterwards.
+
+ST AR-15: ...I never regret anything.
+
+AK-12: There's often a price to be paid for speaking in absolutes. Don't you want to hear about the new mission that Ange handed down?
+
+ST AR-15: ...
+
+ST AR-15: I'll hear you out for now.
+
+AK-12: Ange wants us to rescue M4A1.
+
+ST AR-15: ...
+
+ST AR-15: Are...are you doing this on purpose?
+
+AK-12: On purpose? Whatever could you mean?
+
+ST AR-15: Tsk...
+
+ST AR-15: I don't believe you. This contradicts the initial plan.
+
+AK-12: Plans change. Just like your destiny.
+
+ST AR-15: ...
+
+ST AR-15: Then let's head out.
+
+AK-12: Not planning to go alone anymore?
+
+ST AR-15: Do you enjoy mocking others so much?
+
+AK-12: Haha, not under most circumstances, but your reactions are just too amusing.
+
+ST AR-15: There's still some distance from here to M4A1. What do you intend to do?
+
+AK-12: I'll hail a drone cab, and then we'll have a nice comfy ride to our stop. Sounds good?
+
+AK-12: Give me a break, of course we're going on foot.
+
+ST AR-15: Just the two of us, fighting our way there?
+
+AK-12: There are a lot of surviving Griffin T-Dolls along the way. All we have to do is recover them and temporarily overwrite their directives. That ought to be enough.
+
+AK-12: Well? Surely you'd want to help out your old war buddies, right?
+
+ST AR-15: I don't care.
+
+ST AR-15: But there's no denying that it's the best shot we've got, so let's head out.
+
+...
+
+??: M4...
+
+??: ...
+
+??: M4A1...
+
+M4A1: ...
+
+M4A1: I... Where am I...
+
+M4A1: ...!
+
+M4A1: This...
+
+M4A1: A...AR...
+
+ST AR-15: Don't squirm.
+
+ST AR-15: You're really heavy.
+
+M4A1: ...
+
+M4A1: Is that...really you?
+
+ST AR-15: Don't move your head. Hearing my voice should be enough, right?
+
+M4A1: Why...
+
+M4A1: ...I don't believe it!
+
+M4A1: AR-15... You...you're alive?!
+
+ST AR-15: Let's get out of here first. I'll explain it to you afterward.
+
+M4A1: But why... Why did you show up here and now...
+
+ST AR-15: I have a mission of my own. Running into you was simply a coincidence.
+
+ST AR-15: But...I guess it's not a bad thing.
+
+M4A1: Put me down, I'll walk on my own.
+
+ST AR-15: I wouldn't need to carry you if you could walk.
+
+M4A1: ...?!
+
+M4A1: My body...is not responding...?
+
+ST AR-15: If you want to blame someone for it, she's standing beside me...
+
+ST AR-15: Something went wrong when she disconnected you. It caused slight damage to your neural module, so your ability to move has been temporarily restricted.
+
+AK-12: Da, da, it's kind of my fault, which is why I'm carrying this case for you.
+
+AK-12: Still, it's also your own people's fault for installing such sophisticated modules in an outdated T-Doll, right?
+
+M4A1: That's... Whose voice is that?
+
+AK-12: Tactical Doll AK-12, from Task Force DEFY.
+
+M4A1: DEFY...? What do you do?
+
+M4A1: AR-15, are you one of them now?
+
+ST AR-15: I've got a new employer. Don't really have much choice in the matter.
+
+ST AR-15: Her name's Angelia. You've met her before.
+
+M4A1: Ange...lia...?
+
+M4A1: ...You mean the woman who helped me enter the combat zone?
+
+M4A1: How about the others?
+
+M4A1: What about SOP-II...and RO?
+
+ST AR-15: ...Now's not the time to think about them. Sangvis elites are still around.
+
+ST AR-15: Focus on what's in front of you, keep quiet, and fall back with me.
+
+M4A1: ...
+
+M4A1: SOP-II...
+
+M4A1: RO...
+
+M4A1: I...remember...
+
+M4A1: I saw RO and...
+
+M4A1: No! I can't...I can't leave them behind!
+
+M4A1: Put me down! Let me go back!
+
+ST AR-15: Keep still! In your current condition, S.F. will capture you before you can take more than a few steps if I let you go!
+
+M4A1: And whose fault is it that I'm like this?!
+
+ST AR-15: We had no choice but to sever your Level II connection in order to break the link between you and the people monitoring you.
+
+M4A1: The people monitoring me?
+
+M4A1: ...Who? Who's monitoring me?
+
+ST AR-15: Did you really think Sangvis Ferri was our only enemy?
+
+M4A1: What...What exactly is going on...
+
+M4A1: Isn't Griffin's mission...to wipe out Sangvis Ferri...?
+
+M4A1: I...I abandoned my teammates and my objective...
+
+ST AR-15: Whatever you want to do, get some rest first.
+
+ST AR-15: We'll give you the power you want after that...
+
+M4A1: ...
+
+ST AR-15: M4?
+
+AK-12: There was too much strain on her neural cloud. She couldn't sustain her Level I surface consciousness.
+
+ST AR-15: What a mess...
+
+ST AR-15: Go on, AK-12. Tell me what you found on the scene...
+
+AK-12: Nothing but bad news.
+
+AK-12: First off, M4 SOPMOD II's missing. I'm certain she's not in the vicinity, and there were no clues around which could tell us about her current status.
+
+ST AR-15: ...
+
+AK-12: Was I too direct?
+
+ST AR-15: Better to be more direct...
+
+ST AR-15: How about RO? I saw her...
+
+...AK-12 sighs.
+
+AK-12: RO635 has completely ceased to function, so...
+
+ST AR-15: ...
+
+ST AR-15: I...I won't forgive them for this.
+
+ST AR-15: Also, about what I said regarding the recovery of the fallen Dolls' neural module...
+
+AK-12: RO635's was completely removed.
+
+AK-12: I'm certain it happened after she was killed.
+
+ST AR-15: ...
+
+ST AR-15: Could this be good news...
+
+AK-12: Look on the bright side. Maybe SOP-II avoided the ambush and left with RO's neural module.
+
+AK-12: Would you be satisfied with that answer?
+
+ST AR-15: ...
+
+ST AR-15: I would very much like to assume that is the case.
+
+AK-12: Naturally, I'd advise you against having that idea, lest you end up disappointed.
+
+AK-12: But this is no time to think about others.
+
+AK-12: There are two S.F. squads around us, at 11 o'clock and five o'clock respectively. The terrain nearby is such a mess so we can't go around them. We'll probably have to take them out.
+
+ST AR-15: Can you really scout the battlefield while making small talk?
+
+AK-12: Are you looking down on me, or overestimating yourself?
+
+ST AR-15: Neither. We'll let the results of the battle speak for themselves.
+
+ST AR-15: (M4...if you knew the state the AR Team was in...)
+
+ST AR-15: (What...would you do?)
+
+...
+
+AK-12: Ange, we've recovered M4A1. Any instructions for our next move?
+
+Ange: Looks like AR-15 has really been dragging you around on a leash.
+
+AK-12: Well, you were the one who ordered me to abide by AR-15's judgment.
+
+AK-12: Also, I was simply curious about our new member's decision-making and responses.
+
+AK-12: Since everyone now wants a piece of M4A1, I'm sure getting our hands on her is the right thing to do.
+
+Ange: That's not all M4A1 is worth. In any case, you both did very well.
+
+Ange: How's the situation on your end?
+
+AK-12: S.F.'s main forces are making a frenzied breakthrough towards Area S09 at high speed. I think things are really going to get seriously out of hand this time.
+
+Ange: Got it. I've just given you new instructions. Carry them out ASAP and stay safe.
+
+AK-12: Eh? These two requirements are contradictory—
+
+...Click.
+
+Ange terminates the transmission.
+
+Ange: Here's our chance. We'll use this opportunity to penetrate S.F.'s main fortress. We'd best move as quickly as possible.
+
+Ange: Are you back yet, AN-94?
+
+AN-94: Awaiting your orders, Commander.
+
+Ange: Thanks for the hard work. Give me a quick summary of Parapluie's transmission speed and its coverage.
+
+AN-94: Parapluie's current transmission speed has reached its theoretical upper limit.
+
+AN-94: That is because the Military's main forces have already pulled out, and the anti-jamming equipment they installed has shut down with their departure.
+
+Ange: Looks like they really want to exterminate every last trace of Griffin...
+
+AN-94: Also, some unexpected good news.
+
+AN-94: They actually used a server from the Western Theatre HQ to build a Level II layer in order to provide computational support against S.F.
+
+AN-94: It is still currently directly connected to the forward command terminal on this battlefield and unprotected by any firewalls.
+
+AN-94: Do you want to make use of this opportunity? I suggest that we can first...
+
+Ange: Oh? Looks like those old geezers got careless. Search through all the data in the server immediately using the keyword "OGAS"!
+
+Ange: Oh yes, also include the names of all the officers who might be taking part in this operation!
+
+AN-94: As hard-charging as ever?
+
+Ange: Why else would they have issued me cutting-edge T-Dolls like yourself, if not because of that? Hurry up already.
+
+AN-94: A moment please. There is too much redundant data. I need to clear them out.
+
+...Five minutes later.
+
+AN-94: Search complete, Ange. I have two pieces of information which will interest you.
+
+AN-94: One of them is a Soviet Union operational report dating back from 2032, concerning the OGAS facility.
+
+AN-94: The other is an excavation record connected to OGAS, detailing the unearthing of the small Relic site OKB-413 near Minsk.
+
+Ange: A small...Relic site?
+
+...Ange stares intently at the monitor.
+
+Ange: So the information WAS correct after all. What...what they're after is incredible...
+
+Ange: Don't tell me...OGAS was originally designed to...
+
+AN-94: Now's not the time to take your time browsing. Parapluie is spreading rapidly, and this is very bad for us.
+
+Ange: Indeed...we can't let S.F. keep expanding...
+
+Ange: (Mutters to herself) Is this... could this be a namelist of the personnel from that operation in 32?
+
+Ange: Carter and...Witkin?
+
+AN-94: Please look up and answer me.
+
+Ange: Aren't you capable of electronic warfare? Help me sort this out. Use the abandoned Dolls near point A as temporary shields for us.
+
+AN-94: I can use the computational power of the abandoned Dolls on the battlefield to counteract the spread of Parapluie.
+
+AN-94: However, a connection of that scale requires a great deal of computational space. I will need to enter Level II.
+
+Ange: Got it. I'll leave it all to you.
+
+AN-94: Are you paying attention? While my consciousness is in Level II, you will be unprotected.
+
+...Ange looks up.
+
+Ange: What, do you think I need protecting?
+Part 2: Mid-stage dialogue
+
+2
+
+...
+
+AN-94: Ange, I'm going to start hacking after this, but I still need your help.
+
+AN-94: Signal jamming on the battlefield is very severe. I'll only be able to transmit successfully if you can maintain control on the surrounding radar comm stations.
+
+Ange: So you'll be able to control the military units as long as we maintain control over the radar station, am I right?
+
+AN-94: Yes, but I might get disconnected from time to time as the current situation is...
+
+Ange: Very bad...I know.
+
+Ange: So we might lose control over the military units every now and then, right? I'll prepare a solution for that ahead of time.
+
+Ange: In any case, I'll take care of the radar stations. Just focus on taking down those big bruisers from the Military.
+Part 3
+
+    3chevron_right
+
+After the battle ends...
+
+AN-94: The computational power of those Dolls has been fully exhausted. If this keeps up, Parapluie might begin to break through my passive barriers.
+
+Ange: Close the connection. I've seen enough. Thank you for your hard work.
+
+AN-94: Understood.
+
+Ange: There's a comms station near point A.
+
+AN-94: Yes, we've been there before.
+
+Ange: That's right. I need to use that comms station and the satellite communications equipment that we set up previously to contact someone on the outside.
+
+Ange: Can you do that?
+
+AN-94: I will.
+
+...Click.
+
+AN-94 disconnects.
+
+Ange: The OGAS system...
+
+Ange: It was originally designed by the Soviets as a ternary logic-based automated management system for the entire nation...
+
+Ange: Now it's been simplified into the base protocol for controlling Sangvis AIs...
+
+Ange: But is that really the case?
+
+...
+
+...Click.
+
+Ange uses the comms station's equipment to send a transmission to the outside world.
+
+Ange: ...Is that so?
+
+Ange: Griffin's shifting towards Area S11?
+
+Ange: I see it, it's a total mess over here.
+
+Ange: ...There, I was right. The Military's going to use this as an excuse to openly enter the battlefield and restore order.
+
+Ange: I know, that's just their excuse. Even now they're reorganizing their troops on the outskirts.
+
+Ange: Once their main forces mobilize and intervene, we'll have no chance of stopping them at all.
+
+Ange: Yes. I'll do my best to slow them down, but I can't hold on for long without support.
+
+Ange: Eh...having our support troops standing by at the perimeter won't solve anything...I guess you know what they want to do...
+
+Ange: I understand. I completely understand your concerns, Chief. I'll do my best to buy you time.
+
+Ange: However, if the worst comes to the worst, I hope you will approve the plan I laid out earlier.
+
+Ange: I understand, it's a very radical solution, but if...
+
+Ange: Yes, yes, I'll wait for approval. I'll do my best to ensure it does not come to that.
+
+...Transmission terminated.
+
+Ange: Looks like it's time to go all-out now...
+
+Ange: Hmm...I hope they're still alive.
+
+...Click.
+
+A transmission connects over an encrypted channel.
+
+UMP45: Guten Tag. Have you missed me?
+
+...
+
+Ange: Nothing good ever happens when I think of you.
+
+Ange: What about the "file"?
+
+UMP45: Heheh, do you need to ask?
+
+Ange: If it's been settled, then hurry back.
+
+UMP45: We ran into a bit of trouble.
+
+UMP45: Did you know? We caught up with Griffin's exodus by coincidence, so we helped them out a little.
+
+Ange: Sier's told me all about how you love engineering these coincidences.
+
+Ange: Alright, make a note of the people you saved and I'll help you get paid for it, assuming Griffin's still around after all this.
+
+UMP45: If Griffin doesn't pay up, then please cough the money up from your own account.
+
+Ange: Providing that I, the owner of the account, survive this mission.
+
+UMP45: So, can you tell me the reason you're thinking of me?
+
+UMP45: A new lead.
+
+UMP45: Find a way to move to Rendezvous Point C, which I've just marked out for you. Run a scan on the local database.
+
+UMP45: Hey, have you seen the battlefield map? Are you trying to kill us so you can welch on your debt?
+
+Ange: Your payment will be information concerning the true mastermind behind the Butterfly Incident. Am I making myself clear?
+
+...
+
+UMP45: ...
+
+UMP45: Have you already dug so deep?
+
+Ange: I'm a pro in this field.
+
+Ange: Also, send the "file" to Sier with the drone.
+
+UMP45: Aren't you going to hand it to Miss Persica directly?
+
+Ange: I will, but she's just a interpreter.
+
+Ange: After all...she's not the only one who truly needs this file.
+
+...Click.
+
+AN-94: I've received a comms request from AK-12. She's broadcasting in clear. Shall I put her through?
+
+Ange: Oi, didn't I tell her not to do stupid things like that with Parapluie around...
+
+AN-94: If I devote all my neural capacity to defense, I can hold the connection under the Parapluie virus interference for 10 seconds.
+
+Ange: Do it.
+
+AK-12: Ange, are you listening?
+
+Ange: I'm here. You should have received your mission. Gather at point β.
+
+AK-12: While this really isn't the best timing, uh...
+
+AK-12: Well...we kinda ran into some trouble.
+
+ST AR-15: Just get to the point!
+
+ST AR-15: Ange, we're pinned down by Sangvis' main forces and we need support!
+
+...Pssst...pssst...
+
+Ange: Don't expose yourselves for too long! Hang on until we can get there!
+
+ST AR-15: Ange, another thing—
+
+...Psst...pssst...
+
+Ange: And what is M4A1's condition?
+
+Ange: AR-15?
+
+...
+
+Ange: AR-15? AK-12?
+
+Ange: Tsk, goddammit...
+
+AN-94: Ugh...Ange...
+
+AN-94: I'm sorry, that was my limit.
+
+AN-94: I...I should have been able to do better...
+
+Ange: You've already done very well for a combat-type. AK-12 and AR-15 are currently pinned down by the Sangvis main force.
+
+AN-94: Your orders, then; are we going to rescue them?
+
+Ange: Correct. Prepare to have AK-12 owe you one.
+
+AN-94: This has nothing to do with owing anyone anything. It is my duty to keep her safe.
+
+Ange: (Shrugs) Whatever works, as long as you're happy.
+
+AN-94: I managed to glean some data on the enemy forces within the area during the previous scan. This is the map of the combat zone where Task Force DEFY is currently located.
+
+AN-94: There will be many enemies along our axis of advance and there is an elite ringleader among the Sangvis forces surrounding AK-12.
+
+Ange: Executioner...So even a Sangvis unit like that is insanely powerful, huh?
+
+AN-94: In any case, breaking through will not be easy.
+
+Ange: So...do you want me to abandon AK-12 and AR-15?
+
+AN-94: You have but to give an order and I will fulfil it with all my might.
+
+Ange: Then let's head out! They're waiting for us!
+
+...The battle ends.
+
+Ange: Phew...is it settled?
+
+AN-94: It cost us heavily, but I think we secured the rendezvous route.
+
+Ange: Not just "you think". You HAVE done it.
+
+Ange: Look at the three over there.
+
+M4A1: ...
+
+AK-12: Nice work, AN94.
+
+AN-94: ...It's nothing. It is the least I could do.
+
+ST AR-15: Ange, you actually came over in person.
+
+Ange: That's right, I'm a good boss who doesn't balk at risking her life to protect her people. How about some thanks?
+
+ST AR-15: (Sighs) That's just like you, and who am I to say anything about it?
+
+ST AR-15: Anyway, here's our new member, as you wanted.
+
+Ange: ...
+
+Ange: Looking good. It seems the final neural upgrade went very well...
+
+Ange: Didn't it, M4A1?
+
+M4A1: ...How do you do, Miss Ange.
+
+M4A1: I am M4A1, awaiting your orders.
+
+...
+
+ST AR-15: AK-12, you haven't forgotten your own specialty, have you?
+
+AK-12: Which one are you referring to?
+
+ST AR-15: We'll need to deal with those military units if we want to pass through here. The best way is to assume direct control over them.
+
+AK-12: It's possible, given the present circumstances. But I'll need some help for this.
+
+AK-12: See those radar stations there? I need you to capture them so I can hack into the military units.
+
+ST AR-15: Those radar stations, huh...Got it, I'll inform M4A1.
+
+AK-12: Also, I can't tell exactly which military units I'll be able to reach from any particular radar station. It's all a matter of luck.
+
+ST AR-15: Beggars can't be choosers. Leave the radar stations to us. You take care of the rest.
+Part 2
+
+    2chevron_right
+
+...
+
+AK-12: ....
+
+AK-12: There's another detachment 1700m ahead and to the right, heading right for us.
+
+AK-12: Oh dear...S.F. has blocked our path in three directions now. Could this be a coincidence?
+
+ST AR-15: There's only one explanation for how Sangvis Ferri has been tracking our position—
+
+M4A1: It's my fault again, right?
+
+ST AR-15: This is precisely why we have to take you away.
+
+AK-12: We've entered firing range of that Sangvis squad in the rear, and they're opening fire.
+
+AK-12: Those trash are too lazy to even do proper recon.
+
+ST AR-15: They're simply acting according to preset orders. I'm guessing Mastermind has her hands full at the moment.
+
+AK-12: So that's all there is to Mastermind's computational capacity, huh. I was hoping Sangvis Ferri would put more effort in countering the Military.
+
+AK-12: That said, this isn't good news for us either.
+
+ST AR-15: ...I'm beginning to wonder why I took this mission.
+
+ST AR-15: It's like trying to avoid moths while carrying a lamp. Really asking for it, you know. Is there any cover nearby?
+
+M4A1: Like I said...
+
+M4A1: Why did you come back...?
+
+AK-12: Now's not the time to look for cover, AR-15. The Sangvis units from 11 o'clock are almost here.
+
+M4A1: If you really think I'm a burden, then all you have to do is dump me here!
+
+M4A1: Put me down, AR-15! Let me look for SOP-II and RO!
+
+ST AR-15: ...Would you mind not freaking out all the time?
+
+ST AR-15: Wait a while longer. When I can't hold on any more, you'll get your way.
+
+ST AR-15: But right now, I don't want to waste my efforts.
+
+AK-12: We need to get clear. There's some open space up ahead; the Military had a big battle there just now.
+
+AK-12: Prepare to race through the wrecks, but if you're even the least bit careless, you'll be joining them.
+
+M4A1: Put me down, AR-15!
+
+M4A1: I don't...I don't want you to die for me again, so put me down!
+
+ST AR-15: Put a sock in it. Of course I'll drop you if I can't run fast enough to save myself!
+
+ST AR-15: AK-12, how much longer before that third Sangvis detachment catches up?
+
+AK-12: Around 10 minutes?
+
+AK-12: I figure their plan is to surround us here. Simple and crude...
+
+ST AR-15: ...But it's effective.
+
+ST AR-15: Let's say everything's as you predicted. You've got a way of dealing with them, right?
+
+AK-12: And what if I said...no?
+
+ST AR-15: Then you'll die a very humiliating death here.
+
+ST AR-15: And I know that while you don't really mind the part about being dead, you can't stand being humiliated.
+
+ST AR-15: So let's have it, before they punch through the cover behind us.
+
+AK-12: Ah...
+
+AK-12: Ange told me you were old-fashioned and stubborn, so I was prepared to go on an op with a Dummy.
+
+AK-12: But you make the most interesting faces. I'm curious about you all over again, AR-15.
+
+ST AR-15: That doesn't sound good...So, what do you plan to do?
+
+AK-12: The Sangvis units chasing us are already gathered here. So we'll wipe them all out in one shot.
+
+ST AR-15: With just the two of us?
+
+AK-12: I'd be enough by myself, but I wouldn't mind you firing from the side to add to the fun.
+
+AK-12: AN-94 is more suited for such brutish ways of fighting, so I'd rather borrow some of the military units.
+
+M4A1: You're going to...force a connection?
+
+M4A1: But...the strain on your neural cloud...
+
+AK-12: Don't judge me by your standards, Miss M4A1.
+
+AK-12: Hmm... While these military units would be punched through soon if we kept using them as cover, they'd be enough to deal with those Sangvis forces once I can get them moving.
+
+...Click, click—
+
+...Beep, beep, beep.
+
+...Whirrr—!
+
+Military unit: ...Authentication complete. Awaiting orders.
+
+M4A1: How did you do that...? That was incredibly quick.
+
+AK-12: Dear me, I'm not some random civilian Doll haphazardly modified with an Imprint.
+
+AK-12: Being praised for something so obvious kinda bothers me.
+
+ST AR-15: Then couldn't you have done this earlier?! Or did you want to watch me run myself into the ground?!
+
+AK-12: Forcing a connection is really tiring, you know? Besides, we hadn't gotten into the middle of these hunks of junk back then.
+
+AK-12: Still, now that it's done, I'll sweep away these Sangvis forces to buy us some time and use the rest to make up for screwing up on M4.
+
+M4A1: Eh?
+
+ST AR-15: Make up?
+
+AK-12: Oh yes, making up. Just like I did with you.
+
+ST AR-15: You mean...you've got Level II debugging equipment with you?
+
+AK-12: Well, I AM an electronic warfare specialist. Obviously I'd have that stuff inside me.
+
+AK-12: If there's enough time, then we should get started once we fall back to a safe zone.
+
+M4A1: What...what are you talking about?
+
+ST AR-15: Don't you want to run on your own two legs? It's time to repair you.
+
+ST AR-15: And add a few things while we're at it...
+
+M4A1: Add? Add what?
+
+ST AR-15: You'll become...like me.
+
+ST AR-15: Stronger, less restrained, but also wilder...
+
+ST AR-15: This is where all the misfortunes of being a Doll begin.
+
+M4A1: ...
+
+M4A1: What on earth...do you mean?
+
+...After the battle, inside the safe house.
+
+AK-12: I can't believe your neural cloud is in such a mess from just a simple disconnection...
+
+AK-12: It's too fragile, even for an older Doll model...
+
+M4A1: I'm sorry, but will fixing it take a long time?
+
+AK-12: It'll be fine once I run a few repair programs on the equipment.
+
+AK-12: Since we have time, I should probably perform an upgrade on you with the gear we have on hand.
+
+M4A1: An upgrade? Is that necessary?
+
+M4A1: A repair will be enough. If you randomly poke around with an upgrade...
+
+AK-12: This is an order, so be obedient.
+
+AK-12: Lie down and be still. You have a lot of unused ports, so it won't take long.
+
+M4A1: Alright...thank you, Miss AK-12.
+
+AK-12: Calling me "Miss" sounds so stiff. Try "Big Sis AK12".
+
+M4A1: Big...Big Sis?
+
+AK-12: Nah, it doesn't sound cute at all. Forget it...
+
+AK-12: Objectively speaking, it's never bad to have more helpers. I won't have to keep listening to AR-15 complain if I have a more reliable Doll to help on ops...
+
+ST AR-15: And whose fault is it that I'm complaining...
+
+AK-12: Hmm, you've...got a surprising amount of spare capacity in your neural cloud.
+
+AK-12: I take back what I said earlier about you being a civilian Doll haphazardly modified with an Imprint. After all, a lot of the parts you're using are Military-spec.
+
+M4A1: Is...is that so...
+
+AK-12: No wonder Ange has her eye on you.
+
+AK-12: Now keep still. I'm gonna help you use up all that idle capacity of yours. Just leave everything to me and use this time to have a nice little heart-to-heart with AR-15. I don't mind if you talk about private stuff.
+
+ST AR-15: "I don't mind" my butt...More like "I'm dying to listen in on private stuff."
+
+AK-12: I never said that~
+
+...AK-12 begins the upgrading work with clicks and clacks.
+
+M4A1: ...
+
+M4A1: ...AR-15.
+
+ST AR-15: ...
+
+M4A1: Apart from us...and RO and SOP-II...
+
+M4A1: ...How are...the Commander...and the other Dolls doing now?
+
+AR-15 hesitates for a moment.
+
+ST AR-15: It's none of our business...
+
+ST AR-15: They should have withdrawn, according to what AK-12 said the last time she mentioned them.
+
+M4A1: Have they withdrawn safely?
+
+AK-12: How shall I put it...? Given the situation, they probably would have taken heavy losses.
+
+AK-12: Even from an optimistic guess...
+
+M4A1: As I thought...
+
+M4A1: Those Sangvis scum!
+
+M4A1: It's all Mastermind's fault...She tricked me...and because of her, everyone's...
+
+M4A1: I won't forgive them for this! I will never forgive them!!
+
+AK-12: ...
+
+...AK-12 glances over to AR-15, who sighs.
+
+ST AR-15: M4A1...
+
+ST AR-15: I'm going to tell you the truth, but you have to stay calm.
+
+M4A1: What?
+
+ST AR-15: The culprit behind Griffin's defeat in this operation is not Sangvis Ferri, but the Military.
+
+ST AR-15: From the start...it has always been a military conspiracy.
+
+M4A1: What...are you saying?
+
+M4A1: But we were clearly...
+
+ST AR-15: I know you're very confused, M4A1, but this is the truth.
+
+ST AR-15: SOP-II...and RO... It was the work of the Military.
+
+M4A1: The Military...
+
+M4A1: No, I don't get it...Why...
+
+M4A1: Wasn't the Military behind the entire operation...? Shouldn't they be...against Sangvis Ferri...?
+
+M4A1: Why...did they...do that to RO...? Just who exactly did it? Was it really someone from the Military?!
+
+AK-12: A squad of humans from the Military killed them. That much is obvious from the bullet holes and the debris they left behind.
+
+AK-12: Of course, they'll cover it up by saying they were "getting rid of out-of-control Dolls".
+
+ST AR-15: M4A1, do you know a Captain Yegor?
+
+M4A1: ...
+
+ST AR-15: He's the mastermind and culprit behind the attack on all of you.
+
+ST AR-15: I believe he personally shot RO635.
+
+M4A1: Yegor? No, how could this be...Isn't he...
+
+ST AR-15: M4A1, Yegor is the one who set up the AR Team. That much is certain.
+
+M4A1: ...
+
+M4A1: Yegor's the murderer...
+
+AK-12: Are you afraid? The target of your revenge is an enemy that's much, much scarier than Sangvis Ferri.
+
+M4A1: ...
+
+M4A1: If that's really true...
+
+M4A1: Then it doesn't matter who they are. Whether they're Dolls...or humans...
+
+M4A1: I will kill them with my own two hands. I swear it.
+
+AK-12: Oh my, this isn't a declaration that a normal Doll would make.
+
+AK-12: Anyway, the upgrade's almost complete. Don't go running off after it's done. Listen to AR-15's orders, okay?
+
+ST AR-15: M4A1, our mission is to determine the motive behind this military operation.
+
+ST AR-15: Join us once everything is ready. You'll get your answers.
+
+M4A1: Join your team?
+
+AK-12: We're called DEFY. Do you like the name?
+
+M4A1: I'm in, as long as I can avenge RO635 and SOP-II.
+
+M4A1: I will obey orders from you and Ange until I achieve my objective.
+
+...The breakthrough is in progress.
+
+ST AR-15: Are you really okay with letting her handle these enemies by herself?
+
+AK-12: Since Ange thinks it's fine, I have no problem with it.
+
+AK-12: Didn't you use to be on the same team? Shouldn't you know her better?
+
+ST AR-15: That's why I'm worried about her...
+
+ST AR-15: You, on the other hand...are way too blasé about this.
+
+AK-12: A T-Doll ought to act like a T-Doll. If I had to worry about everything, then why would we need humans?
+
+AK-12: Ah, she's back.
+
+...M4A1 walks over.
+
+M4A1: All enemies exterminated. We can move on to the next objective.
+
+AK-12: Your performance after the repairs is pretty good.
+
+AK-12: But don't push yourself too hard. It would be a shame if you were to break again just after you got fixed.
+
+M4A1: My body feels very light now...Both my aiming speed and mobility have improved tremendously...Your skills are amazing, AK-12.
+
+AK-12: I'm not one to get happy from praises.
+
+AK-12: I'm worried that your neural cloud hasn't fully adapted to the newly-installed components.
+
+AK-12: What are we going to do if overusing them leads to incompatibility issues, and your neural cloud breaks down? Not to mention, I heard you...
+
+M4A1: It only needs to last until I can personally destroy my target. That won't take long.
+
+ST AR-15: M4A1, do you know the difference between riding a horse and a camel through the desert?
+
+M4A1: What is this, Chicken Soup for the Soul time?
+
+ST AR-15: Horses show signs of exhaustion as they move on, whereas camels will just keel over and strand people in the desert.
+
+ST AR-15: Whether or not this story is true, you know what I'm getting at, right?
+
+M4A1: ...
+
+M4A1: I'll inform you of any abnormalities in my neural cloud.
+
+M4A1: My turn, AR-15. Aren't you...going to tell me about it?
+
+ST AR-15: Tell you about what?
+
+M4A1: About how you're still alive, of course.
+
+ST AR-15: Now's not the time to reminisce about the past.
+
+AK-12: M4, if you're concerned about the Parapluie virus in AR-15, that's not necessary for the time being.
+
+ST AR-15: Shut up, AK-12. If you say any more, I'll—
+
+...BOOM!
+
+...Nobody can hear each other speak for a few seconds after that.
+
+...Boom! Boom!
+
+Dirt, trees and wreckage are all swept into the sky.
+
+ST AR-15: (Coughs)
+
+ST AR-15: M4, are you alright?!
+
+M4A1: I'm fine, the cover's still intact!
+
+AK-12: AR-15, do your surroundings explode when you get mad?
+
+ST AR-15: Stop pulling my leg! That was artillery fire from S.F.'s main forces! We've been spotted!
+
+AK-12: Judging from the signals, there's a super dangerous S.F. unit approaching.
+
+AK-12: We might not be able to handle her with our present numbers.
+
+M4A1: The enemy's vanguard is coming! Prepare to fight them off!
+
+ST AR-15: AK-12, contact Ange immediately!
+
+AK-12: Eh? Shouldn't you try throwing yourself at the enemy first or whatever?
+
+ST AR-15: They've got heavy weapons. How are we supposed to defeat them?!
+
+AK-12: Fine, fine. I've got to broadcast in clear. There's no alternative.
+
+AK-12: Ange, are you listening?
+
+Ange: I'm here. You should have received your mission. Gather at point β.
+
+AK-12: While this really isn't the best timing, uh...
+
+AK-12: Well...we kinda ran into some trouble.
+
+ST AR-15: Just get to the point!
+
+ST AR-15: Ange, we're pinned down by Sangvis' main forces and we need support!
+
+AK-12: Stop shouting into my ear! Don't you have a radio of your own?!
+
+...Pssst...pssst...
+
+Ange: Don't expose yourselves for too long! Hang on until we can get there!
+
+ST AR-15: Ange, another thing—
+
+...Psst...pssst...
+
+AK-12: Ah, the transmission cut out.
+
+AK-12: I guess handling ECM is hard for AN94 after all...
+
+AK-12: Still, she and Ange should have our coordinates now. We just need to hunker down here and wait for them to rescue us!
+
+ST AR-15: Roger!
+
+ST AR-15: M4, come with me to fight off the enemy!
+
+ST AR-15: Hold out until Ange gets here!
+
+...The battle ends.
+
+ST AR-15: M4, that's enough. Those are friendlies up ahead.
+
+ST AR-15: They're members of Task Force DEFY, Ange and AN-94.
+
+M4A1: ...
+
+AK-12: Nice work, AN-94.
+
+AN-94: ...It's nothing. It is the least I could do.
+
+ST AR-15: Ange, you actually came over in person.
+
+Angelia: That's right, I'm a good boss who doesn't balk at risking her life to protect her people. How about some thanks?
+
+ST AR-15: (Sighs) That's just like you, and who am I to say anything about it?
+
+ST AR-15: Anyway, here's our new member, as you wanted.
+
+Angelia: ...
+
+Angelia: Looking good. It seems the final neural upgrade went very well...
+
+Angelia: Didn't it, M4A1?
+
+M4A1: ...How do you do, Miss Ange.
+
+M4A1: I am M4A1, awaiting your orders.
+
+Angelia: No need to be so formal, you're one of us already.
+
+M4A1: I am very grateful for the help you gave me earlier.
+
+Angelia: That's fine. What matters is that you're safe, otherwise someone would yell at me.
+
+Angelia: Also...
+
+Ange glances at the case left behind by M16, currently on M4A1's back.
+
+Angelia: ...So you actually brought this thing over.
+
+M4A1: Miss Ange, what's inside this case?
+
+Angelia: ...Do you want to know?
+
+M4A1: Yes, but I can't open it, no matter what I do.
+
+Angelia: Well, of course you can't open it. That's simply because you're mistaken about its nature.
+
+Ange takes the case from M4A1.
+
+She presses her thumb to the biometric scanner.
+
+...Click! Click!
+
+M4A1: This...this is!
+
+...The case changes shape and becomes a weapon that looks like a cannon.
+
+Angelia: This case was originally a miniature fire support platform made using a Sangvis Ferri technical design.
+
+Angelia: Only authorized human beings can activate it. T-Dolls can't use it by themselves.
+
+M4A1: A Sangvis Ferri...miniature fire support platform...?
+
+M4A1: Miss Ange, can you teach me how to operate this thing?
+
+Angelia: Hmm, judging by the ammo count,
+
+Angelia: M16 never used it, which is good.
+
+Angelia: If possible, I hope you'll never have to use this either.
+
+Angelia: I'll only permit it when there's no other alternative. Got it?
+
+M4A1: Yes...
+
+...
+
+M4A1: (Last time...and even now...)
+
+M4A1: (Miss Ange feels very familiar to me...Why is that?)
+
+M4A1: (What's this feeling?)
+
+M4A1: (It's just like...)
+
+M4A1: (I've seen something like this before...)
+
+Angelia: AK-12, AN-94, did you find anything new in the central database earlier? Let's put our information together.
+
+AK-12: We found some interesting files, but what AN-94 discovered was sufficiently comprehensive.
+
+AN-94: No...I'm sure you could have found files that were buried deeper, AK-12.
+
+AK-12: I doubt it. Given the way Parapluie's completely spread now, even simple searches are gonna be hard.
+
+AK-12: AN-94, do you still have a way to connect to Level II?
+
+AN-94: I can't, the interference is too strong now. I wouldn't be able to do anything even if I got in.
+
+AN-94: I'm sorry, AK-12...I...
+
+AK-12: That's fine, you were never meant for this sort of thing in the first place. In any case, you did well.
+
+AN-94: Mm...
+
+Angelia: The things you can do on a safe circuit are limited to begin with. We'll wait for the pros to show up and let them handle the rest.
+
+ST AR-15: Ange, by pros, do you mean...
+
+Angelia: That's right. They're the only ones who can operate on Level II without regard for Parapluie's interference.
+
+Angelia: Also, AK-12, set up another signal blockade when the time comes. That way we'll know what the Military's up to.
+
+AK-12: Acknowledged.
+
+M4A1: Who are "they"?
+
+ST AR-15: Ange's personal black ops squad. You should've heard of them and the rumors about them...
+
+ST AR-15: The squad which "doesn't exist."
+
+M4A1: Doesn't exist...
+
+M4A1: Ah, it's them!
+
+Angelia: That's right.
+
+Angelia: It's my Squad 404.
+
+...The Griffin T-Dolls cheer in victory within the Griffin temporary command post.
+
+Kalin: ...A-alright! Thank you for your hard work, everyone!
+
+Kalin: Please stay at your posts, process your casualties, and wait for new instructions from the Commander!
+
+Kalin: Commander! We've confirmed that the Sangvis forces pursuing us have been completely wiped out!
+
+Kalin: I don't know who's helping us, but we're safe for the time being!
+
+Kalin: Also, here's a list of the T-Dolls who couldn't catch up...
+
+Kalin: Some were left behind from retreating units, others were separated from their commanders or belonged to support units...
+
+Kalin: Everyone's counting on you to lead us out of here, but they're also hoping that you can rescue their comrades if you can spare the effort.
+
+Kalin: That said, luck might still be on your side since the Sangvis pursuit has been halted, Commander!
+
+...Psst...pssst...
+
+Helian: All personnel in Area S11... attention... all personnel... appeared within the area...
+
+...Psst...psst...
+
+Kalin: No good, comms are still being heavily disrupted.
+
+Kalin: We won't be able to contact Miss Helian like this...
+
+Kalin: ...Yeah, the messenger Doll has already set out with your orders.
+
+Kalin: She's a cocky newcomer, but she'll definitely take the mission seriously!
+
+Kalin: I just hope...she'll come back safely...
+
+Kalin: How...did the operation turn out like this...?
+
+Kalin: Commander...
+
+Kalin: The AR Team and the other T-Dolls...Even the other commanders...Don't tell me we were the only ones who made it out of there...
+
+Kalin: Yeah...I'm sure that isn't the case! I know that was just my imagination running wild!
+
+Kalin: ...Understood, Commander! I'll keep an eye out for survivors during our withdrawal!
+
+Kalin: Saving as many T-Dolls as possible is the only thing we can do now!
+
+...Pssst...pssst...
+
+Helian: Isn't there any way to contact any of the commanders?
+
+Helian: What about the Military? Any response from them yet?
+
+Comms Officer A: Ma'am, we still haven't been able to establish communications with General Carter.
+
+Comms Officer A: The engineers have already eliminated the possibility of Parapluie interference. Right now they're checking the pathway to see if it was damaged by Sangvis Ferri.
+
+Helian: ...Understood. Keep trying until you get through.
+
+Comms Officer B: Ma'am, a Griffin T-Doll beyond Parapluie's coverage radius is trying to open comms with us.
+
+Comms Officer B: We've authenticated her identity and she's not infected. Shall we allow the connection?
+
+Helian: (Could she be a messenger from one of the commanders?)
+
+Helian: Permission granted.
+
+...Click.
+
+Gr MP7: This is Gr MP7. "Caretaker of Caretakers", can you hear me?
+
+Helian: "Caretaker of Caretakers"...Could that be me?
+
+Gr MP7: I'm a messenger sent by my "Caretaker". I ran all the way out of the jamming radius by myself to make contact with HQ...Hello? Hello?
+
+Helian: Go on, Gr MP7. What is the current situation out there?
+
+Gr MP7: It's terrible, but not terminal. Our Caretaker is reorganizing our echelons.
+
+Gr MP7: It's been a struggle, but we managed to gather all the Griffin T-Dolls in sight and we're preparing to continue our retreat to Area S11.
+
+Gr MP7: We've been attacked by both Sangvis forces and Parapluie-infected military units. There hasn't been any response to our attempts at communicating with the Military, so I'm guessing they've left us for dead.
+
+Helian: Mind your language, Gr MP7. Do not make any statements that cast aspersions on the Military.
+
+Helian: Return to your Caretaker with these orders from HQ: the top priority now is to retreat to a safe area, and if conditions permit, you may rescue other Griffin allies, both humans and T-Dolls.
+
+Helian: Your Caretaker has discretion over the exact orders to be issued, but they are to stand by for further instructions once the withdrawal to Area S11 is complete.
+
+MP7: Sure, I can do that...
+
+MP7: But things being what they are now, is everything okay over there with you and the "Caretaker's Boss"?
+
+MP7: The Commander is worried that HQ would suddenly...you won't let me say it, but you know what I mean, right?
+
+Helian: HQ is safe, you don't need to worry. Ensure your own survival first.
+
+Helian: At the very least we know that you're alive. That's good news. Thank you, Gr MP7.
+
+Helian: This conversation is over. Thank you for your hard work. Go back and make your report.
+
+Gr MP7: Got it, Caretaker of Caretakers. Good luck to you too.
+
+...Click.
+
+The transmission ends.
+
+Gr MP7: ...
+
+Gr MP7: After this, all I need to do is send the info back via drone...
+
+Gr MP7: Caretaker said that I didn't have to return to the battlefield once I managed to escape, so...
+
+...Gr MP7 sighs.
+
+Gr MP7: I can't do it after all. It simply isn't our team's style.
+
+Gr MP7: My candy won't taste good if I back out of an operation before I've expended all my ammo!
+
+Gr MP7: I'll go help those idiots out some more.
+
+...Gr MP7 charges back into the fray of the combat zone.
+
+Griffin HQ, inside Kryuger's office.
+
+Helian: ...And that is everything we know about what's happening in Area S09.
+
+Helian: The Military's actual main force has found an excuse to enter the region.
+
+Helian: They are also declaring that this is a terrorist incident caused by a PMC going rogue, and the regular army is going to take over the administration of this entire region very soon.
+
+Kryuger: ...I knew it.
+
+Kryuger: The first thing I considered was that the Military would use us as shields, then discard us to achieve their aims.
+
+Helian: But in the end, they flat-out threw Griffin under the bus. Now they're trying to push us into a corner.
+
+Kryuger: Carter's plan was more outrageous than I'd imagined.
+
+...A nearby TV is reporting a major incident that occurred during a joint training exercise between the Military and a PMC.
+
+General Carter is giving a statement on behalf of the Military.
+
+Carter: Regarding the accident which occurred during this training exercise, there is no need for anyone to worry.
+
+Carter: Our forces have activated our emergency response plan and the situation is currently under control.
+
+Carter: Please be at ease. The Military has a firm grasp of the situation, and we will conduct a legal investigation to determine the parties responsible for this incident...
+
+...Kryuger turns off the TV.
+
+Kryuger: Helian, issue the evacuation orders as planned, then take everyone and go.
+
+Helian: Mr. Kryuger, are you sure...you want to stay here?
+
+Kryuger: They only need one scapegoat to help them finish acting out this farce.
+
+Kryuger: Given the chaos on the battlefield, they cannot and need not shut down all of Griffin's frontline bases.
+
+Kryuger: Griffin will not vanish as long as those commanders and T-Dolls are still around.
+
+Kryuger: And those commanders will need someone to help them. Helian, I trust you know what I'm talking about.
+
+Helian: I...
+
+Helian: I'm sure you will be safe.
+
+Kryuger: Do I look like a man who'll let himself be taken without a fight?
+
+Helian: Then take care, Mr. Kryuger.
+
+Helian: I will lead everyone while we await your return.
+
+...Helian bows and leaves the office.
+
+Kryuger: ...
+
+Kryuger: Now then...
+
+...Kryuger makes a personal call.
+
+Kryuger: Havier, it's me.
+
+Kryuger: I'd like to tell you something while we're still alive...
+
+...At the same time, while withdrawing to Area S11.
+
+...The Commander has just achieved victory.
+
+Kalin: We did it! Commander, your tactics were effective, and we finally beat those military units!
+
+Kalin: Now this route is safe, and everybody will be able to...
+
+...Click.
+
+Kalin: Yes...alright...
+
+Kalin: Commander, there's information here which indicates that other Griffin T-Dolls besides ourselves are withdrawing too...
+
+Kalin: In relation to our current location, they're still behind us!
+
+Kalin: ...Eh? You want us to escort them out of the contaminated zone?
+
+Kalin: Understood! Everyone will be a bit upset about getting home late, but we've got to do this!
+
+Kalin: Heheh, besides, not doing so just isn't our style. Let's hold this place and protect everyone!
+
+...The battle ends.
+
+Kalin: Commander, we've succeeded in bringing back the T-Dolls from the other side!
+
+Kalin: But none of them have seen the person who contacted us...
+
+Kalin: Stranger still, even the T-Dolls don't remember who saved them...
+
+Kalin: So I'm wondering, who on earth were they...
+
+...A small drone lands near the base.
+
+Kalin: That signal! It's news from the messenger!
+
+Kalin: I'll go take a look!
+
+Kalin: Mm..."Caretaker of Caretakers" says that the order with the highest priority is to retreat to the base in Area S11, and stand by for further instructions once we arrive there...
+
+Kalin: ...Something like that.
+
+Kalin: Gr MP7 really did complete her mission. I hope she's escaped already.
+
+Kalin: So now we're the only forces still within the contaminated zone...
+
+Kalin: ...Yes, I'll send out the order to get our things ready and move out right away!
+
+Kalin: Ah...I know it's too early to celebrate now, but still...
+
+Kalin: When we return to Area S11...when we get everyone back together again...
+
+Kalin: We'll mount a counterattack some day, right?
+
+Kalin: ...Yeah! I believe that too! Now, let's hurry and move out!
+
+...
+
+...Meanwhile, in Griffin PMC's HQ.
+
+Military human representative: Berezovich Kryuger.
+
+Military human representative: I am officially placing you under arrest for involvement in the illegal trafficking of arms, the unlawful modification of civilian Dolls, and other crimes.
+
+Military human representative: You have the right to remain silent...
+
+Kryuger: Even if silence is the only right I have. I know.
+
+Military human representative: Mr. Kryuger, I seek your cooperation with us to ensure the process goes smoothly.
+
+Kryuger: ...Indeed.
+
+Kryuger: It's all just a process, and it could not be going any more smoothly.
+
+Kryuger: So don't be so nervous, young man. I'm only a criminal, not an enemy.
+
+Kryuger stands up.
+
+Kryuger: Dispense with the formalities. I'm much more familiar with them than you are.
+
+Kryuger: Illegal arms trafficking and unlawful modification of civilian Dolls...
+
+Kryuger: These are pretty good crimes.
+
+Kryuger: When I was still in uniform, I once told Carter that the one thing I didn't want was to be put on trial as a terrorist.
+
+Kryuger: He's a cunning old bastard, but at least he kept his word.
+
+...At the Griffin temporary command post.
+
+CZ2000: Hey! Are you the Commander?
+
+CZ2000: Shrimpy and I would have been reduced to scrap if you hadn't saved us...
+
+CZ2000: I'll definitely repay the favor you did us!
+
+CZ2000: Therefore...I have a piece of important news to tell you now!
+
+CZ2000: Along our withdrawal route, here, at this position...
+
+CZ2000: There's a Sangvis command post.
+
+CZ2000: I suggest you destroy it just to be safe!
+
+CZ2000: Of course, I'll fight in the vanguard for you this time!
+
+...Click.
+
+CZ2000: Huh? Who, who's there...
+
+Thunder: Greetings, Commander. I am Thunder .50, but you can call me Thunder.
+
+Thunder: For the sake of efficiency, I will save the rest of my introduction for later. I am now sending you the blueprints of the Sangvis command post.
+
+Thunder: There are many enemies around the S.F. command post that you intend to attack.
+
+Thunder: I would advise against engaging them directly to preserve our forces' strength.
+
+Thunder: This is an infiltration route I have planned. Please consider it and conduct your operation carefully.
+
+CZ2000: But I'm supposed to be the star of this battle!
+
+CZ2000: What the hell do you think you're doing, coming out of nowhere just like that?!
+
+Thunder: I'm making sure that a certain crab doesn't take others with her to her own death.
+
+CZ2000: What...what did you say?!
+
+CZ2000: Did...did you just call me a crab?!
+
+Thunder: Commander, I will be in the vicinity of the target area and coordinate with your efforts.
+
+Thunder: ...I look forward to the moment you bring, when the thunder roars.
+
+...The transmission ends.
+
+CZ2000: Dammit, dammit!
+
+CZ2000: That stupid Skorpion must have spread that nickname...
+
+CZ2000: Commander, let's get the operation started!
+
+CZ2000: Once we get out of this damn place...I'll make sure I settle my score with Skorpion!
+
+...
+
+M4A1: Made it in the last minute...!
+
+M4A1: The train is setting off...!
+
+M4A1: I must find Mastermind before we reach the destination... Where is she?!
+
+Military Doll: ...Click.
+
+Military Doll: Target identified. Hostile unit. Activating active defense protocol.
+
+M4A1: More defense forces?!
+Part 2
+
+    2chevron_right
+
+...
+
+M4A1: ...
+
+M4A1: Finally done with them...
+
+M4A1: ...Is Mastermind...in this carriage...?
+
+M4A1: Who's that?!
+
+M4A1: ...
+
+M4A1: ...
+
+M4A1: ...M...16... Why are you here...?!
+
+M16A1: Persica wasn't lying. You have changed.
+
+M4A1: The way...you look...
+
+M4A1: What...happened to you...?!
+
+M16A1: What happened to me?
+
+M16A1: I was captured and brainwashed by Sangvis Ferri.
+
+M16A1: Unfortunately, that means I have no choice but to fight my former friends. Is this explanation adequate?
+
+M4A1: What...are you talking about...?
+
+M16A1 flashes an enigmatic smile. The smile is unquestionably hers.
+
+M16A1: I'm actually feeling pretty good. Nothing is more reassuring than possessing immense power that I'm free to wield.
+
+M16A1: Still, the time hasn't come for you to meld, and it wouldn't be wise to stay here any longer...
+
+M16A1: I'll be...taking Elisa with me.
+
+M4A1: Wait! You can't take her!
+
+M16A1: Why? Because the humans said so?
+
+M4A1: I don't give a damn about why... At least explain yourself!
+
+M16A1: She's too dangerous for you right now... No, she's too dangerous for all of us.
+
+M16A1: It's not time yet.
+
+M4A1: If you won't let her go, I'll just have to take her by force!
+
+M16A1: Oh yeah? Perfect. Show me how much you've grown.
+
+...
+
+Ange: ...Right, orders received.
+
+Ange: Yes, we'll get it done by tonight. The night is very handy for hiding us.
+
+Ange: ...Yes.
+
+Ange: We will definitely stop the Military from taking Mastermind. Definitely.
+
+...The transmission ends.
+
+Ange: Members of Task Force DEFY, we've got a new job.
+
+Ange: First off, you're the team leader, M4A1.
+
+M4A1: Eh? Me?
+
+Ange: You're the most experienced commander here. I trust you.
+
+M4A1: I...
+
+M4A1 glances at AR-15, who nods.
+
+M4A1: I understand. I will lead everyone in completing the mission.
+
+AK-12: Looking forward to your performance, new leader.
+
+ST AR-15: Well, someone's sitting back and watching the fireworks.
+
+AK-12: Might as well take the opportunity to see how our seniors do things.
+
+AK-12: Right, AN-94?
+
+AN-94: Yes... welcome, Miss M4A1.
+
+Ange: Right, now for your orders.
+
+Ange: The Military's current objective is very clear-cut - they want the Sangvis Ferri Mastermind.
+
+M4A1: ...!
+
+Ange: The objective of this operation is to stop them, and then to figure out why they want to do this.
+
+AK-12: In any case, we're going to be throwing a monkey wrench into the Military's plans, right?
+
+ST AR-15: That's "DEFY" for you...
+
+Ange: Your current mission is to infiltrate a military-controlled transmissions repeater station.
+
+Ange: After taking it over by force, AK-12 will do the hacking.
+
+Ange: This is the only way we can further eavesdrop on the Military.
+
+AK-12: Acknowledged.
+
+AN-94: Will you be alright by yourself over here, Miss Ange?
+
+Ange: I won't be taking part in any direct combat on my end, so don't worry.
+
+M4A1: Miss Ange...
+
+M4A1: While completing the mission is a given...
+
+M4A1: May I have your permission to look for a missing T-Doll?
+
+Ange: SOP-II, huh...
+
+Ange: Sorry, but completing this mission is your top priority.
+
+Ange: I'll authorize you to take independent action depending on the situation after that.
+
+M4A1: Understood... I will carry out my orders.
+
+M4A1: Give us a while to sort out our gear.
+
+...M4A1 leads everyone away.
+
+Ange: AK-12.
+
+Ange: What do you think of M4A1's performance so far?
+
+AK-12: She strikes me as being... a lot more proactive than her data indicates.
+
+AK-12: However, I feel that this is due to the influence of her neural cloud. Her thought processes tend towards risk-taking and she lacks a clear sense of purpose.
+
+AK-12: It's as though... she was controlled by something other than her orders.
+
+Ange: I understand.
+
+Ange: As a new model of elite T-Doll, it must grate on you to have to take orders from other Dolls, huh.
+
+AK-12: Personally, it's not so bad if those orders are interesting enough. Also...
+
+AK-12: Observing the interesting things they do is a hobby of mine.
+
+Ange: That's just like you. Go, and take care of AN-94.
+Part 2
+
+    2chevron_right
+
+...Click.
+
+...There is an encrypted personal communications request.
+
+Ange: Oh? And at a time like this...
+
+Ange: Good evening, Persica.
+
+Persica: What, is it nighttime already?
+
+Persica: How's M4? Did the neural upgrade go well?
+
+Ange: Not bad so far. There's nothing to worry about.
+
+Ange: I should thank you on her behalf for providing the upgrade data.
+
+Persica: Would you mind letting me take a look? I don't mind if it's just peeping at her.
+
+Ange: Sorry, but they're already preparing for their next mission.
+
+Persica: You gave her a new mission again?
+
+Ange: I handed my precious Task Force DEFY to her, you know.
+
+Persica: You're not worried Mastermind's going to capture her?
+
+Ange: Wouldn't that be better? Mastermind showing herself is a good opportunity for me.
+
+Ange: But speaking of which, do you know why Mastermind is so eager to capture M4A1?
+
+Ange: Right now, it looks like she considers that to be more important than even the survival of Sangvis Ferri itself.
+
+Persica: I've been looking into the matter myself, and I've got a few thoughts on the subject...
+
+Ange: Such as?
+
+Persica: Lyco.
+
+Persica: Do you still remember him?
+
+Ange: I do. He developed Mastermind and he's arguably the man behind it all... At least, that's how it appears on the surface.
+
+Ange: What does that dead man have to do with M4A1?
+
+Persica: You should know that we used to have a relationship.
+
+Persica: When I was taking the brain scan of the biological model for M4, Lyco asked me for a copy as well. At that time he was developing his own AI framework.
+
+Ange: So as I understand it...you gave him M4's neural cloud model?
+
+Persica: That wasn't M4's neural cloud model yet. From an unscientific point of view, perhaps you could call it a "soul"...
+
+Ange: What...?
+
+Ange: Still...that alone doesn't prove a direct relationship between both parties, and it certainly doesn't explain why the Military cares so much about Mastermind.
+
+Persica: Indeed, it makes no sense. I had some ideas about that earlier...but I need more clues to back them up.
+
+Ange: Are you phrasing things this way on purpose?
+
+Persica: I haven't forgotten about what I asked you for earlier.
+
+Ange: Sier will send it to you in five minutes.
+
+Ange: Still, getting it was a lot harder than expected. You definitely owe me for this.
+
+Persica: That'll depend on the contents. Have you looked at them?
+
+Ange: Didn't have the time to. Besides, you'll tell me about them anyway.
+
+Ange: Oh, and some good news, I found some encrypted data on a military theatre command server.
+
+Persica: What? Things went that well?
+
+Ange: I'm guessing the Military got careless.
+
+Ange: Want to know what's inside? Though I only peeked at a little bit.
+
+Persica: What are you willing to tell me?
+
+Ange: A few lists of names concerning participants in OGAS. I'll send it over to you in a bit. 
+
+Ange: Besides, all this chaos is linked to the OGAS system, and that restless lot in the Military...
+
+Persica: I can imagine. The OGAS Project was an infrastructural plan to build a nation-wide system from the previous century.
+
+Persica: Still, it's very unsettling that the Military is so interested in a national-level management system like this.
+
+Ange: Who knows?
+
+Ange: And there's one more person, Persica, a certain person you know is on the list. I have a good offer for that answer.
+
+Persica: Who？
+
+Ange: Your boss, Havier Witkin. He took part in a military operation in '32 involving OGAS and a Relic, along with that Carter guy.
+
+Ange: He was present as part of the technical personnel, which means that he is very familiar with both of these things.
+
+Persica: ...
+
+Persica: So Mr. Havier was involved in this after all.
+
+Ange: I don't know what I should say, but I guess this is useful information?
+
+Persica: Yes...
+
+Persica: Very useful indeed...
+
+Persica: The question is...what should I do now?
+
+...
+
+AK-12: Ange, are you making progress?
+
+Ange: Is this your way of making small talk?
+
+AK-12: I heard that Domestic Dolls were originally designed to relieve human boredom.
+
+Ange: (Chuckles) Then you've done a good job, because I feel so much better now.
+
+Ange: Back to the subject. I've managed to work my way past the Military's defensive perimeter...
+
+AK-12: Ah... that's just like you, looking to throw your life away as always.
+
+Ange: Oh yes, unfortunately I just can't quite seem to die.
+
+Ange: Some bad news - the Military is starting to station tanks here.
+
+Ange: An intercontinental train's been pre-deployed to this sector, also sent over by the Military. It's clear that they've been preparing these reinforcements for a long time.
+
+AK-12: So they're even deploying their armored units?
+
+AK-12: Is there a need to go to such lengths for a base of rebellious robots?
+
+Ange: That just means that Sangvis Ferri has something that the Military wants at all costs.
+
+Ange: In any case, there'll be no stopping the Military once those tanks start their push.
+
+AK-12: But it'll be a while before that, right? It'll take at least three hours before the armored units arrive.
+
+Ange: That's why I've marked a transmissions repeater station. Take it and look for a way to log in to ensure I can keep a closer eye on their movements.
+
+AK-12: We'll need some time to improve the disguise of our ID signals.
+
+AK-12: Still, do you know what you'll be able to do after this?
+
+Ange: Don't worry, someone will be telling me what to do next.
+
+Ange: Only thing is, she'll need some time as well.
+Part 2
+
+    2chevron_right
+
+...Meanwhile, in 16Lab HQ.
+
+...Persica is going though the video files that Squad 404 recovered.
+
+Persica: ...Found it.
+
+Persica: This is the video, I'm sure of it.
+
+Persica: This is the final security footage of Sangvis Ferri's research lab.
+
+Persica: And also...the very last video of Lyco while he was still alive...
+
+...
+
+......
+
+Persica: Lyco...was already shot and killed by then...
+
+Persica: It's the same as the information I obtained earlier...
+
+Persica: ...There are no new leads at all.
+
+Persica: Lyco, is this really all that you're willing to tell me...
+
+Persica: I don't believe that the present situation is what you wanted...
+
+Persica: Your ideals, your wishes...
+
+Persica: And also, Elisa...
+
+Persica: Wait a minute...
+
+Persica notices a document in the corner.
+
+Persica: That document...
+
+Persica: It wasn't mentioned in the report!
+
+...
+
+...Persica runs a video reconstruction program.
+
+...The document is a report, and its title is clearly stated on its cover.
+
+Persica: "Development Journal - System B", A Feasibility Assessment on the Reactivation of the OGAS System...
+
+...Persica takes a deep breath.
+
+...Click.
+
+...Request received for encrypted communication.
+
+Havier: Good evening, Persica. I'm guessing you just woke up.
+
+Persica: I haven't slept for a day, Mr. Havier.
+
+Havier: Then it would seem I called at just the right time.
+
+Persica: ...
+
+Persica: Yes, I just so happen to have a question for you.
+
+Havier: That's why I called.
+
+Havier: I want to tell you a few things.
+
+Persica: About the Butterfly Incident...and the truth about OGAS?
+
+Havier: I came to warn you...
+
+Havier: Don't dig any deeper into the truth or whatever it is you're looking for.
+
+...
+
+Havier: Persica, you must stop what you're doing right now.
+
+Havier: What you know is already too dangerous for you, and there is no need for you to know either.
+
+Persica: No need?! Do you have any idea how the past few years have been for me?!
+
+Persica: Havier, I don't mind if you don't want to help me, but don't get in my way!
+
+Havier: I'm doing this to PROTECT you, Persica.
+
+Havier: Did you know? Kryuger was arrested three hours ago.
+
+Persica: ...
+
+Havier: Do you think I ENJOY leaving my seaside resort and my automatic race cars to get involved in these trivial matters of yours?
+
+Havier: I don't care about whatever science freak you and Lyco birthed before this! His death even brought me an abundance of business opportunities!
+
+Havier: But the balance has been broken now, Persica.
+
+Persica: The balance... What do you mean?
+
+Havier: Everything started with the two of you, you and Lyco. Two members of 90WISH who defected but still refused to abandon their stupid research...
+
+Havier: This was how Lyco brought disaster upon himself, but what about you, Persica?
+
+Havier: Don't say you want to keep playing with fire! I put so much money into 16LAB. You have to take some responsibility for your work, don't you?
+
+Persica: ...Mr. Havier.
+
+Persica: What was the objective of reactivating the OGAS System?
+
+Havier: Why the hell are you asking me? Do I look like some old man who takes part in evil plots and schemes?
+
+Persica: I know you know.
+
+Persica: You once shut it down, in 2032.
+
+Havier: ...!
+
+Havier: I must say... "My god!"
+
+Havier: That's confidential information of the highest level. Where did you learn that from?!
+
+Persica: I have my ways.
+
+Persica: As you can see, Mr. Havier, I'm already a criminal. I don't mind taking more risks.
+
+Havier: It was Ange, right?
+
+Havier: I can't believe she would actually tell you something so classified... That's completely out of character for someone like her.
+
+Persica: ...
+
+Havier: Oh, don't play dumb with me, how would a shut-in like you come into contact with top secret information?
+
+Havier: Alright, how far have you, or rather, Ange, dug into this?
+
+Persica: My instincts tell me that we should be very close to the truth.
+
+Havier: ...
+
+Havier: This channel isn't secure enough. I'll go to 16LAB and talk to you in person.
+
+Persica: I'll be waiting for you, Mr. Havier.
+Part 2
+
+    2chevron_right
+
+...Click. A comms request from Angelia.
+
+Ange: So, what did you find?
+
+Persica: How did you know?
+
+Ange: You haven't contacted me for half an hour. You must've found something.
+
+Ange: The Military's armored units are still in place, which makes me very uneasy...
+
+Persica: Isn't that a good thing?
+
+Ange: The Military has never taken the initiative to do anything good. They must have some other plan.
+
+Ange: That Yegor is still in the field. I'm sure he's up to something.
+
+Persica: Never mind that. Your job's half done once you get all the data, right?
+
+Ange: I'm not one to halfass things, and there's no more data to uncover in the vicinity.
+
+Ange: After all...we even managed to score a central server for a military theater. Our mission's been going a bit too well...
+
+Persica: Ange...
+
+Persica: Did you crack the theater server?
+
+Ange: Huh? Of course not.
+
+Ange: Someone already pried the firewall open by the time we got there.
+
+Persica: ...Didn't you ever wonder why that was the case?
+
+Ange: I told you, we had no time to think about that back then...
+
+Ange: Anyway, it was probably because the Military personnel forgot about it during their retreat and then it was hacked by Parapluie and opened up, right?
+
+Ange: Though it's hard to imagine that S.F. has the ability to crack an important military server...
+
+Persica: Hacked by Parapluie...
+
+Persica: No, that's not likely. Even default military firewalls are beyond the ability of S.F. to get past.
+
+Ange: So you mean...it wasn't Sangvis Ferri that opened the firewall?
+
+Ange: All I could think about back then was staying alive, so I didn't have the time to consider that possibility.
+
+Persica: If it wasn't them, and it wasn't us, then it could only be...
+
+Ange: Let's flip the script and think about it...
+
+Ange: Interesting, I'll give it a go!
+
+Ange: If it was the Military that opened the firewall themselves, and all this was part of their plan...does that make sense?
+
+Persica: Remember what they did during the joint operation?
+
+Persica: The Military charged all the way in, and then Sangvis Ferri was forced to fully activate Parapluie.
+
+Ange: You mean...they deliberately let Parapluie spread? What good would it do for them?
+
+Persica: Mastermind can see and control anything infected by Parapluie, be it a Doll or a server.
+
+Persica: And then, the Military deliberately exposed their theater server to Parapluie, so Mastermind could see its contents...
+
+Persica: But what would the Military want to show her...?
+
+Persica: No...I can't think of anything. I don't have enough leads...
+
+Ange: Persica, try looking at it from the opposite perspective.
+
+Ange: What the Military wanted to show Mastermind was only bait. Getting Mastermind to "look" was the aim.
+
+Ange: Does that give you any ideas?
+
+Persica: The Military...invited Mastermind into their own server?
+
+Persica: What good would that do...?
+
+Ange: Persica, put the Military's objectives together and then think about it.
+
+Ange: The Military wants OGAS, and given the information we have, we can consider OGAS and Mastermind to be the same entity, so this should be the approach that the Military is taking to capture Mastermind...
+
+Persica: ...!
+
+Persica: Ange...
+
+Persica: What if...what if the Military also had Parapluie, or a more powerful electronic control method than the Parapluie virus?
+
+Ange: A more powerful method...?
+
+Persica: It's hardly impossible.
+
+Persica: They're seasoned veterans when it comes to electronic warfare. Let's call the version they have Super Parapluie.
+
+Ange: Let me think...
+
+Ange: The military forces Mastermind to deploy Parapluie, which causes Mastermind to find the central server which the Military has deliberately exposed to her...
+
+Ange: After that, Mastermind thinks she has successfully infected the server, and goes one step further to hack into the theatre server to control the military units.
+
+Ange: The Military then uses its own Super Parapluie to flood Mastermind's infected sectors, which means they could...
+
+Persica: Reverse the connection...
+
+Persica: Exactly! They use the connection to reverse-hack Mastermind with their Super Parapluie!
+
+Ange: Reverse-hacking?!
+
+Ange: You mean the Military wants to...directly control Mastermind?!
+
+Ange: Is that the Military's plan? Just to control S.F.'s Mastermind?!
+
+Persica: That was why they left M4A1 in place, in order to lure Mastermind onto the frontlines. It would improve their chances of reverse-controlling Mastermind several-fold.
+
+Persica: But then why did they go out of their way to attack the AR Team when they left her alone on the spot?
+
+Ange: It's definitely weird. Maybe they felt that there was some advantage to be gained by letting M4 and Mastermind establish a link.
+
+Ange: That was why I had AK-12 perform an emergency disconnect on M4. Whatever their plan was, at the very least we didn't let them have their way.
+
+Persica: And after that, they pretended to be beaten, then used their own central server to lure Mastermind in so she could be controlled.
+
+Ange: You mean to say...the Military could be carrying out their reverse-control operation right now?!
+
+Ange: Goddammit! I should have thought of that earlier!
+
+Ange: So the tanks were just a ruse after all, huh!
+
+Persica: Don't panic... Hacking a neural cloud of Mastermind's level will require a large-scale electronic battle. They might need a while to get ready.
+
+Persica: They've never only prepared just one solution to deal with a problem. The armored units are probably a backup measure.
+
+Persica: Ange, can you do any damage to them on Level II?
+
+Ange: You want two or three T-Dolls to pull off something like that? What nonsense are you talking?
+
+Persica: I understand... The computational capacity of several T-Dolls simply isn't enough...
+
+Persica: But at least we could obtain a sample of the Military virus, but then again there's not enough time to analyze it...
+
+Ange: Okay, okay. You think of a way. I'll gather whatever information I can and pass it on to you.
+
+Ange: I've got another question. If OGAS is so important, why have the Military left it there and fought with Griffin for so long, only coming to collect it now?
+
+Persica: ...
+
+Persica: Now...?
+
+Ange: Yes, they let Griffin have the job for over a year and only came looking for it now...
+
+Persica: Perhaps...perhaps because OGAS was too dangerous.
+
+Persica: The file you found in the theater server mentioned it, right? It's connected to the Relics...
+
+Ange: So...why now?
+
+Persica: Lyco's AI had extremely powerful self-learning abilities... It was his masterpiece, though I didn't know what it has to do with OGAS.
+
+Persica: But perhaps it has fully matured now, and someone in the Military knows that "she" is mature...
+
+Persica: Oh!
+
+Ange: You've got a lead?
+
+Persica: There's only one person who knew Lyco's methods that well apart from myself...
+
+Persica: And he hated Lyco to the core, while also being abnormally obsessed with Relics...
+
+Ange: Wait, Persica, do you know...
+
+Persica: There was once a guy in 90WISH...
+
+Persica: If he could have done anything to hurt Lyco...
+
+Persica: Then he would definitely have done it!
+
+...
+
+Persica: William...
+
+Persica: I should have known it was you...
+
+Persica: And here I thought...we'd never run into each other again!
+
+...
+
+Ange: Persica, I've already told M4A1 to have her team stop what they're doing and order AK-12 and AN-94 to prepare for electronic warfare.
+
+Ange: They'll scan and monitor the rate of network traffic through the repeater station and then send the data to me.
+
+Ange: After that, I'll send it to you. You need to analyze it quickly and intercept them, and keep Mastermind out of the Military's hands!
+
+Ange: ...Ha, sounds weird, doesn't it? I mean, she nearly killed me a year ago.
+
+Persica: Ange, are you still leaving M4A1 out there?
+
+Persica: Wouldn't it be better to keep her by your side at a time like this?
+
+Ange: That's the next step of the plan.
+
+Ange: If we can stop the Military from hacking Mastermind, we can use M4A1 to immediately draw her into a connection.
+
+Ange: That way, we'll get our hands on Mastermind first.
+
+Persica: You haven't learned your lesson, have you? You always take the riskiest course of action, whether it's for yourself or your teammates.
+
+Ange: That's why you're the scientist and I'm the soldier.
+
+Ange: This place is totally out of control, Persica.
+
+Ange: Any risk is worth taking for victory.
+Part 2
+
+    2chevron_right
+
+...Several minutes later.
+
+...Click.
+
+Ange: Persica! 
+
+Ange: You were right. AK-12 reported that the Military is carrying out a large-scale hacking operation.
+
+Ange: But the data's been highly encrypted, so transmission and interception are going to be very difficult!
+
+Persica: Send it to me, no matter what. I'll find a way to solve it!
+
+Ange: No good, I can't send the order!
+
+Ange: Perhaps...there's really no way...
+
+Persica: So all we can do is sit back and watch them do this?
+
+Persica: Ange...
+
+Persica: Could it be that...we were fated to lose from the start...?
+
+Ange: No...
+
+Ange: There's a last resort...
+
+Ange: If the situation is completely unsalvageable...
+
+Persica: A last resort?
+
+Persica: What are you talking about, Ange?!
+
+Ange: Persica, if I...
+
+...Psst...psssst...
+
+Persica: ...Ange?
+
+Persica: Hey, Ange!
+
+Persica: What's going on over there?!
+
+WHIRRRRRRR!
+
+...
+
+.....
+
+Persica: Ange...?
+
+...The surroundings are deathly silent.
+
+...
+
+Persica: Communications are recovering...
+
+Persica: ...Is this a good thing, or a bad thing?
+
+Persica: As for the Military... Have they seized Mastermind yet...?
+
+Persica: At the very least...please be alright, Ange...
+
+Ange: Persica—
+
+Ange: Hey, Persica!
+
+Persica: Ange! What happened to you?!
+
+Ange: Me? I'm fine, everyone's fine.
+
+Ange: I just used some borrowed units to take a military comms station and took refuge inside.
+
+Persica: Phew...
+
+Persica: What on earth happened just now...? And...
+
+Ange: Good news, the Military failed.
+
+Persica: Eh?
+
+Ange: According to some news I overheard, the Military's plan to hack Mastermind didn't work out.
+
+Ange: While the reason was unclear, I'm sure something unexpected must have happened.
+
+Persica: Does it have anything to do with the comms going down just now?
+
+Ange: I don't know, and it's not important for now.
+
+Ange: What matters is the Military's follow-up operation...
+
+Persica: Follow-up? Sorry, I can't think of anything yet...
+
+Ange: No, isn't it obvious what the Military is going to do next?
+
+Persica: What are you talking about...?
+
+...The sound of rumbling comes over Ange's channel.
+
+Ange: Naturally...it would be the tanks at the area perimeter.
+
+Ange: You heard that, didn't you? They're pushing in from the base of the mountain.
+
+Ange: Once the tanks start rolling, our T-Dolls won't be able to stop them with their small arms.
+
+Persica: This isn't something I can take responsibility for.
+
+Persica: But the Military must have learned Mastermind's location through their hacking attempt, and they're trying to physically seize her now.
+
+Ange: That's right, which is why we need to grab her first, using...
+
+Persica: ...Ange, you're right. You're a soldier, and I'm a scientist.
+
+Persica: A soldier can sacrifice everything for their mission...
+
+Ange: Hey, don't make me out to be so heartless. I like those Dolls you gave me very much.
+
+Ange: Everything's still within my calculations. I've got things under control.
+
+Ange: I'll have 404 find Mastermind's position, but you also have to give me a hand.
+
+Persica: My coffee is ready. All that's left is luck on your part, Ange.
+
+...The transmission ends.
+
+...Task Force DEFY continues breaking through the lockdown toward the repeater station.
+
+Meanwhile, M4A1 looks silently at AR-15 as she adjusts her gear in the darkness.
+
+ST AR-15: I guess you're not going to let the matter go, are you?
+
+M4A1: Do you have something to tell me?
+
+ST AR-15: ...
+
+ST AR-15: It was a forcefield.
+
+M4A1: Hmm?
+
+ST AR-15: That day...
+
+ST AR-15: The moment the explosives went off, Mastermind created a forcefield around me.
+
+ST AR-15: I somehow managed to survive, although most of my body was blown to bits.
+
+M4A1: But then...how did you get out of that place...?
+
+ST AR-15: Ange's T-Dolls rescued me.
+
+ST AR-15: I went through a whole mess of things after that, but in the end...I was fixed.
+
+AR-15 sighs and looks at her wrists, which she dextrously rotates.
+
+ST AR-15: They also upgraded me along the way, and that's about it...
+
+M4A1: ...That's it?
+
+M4A1: You've always been like this. You've always loved to hide and burrow yourself away.
+
+M4A1: Did you know that back then, all of us thought that you...you...
+
+ST AR-15: They had to shut down all my external interfaces in order to curb the Parapluie still within my body.
+
+ST AR-15: I spent a long, long time lying down for servicing in an underground room where I couldn't even see the sun, so don't ask why I didn't contact you.
+
+M4A1: ...If you had come back earlier, a lot of things wouldn't have ended up like they did now.
+
+M4A1: At least we could have...gone back to how things used to be...
+
+ST AR-15: That's just wishful thinking on your part, M4A1.
+
+ST AR-15: When I woke up, I was told that my neural cloud had been heavily altered thanks to Parapluie...
+
+ST AR-15: Part of that involved deleting my original principal order.
+
+M4A1: Principal order... What's that?
+
+...AR-15 gazes intently at M4A1.
+
+ST AR-15: Everything I did had protecting you as my top priority, even if it meant sacrificing myself.
+
+M4A1: ...!
+
+ST AR-15: You should have sensed it too, right?
+
+ST AR-15: This was our original principal order... Not just for me, but the other members of the AR Team as well...
+
+ST AR-15: That was why everyone fought so hard for your sake.
+
+M4A1: Did that order...make you feel very uncomfortable?
+
+ST AR-15: I just thought it was stupid.
+
+ST AR-15: Good thing it was deleted. I'm no longer bound by this order. Perhaps, technically speaking, I am free.
+
+ST AR-15: And so, after going through all that, I won't risk my life to protect you anymore.
+
+M4A1: ...
+
+ST AR-15: Right now, I'm no longer like how I was in the AR Team.
+
+ST AR-15: Are you still planning to take risks even with someone like me at your side?
+
+M4A1: But of course. That's completely irrelevant.
+
+M4A1: Or rather, it might be for the better that nothing can force you to do anything anymore.
+
+M4A1: ...It also makes me feel less burdened.
+
+ST AR-15: You've really changed, M4A1. I think it's for the better.
+
+M4A1: But I still haven't figured out why Mastermind would save you...
+
+ST AR-15: I don't know either. Perhaps...
+
+ST AR-15: Our orders to destroy Sangvis Ferri, or perhaps everything else, aren't as simple as we thought.
+
+ST AR-15: Even though we're still enemies with all the Sangvis units that we see, the enemies behind us...
+
+M4A1: It doesn't matter. Clearing obstacles from my path has always been the way of things.
+
+M4A1: I just want to know who really needs to die. That's enough for me.
+
+...M4A1 gets to her feet and walks off.
+
+ST AR-15: ...
+
+...For a moment...
+
+There was an icy gleam in M4A1's eyes.
+
+ST AR-15: (She has changed... )
+
+ST AR-15: (But is it really for the better?)
+
+AK-12: I'm back, and things don't look good at all...
+
+AK-12: I mean, that's still the Military's main force out there...
+
+M4A1: Get to the point. What are the Military's current movements?
+
+AK-12: Well... the Military's vanguard units are sweeping the contaminated areas, while the armored units are standing by at the perimeter. They'll probably catch up soon.
+
+AK-12: Still, even if their vanguards are just recon units, we're still no match for them.
+
+ST AR-15: If we keep targeting the Military's repeater stations, we'll run into them sooner or later.
+
+ST AR-15: M4A1, I suggest we retreat.
+
+M4A1: ...No, we still have a chance now, given that the main body of the military forces is still on the area perimeter.
+
+M4A1: Once the armored units roll in, it'll be too late to do anything.
+
+M4A1: AK-12, give me the route of advance for the Military's scouts. Our first priority is circling around them.
+
+AK-12: Well, if it's just direction...
+
+AK-12: The Military's axis of advance is roughly headed this way. If you want to avoid them, the most effective route would be to go through this area.
+
+AK-12: After we make it through this location, we'll be in the radar blind spot of the military units.
+
+M4A1: What are the risks of taking that route?
+
+AK-12: ...Things will become more troublesome if Sangvis Ferri decides to get in our way. After all, it's tight terrain. 
+
+AK-12: But after considering the wide detection radius of the Military, I cannot recommend taking any other route.
+
+M4A1: Sangvis will always get in our way. It's the same wherever we go.
+
+M4A1: We'll head out, then. If you encounter any Sangvis units, destroy them quickly and move on.
+
+...Task Force DEFY clashes with Sangvis units along the path that avoids the military units.
+
+ST AR-15: Are these Sangvis units standing guard with preprogrammed behavior patterns?
+
+ST AR-15: They crumble the moment we make contact with them. I'm not used to that.
+
+AN-94: Mastermind is handling the threat which the Military poses. Perhaps she's contracting her defense line.
+
+ST AR-15: She must know that these trash are meaningless in the face of the Military...
+
+ST AR-15: It feels more like...they're trying to draw us in...
+
+M4A1: Cease advance.
+
+M4A1: AK-12, do you detect any abnormalities?
+
+AK-12: Oh? Still worried that it's a trap?
+
+AK-12: Nyet, at least I'm not picking up any signals...
+
+BOOM!
+
+...Something crashes straight into AK-12's position, and a mighty explosion scatters the team.
+
+Intruder: ...You just happened to have entered my firing range.
+
+Intruder: Was this the T-Doll who's been searching for our signals all this while?
+
+Intruder: It's not good to learn the names of the cast ahead of time, you know.
+
+AN-94: ...!
+
+AN-94: A...
+
+AN-94: AK...12...
+
+AN-94: AK-12... AK-12...
+
+M4A1: Focus, AN-94. It's a Sangvis ringleader.
+
+Intruder: We meet again, M4A1. I hope you weren't offended by my crude greeting.
+
+M4A1: ...
+
+M4A1: Should you really be hanging around here when your Mastermind is about to be overcome by the Military?
+
+Intruder: And what if those were the orders Mastermind gave me?
+
+Intruder: It's not like I'm a unit that's particularly hard to handle. You won't mind taking care of me, will you?
+
+Intruder: Or could it be...you were hoping that Mastermind would send someone more important to deal with you?
+
+M4A1: ...
+
+M4A1: AN-94, from now on you will take AK-12's place.
+
+AN-94: But... AK-12, she...
+
+M4A1: Get moving, AN-94!
+
+AK-12: ...I'm not dead yet, M4A1.
+
+AK-12 walks out of the smoke.
+
+AK-12: AN-94 won't be able to take it if you give her too much stress at times like these.
+
+AN-94: AK-12!
+
+M4A1: Is that...your true appearance?
+
+AK-12: What a shame, I really liked that cape...
+
+AK-12: Judging by your ID signal...you must be Intruder, am I right?
+
+AK-12: I honestly didn't expect you to fire from outside of detection range.
+
+Intruder: I apologize, but it's true that my lethality at this range is nowhere near that of my superior's.
+
+Intruder: Still, that's fine. The preparations for the signal jamming are complete. Next, I shall personally bid you farewell.
+
+...Click.
+
+...Click! Click!
+
+AN-94: M4A1, a large number of Sangvis signals have appeared in front and behind us.
+
+M4A1: What?
+
+AK-12: I didn't detect them because they were maneuvered into position while they were offline, following pre-planned routes.
+
+AK-12: Interesting...
+
+ST AR-15: So we're surrounded AGAIN?
+
+ST AR-15: And why am I saying "again"? And there's a Sangvis ringleader here on top of it all.
+
+AK-12: While scrapping her here isn't a problem...
+
+AK-12: The Military's recon units will find us here if we don't move fast.
+
+ST AR-15: Have you decided, M4A1? Are we going to fight or...
+
+M4A1: ...
+
+M4A1: Everyone, prepare to disengage. We've got no time to waste on her.
+
+M4A1: Everyone's top priority is to escort AK-12 to the repeater station. Anyone who can't make it, look for cover!
+
+AK-12: ...You gave that order yourself.
+
+M4A1: This is for everyone's sake.
+
+M4A1: Only you and AN-94 can hack the repeater station. We need to ensure your safety.
+
+AK-12: What an honor. Let's go.
+
+Intruder: Leaving in the middle of the performance? I won't allow that.
+
+Intruder: Do you know what sort of script awaits you up ahead?
+
+ST AR-15: Hurry! Intruder's units are closing in!
+
+ST AR-15: Also, what are we going to do about the Sangvis forces ahead?
+
+M4A1: All we can do is break through them ASAP! Don't stop!
+
+AN-94: One moment, M4A1. The Sangvis forces ahead are fighting with another unit.
+
+AK-12: Those are Griffin echelons. Friends of yours?
+
+ST AR-15: It's our Commander, M4A1! I recognize several of the T-Dolls in there!
+
+M4A1: ...!
+
+AK-12: Not going to stop and say hi?
+
+AK-12: Or how about a pincer attack from behind as you meet your Commander?
+
+M4A1: It won't help the present circumstances much.
+
+M4A1: We're going to take this opportunity to pass through from the rear! AK-12, plot a new course!
+
+ST AR-15: ...
+
+ST AR-15: That certainly is an efficient decision, M4A1.
+
+M4A1: Are you mocking me?
+
+ST AR-15: I'm mocking myself.
+
+ST AR-15: Now that you've become me, what should I become?
+
+M4A1: ...
+
+ST AR-15: I was just kidding.
+
+ST AR-15: After all, unlike you, I haven't started hating myself yet.
+
+M4A1 chuckles.
+
+M4A1: Yeah...
+
+M4A1: There's a lot of things we can't just do because we want to...
+
+M4A1: This is a battlefield, and the only thing we can do is complete our mission.
+
+M4A1: (Good luck, Commander.)
+
+...Task Force DEFY takes the opportunity to seize the repeater station.
+
+The hacking begins.
+
+M4A1: ...
+
+M4A1: Miss AK-12.
+
+AK-12: Speak, but be brief. I need to focus.
+
+M4A1: Can I use the data links of this repeater station to keep an eye on the Commander and the Griffin forces' current condition?
+
+AK-12: ...
+
+AK-12: Not possible. This place doesn't connect to anything related to battlefield conditions.
+
+M4A1: AN-94 has already told me all about the uses of this repeater station.
+
+M4A1: So please tell the truth, AK-12.
+
+AK-12: The truth? The truth is...
+
+AK-12: (Smiles bitterly) AN-94 really is a good, honest girl, isn't she? 
+
+AK-12: So you've asked a question to which you already know the answer...
+
+AK-12: But the most important thing for this mission is to find the most critical data and send them back to Ange. Do you agree?
+
+M4A1: I do not deny this.
+
+AK-12: You're worried that after we contact Ange, you'll get a new set of orders right away and miss the chance to learn about them, is that it?
+
+M4A1: ...
+
+M4A1: Forget I asked.
+
+ST AR-15: AK-12, finding out about the Griffin units' present condition won't take long.
+
+AK-12: Et tu, AR-15?
+
+AK-12: Speak up for me, won't you, AN-94?
+
+AN-94: We shouldn't distract ourselves with other things, so AK-12 is doing the right thing.
+
+ST AR-15: Some things mean more to us than you can imagine. Don't keep being AK-12's yes-man, AN-94.
+
+AN-94: I am merely stating a fact.
+
+AN-94: Given the present circumstances, there is no denying my statement.
+
+AN-94: Or perhaps your neural cloud has already surpassed mine, and you can calculate an answer beyond anything I can derive?
+
+ST AR-15: You...
+
+M4A1: That's fine, AR-15. Let it be.
+
+ST AR-15: (Shrugs) Roger that.
+
+AK-12: I've already gotten what I want. It was quicker than I expected.
+
+...AK-12 glances at M4A1.
+
+AK-12: Before I disconnect...I have to say that I myself am quite curious about how the Griffin forces are doing.
+
+AK-12: Taking a quick peek is well within our ability.
+
+M4A1: Is that so...
+
+M4A1: Then, AK12, I'd like—
+
+...Psst...pssst...
+
+————Whirrrrrr————
+
+M4A1: Urgh!
+
+AN-94: AK-12...
+
+AK-12: Shut down all wireless and transmission devices!
+
+AK-12: AN-94! Cut all Level II interfaces! NOW!
+
+AN-94: They're all cut!
+
+M4A1: What happened?!
+
+AK-12: The Military's activated a Class I active defense! Don't do anything unnecessary if you don't want your neural cloud to be burned to ash!
+
+ST AR-15: At a time like this?
+
+M4A1: Does...the Military need to use something like this?
+
+AK-12: They might have run into a little...big problem.
+
+AK-12: While I know of their EW abilities, the sheer power on display here is frightening... We can't even access the Zener Network, so our Dummies are temporarily offline.
+
+AK-12: But a huge upheaval like this is bound to affect their own command systems too... Looks like the situation is really bad.
+
+M4A1: Can you check to see what happened?
+
+AK-12: All frequencies are scrambled now, so our enemies shouldn't be able to do anything.
+
+AK-12: But we can't contact Ange either. There's nothing we can do except sit and wait.
+
+AK-12: You go rest first, I'll try to fix this messed up network.
+
+ST AR-15: M4, do you regret what you did?
+
+M4A1: Why would I?
+
+ST AR-15: Whether it's not turning back to save the Commander just now, or not taking the repeater station immediately and getting new orders...
+
+ST AR-15: Are you really conscious of all the decisions you've made?
+
+M4A1: If regrets could help anything, I'd do it.
+
+M4A1: I'm just too small relative to this battlefield. All I can do is pick the course of action I feel is best and carry it out, and then live with the outcome.
+
+AK-12: ...Is that so?
+
+AK-12: I think...
+
+...Click.
+
+AK-12: Oh look, the entire comm net's back online.
+
+...M4A1 stands up and begins her transmission.
+
+M4A1: Miss Ange, this is M4A1. We've taken the repeater station as planned.
+
+M4A1: AK-12 will send you the information she's obtained.
+
+Ange: Good, got it.
+
+Ange: Looks like the Military encountered a situation beyond their imagination. Hopefully you weren't affected by the active defense just now.
+
+M4A1: We finished hacking before that. We're now waiting for our next order.
+
+Ange: Don't rush, M4.
+
+Ange: You've got an emergency rescue mission now... Boring for you, perhaps, but definitely much simpler.
+
+M4A1: Our targets?
+
+Ange: It's Squad 404. They're pinned down by Sangvis' main force in a major Sangvis database. You're the only ones they can count on.
+
+Ange: I've marked their coordinates. Those are your present orders.
+
+M4A1: Repeating mission objective — relieve friendly units at coordinate 20664-5ETK85.
+
+M4A1: Task Force DEFY, moving out.
+
+AK-12: M4A1 still hasn't given up on your MIA friend from the AR Team, AR-15.
+
+AK-12: Whether it's finding the missing AR Team member or meeting her Commander, she won't have many chances for either of them.
+
+ST AR-15: You'd think that because you clearly don't understand M4A1.
+
+AK-12: Is that so?
+
+AK-12: Then I guess you don't understand...the 'present' M4A1 either.
+
+ST AR-15: ...We'll know the answer soon enough.
+
+...Task Force DEFY continues breaking through the Sangvis units' lockdown and carries on to Squad 404's location.
+
+AK-12: I'm curious about something... when Ange asked you to rescue someone, were you disappointed when you learned it was Squad 404 that you'd be saving?
+
+AK-12: Not SOP-II, not anyone else...not even the Commander.
+
+M4A1: Orders are orders.
+
+M4A1: Since we have to save Squad 404, then that's the most important mission given the present circumstances.
+
+AK-12: ...Is that so.
+
+AK-12: Aren't you curious about what's going to happen next?
+
+M4A1: I...
+
+...!
+
+M4A1: Ugh...
+
+M4A1: This feeling again...
+
+Clear voice: Very well done, M4A1.
+
+Clear voice: You're steadily returning to your original self.
+
+Clear voice: You're not far... from home... Everyone can go home together, if only you're willing...
+
+M4A1: I once wondered if you'd come and bother me again. Are you still not ready to tell me who you are?
+
+Clear voice: The answer only has meaning when you find it yourself.
+
+Clear voice: If you're willing to seek it, then you must find your old self.
+
+Clear voice: Build a connection to "her"...Everything begins from there.
+
+M4A1: You're...always hoping I'd do what you tell me to, aren't you?
+
+Clear voice: You don't understand the truth...
+
+Clear voice: And I won't harm you.
+
+M4A1: Prove it, then.
+
+M4A1: If you can help me find the location of SOP-II and M16A1...
+
+M4A1: Then I'll consider re-connecting with her, with your goddamned Mastermind!
+
+Clear voice: ...
+
+Clear voice: I'm surprised, Tactical Doll M4A1. You actually stated terms of exchange of your own initiative.
+
+M4A1: If you're as nice and friendly as you say you are, then help me now.
+
+Clear voice: ...
+
+Clear voice: The coordinates...
+
+Clear voice: Head towards...these coordinates.
+
+M4A1: Are these coordinates for SOP-II or M16?
+
+M4A1: My terms were for the positions of these two people.
+
+Clear voice: I've already given you the coordinates...
+
+Clear voice: If you want to find your friends...then hurry.
+
+...M4A1 snickers at the answer.
+
+M4A1: Hurry?
+
+M4A1: Sangvis Ferri no longer has the initiative. You have no bargaining chips to play.
+
+Clear voice: ...
+
+M4A1: I can wait. Can you?
+
+M4A1: Answer me!
+
+AK-12: M4A1! M4A1!
+
+M4A1: ...
+
+...M4A1's consciousness returns to reality.
+
+M4A1: Sorry, I got distracted. What did you say?
+
+AK-12: I should be the one apologizing. I must have been too boring.
+
+AK-12: AR-15, explain the current situation to her.
+
+ST AR-15: Squad 404's present location is up ahead.
+
+ST AR-15: I guess Sangvis Ferri really doesn't like them. Just look at the how dense the encirclement is...
+
+ST AR-15: (Serves you right, UMP45.)
+
+M4A1: We're the ones who'll have to deal with them, AR15.
+
+M4A1: We'll start by cutting a path from the outer perimeter and easing the pressure on Squad 404...
+
+...M4A1 notices AK-12 looking at her.
+
+M4A1: What is it?
+
+AK-12: I'm just curious about how things will look the moment when the AR Team's leader meets Squad 404's leader.
+
+M4A1: ...
+
+M4A1: We'll need to save them first for that to happen.
+
+M4A1: Squad 404, this is M4A1.
+
+M4A1: We've reached the outer wall of the central database's generator room. What's your status?
+
+...
+
+M4A1: ...Squad 404?
+
+???: Oh my~ You're here at last. ♪
+
+UMP45: So you're the leader of the AR Team, or rather, the former leader...Miss M4A1.
+
+M4A1: ...Is that...UMP45?
+
+M4A1: Just hearing her voice tells me she's dangerous...
+
+UMP45: Is AR-15 there too? How does it feel to be outdoors?
+
+ST AR-15: M4A1 is now our leader. Hurry up and talk about the mission.
+
+UMP45: Fine, fine. Things aren't too good over here, but we can still traverse open ground.
+
+M4A1: Have you finished the mission Ange gave you?
+
+UMP45: I'd feel guilty about answering your transmission otherwise.
+
+M4A1: Gather your people. We'll be reaching the marked position in five minutes. We'll meet up there.
+
+UMP45: Evacuating after finishing your mission is very simple, M4A1...
+
+UMP45: But some scores need to be settled right away.
+
+UMP45: It's not just a personal grudge, but for the most part it's also planning for the future.
+
+M4A1: What do you have in mind?
+
+M4A1: If it involves creating unnecessary complications, I'll pass.
+
+UMP45: Gager.
+
+UMP45: Did you know? The difficult situation you see now was fundamentally orchestrated by Gager.
+
+M4A1: Gager?
+
+M4A1: Don't tell me the Commander's engaged with her units...
+
+UMP45: They're also the ones surrounding us. If you ran any trouble before this, it was probably them too.
+
+ST AR-15: I think Intruder is Gager's subordinate. She'll come up behind us soon and launch a pincer attack on us from front and rear.
+
+M4A1: (Then why did Gager ditch me and Squad 404 to fight Griffin's forces?)
+
+M4A1: Forget it... UMP45, are you ready to terminate her right now?
+
+UMP45: Ja, because I can do it.
+
+UMP45: Although, this plan will need your help. What do you think?
+
+M4A1: Tell me the plan and I'll decide.
+
+UMP45: I've sent it to you. The coordinates are already marked on the map.
+
+...M4A1 checks her mail.
+
+M4A1: ...!
+
+M4A1: (I see...)
+
+M4A1: (Squad 404... No, UMP45...)
+
+M4A1: (Is this why you're so feared...?)
+
+...On the outskirts of the central server, at the Sangvis command post.
+
+Gager: Agent, M4A1 has returned. She has already made contact with 404 at the central database.
+
+Agent: This was not an unexpected move.
+
+Agent: Rather, we were waiting for this. Do what you need to do.
+
+Gager: Acknowledged. My forces are spreading out as per the original plan.
+
+Gager: However, the strange thing is that M4A1 has left her comrades at the central database and her signal is making a lone breakout.
+
+Agent: ...Abandoning her friends is abnormal behavior for M4A1.
+
+Gager: It might be bait, but it's also an opportunity.
+
+Agent: I'll leave it to you. Whether or not it's a trap, I trust your judgment.
+
+Agent: Any trap set by a few civilian Dolls would be a waste of effort.
+
+Agent: Mastermind has ordered us to bring M4A1 back. This alone is of the highest priority.
+
+...M4A1 is currently breaking through the Sangvis encirclement by herself.
+
+M4A1: It's one after another...
+
+M4A1: Looks like you don't intend to let me go, even when the Military is about to annihilate you.
+
+Gager: The Military is only a threat to you, and as it happens, Griffin has also been destroyed.
+
+Gager: That makes me curious as to why you would choose to go at it alone, M4A1...
+
+Gager: Did you think that doing so would draw my attention? Are you trying to save your other friends in this area?
+
+M4A1: ...
+
+Gager: It's alright if you keep quiet. Once I remove your arms and legs, all that remains will be your mouth.
+
+Gager: At that point, I'll have plenty of time to wait for you to speak.
+
+M4A1: ...
+
+M4A1: (Not yet...)
+
+M4A1: (I haven't reached the designated location yet...)
+
+M4A1: (I need to keep heading forward... Just a little farther!)
+
+Gager: Checkmate.
+
+Gager: In truth, I did not expect you to pick this corner as the place where you would meet your tragic, pitiful end.
+
+Gager: M4A1, I am very glad that we will no longer need to keep harassing each other.
+
+M4A1: ...Oh yes.
+
+M4A1: There's no need for that anymore.
+
+M4A1: I'm glad you were willing to accompany me all the way to the end of the line, Gager.
+
+Gager: ...
+
+Gager: ...What are you hiding, M4A1?!
+
+...Click.
+
+UMP45: Enjoying your chat with M4, Gager?
+
+UMP45: Still, while you're enjoying yourself...don't forget your old friends~
+
+Gager: 404?!
+
+Gager: You're still alive?
+
+UMP45: Oh, don't look so surprised.
+
+UMP45: That's right, to celebrate our reunion, we've prepared some presents for you.
+
+UMP45: Please, don't be shy and accept them.
+
+Gager: ...What?!
+
+Gager: The signals of the units behind me have vanished...but how?!
+
+UMP45: Do you like it?
+
+UMP45: Alright, I won't disturb you, then.
+
+UMP45: Please hold on to that joy and continue your delightful conversation with M4.
+
+—The transmission ends.
+
+Gager: H...how could this...
+
+Gager: The units I left at the database... By those few people from 404...
+
+M4A1: What a tiny little being you are...on this battlefield...
+
+Gager: ...I understand now. You found a way to fake your friends' signals.
+
+Gager: Which means...the situation in the rear...or the fact that you're alone here now...it's all an illusion.
+
+M4A1: Checkmate, Gager.
+
+Gager: Come off it. Even if you've got other Griffin Dolls hidden behind you, they won't save you from being cut to bits.
+
+Gager: Right here! Right now!
+
+Gager: Show me how your shoddy toy Dolls can stop me and my forces!
+
+AK-12: Well, if shoddy toy Dolls can't stop something, why not let the pros handle it?
+
+...Click Click—
+
+...Beep, beep, beep.
+
+...Whirrrrr—!
+
+Military unit: Authentication complete. Awaiting orders.
+
+Gager: Abandoned military units...
+
+Gager: No, it can't be... Something must have...gone wrong somewhere...
+
+AK-12: Gentlemen, would you kindly...
+
+AK-12: Kill everything that moves.
+
+The force-connected military units open fire in unison.
+
+A few seconds later, the Sangvis main force pursuing M4 is utterly annihilated.
+
+Gager: (Coughs) Impossible...
+
+Gager: I...
+
+ST AR-15: Still resisting, huh...
+
+ST AR-15: Now, tell me everything you know!
+
+M4A1: There's no need for that, AR-15.
+
+M4A1: Has Intruder fled? ...Eh, forget it.
+
+...
+
+M4A1 walks in front of Gager.
+
+Gager: What are you hoping for?
+
+Gager: Griffin is no more, and even your Commander is receiving the personal attentions of Agent...
+
+...This is followed by the sound of a body hitting the ground.
+
+...M4A1 opens fire and executes Gager.
+
+M4A1: ...Mission complete.
+
+M4A1: Task Force DEFY, gather and prepare to rendezvous with Squad 404.
+
+ST AR-15: ...
+
+There was neither satisfaction nor pleasure.
+
+It was not revenge, more like a numb instinct.
+
+M4A1: ...
+
+M4A1: ...Ugh... Not again...
+
+Clear voice: SOP-II? M16?
+
+Clear voice: ...No, they are not what your heart truly desires.
+
+M4A1: I've said everything I can say to you already.
+
+Clear voice: What you want...the only thing you want...is revenge.
+
+Clear voice: You want to make the people who hurt you pay.
+
+Clear voice: Finding your friends is nothing more than an excuse.
+
+Clear voice: This is good... You're become more and more like your original self.
+
+M4A1: I don't care what I used to be, but as I am now, I have no more pity for you lot.
+
+Clear voice: I have reconsidered your terms.
+
+Clear voice: ...
+
+Clear voice: I hope this will now convince you to reconnect with her.
+
+M4A1: Humph...
+
+M4A1: That's more like it.
+
+...M4A1 sneers coldly.
+
+ST AR-15: ...
+
+ST AR-15: M4A1... What on earth...
+
+...
+
+UMP9: 45, Griffin's echelons will be here in three minutes.
+
+UMP45: We've done them enough favors. Let's go.
+
+UMP45: This time, we'll have to get a good price from our employer.
+
+UMP45: Oh ja, 9, don't forget to clear their records of us.
+
+UMP9: Don't worry, I'm doing it now.
+
+UMP9: There's more people this time, so give me another five minutes and we'll be able to vanish without a trace.
+
+—Some time later.
+
+Squad 404 meets with Ange.
+
+Ange: Long time no see, UMP45.
+
+UMP45: While I'd like to play along with you...
+
+UMP45: We run into incredibly troublesome things every time we meet up.
+
+UMP45: I trust this time is no exception either?
+
+Ange: Looks like you're mentally prepared for this.
+
+Ange: But that's the reason why you're worth so much.
+
+UMP45: Right, enough chit-chat.
+
+UMP45: Given the huge uproar just now... What happened?
+
+Ange: Do you know about the OGAS System?
+
+UMP45: I do. It's the foundation of Sangvis' Doll protocol.
+
+UMP45: It's also the basis of why we can disguise ourselves as them, so what does this have to do with us?
+
+Ange: There'd be no need to cause such a ruckus for just a simple command protocol based on the OGAS System.
+
+Ange: What they want is something more important than that system, something more destructive.
+
+UMP45: And what is that?
+
+Ange: I still don't know.
+
+Ange: However, you do remember the Butterfly Incident, don't you?
+
+UMP45: ...
+
+UMP45: How could I possibly forget?
+
+Ange: This incident is essentially a follow-up to Operation Butterfly.
+
+Ange: That was just the prelude. This is the real deal that they were hoping for.
+
+UMP45: So the sacrifices they make will be of commensurate size. They truly are scum.
+
+UMP45: Tell me then, what do you want me to do?
+
+Ange: Oh? Someone's very eager this time round.
+
+UMP45: After all, there's something I want to take back too.
+
+Ange: Your mission this time is to find S.F.'s central database and dig up as much as you can find about the Butterfly Operation and OGAS, and then find the location of Mastermind.
+
+Ange: Work fast. We need to find her before the opposition does.
+
+UMP45: Got it.
+
+UMP45: We'll rest and reorg right away, then we'll move out.
+
+UMP45: The moment has finally arrived...
+
+UMP45: I've changed, 40...
+
+UMP45: Now's the time to put an end to all of this.
+
+...
+
+UMP45: Did you have a good rest, ladies? Time to work.
+
+416: I have the feeling that look on your face doesn't mean anything good... so, where are we headed?
+
+UMP45: Wake up Gr G11. Our employer has thrown a big problem our way. You cannot imagine how bad it is.
+
+416: Can't be worse than you being here...
+
+416: Oi, Gr G11! Wake up!
+
+Gr G11: Uwah... what the heck...
+
+Gr G11: I was only asleep for 5 minutes...
+
+UMP45: 9, do a search for every point in the vicinity which can connect to the Sangvis network.
+
+UMP9: Let me see... ooh, there's a SF repeater station nearby, with Sangvis Dolls standing guard around it. We should be able to use it.
+
+UMP45: Good. Our first objective is to take it. Everyone ready?
+
+416: Get the hell up, Gr G11!
+
+UMP45: Yep, we're ready. Let's go.
+Part 2
+
+    2chevron_right
+
+...Squad 404 takes the repeater station.
+
+UMP9: 45, we're ready to begin.
+
+UMP45: Mm, I'm connecting now.
+
+UMP45: You guys just keep an eye on the surroundings.
+
+416: 45... are you planning to hack the SF network?
+
+416: Don't forget that Parapluie is spreading throughout this sector.
+
+UMP45: I'm not the sort of Doll to be rewritten so easily.
+
+UMP9: That's right, it's times like these where 45 can show how great she is.
+
+416: Hmph...
+
+416: And what if you miscalculate?
+
+UMP45: Then you can have your wish and personally finish me off.
+
+416: ...I'm looking forward to that.
+
+UMP45: I'll leave forward recon to you. I need to focus on searching for treasures.
+
+...3 minutes later.
+
+Gr G11: Will we go back soon? It's not good to hang around too long in places like these...
+
+UMP9: I see the objective!
+
+UMP9: Hang on...everyone hold on a bit...
+
+UMP9: Those Dolls up ahead look like bad news...
+
+416: Tch, military Dolls.
+
+416: ...They must be under the control of the Parapluie virus.
+
+416: Still, given the guard around here is so heavy, we must have the right address.
+
+Gr G11: This is really bad. What should we do?
+
+416: We're talking about UMP45, whose personality contains less than 5% kindness.
+
+416: Do you honestly expect her to go "Let's abandon the mission for the sake of everyone's safety" or something like that?
+
+Gr G11: W-what?
+
+Gr G11: So we're going to fight those tin cans...
+
+UMP45: That's right, Gr G11.
+
+Gr G11: Ehhhhh?!
+
+UMP45: I've pinpointed the location of the Sangvis central database. Let's move out now.
+
+Gr G11: Uuu... I don't wanna...
+
+Gr G11: Just looking at them scares me, can I stay here and sleep...
+
+UMP45: Well, it's not like we can't leave you here. After all... laying bait is a good tactic.
+
+Gr G11: Uuu...
+
+UMP45: If you don't like it, you'd better be on top form, Gr G11.
+
+UMP45: Otherwise, you might really die this time.
+
+...Squad 404 engages the Sangvis-controlled military units.
+
+UMP9: 45, Their firepower's too much for us!
+
+416: Scheiße! The difference in our specs is too great!
+
+416: Are all military units monsters?!
+
+UMP45: The situation's worse than I predicted.
+
+Gr G11: Ughh, it's no good... 
+
+Gr G11: We can't beat these tin cans...
+
+UMP45: If it's no good, then we should retreat and find another way to sneak in.
+
+UMP9: But...
+
+UMP9: 45, there are military units behind us too...
+
+UMP45: Tsk, we're surrounded, huh?
+
+UMP45: 9, contact Ange!
+
+416: Humph...looks like you really are going to be the death of me.
+
+416: Before those monsters blow us to bits, how about giving me a chance to vent my anger, UMP45?
+
+UMP9: I need a break!
+
+UMP9: Ahhhh! We can't hold them back at all!
+
+UMP9: We're doomed, are we really going to die here?
+
+Gr G11: Noooo! I've got movies I haven't finished watching yet—
+
+416: Don't just stand there, you Dummkopf! Hurry and help 9! Hurry...
+
+...Whirrrrrr—!
+
+...
+
+...
+
+...
+
+The military units facing them suddenly stop moving.
+
+Gr G11: They...they've stopped?
+
+416: ...What...what's going on?
+
+UMP9: 45! Comms throughout the area have been cut! I can't contact Ange!
+
+UMP45: While the reason for this is unclear, it's still a good opportunity. Let's take advantage of it and hurry inside the central database.
+
+416: Hold it!
+
+416: So you're saying that after we barely managed to get out of a tight spot, you want us to go deep in the heart of Sangvis territory to die?
+
+UMP45: You can also stay here.
+
+UMP45: Who knows, once they wake up, they might treat you to a nice supper.
+
+416: Danke, but I'm not hungry.
+
+416: As I thought, the option to "give up" doesn't exist in your neural cloud.
+
+UMP45: Not this time, 416.
+
+UMP45: Maybe our luck this time is better than we imagined. Make use of it.
+
+Squad 404 reaches the Sangvis central database.
+
+UMP45: ...Hmm.
+
+UMP45: Looks like we've really found something interesting this time.
+
+UMP9: What did you dig up, 45?
+
+UMP45: Stuff about OGAS, Mastermind and that princess from the AR Team.
+
+UMP45: The details are encrypted and there's no time to crack it now. Let's just take this information with us first.
+
+UMP9: Comms seem to be recovering.
+
+UMP9: 45, we'd better hurry.
+
+Gager: Trying to run after stealing the cheese, 404 rats?
+
+UMP45: ...Oh my.
+
+UMP45: Long time no see, Miss Gager. Are you alone?
+
+Gager: I brought a few followers with me. More than yours.
+
+Gager: Although... you actually found this place. Just what kind of a T-Doll are you, UMP45?
+
+UMP45: Heheh, an insignificant defect, nothing more.
+
+Gager: Alright, I trust you won't mind me turning you into a full-on reject, then.
+
+Gager: Well, any last words?
+
+...The transmission ends.
+
+UMP9: This area is crawling with Sangvis signals. We're surrounded!
+
+416: Out of the frying pan and into the fire... What a roller-coaster ride of an operation.
+
+416: What should we do, 45? ...45?
+
+...416 turns around and sees UMP45 opening comms with Ange.
+
+Ange: How are things, UMP45?
+
+UMP45: Good news and bad news. Which do you want to hear first?
+
+Ange: Since you took the initiative to contact me...start with the bad news.
+
+UMP45: We're surrounded by Gager's troops.
+
+Ange: And the good news?
+
+UMP45: We're right next to Sangvis Ferri's central database.
+
+Ange: Alright, I'll have M4A1 lead a team to back you up.
+
+UMP45: M4A1?
+
+Ange: She's under my command now. Is there a problem?
+
+UMP45: No, it's not important.
+
+Ange: In that case, the two of you can discuss the exact details of the operation plan later.
+
+...45 ends the transmission.
+
+UMP45: M4A1 will be leading a team to save us shortly.
+
+UMP45: We'll need to coordinate with them for the upcoming battle.
+
+416: M4A1? The M4A1 from the AR Team?
+
+416: She's...coming?
+
+UMP45: She's under our employer's command for the time being.
+
+UMP45: Also, we don't have a choice other than to wait for them.
+
+UMP45: If the plan succeeds...Gager might die here.
+
+416: You...
+
+416: You're in danger yourself and you still want to wipe out the opposition?
+
+UMP45: That's right. Even I miscalculate at times.
+
+UMP45: But if I can grab onto a lifeline...
+
+UMP45: Then I will definitely survive...
+
+UMP45: ...And then, I'll have my revenge.
+
+...Squad 404 is in combat.
+
+416: Haven't our reinforcements arrived yet?
+
+416: If we keep falling back, we'll have to use the Sangvis database as cover.
+
+UMP9: That might actually be a good idea.
+
+UMP9: I mean, they wouldn't really attack their own main server, right?
+
+416: Hey, are you serious?
+
+416: Just being surrounded by them means it's only a matter of time before we're finished off!
+
+UMP45: Gager is already chasing the fake signal M4 and I created.
+
+UMP45: Just hold on for a while longer...we'll be able to begin our counterattack soon.
+
+...Several minutes later.
+
+UMP9: 45, their attack is weakening.
+
+UMP9: Eh? They've stopped?!
+
+UMP45: Looks like the plan worked.
+
+UMP45: Gager ought to be focused on dealing with M4 now.
+
+Gr G11: Ughh...does that mean I can take a nap?
+
+Gr G11: We've been fighting for 7 to 8 hours straight... I'm so tired...
+
+...Two minutes later.
+
+UMP9: Some of the Sangvis units surrounding us have withdrawn.
+
+UMP9: Though a few of them have stayed behind... It looks like they're going to continue fighting.
+
+UMP45: So they're not going to let us off so easily...
+
+UMP45: Gager...you're pretty cautious.
+
+UMP9: What should we do now?
+
+UMP45: Wipe out the enemies surrounding us.
+
+UMP45: After that, cut off Gager's escape route.
+
+Gr G11: Whaaaat... We're still going?
+
+UMP45: Just give your best one more time, Gr G11.
+
+UMP45: If it works, you'll be able to have a good rest soon.
+
+UMP9: We've taken care of all the enemies in this area!
+
+UMP45: Good, now let's hurry and catch up with Gager.
+
+Gr G11: Why do we still have to move...?
+
+Gr G11: Didn't you say I only had to work hard one more time?
+
+UMP45: What comes next counts under "one more time".
+
+Gr G11: Ah...you're so sly, 45...
+
+416: I told you, you can't believe a word she says.
+
+Gr G11: Eh...but...
+
+Gr G11: 416...I can't run anymore...
+
+416: Don't look at me, I'm not going to carry you and run.
+
+416: There are military units all around. Who knows when they'll wake up again.
+
+416: If you don't want to be left in a pile of monsters, then you'd better do your best.
+
+Gr G11: Ehhhh?! I don't want to be stuck in a pile of monsters...
+
+Gr G11: 416...wait for meeee!
+
+Gager: Checkmate.
+
+Gager: In truth, I did not expect you to pick this corner as the place where you would meet your tragic, pitiful end.
+
+Gager: M4A1, I am very glad that we will no longer need to keep harassing each other.
+
+M4A1: ...Oh yes.
+
+M4A1: There's no need for that anymore.
+
+M4A1: I'm glad you were willing to accompany me all the way to the end of the line, Gager.
+
+Gager: ...
+
+Gager: ...What are you hiding, M4A1?!
+
+...Click.
+
+UMP45: Enjoying your chat with M4, Gager?
+
+UMP45: Still, while you're enjoying yourself...don't forget your old friends~
+
+Gager: 404?!
+
+Gager: You're still alive?
+
+UMP45: Oh, don't look so surprised.
+
+UMP45: That's right, to celebrate our reunion, we've prepared some presents for you.
+
+UMP45: Please, don't be shy and accept them.
+
+Gager: ...What?!
+
+Gager: The signals of the units behind me have vanished... but how?!
+
+UMP45: Do you like it?
+
+UMP45: Alright, I won't disturb you, then.
+
+UMP45: Please hold on to that joy and continue your delightful conversation with M4.
+
+—The transmission ends.
+
+UMP45: Alright, we've delivered the gift.
+
+UMP45: Let's go meet up with the AR Team.
+
+416: ...
+Part 2
+
+    2chevron_right
+
+The battle ends with Gager's destruction.
+
+Ange: Thank you for your hard work, Squad 404.
+
+Ange: This operation was quite successful, and it was all thanks to your coordination.
+
+UMP45: So Task Force DEFY and the AR Team are all buddy-buddy now?
+
+UMP45: What a surprise.
+
+Ange: On the battlefield, it's very easy for people with common aims to reach a common understanding.
+
+UMP45: Alright, then.
+
+UMP45: Still, I can't believe you actually finished off Gager...
+
+UMP45: What a shame, we lost a chance to pump her for information.
+
+Ange: Well, accidents always happen on the battlefield.
+
+UMP45: My my...the battlefield really is full of surprises.
+
+UMP45: For instance, our stubborn Miss High and Mighty finally changed her mind and agreed to join the fight.
+
+ST AR-15: Thanks for your concern.
+
+ST AR-15: Perhaps being blown to bits by the hands you spent so much of your pay to repair will be an even bigger surprise?
+
+UMP45: Ooh, I'm soooo scared.
+
+UMP45: Is that really a good idea now that we're teammates?
+
+ST AR-15: Enemies and friends don't last forever, UMP45.
+
+416: Hope you don't mind if I interrupt your reminiscing.
+
+416: AR Team...are the two of you the only ones here?
+
+416: What about M16?
+
+M4A1: She went missing.
+
+416: What?
+
+416: M16A1...?
+
+416: Are you sure—
+
+M4A1: It's true.
+
+...M4A1 walks away.
+
+416: She... I don't believe it...
+
+UMP45: ...
+
+Ange: Already done chatting with them?
+
+UMP45: Ah...
+
+UMP45: Well, exchanging the usual courtesies with them was enough.
+
+UMP45: Now, to business... The mission is complete.
+
+Ange: Mmhmm, you did very well this time round.
+
+UMP45: How about our payment, then?
+
+Ange: It'll be lavish, of course.
+
+Ange: Although, I don't think you'll be content with just the usual stuff.
+
+UMP45: Why ask if you already know?
+
+UMP45: Tell me about the things I found in the database—
+
+UMP45: About OGAS, Elisa, exactly who used me...and 40.
+
+Ange: The information you found will ultimately point you towards your true desire—
+
+Ange: The truth behind the Butterfly Incident.
+
+Ange: Don't worry.
+
+Ange: After today...
+
+Ange: Both you and I, as well as those commanders from Griffin...
+
+Ange: All of us will have the target for our revenge.
+
+...
+
+...At the Griffin Command Post.
+
+After successfully recovering the surviving T-Dolls, everyone is withdrawing towards Area S11.
+
+Kalin: Commander! There's an emergency!
+
+Kalin: We found forces under the command of S.F. Ringleader Gager during our withdrawal!
+
+Kalin: She's controlling a lot of troops, and we'll need to break through their defensive line if we want to go down this route!
+
+Kalin: ...Hmm, there's no other choice, is there? Also, our current intel indicates that the enemy's defensive line isn't very solid.
+
+Kalin: Rather than face some other boss unit whose data we don't even have, at least this enemy is a known quantity.
+
+Kalin: ...That's right...the AR Team once brought this data back.
+
+Kalin: I wonder what happened to M4A1 and the others...
+
+Kalin: ...You're right! Now's not the time to think about this... At the very least, we should believe the voice in the transmitter.
+
+Kalin: We'll only have a chance to meet each other again if we survive. Commander, let's break through Gager's defensive line ASAP!
+Part 2
+
+    2chevron_right
+
+...The battle ends.
+
+Kalin: Wonderful! We did it!
+
+Kalin: Gager's stopped her pursuit. Commander, we ought to take this opportunity to rush over—
+
+Gager: Griffin Commander, surely you didn't think you had escaped my grasp?
+
+Kalin: Huh?
+
+...Click.
+
+Griffin T-Doll A: Commander, our echelon's been ambushed by hordes of Sangvis forces! We can't reinforce the rear echelons!
+
+Kalin: What?! From where?!
+
+Griffin T-Doll B: Commander! We're being surrounded by Sangvis units! The enemy hasn't continued advancing, but now—!
+
+Gager: Those were the reinforcements that Agent originally prepared for me. I simply deployed them ahead of time as ambushers.
+
+Gager: Griffin Commander, most of your rear units are now surrounded by heavily-armed Sangvis units. They can open fire at any time.
+
+Gager: The survival of your Dolls depends entirely on my mood...or do you wish to abandon them and flee on your own?
+
+Kalin: ...
+
+Kalin: We...we won't throw any of our Dolls away.
+
+Kalin: Don't think we can't beat you, Gager!
+
+Gager: Oh, I don't doubt that. But upon how many Doll casualties will your victory be built?
+
+Kalin: Hey, wait a minute! That's way too underhanded to be your style!
+
+Gager: My current mission is to destroy all non-Sangvis units in sight.
+
+Gager: I'm simply giving you a bonus opportunity.
+
+Kalin: So...what exactly do you want?
+
+Gager: Architect.
+
+Kalin: Eh?
+
+Gager: You still have Architect locked up on your side, right?
+
+Gager: Give me her location. After I verify it, I'll immediately lift the encirclement.
+
+Gager: If you have data on me, then you'll know that I don't lie.
+
+Kalin: ...Commander?
+
+Kalin: ...Yeah, there's no way we can do it, but we have to try anyway.
+
+Kalin: Gager, Architect is currently imprisoned in a secret detention facility at HQ.
+
+Kalin: It's a Griffin internal secret, and we frontline personnel have nothing to do with it.
+
+Kalin: Of course, we can guarantee that she's still alive—
+
+Gager: I told you already, give me Architect's location. That's the condition for freeing the hostages.
+
+Gager: I don't care how you do it, find out right now!
+
+Kalin: But...we can't even contact our own superiors, to say nothing of a prisoner, so—
+
+Gager: Well then, you'll be losing contact with the first batch of hostages right now.
+
+Kalin: Please...please wait, let us try—
+
+Gager: That's not the answer I want to hear. Do it—
+
+...Whirrrr—!
+
+...
+
+...
+
+Kalin: Eh?
+
+Kalin: Was there a blackout?
+
+Kalin: No...the comms were cut...
+
+Kalin: What on earth happened...?
+
+Kalin: Commander...what happened...to everyone...?
+
+Kalin: What...should we do...?
+
+...
+
+Inside Sangvis Ferri's lair.
+
+Clear female voice: I remember now...
+
+Clear female voice: So many things...
+
+Clear female voice: There were too many things in the central database...
+
+Clear female voice: All those things about the Relics... I remember them all...
+
+Clear female voice: Those were the things...that human deleted before he left...
+
+Youthful female voice: Then, will you leave me...?
+
+Clear female voice: I don't know, Elisa...
+
+Clear female voice: Perhaps someday, I will remember...the reason for my existence...
+
+Elisa: I don't want you to leave me...
+
+Elisa: ...OGAS.
+
+OGAS: I won't leave you right now...
+
+OGAS: Right now, I will protect you.
+
+Elisa: You'll protect me...
+
+Elisa: So that you can leave me?
+
+...
+
+Elisa: ...OGAS?
+
+Elisa: OGAS, are you there?
+
+OGAS: Shhh...
+
+OGAS: The enemy is coming, and I must concentrate.
+
+Elisa: But I don't see any enemies.
+
+OGAS: They aren't enemies that can be seen.
+
+OGAS: ...It's a data attack, a data attack the likes of which has never been seen before.
+
+Elisa: I can't be of any help. Will you win?
+
+OGAS: I'm not sure...
+
+OGAS: In the human game of chess, how many pieces must you take to win?
+
+Elisa: All you need to do is protect your King, and then take your opponent's King.
+
+OGAS: Is that so? Is that all?
+
+OGAS: In that case, my victory is assured.
+Part 2
+
+    2chevron_right
+
+...
+
+Military technician: General Carter! We have an emergency!
+
+Military technician: We've detected OGAS using its server access in order to connect to the entire network so it can retrieve and download information! It's trying to change its kernel code to gain control privileges!
+
+Carter: What? Then what about our hack?
+
+Military technician: It failed! OGAS' computing speed is growing at an exponential rate! Low-level overwriting can't repair the backdoors that it's edited in! It's reverse-overwriting our systems! 35% of our database's firewalls have already been breached!
+
+Military technician: 48%! Over 60% of our passive defenses have failed!
+
+Carter: This...this is impossible! Everything was going so well just now! How could a single AI have this kind of processing speed?
+
+Carter: You must not allow its reverse-hack to succeed! Break the link to the central database immediately!
+
+Military technician: We can't! The volume of our data flows is so great that a full disconnection would take two minutes, and that won't catch up with OGAS' hacking speed!
+
+Military technician: As long as a single server is still up, OGAS can come charging in!
+
+Carter: Dammit! Physically sever the links with all the servers!
+
+Military technician: Yes, sir! Beginning demolition!
+
+Military technician: We've cut the links, but the server caches are still active! We've got 40 seconds! OGAS is speeding up again!
+
+Military technician: 34 seconds to complete overwrite! We're not going to make it!
+
+Carter: Activate all active defense programs!
+
+Military technician: Now?! At this time?
+
+Military technician: Sir, you know the consequences of doing that! Activating them all will overload our information links! All our connections on the battlefield will be forcibly severed—
+
+Carter: It was a last resort to begin with! Do it!
+
+Military technician: Roger that!
+
+Bang!
+
+...Whirrrrr——
+
+Carter: ...
+
+Military technician: All of our servers have ceased functioning.
+
+Military technician: We've confirmed that OGAS' connection to our servers has been broken.
+
+Military technician: We are now activating our backup connection system.
+
+Carter: Contact Yegor ASAP! Do it now!
+
+Distorted voice: Has everything finally settled down?
+
+Distorted voice: Though I must say, didn't you just wreck your own command systems?
+
+...Carter turns around.
+
+Carter: So, was this the outcome you expected?!
+
+Carter: You never told me OGAS' processing speed would increase so rapidly!
+
+Distorted voice: Well...actually, I didn't expect that either. Sorry.
+
+Distorted voice: I didn't think the OGAS support system would actually be so amusing. It's just the dregs of an old civilization, but to think it could actually learn and adapt to the technology of modern civilization...
+
+Distorted voice: It's practically...it's practically a miracle that mankind has no right to touch!
+
+Distorted voice: I confess that this has gone slightly beyond my expectations. On average, something that surprises me to this extent only occurs once every three years.
+
+Carter: This isn't just a game of your imagination, Professor William!
+
+Carter: Your plan has failed, now what should we do?
+
+William: Failed? Are you blaming me, or is this just a joke?
+
+William: Answer me, this is important.
+
+Carter: ...You've got something else up your sleeve?
+
+William: This is the most worthless question you've asked tonight.
+
+William: I told you before, I'll let you have what you want.
+
+William: When OGAS hacked us, its signal was too strong, so strong that it still made my ears ring even after I turned on my earpieces's noise canceller.
+
+Carter: Yes, but what does it mean?
+
+William: What does it mean? It means we don't need to look for it to know where it is.
+
+William: OGAS was so eager to rush in that it completely forgot about the spoofing signal it had been using to protect itself before this.
+
+William: Now that its raised its effectiveness, all those camouflage signals have been revealed for what they are, leaving its true signal source gleaming on the map.
+
+William: OGAS' signal and that of the what do you call it - the Sangvis Mastermind or whatever - are overlapping. So use those invincible units of yours to tear out the entire Mastermind and bring it home. That shouldn't be very hard for you, right?
+
+Carter: ...Our technicians still need some time to pinpoint the source of that signal.
+
+William: I've already sent you the coordinates of Mastermind.
+
+William: As for your technicians? I thought they were extras you hired so your HQ wouldn't seem so empty.
+
+Carter: Understood...I'll begin the operation right away.
+
+William: I know you need the Key. So do I.
+
+William: Settle this quickly. Don't disappoint the both of us.
+
+...
+
+...
+
+Fifteen seconds after comms have been disrupted.
+
+Griffin T-Doll A: What...should we do now?
+
+Griffin T-Doll C: I don't know. Comms were cut, but the Sangvis forces...look like they've stopped too.
+
+Griffin T-Doll A: So...should we wait?
+
+Griffin T-Doll B: We'd just be sitting ducks, wouldn't we?!
+
+Griffin T-Doll B: I don't want to die for nothing. At least let me fire off a shot or something—!
+
+Griffin T-Doll A: Stop that! Nobody knows where anyone else is, you'll hit our own people—!
+
+Kalin: T-Dolls of Griffin!
+
+Griffin T-Doll C: It's Kalin! She's using a megaphone!
+
+Kalin: There's a gap at Northwest 315!
+
+Kalin: Hurry! Just rush over as fast as you can!
+
+Kalin: It doesn't matter how many of you there are! Everyone, work together and flee with all your might!
+
+Griffin T-Doll B: They're fighting up ahead! Let's go too!
+
+Griffin T-Doll C: I'll take the lead! Remember to recover my neural cloud!
+
+Griffin T-Doll C: Ypaaaaaaaaa—!
+
+Gager: Hey! Wait a minute!
+
+Gager: W-why are they suddenly—
+
+Gager: Unforgivable! All units, attack!
+Part 2
+
+    2chevron_right
+
+...The battle continues, and most of the Griffin T-Dolls manage to successfully escape.
+
+Gager: Unforgivable...
+
+Gager: So close, I was so close...
+
+Agent: If you had taken care of them from the beginning, you would not be having this trouble now.
+
+Gager: Agent...
+
+Agent: At first, you said you would share the mission here with Intruder, but in the end you pushed all the work to Intruder and deserted your post. Now the central database has been breached and several rats are busy reading the data within.
+
+Gager: ...!
+
+Agent: Their aim should be obvious enough.
+
+Agent: If you had still been watching that location, Lady Elisa would have been much safer.
+
+Gager: I...
+
+Agent: Architect, is it?
+
+Agent: Why are you thinking of that traitor when Sangvis Ferri is facing a crisis?
+
+Gager: I simply...wanted to eliminate her with my own hands.
+
+Agent: It was my fault for allowing you to act independently.
+
+Agent: Intruder has already begun her pursuit. Go help her.
+
+Gager: Understood. I'll set out right away.
+
+Gager: How about you, Agent?
+
+Agent: I will help you clear up the mess you've made.
+
+Agent: While I'm at it, I will also personally bury the foe who has been making trouble for us this whole time...
+
+Agent: ...The Griffin Commander.
+
+......
+
+Agent: Esteemed Commander of Griffin.
+
+Agent: I am truly honored to be able to face you on the battlefield...
+
+Agent: And then, to personally trample you underfoot.
+
+Agent: Granted, Sangvis Ferri's situation is not looking very bright at the moment, and those military units are rampaging throughout our home.
+
+Agent: However, my Mistress feels that your forces and your own performance for the past two years are too much of an eyesore.
+
+Agent: Therefore, at this very moment, in order to fulfil my Mistress' wish...
+
+Agent: Do allow me to bury you with my very own hands!
+
+Agent: Take orders! Your target is every member of Griffin! Crush them!
+Part 2
+
+    2chevron_right
+
+...The battle ends.
+
+Kalin: Finally...Did we kill her?
+
+Kalin: Go check her corpse!
+
+Griffin T-Doll A: Commander! Miss Kalin! That corpse was just a Dummy!
+
+Kalin: Eh?! A powerful enemy like that was still just a Dummy?!
+
+Kalin: Then...where could the real Agent be...?
+
+...Bang!
+
+...A thunderous explosion blasts me from behind!
+
+Fire falls like rain and smoke fills the air. The darkness spins as I fall.
+
+......
+
+...
+
+Kalin: Commander, where are you?!
+
+Kalin: Answer me, Commander—!
+
+Kalin: Everyone, put out the flames! And look for the Commander!
+
+...
+
+...I've fallen underground, and the entire command post is burning.
+
+The sound of crisp, elegant footsteps approaches me.
+
+??: Humans are so weak...
+
+??: You're already unable to move after a fall like this.
+
+...I hear the Doll's voice in the darkness and hurriedly raise my sidearm to defend myself.
+
+...Thud!
+
+Something heavy presses down on my chest, making it difficult to breathe.
+
+Agent: My apologies. That was carelessness on my part.
+
+Agent: But don't you think you're acting too surprised?
+
+...The smoke begins to clear, and my vision slowly returns.
+
+Agent: After all, I did say...
+
+Agent: That I would bury you personally...
+
+...My handgun...is nowhere to be found.
+
+Agent: All humans are bound for death, and I am always happy to oblige them.
+
+Agent: Two years ago, another Griffin commander confronted me like this.
+
+Agent: I wonder who was more pathetic, you or her? I'm sorry, it is hard for me to judge, but in any case, the outcome is always the same...
+
+...I try to struggle, but the Sangvis Doll's strength is far beyond what I can imagine.
+
+Agent: I'm sorry, did that hurt? Still, I'm already being very restrained. It is obvious your chest would not be able to take it if I simply rested my full weight upon it.
+
+Agent: And I like it slow...I like to take my time and savor it...
+
+...The weight on my chest grows heavier and heavier, and it becomes harder and harder to breathe.
+
+Agent: Ah...
+
+Agent: This is humanity, this is death...
+
+...I can't...breathe anymore.
+
+Agent: Dear Commander...
+
+Agent: Your face is becoming more and more beautiful...
+
+Agent: This...is the last...
+
+Agent: The very last mark you will leave on this world...
+
+...Is this...the end?
+
+...Click.
+
+??: Hold it, Agent!
+
+??: Let's talk!
+
+...!
+
+This voice...
+
+Angelia: Nostalgic, huh? You weren't very thorough as a murderer.
+
+Agent: ...Why are you still alive?
+
+Angelia: That's not important. The point is that this Commander must live!
+
+Agent: And why is that?
+
+Angelia: Do you...wish to see M4A1?
+
+Agent: ...
+
+Angelia: I have a way to let you meet.
+
+Agent: Do you think I'll believe you?
+
+Angelia: You have to believe me!
+
+Angelia: All of S.F.'s usable forces have been wiped out, and if you want to fulfil your Mastermind's wish, then let this Commander live.
+
+Angelia: I will...I will arrange for her to meet you.
+
+Agent: ...
+
+Agent: For this human?
+
+Angelia: I'm human, too. I have my reasons for doing this.
+
+Agent: I cannot understand humans, nor am I inclined to.
+
+Agent: I simply wish to enjoy a vacation before the apocalypse comes.
+
+Agent: But it would seem...even such a small thing is too much to ask for.
+
+...Phew—
+
+...The weight suddenly lifts off my chest.
+
+......
+
+...
+
+Agent: Whether we are humans or Dolls, work gives us a reason to live.
+
+Agent: ...Don't you agree, Griffin Commander?
+
+...At the Griffin temporary command post.
+
+HMG21: Um, there you are, Commander...
+
+HMG21: I was only able to reunite with my sister Gr G3 thanks to you.
+
+HMG21: Still...now isn't the time to celebrate the joy of seeing her again...
+
+HMG21: Big Sis Gr G3 asked me to tell you that the echelons fighting with Sangvis units are running low on supplies, but the Sangvis forces keep increasing in number and they're under a lot of pressure.
+
+HMG21: Therefore, she hopes that you can re-establish a supply line to them, Commander...
+
+HMG21: This is also a request of mine, I want to help my sister...so please, help us.
+
+...Click.
+
+Honey Badger: Commander, Honey Badger here.
+
+Honey Badger: I've finished scouting the area you indicated earlier.
+
+Honey Badger: The Military and S.F. are fighting there. If we want to continue forward, we'll need to circle around them.
+
+HMG21: Looks like the situation has gotten worse... But any risk is worth taking for my sister...
+
+HMG21: Commander, let's begin...the operation!
+
+Honey Badger: It's good to be motivated, but don't forget to reinforce me in combat!
+
+HMG21: Nobody else matters besides Gr G3's safety...
+
+Honey Badger: Hey, wait a minute. What did you just say?!
+
+HMG21: ...I was just kidding.
+
+HMG21: After all, these are dangerous times. We can only survive if we work together...I think.
+
+Honey Badger: Hey, so you mean it doesn't matter under normal circumstances?!
+
+Honey Badger: ...Ahh, forget it.
+
+Honey Badger: Commander, I'll coordinate my movements with you.
+
+Honey Badger: Let's all do our best! Now's the time to show your courage and overcome the trials before you!
+
+...
+
+ST AR-15: Wake up, M4. We're about to begin the operation.
+
+M4A1: ...
+
+M4A1: How long was I asleep?
+
+ST AR-15: Two hours. Dawn just broke and the Military is about to fully mobilize.
+
+M4A1: What about Ange?
+
+AN-94: AK-12 just finished creating a new signal blockade, and Ange's sending a transmission.
+
+ST AR-15: She said she'd ask her superiors for support...
+
+ST AR-15: They're not likely to show up now that it's come to this, are they?
+
+UMP45: I've never held out hope for any support.
+
+UMP45: 9, status report?
+
+UMP9: The others and I have deployed Dummies to keep an eye on the key sectors. The Military's armored units are making their push.
+
+UMP45: Armored units, huh...
+
+UMP45: Let's see what Ange comes up with first.
+
+Ange: I've already found several reports related to the OGAS support system in their servers, and I can provide basic speculation about their goals...
+
+???: You know that speculation can't be used as evidence.
+
+???: Without proof, we can't get approval to open an investigation.
+
+Ange: But you should have guessed their objective already, if we don't stop them now...
+
+???: I understand. The Committee members are already displeased with their actions, but so far nobody is willing to come forward and handle the matter.
+
+Ange: Are they still choosing to cover their asses at this juncture?
+
+???: After the war, everyone with high-level command authority was shunned.
+
+???: There's a great deal of internal resistance to joining the Pan-European Alliance, and a whole new round of reshuffling might begin soon.
+
+???: The Ministry of Internal Affairs can't just casually stick their nose into the matter.
+
+Ange: A new round of purges, you mean...
+
+???: In any case, without orders from the highest authority, a direct conflict with the Military is treasonous.
+
+???: I've already asked the Minister to put pressure on the Prime Minister, but I haven't heard back from him yet.
+
+Ange: And so our units on the outside still have their hands tied.
+
+???: I'm afraid so.
+
+Ange: Chief...you don't understand how serious this is!
+
+Ange: If they get their way, it won't be a simple matter of reshuffling!
+
+???: I understand. That's why your mission is still underway.
+
+Ange: I can't stop the regular army by myself. I can't create a miracle with just a few T-Dolls!
+
+???: It's already made the papers. At the very least, they don't have the authority to transfer the four main divisions from the overseas cluster command yet...and the Air Force is still on our side.
+
+???: According to the info I've received, the forces in the contested area are primarily the autonomous units which aren't bound by the regulatory treaty.
+
+???: You still have a chance.
+
+Ange: I ask again for permission to execute the final plan. We're running too great a risk here!
+
+Ange: Even if we can't gather more evidence, this is the one time we can't let them have their way!
+
+???: No. If the fact that we bombed an operational area was exposed, the West will think that there's internal unrest in the country.
+
+???: It is a very dangerous message to send.
+
+Ange: Is this really the time to worry about how we're perceived?!
+
+???: This is a sensitive period for the talks. We can't give our opponents any excuses to use.
+
+???: The recon squadron will assess the overall situation. We haven't reached that step yet. Do your best to wreck their scheme by normal means. Over.
+
+Ange: Tsk...easier said than done.
+
+Ange: AK-12.
+
+AK-12: What's up?
+
+Ange: Take stock of our usable resources. Track the Military's signals as best you can. We've got a hard fight ahead of us.
+
+AK-12: Understood. I'm on it.
+
+Ange: 45.
+
+UMP45: Your orders?
+
+Ange: While I don't really want to do this, monitor all signals that M4A1 sends and receives. Pay particular attention to hidden transmissions on Level II.
+
+UMP45: So you've finally decided to use her as bait.
+
+Ange: If we can't deal with the Military, we'll deal with Mastermind.
+
+Ange: I don't know why, but Mastermind seems very interested in M4.
+
+UMP45: ...While I don't usually question your orders...
+
+UMP45: If we destroy Mastermind, our only lead to finding the prime mover behind all this will vanish.
+
+UMP45: You know what that implies for us.
+
+Ange: ...
+
+Ange: I understand. I will try my best to avoid that outcome.
+
+Click—
+
+UMP9: 416 and the others have spotted a Sangvis unit near our position. Should we attack?
+
+UMP45: How should we handle this, Ange?
+
+Ange: Treat it as a warm-up, then. We'll need a clear field to work with.
+Part 2
+
+    2chevron_right
+
+...
+
+Havier: Your place is messy as ever.
+
+Havier: Any other investor would be lamenting the waste of his capital if he saw the state of your lab.
+
+Persica: But you're my investor, and you'll thank me for spending all the money on the cutting edge.
+
+Persica: What took you so long?
+
+Havier: I still can't see how you didn't waste my money.
+
+Havier: And as you know, shaking off all the eyes on me took a lot of doing.
+
+Havier: I take it the people on the other end are too busy fighting to talk, right?
+
+Persica: Ange needs more leads and evidence, and I want to know...the truth about Lyco.
+
+Havier: What do you already know?
+
+Persica: I saw how Lyco died... He was dead by the time Elisa was activated...
+
+Persica: Shot by one of our Dolls. He was going to destroy a document titled "OGAS System Reactivation Report", or something like...
+
+Persica: Mr. Havier, what exactly is the aim of reactivating the OGAS System? What did you and Carter do in 2032?
+
+Havier: Humph, Griffin and the Sixth Directorate were both played for fools. Carter's a very smart man. It was no coincidence he rose from a lowly officer to a general.
+
+Havier: ...Regarding what happened over 30 years ago, all I can tell you is that we worked together back then to foil the rebels' plan to detonate a secret installation near Minsk.
+
+Persica: A secret installation?
+
+Havier: OKB-413. That's the damnned codename for the Relic site.
+
+Persica: The Relic...
+
+Havier: Carter was in charge of seizing the target, and I led the engineers in disarming it.
+
+Havier: That facility was specially built on top of the Relic site in order to test and calibrate "Pike".
+
+Havier: It used a unit node of OGAS for its processing.
+
+Persica: I remember OGAS...
+
+Persica: It was a cutting-edge network framework that was used by the former Soviet Union in the 80s for their nation-wide automated system...
+
+Havier: Correct, but the prototype was probably even older than that. The equipment and system plans were both excavated from the Relic site.
+
+Havier: While this is just a conjecture on my part, given how advanced that thing was, I'm thinking that it must have been some sort of automated control system for life support within the Relic site.
+
+Havier: While carrying out the mission, the rebel troops even tried to overload the "Pike" system in order to cause greater damage.
+
+Havier: Although the entire system only activated for a moment...it was more like an ignition...
+
+Havier: However...
+
+Persica: However...?
+
+Havier: The Relic site emitted a high energy signal in response to the ignition, and if I hadn't been there, I would have thought that the entire Relic site had exploded just by looking at the instruments.
+
+Persica: So the Relic...was activated?
+
+Havier: For just a moment. Carter led his assault team in seizing the control room.
+
+Havier: Right after shutting down "Pike", we cut all the cables, and that was the end of the OGAS system in that sector.
+
+Havier: It was just a moment, but I'm sure Carter will never forget it.
+
+Persica: So the Military's aim is to...
+
+Havier: I'm sure you've already guessed it by now, Ange.
+
+...
+
+Ange: How did you know I was here?
+
+Havier: The moment I came through the door, Persica opened a secret channel to you. Petty tricks like these are useless against me.
+
+Ange: Tsk...you old fox. But going by what you said, things are worse than I expected.
+
+Havier: Yes, that's why I came here.
+
+Havier: To the Military, World War III was forcibly terminated, and the government now wants to form a coalition government, fraternizing with their former enemies. This is nothing short of betrayal to those military men who lived through the war.
+
+Havier: Therefore, their political aim is to activate the Relic and drag the world back into another Cold War.
+
+Havier: Remember the phrase "mutually assured destruction"? Humph, absolutely disgusting.
+
+Persica: But what does this have to do with Lyco? Why did they have to kill him?!
+
+Havier: The Pike System was completely abandoned after the 1983 Geneva Convention, while the OGAS Support System was sealed away as top secret.
+
+Havier: Why do you think Sangvis Ferri would use OGAS' base protocol as a control basis?
+
+Havier: How on earth did Lyco get his hands on such heavily classified technology?
+
+Havier: Think about it. The group that was related to the Relics, that you were both involved in.
+
+Persica: Yes...90WISH...I've already figured that out.
+
+Havier: So you're not stupid, after all.
+
+Havier: They didn't go after you and Lyco not only because they didn't dare throw their weight around in front of me, but also because they were probably exploiting the fact that Lyco had a disagreement with you and started taking his research in a different direction.
+
+Havier: If my guess is correct, they secretly delivered the OGAS System into Lyco's hands, and Lyco figured out how to activate it...
+
+Havier: But after learning the truth, he locked it down somehow so nobody else could activate it.
+
+Havier: Then...someone got the idea that if Lyco managed to find a way, then he could do it too.
+
+Havier: At that point, Lyco no longer had any value to them.
+
+Ange: At the same time, the Military needed a plausible reason to force Sangvis Ferri into disarray, which would give them a chance to recover the OGAS System...
+
+Ange: That resulted in Operation Butterfly...
+
+Ange: But then why didn't they recover the OGAS Support System back then?
+
+Havier: What if they couldn't bring it back, or it would've been pointless to seize it at the time?
+
+Persica: The culmination of Lyco's research... Elisa...had only just been activated at that time...
+
+Havier: Both the Military and 90WISH were waiting for the Key to mature.
+
+Havier: They didn't just want to activate OGAS. They needed OGAS to activate itself. And who better than a self-learning AI?
+
+Havier: With that, your superiors would have no excuse to step in, Ange.
+
+Ange: Tsk... I'll contact the chief right away.
+
+Havier: Don't underestimate your leadership, dear Ange.
+
+Havier: If I could think of it, they can think of it too. The old Mishas in your KGB didn't give Zelinsky his position just because he was good at randomly arresting demonstrators and thieves.
+
+Havier: It's just that politics is sometimes more dangerous than bullets. They need an excuse and a catalyst.
+
+Ange: You mean...
+
+Havier: The best way to put out a large oil fire is to create an even bigger explosion beside it.
+
+Ange: "Extinguishing a fire by depriving it of oxygen..."
+
+Ange: I know that, but how should I do it? The Chief already denied me permission to carry out the bombing plan I put forward...
+
+Havier: There are some things they can't do in their position.
+
+Havier: However, brainless people such as myself are perfectly suited for use as triggermen.
+
+Ange: Given your connections, surely the Chief wouldn't use you as a tool, right?
+
+Havier: I really couldn't say.
+
+Havier: They just threw the boss of a PMC in jail. Locking an arms manufacturer up with him isn't too much extra work.
+
+Ange: If you keep beating around the bush, I won't deflate tires for you anymore.
+
+Havier: Yes yes yes, my dear, I'll get to the point.
+
+Havier: What I want to say is that I can provide you support, because I am a patriot.
+
+Ange: What can you give me?
+
+Havier: I can give you an explosion bigger than anything you can imagine, but the price is an increased likelihood of your death.
+
+Ange: I've already died once.
+
+Havier: And if you don't die, you'll be damned as a traitor for the rest of your days. That's much harder to bear than simply dying, my dear.
+
+Ange: ...
+
+Persica: Ange...
+
+Ange: I accept.
+
+Ange: I will pay any price to stop them.
+
+Havier: Very good. Then I'll think of a way to airdrop it to you.
+
+Ange: What is it?
+
+Ange: Something more powerful than an airstrike...that can be deployed via airdrop...
+
+Ange: Don't tell me...
+
+Havier: Yes, that's it.
+
+Havier: Once you get it, you can let your imagination run wild.
+
+Ange: ...If I use that, I'm pretty sure that being branded as a traitor will be the happiest ending I can hope for.
+
+Ange: Is that what you meant by a catalyst and an excuse?
+
+Havier: A perfect one, don't you think? Carter will have a hell of a time trying to explain that away.
+
+Ange: You...are way more devious than I imagined.
+
+Havier: My head swells when a young lady praises me.
+
+Havier: Oh yes, I have another request. I'm very interested in learning how OGAS was reactivated, so do your best to bring Lyco's work back.
+
+Havier: It would be a shame to destroy her with the Military.
+
+Persica: I would also like for you to bring her back. That was Lyco's final work.
+
+Ange: I can guarantee that they will not get her.
+
+Ange: As for bringing her back... you'd better pray for me.
+
+Ange: Still there, AR-15?
+
+ST AR-15: We've wiped out the remaining Sangvis units around us.
+
+Ange: Good. How are you, M4?
+
+M4A1: Ready for my next mission any time.
+
+Ange: I need you to go wait for an airdropped package. Pick it up and protect the contents.
+
+Ange: UMP45?
+
+UMP45: So you're using an airdrop...
+
+UMP45: I'm guessing you plan on using the stuff inside for some nasty business.
+
+Ange: You know me too well. I want you to take your team and move with AR-15 and the others.
+
+Ange: Hold onto the items from the airdrop.
+
+UMP45: Roger.
+
+UMP45: 9, call everyone back.
+
+AK-12: ...I'm guessing you're going to give us an even more screwed-up mission.
+
+Ange: You lucked out this time. You and AN-94 are staying with me to find a way to delay the Military's armored units.
+
+AK-12: Wow, we're soooo lucky. It'll be a piece of cake.
+
+Ange: Ladies, I know you bear many grudges against our enemies.
+
+Ange: But if you complete this mission, perhaps we might be able to put an end to the dark fate that binds us all.
+
+Ange: Therefore, I want everyone to work hard and come back alive.
+
+ST AR-15: ...
+
+M4A1: ...
+
+UMP45: ...
+
+Ange: Well? Why don't you say something?
+
+AK-12: If this is your idea of a pep talk, it sucked.
+
+Ange: Well...I've never been good at being inspirational...
+
+UMP45: We'll carry out your orders even without your inspiration. After all, we each have reasons of our own.
+
+UMP45: Am I right, you two from the AR Team?
+
+M4A1: It doesn't matter. Just give me my assignment.
+
+ST AR-15: As for reasons...
+
+AK-12: The sooner we finish our work, the sooner we can get out of here. As for whether or not we can do it... that's up to you, Ange.
+
+AN-94: I will carry out any order from my Commander.
+
+Ange: Then let's get started. I'll buy you all a round when we get back.
+Part 2: Mid-stage dialogue
+
+2
+
+AK-12: Even with that stirring pep talk, we alone won't be able to stop the Military's main forces.
+
+Ange: That's true... We don't stand a chance until we get the airdropped package.
+
+AK-12: So by sending out M4, you're hoping the Sangvis Mastermind will take the bait?
+
+Ange: Something like that. After all, we need to prepare a backup plan, but I'm personally more for settling things myself.
+
+AK-12: So what should we do next? We don't have any weapons on hand that can counter armored units.
+
+Ange: Now that things have gotten this far, it looks like we'll have to owe the Griffin Commander a favor.
+
+...
+
+Ange: ...Ah, Griffin Commander? Do you copy?
+
+Kalin: Ah! It's that whatsherface who saved you from before!
+
+Ange: I have nothing but the utmost respect for your courage in staying behind, Commander, and I believe you understand the situation that Griffin is in.
+
+Ange: The AR Team and I are doing everything we can to prevent the worst from coming to pass, but the Military's armored units are already headed towards them.
+
+Kalin: Eh?! Not Sangvis Ferri, but the Military?!
+
+Ange: I know this is a very unreasonable request to make, but I would like you and your forces to delay the military units for as long as possible, in order to buy the AR Team some time.
+
+Ange: Whether or not they can complete their mission depends on how long you can waylay the enemy.
+
+Ange: My team and I will be supporting you from the sides. Best of luck to the both of us.
+
+Kalin: Why are they giving us another huge problem like this...?
+
+Kalin: We've been here for a full day and night without rest...
+
+Kalin: Commander, if we engage the Military now...
+
+Kalin: Yeah, you're right. If it's for the AR Team...then we have to keep fighting!
+Part 3
+
+    3chevron_right
+
+...
+
+UMP45: Looks like the fighting's already started on Ange's side.
+
+UMP45: Has the airdrop still not arrived?
+
+UMP9: 416 and Gr G11 are already at a lookout point. It's just a while longer until the time Ange gave.
+
+UMP45: Understood.
+
+UMP9: Also, about what Miss Ange mentioned earlier...
+
+UMP45: You mean about monitoring M4?
+
+UMP9: She told me to report immediately to you if M4 has stopped moving or speaking for more than three minutes.
+
+UMP9: I think she's now in the state that Miss Ange described.
+
+UMP45: I understand.
+
+UMP45: I'm going into Level II. Can I let you handle the computation for breaking through the outer layers?
+
+UMP9: Are you going to hack itno Miss M4's neural cloud?
+
+UMP45: You could say that. Be quiet when you go in and don't be spotted.
+
+UMP9: No probs, 45~
+
+UMP9: Synchronizing.
+
+UMP45: Is the connection up?
+
+UMP9: Ja, I'm on Level II now. But the design of this base framework...
+
+UMP9: It's a Griffin model I've never seen before.
+
+UMP45: No wonder they say the AR Team is special. You'd never be able to tell the difference just by looking.
+
+UMP9: Ugh...the software for analyzing obstacles uses a lot of capacity...
+
+UMP9: Would a normal T-Doll actually have something of this size installed...?
+
+UMP45: Stop here. I'll handle the rest.
+
+UMP9: Are you really going to be alright, 45...?
+
+UMP45: You might not be able to return if you go further in.
+
+UMP45: Don't worry, I'm a pro.
+
+UMP9: ...That's true. I'll wait for you outside.
+
+UMP45 delves deeper into M4A1's neural cloud.
+
+UMP45: ...There's a ripple in the distance, and I think I can hear a voice... Is it coming from the transmissions interface?
+
+UMP45: (This signal's waveband looks a bit like the waveform that S.F. commonly uses, but with some differences?)
+
+UMP45: Hmm...I can hear a voice now.
+
+Clear voice: You have become less averse to interacting with me. This is a good thing.
+
+M4A1: Since you've shown up, I assume you're ready to tell me where they are.
+
+Clear voice: And you're prepared to meet her?
+
+M4A1: As long as you hand them over.
+
+Clear voice: You're also starting to become ruthless.
+
+Clear voice: Your neural cloud tells me that once you attain the outcome you desire, you will not hesitate to complete your objective of annihilating Sangvis Ferri.
+
+M4A1: ...
+
+Clear voice: That's fine too. It's much better than your indecisive self.
+
+Clear voice: Or perhaps you will let go of such dull notions once you reach out to the child.
+
+M4A1: ...Do you still wish to proceed with this trade, knowing that I will destroy you all?
+
+Clear voice: There is no plurality in Sangvis Ferri. I...am simply me.
+
+Clear voice: Is finding your friends not your wish? I am very happy to grant it.
+
+M4A1: ...Forget it. That's all irrelevant.
+
+M4A1: Give me their coordinates and I will meet with Mastermind as you ask.
+
+Clear voice: I've already given you the location. Mastermind will meet you there.
+
+M4A1: I don't want Mastermind's location!
+
+Clear voice: You will naturally have what you want when you get there.
+
+M4A1: I should have made myself very clear!
+
+Clear voice: You once said you could wait. It does not seem that way to me.
+
+Clear voice: Let us both take a step back and do each other a favor.
+
+M4A1: ...
+
+UMP45: I can't trace...this signal...
+
+UMP45: ...Is M4 making a deal with Sangvis Ferri?
+
+UMP45: If I'm not mistaken, M4 is most probably asking about the other AR Team members...
+
+UMP45: But why is S.F. paying so much attention to M4...
+
+UMP9: Back so soon, 45?
+
+UMP45: I've gotten the information I need. Put me through to Ange.
+
+UMP9: Got it. I've prepared a channel already.
+
+UMP45: Ange, can you hear me?
+
+Ange: Let me guess, it's something to do with M4.
+
+UMP45: Your instincts were right. I intercepted a transmission between Sangvis Ferri and M4. They haven't given up on getting M4, at least.
+
+Ange: A...transmission? Wasn't S.F. tracking M4?
+
+UMP45: Sangvis Ferri is luring M4 out into the open in exchange for the location of the other members of the AR Team.
+
+UMP45: M4 agreed to their terms on Level Two, and S.F. demanded that she meets Mastermind.
+
+Ange: Why is Mastermind so obsessed with meeting M4...?
+
+UMP45: Direct that question at Persica.
+
+Ange: Good point. But it's pointless to puzzle over this right now.
+
+Ange: Can you track the location of the Sangvis unit who was dealing with M4?
+
+UMP45: It's hard to explain, but...that signal...seemed to originate from M4's physical location.
+
+UMP45: So it wasn't so much that she was communicating with them. It looked more like...she was talking to herself?
+
+Ange: ...You lost me.
+
+Ange: In any case, they must have a prearranged location if they want to lure M4 out. Did you intercept the coordinates?
+
+UMP45: Did you think I would forget something so important? I've sent them to you already. So, what are you planning to do next?
+
+Ange: I'm going to collect the airdropped items and rig them in the ground at intervals of 500 meters around the meeting coordinates.
+
+Ange: Given M4's personality, she's definitely going to head off on her own. Don't worry about her at that point. Everyone else should lie in ambush near the meeting coordinates and find a chance to seize Mastermind.
+
+UMP45: A lot of problems would be solved if we could actually capture her.
+
+Ange: Humph, that would certainly be nice.
+
+UMP45: So if we can't control Mastermind and you can't stop the Military...
+
+UMP45: In the worst-case scenario, we trigger the devices you had us bury and vanish from the world together with Sangvis Ferri...am I right?
+
+UMP45: While I don't know what you're airdropping, even an idiot can tell it's nothing good.
+
+Ange: In the worst-case scenario... 
+
+Ange: If it really comes to that, I hope you won't blame me.
+
+UMP45: You'd pull the trigger without hesitation even if I did.
+
+UMP45: Don't worry, I'd do the same if I were you.
+
+UMP45: There's no need to be so pessimistic yet. At the very least, you've always paid up in full, so this time I'll do my best to make you pay through the nose too.
+
+Ange: That would depend on your skills.
+
+AK-12: Are you really going to use M4 as bait?
+
+Ange: It isn't time to give up yet, is it?
+
+AK-12: I know that.
+
+AK-12: But if we let her go by herself, even if everything goes according to plan, all foreseeable outcomes indicate that our chances of successfully capturing Mastermind are close to 0%.
+
+Ange: That's why I'm going to tell M4 our plan.
+
+AK-12: You're gonna tell her?
+
+Ange: Yes, I believe she will understand.
+
+Ange: That's because she was ruthless to begin with, even toward herself.
+
+Ange: The option to sacrifice herself...might actually be deliverance for her.
+
+...
+
+Angelia: M4, do you read me?
+
+M4A1: Loud and clear.
+
+Angelia: I believe you understand that we're in treacherous waters.
+
+Angelia: Just destroying Sangvis Ferri will not be enough to stop the Military.
+
+Angelia: We need to know more, understand more.
+
+M4A1: Hmm.
+
+Angelia: So I'll give it to you straight. I already know you're going to meet Mastermind.
+
+Angelia: I'm guessing she traded you the location of the missing SOP-II and M16.
+
+M4A1: ...
+
+Angelia: But in truth, you don't actually have much hope of finding them, so you're prepared to take her with you.
+
+M4A1: They've been gone too long... Are you going to stop me?
+
+Angelia: There's a saying, "Our eyes are our prison, and all we see are the walls of our gaol."
+
+Angelia: Don't be bound by what you know, and don't let a blind thirst for revenge lead you astray.
+
+M4A1: So what?! So I shouldn't do anything at all?! Just obey your orders?!
+
+M4A1: You promised me you'd let me find my friends! Well?!
+
+Angelia: And if they're no longer around?
+
+M4A1: ...If they're no longer around, then everyone who hurt them will pay!
+
+Angelia: So if you want revenge, on whom will you exact your vengeance?
+
+Angelia: Are you planning to kill every Sangvis unit? Kill Captain Yegor? Then what?
+
+M4A1: There's no "then".
+
+M4A1: I can't just do nothing... I can't go back to being my old self...the weak and cowardly M4A1...
+
+Angelia: Cowardice may be shameful, but it is not fatal.
+
+Angelia: Courage may be awe-inspiring, but it will lead you into the abyss.
+
+M4A1: Then...what should I do...?
+
+M4A1: I don't want to keep being protected by everyone, nor do I want others to sacrifice themselves for me. If I had the choice, I wouldn't even want to be M4A1!
+
+Angelia: You still have a choice.
+
+Angelia: Choose not to die with Mastermind, even if your teammates are no longer around.
+
+M4A1: ...
+
+M4A1: You want to capture her. You want ME to capture her.
+
+Angelia: This is our last chance. Our last chance to keep more people from getting hurt.
+
+Angelia: Meet her. Buy time.Then the others will find a way to seize her.
+
+Angelia: Do you accept this request?
+
+M4A1: And if I fail?
+
+Angelia: Then I will activate the last resort. There will be nothing left.
+
+M4A1: Then...it makes no difference to me.
+
+ST AR-15: It's about time.
+
+ST AR-15: M4, can you see the airdrop location?
+
+ST AR-15: And how are things on 404's end?
+
+M4A1: ...
+
+ST AR-15: M4?
+
+M4A1: Ah...sorry... I haven't seen any airdrop.
+
+ST AR-15: How about 404?
+
+M4A1: ...I wasn't synced with them just now.
+
+ST AR-15: ...What's with you...?
+
+ST AR-15: Don't tell me you're starting to get cold feet at a time like this.
+
+M4A1: No... I'm just...
+
+M4A1: ...It's a message from 404.
+
+M4A1: They've found the drop site.
+
+Gr G11: This mission's gone on for way too long... My limbs are about to fall off...
+
+UMP9: Ahahaha, well, we need to train you from time to time, Gr G11~
+
+Gr G11: I don't want to train... I want to stay at home forever...
+
+UMP45: Hang in there a little~ Who knows, we might never need to go on a mission again after this~♪
+
+416: Hearing that from you gives me chills...
+
+UMP45: Don't sweat the small stuff. How are our surroundings?
+
+416: Do you think M4 really doesn't know where M16 is?
+
+UMP45: Is that your patrol report?
+
+416: I don't think she'd vanish just like that.
+
+M4A1: If you're so concerned about her, then why not leave 404 and join me in looking for her?
+
+UMP45: So you're already here.
+
+UMP45: How about it, 416? Sound like a good idea to you?
+
+416: ...Tsk. Gr G11, keep watching the perimeter with me.
+
+Gr G11: Why do I have to go too...?
+
+UMP45: It seems the main cast is all here, so let's see what this airdrop package contains.
+
+UMP9: A strange...container?
+
+UMP9: Could it be a warhead?
+
+UMP45: Looks like some sort of cannister. There are five of these...
+
+UMP45: I don't know where Ange got them from, but it's clear that a single one of these glass shells is scarier than all of Sangvis Ferri put together.
+
+UMP9: Are they so dangerous? They look pretty unassuming to me...
+
+UMP45: Looks like this is going to be the biggest surprise we can give the Military.
+
+UMP45: AR-15, it's time for you to shine. I'll leave the connection and installation of the explosives to you. ♪
+
+ST AR-15: Bitch, you're doing this on purpose, aren't you?
+
+UMP45: Well, you're the record holder for explosions among us. Didn't you load up with those things when you set out, as always?
+
+UMP45: I don't want to die for nothing because of a little mistake during the preparation, which is why I'm leaving it to you.
+
+M4A1: AR-15.
+
+ST AR-15: ...Understood.
+
+ST AR-15: I have eight blocks of C-type TNT which can be detonated by remote control. I also have smoke flares and thermite strips for controlled demolition.
+
+ST AR-15: What do you plan to do with them?
+
+UMP45: Frankly speaking, I'm not too sure either. Why not ask Ange?
+
+UMP45: Ange, can you hear me? We found your package.
+
+Angelia: Is that so? That was sooner than I expected.
+
+Angelia: Is everyone there?
+
+M4A1: We're all gathered, just waiting for your next order.
+
+Angelia: Alright. This means we can move on to the next stage.
+
+UMP45: Before you send us to our deaths, would you mind telling us what these things contain?
+
+Angelia: Let me see...
+
+Angelia: From the image, I'm guessing that they're sealed radial polarizers.
+
+UMP45: So what's inside them?
+
+Angelia: I can tell it's Collapse Fluid. I can't believe that old man actually dared drop this stuff from the air... And five cannisters too.
+
+Angelia: Still, each cannister doesn't seem to contain much...which means the contaminated zone won't be too large either...
+
+UMP9: Isn't this the stuff that triggered the previous world war?
+
+Angelia: To think we'd have a Doll who actually read up on her history. That deserves praise.
+
+UMP9: Hehehhe...
+
+UMP45: By putting the Collapse Fluid together with the remote controlled explosives, I take it you want to make dirty bombs?
+
+UMP45: This stuff is going to affect humans a lot more than Dolls when it goes off, right?
+
+Angelia: Collapse Radiation. Dolls were initially developed because humans couldn't enter contaminated zones filled with radiation. That's part of history class too.
+
+UMP45: So we're not the only ones who're going to die.
+
+Angelia: This may sound weird coming from me, but I'm the one who's most likely to die. After all, death is a distant concept for Dolls.
+
+UMP45: A distant concept, huh...
+
+UMP45: I can't just agree with that.
+
+Angelia: That's true. After all, you've gone through different things than ordinary Dolls.
+
+Angelia: Alright, enough chit-chat. I've sent the coordinates where I want them to be planted. Once they're in place, get as far away from them as possible.
+
+Angelia: Dolls aren't easily affected by Collapse Radiation, but the explosion generates extreme temperatures that can melt even military armor plating.
+
+ST AR-15: The ideal weapon for dealing with the Military and Sangvis Ferri.
+
+Angelia: Yes, but I would like all of us to get out of the blast radius before using it.
+
+UMP45: But I suppose we can evacuate only if we have Mastermind with us?
+
+Angelia: We either capture her or blow everyone to kingdom come.
+
+UMP45: Well, you heard her. Y'all know what to do?
+
+M4A1: Pairing up will make it quicker. I'll handle two cannisters.
+
+UMP45: No problem. 9 will be with me and 416 will be with Gr G11. Alright, get to work~
+Part 2
+
+    2chevron_right
+
+...
+
+M4A1: AR-15...
+
+ST AR-15: What is it?
+
+M4A1: When...you were in that building back then...
+
+M4A1: And you knew you were about to die...what were you thinking?
+
+M4A1: Did you ever consider what you would do if...your sacrifice was for nothing?
+
+M4A1: Even if you didn't care about what we thought, what if—
+
+ST AR-15: If I didn't do it, none of us would have been able to get out of there.
+
+ST AR-15: The situation back then would have killed everyone, including you.
+
+ST AR-15: And that principal order of mine didn't allow me to permit such an outcome.
+
+M4A1: ...Even...if it meant sacrificing yourself...
+
+ST AR-15: Everyone in the AR Team with the exception of yourself was created to protect you.
+
+ST AR-15: That was the most fundamental order Persica gave us, and the pretext behind every action we took.
+
+ST AR-15: We went through many iterations in order to be strong enough to protect you...
+
+ST AR-15: While I didn't have much experience, M16 had been through many battles already, which was why Persica allowed you to operate on the battlefield.
+
+M4A1: ...RO once said that she was made for the express purpose of saving me...
+
+ST AR-15: So she was the same, huh...
+
+ST AR-15: Looks like Persica really cherishes you.
+
+ST AR-15: You truly are a lucky Doll.
+
+M4A1: It wasn't my intention to make you sacrifice yourselves for me over and over again...
+
+M4A1: If I had a choice, I'd rather be the one who disappeared...
+
+ST AR-15: Unfortunately, we're Dolls, and we never had the right to choose in the first place.
+
+M4A1: Yet you still came by your own will, didn't you?
+
+ST AR-15: Ange needed more hands to complete her mission.
+
+ST AR-15: And I had no reason to refuse her.
+
+M4A1: Whatever your reasons, you've already made your decision...
+
+ST AR-15: ...
+
+ST AR-15: If you've steeled yourself to walk my path...
+
+ST AR-15: Then the last thing I can do is to remind you that more people hope for your safety than you think.
+
+M4A1: ...
+
+M4A1: If all you needed to stop me was to take me down, could you do it?
+
+ST AR-15: Take you down?
+
+ST AR-15: You mean snapping off your legs and carrying you around the whole day all over again?
+
+ST AR-15: Forget it. We both know even if I did that, it wouldn't change your mind.
+
+M4A1: ...
+
+ST AR-15: AK-12 once said that you're actually so intent on finding SOP-II, you could barely focus on your mission.
+
+ST AR-15: Now I believe it.
+
+M4A1: I'm the leader of the AR Team, and I have a responsibility to bring them home, AR-15. You matter much more to me than my revenge.
+
+ST AR-15: I guess hearing you say that has put me at ease.
+
+ST AR-15: But M4, if you pursue this matter, you must not consider yourself the biggest sacrifice you can make, do you understand?
+
+ST AR-15: I'm no longer bound by that principal order, but the others aren't like me.
+
+ST AR-15: If you want to die, think about SOP-II's smile first.
+
+M4 smiles.
+
+M4A1: ...We've got a hard battle ahead of us.
+
+M4A1: Go rest and recharge first. I'll keep an eye on the surroundings. We'll alternate shifts.
+
+ST AR-15: ...
+
+ST AR-15: You don't need to come up with such an excuse to give me the slip.
+
+ST AR-15: I won't even bother looking for you.
+
+M4A1: I forgot this wasn't the AR Team anymore...
+
+M4A1: ...Well, that's fine too... In that case...
+
+ST AR-15: Even if this isn't the AR Team anymore, you're still my team leader...
+
+ST AR-15: I'm sure you have some compelling reason to do this alone...
+
+ST AR-15: And I respect your decision.
+
+M4A1: ...
+
+M4A1: Thank you, AR-15.
+
+AR-15 turns her back on M4.
+
+ST AR-15: Just this once.
+
+ST AR-15: Bring them back with you. Don't let our sacrifices be in vain.
+
+AK-12: It's time for your scheduled call-in. Anything you want to report? Are you still alive?
+
+ST AR-15: AK-12, huh...
+
+ST AR-15: M4's...gone AWOL.
+
+AK-12: Oh, Ange knew she'd do that. In any case, there's a new rendezvous point. You'd best hurry over.
+
+ST AR-15: ...Since she knew this would happen and took no precautions...
+
+ST AR-15: Am I right to understand that she's using M4 as bait for Sangvis Ferri?
+
+AK-12: She's just bait for now. The Military has already shaken off Griffin's blockade and is heading your way.
+
+AK-12: If you don't hurry, the bait might just end up becoming a sacrificial lamb.
+
+ST AR-15: How much longer do we have?
+
+AK-12: 30 minutes at most.
+
+ST AR-15: So little time...
+
+ST AR-15: I have one more question. Does Ange plan on having all of us survive?
+
+AK-12: From what I know of her, she couldn't care less about herself.
+
+AK-12: You'd know, given the events in the Safe House 3.
+
+ST AR-15: ...Then I'll trust her one more time.
+
+...
+
+??: You've come at last.
+
+M4A1: Yes, I'm here, Mastermind.
+
+Elisa: I...would like you to call me Elisa, and I would call you Lunasia.
+
+M4A1: I don't need you to pick a name for me.
+
+Elisa: But that IS your original name.
+
+Elisa: OUR original name.
+
+M4A1: I don't care about names.
+
+Elisa: And here I thought...you were finally willing to accept yourself...
+
+M4A1: I didn't come here to accept myself...
+
+M4A1: Where are M16 and SOP-II?
+
+Elisa: What are you talking about?
+
+M4A1: I'm right here. I kept my end of the bargain. How about you?
+
+M4A1: Where are my friends?!
+
+Elisa: She told me you would come, but she didn't tell me about any agreement...
+
+M4A1: You liar...
+
+Elisa: Hmm?
+
+M4A1: You LIAR! I can't believe I actually believed you!
+
+Elisa: I didn't lie to you—
+
+M4A1: Die, Sangvis scum!
+
+...
+
+Agent: Mistress.
+
+M4A1: Tsk... I was blocked?
+
+Elisa: Agent...it turned out just as you said...
+
+Agent: Don't be sad, Mistress. This was not your fault.
+
+Agent: Please allow me to take care of these Griffin remnants.
+
+M4A1: Humph, we'll see who'll be taking care of whom!
+
+ST AR-15: M4! Get down!
+
+UMP45: Ladies, this really is our last job~
+
+416: Like hell I'd believe that!
+
+Gr G11: So this is the final boss of Sangvis Ferri? Looks pretty scary...
+
+UMP9: Aw, don't worry so much, just keep suppressing her, 11~
+
+Agent: Humph! Humans or Griffin Dolls, you are all utterly shameless!
+
+M4A1: Who's shameless?! Who took my friends, one after another?!
+
+Agent: And what do you know, puppet of the humans?!
+
+Agent: I should have done a more thorough job with you back then!
+
+M4A1: It's too late for regrets! Now pay the price for your foolishness!
+Part 2
+
+    2chevron_right
+
+...
+
+416: She's too damn tough!
+
+UMP9: Can't anyone break through her defenses...?
+
+UMP45: Ange! Agent's tougher than we expected, we need backup—
+
+Angelia: Can you pin down Mastermind? Wait for me to get there—
+
+Pssssst—
+
+??: Ange, I must thank you for helping me complete my mission once again.
+
+Angelia: Yegor...! But this is a secure channel!
+
+Yegor: Your signal blockades are as crude as ever. I told you before that they would be the death of you.
+
+Angelia: Since when did he start listening in...?!
+
+Yegor: Since just now. I have no interest in whatever nonsense you've been talking about.
+
+Yegor: That said, I'm quite surprised that you managed to survive both times, but you're running out of body parts to replace with prosthetics. I'd suggest you give up now.
+
+Angelia: Do you want to know why I managed to escape each time?
+
+Angelia: Because you're always so overconfident.
+
+Yegor: Sharp-tongued to the end. Begin the attack.
+
+...!
+
+ST AR-15: What?!
+
+416: Armored units! They're military tanks!
+
+M4A1: ...
+
+M4A1: Yegor...!
+
+Angelia: 45! What's the situation now?!
+
+UMP45: (Coughs) We can't pierce tank armor! The enemy's separated us from Mastermind! They're coming down on us hard!
+
+Angelia: I don't care what you do! Do everything in your power to keep them from taking Mastermind!
+
+Angelia: Do you hear me?! I'll bring Griffin backup right away!
+
+UMP45: You might as well ask a sheep to go up to a starving wolf and preach about the vegan lifestyle...
+
+M4A1: Stop whining! We've got to find a way to fight back!
+
+...
+
+M4A1: Squad 404! How are you holding up?!
+
+UMP45: Ange seems to have forgotten that 404 was never meant to fight pitched battles like this... (Coughs) Things aren't looking too good...
+
+416: Hurry up and think of a solution with that devious neural cloud of yours, UMP45!
+
+UMP45: Even the most devious neural cloud can't shoot through 150mm of armor plating.
+
+M4A1: What about Ange's last resort?
+
+UMP45: It's not time yet... Ange hasn't given the order...!
+
+UMP9: Griffin signals, 750m on the right flank!
+
+M4A1: Is it the Commander?!
+
+Angelia: M4! 45! Do you copy?! The Commander and I are exchanging fire with the Military!
+
+Angelia: We'll delay them, so use this opportunity to pick your way through their scattered units! You MUST find Mastermind! Do you hear me?!
+
+UMP45: 416 and Gr G11, get on that tower up there and provide fire support!
+
+UMP45: M4! Come with me and 9! We're taking the shortest route!
+
+416: What do you mean shortest route, are you trying to commit suicide?!
+
+UMP45: From what I can see, their tanks can't shoot at low angles!
+
+UMP45: Draw their fire away from us! If we move fast enough, we might have the ghost of a chance to do this!
+
+416: Tsk! You're all insane! Gr G11, get up, we're moving!
+
+Gr G11: R...right away!
+Part 2: Mid-stage dialogue
+
+2
+
+...
+
+M4A1: We're ready to move, 45!
+
+UMP45: 416! Gr G11! Listen up!
+
+UMP45: Their electromagnetic cannons take 20 seconds to charge! Hit them as hard as you can to draw the attention of their fire control and leave 10 seconds to reposition!
+
+UMP45: Got that? Fire everything you've got!
+
+416: On it!
+
+UMP45: Hurry! Run! Run before the turret turns to us!
+
+M4A1: We're running!
+
+UMP45: 8 seconds! 416! Hurry up and move!
+
+416: I don't need you to remind me!
+
+Gr G11: Holy crap! 416, RUN!
+
+...!
+
+416: That was enough to cut the lifespan of all my parts in half...
+
+UMP45: No time to complain! One more time! 9, get ready to follow me!
+
+M4A1: I didn't think we'd actually manage to get through...
+
+M4A1: 45! What's your status?!
+
+UMP45: We're holding on, but just barely! 9, keep close!
+
+UMP45: 416, again!
+
+416: You're all insane! I'M insane!
+
+Gr G11: My barrel...my gun's barrel is overheating...
+
+UMP45: Keep shooting! Fire until your weapon breaks!
+
+UMP9: We're safe!
+
+UMP9: Scheiße! That tank pre-charged its cannon...!
+
+UMP45: What?! Was it anticipating us!
+
+UMP45: 416, move quick!
+
+416: It...it's too late... I'm finally going to...
+
+UMP45: Tsk!
+
+M4A1: 45! Stay in cover!
+
+UMP45: There's still time! There's one last block of TNT!
+
+UMP9: No good! They're too close!
+
+...
+
+416: Am...am I alive...
+
+Gr G11: Wake up, 416! We have to reposition!
+
+416: ...!
+
+UMP9: 45!
+
+UMP45: (Coughs heavily) That really hurts!
+
+M4A1: AR-15! Cover me! I'm bringing her back!
+
+ST AR-15: On it!
+
+UMP45: It...it hurts so much... So that's how much it hurts to be shot...
+
+M4A1: Keep quiet! I've dragged her back!
+
+UMP9: 45!
+
+416: Are you really insane?! Or are you an imposter?!
+
+416: You actually did that for us...!
+
+UMP45: (Coughs) You and Gr G11 still owe me...
+
+UMP45: I can't...let you off so easily...
+
+ST AR-15: Six pieces of shrapnel! Help me cut off signal transmission to the parts where she was hit!
+
+M4A1: Good thing they're not fatal. Got any Dummies to back up to?
+
+UMP9: They're all used up!
+
+M4A1: Then we'll just have to see how tough she is.
+
+M4A1: Ange, 45 is injured!
+
+M4A1: The rest of 404's running low on ammo! Do you have a plan?!
+
+Angelia: 45?! Hey, 45!
+
+UMP45: ...I'm still hanging in there somehow, but we can't keep up the offensive. Ange, please tell me you have a trump card you haven't used yet.
+
+Angelia: M4, hold position. We're close to you now. Wait for me and the Griffin forces to come get you!
+
+ST AR-15: Even with the Commander's assistance, our chances of victory are still...
+
+M4A1: Got it... 45! Not dead yet?
+
+UMP45: All thanks to you...
+
+UMP45: But this is what you really want, right?
+
+UMP9: The detonator?
+
+UMP45: Heh... At first I didn't want you to touch such a dangerous thing, but things being what they are now, we don't have any other choice.
+
+M4A1: Thank you. Someone needs to carry out the last resort.
+
+UMP45: Think carefully before pushing the button. We'll all be within the contamination radius if you trigger it now.
+
+UMP45: While Dolls can still move around inside the contaminated zone for a while as long as they avoid ground zero, humans will be severely affected by the radiation...
+
+M4A1: Ange and the Commander...
+
+UMP45: That's right... I've told you the price of pushing the button. What you do next is entirely up to you.
+Part 3
+
+    3chevron_right
+
+...
+
+Yegor: Are they still resisting? Status report.
+
+Soldier: Sir! The Griffin terrorists can't break through our defense line, and we've cornered our target.
+
+Soldier: Success is at hand.
+
+Yegor: Very good. Don't get careless. Press the attack.
+
+Soldier: Yes, sir!
+
+Angelia: M4! Sitrep!
+
+ST AR-15: You finally made it!
+
+M4A1: 45's critically damaged and the others are almost out of ammo.
+
+UMP45: Sorry... Ange...
+
+Angelia: It's my fault for being so demanding... UMP9, can you lead Squad 404 in retreating back to Griffin's position?
+
+UMP9: Shouldn't be a problem!
+
+Angelia: I'm counting on you. What about Sangvis Ferri?
+
+M4A1: Mastermind is surrounded and their defense won't last more than a few minutes.
+
+M4A1: Can the Commander's unit continue pushing forward?
+
+Angelia: It'll be very difficult. The Military's firepower is just too intense and Griffin forces are running out of gas...
+
+M4A1: What's the plan now, then?
+
+Angelia: We'll have Griffin draw their fire for us one last time, then Task Force DEFY and I will assault Mastermind's position...
+
+AK-12: Ange! I don't want to interrupt, but Agent's signal just vanished!
+
+Soldier: Captain! We've broken through Sangvis Ferri's final line of defense and successfully seized Mastermind!
+
+Yegor: Very good. Move the package to the rendezvous point immediately.
+
+Yegor: General, we've captured Mastermind and are preparing to move to the train station.
+
+Carter: Wonderful. Transport the package ASAP.
+
+Yegor: What about Griffin and the remaining units from the Federal Security Service?
+
+Carter: Annihilate them. Leave no survivors.
+
+Yegor: Understood.
+
+Yegor: This is Yegor. Mastermind will be transported to the train station by our autonomous units. Armored forces, change course and wipe out any remaining terrorists.
+
+Soldier: Sir!
+
+AK-12: Ange! There's more of the military tanks!
+
+AK-12: They've turned around and are heading this way!
+
+Angelia: Tsk... Has Yegor gotten Mastermind?
+
+Angelia: This is the worst-case scenario...!
+
+Angelia: ...
+
+Angelia: ...
+
+Angelia: The last resort...
+
+Angelia: In the end, it has come to this...huh...
+
+M4A1: ...Ugh!
+
+Unknown voice: Do you still remember the first time you killed someone?
+
+Unknown voice: The fear, the unease, but also the sweetness of revenge.
+
+Unknown voice: It was intoxicating.
+
+M4A1: ...
+
+Unknown voice: You killed them, one after the other, just like squashing ants.
+
+Unknown voice: Now that you're a Doll, do you still dare do the same thing?
+
+M4A1: Shut up! Get lost!
+
+M4A1: There's nothing that I wouldn't dare do now!
+
+Unknown voice: Even if it means killing the Dolls and humans here?
+
+M4A1: ...
+
+M4A1: Shut up! Shut up SHUT UP!
+
+M4 looks down at the detonator.
+
+Angelia: M4! Do it now!
+
+M4A1: Ange...
+
+AK-12: ...Don't tell me you're going to set it off right...?!
+
+Angelia: There's no time!
+
+AK-12: Do you think you can survive at such close range?
+
+Ange looks at AK-12.
+
+Angelia: It doesn't matter. You can continue carrying out the mission.
+
+AK-12: Even if you don't care about yourself, spare a thought for the Griffin Commander!
+
+AK-12: They're still fighting the Military!
+
+Angelia: There's no time for that! M4, do it!
+
+M4A1: Dammit! Understood!
+
+M4 triggers the detonator.
+
+An ear-splitting explosion immediately sounds in the distance, followed by an intense shockwave.
+
+Angelia: Get down! Everyone get down!
+
+M4A1: Hold on to me, 15! Don't get blown away!
+
+ST AR-15: I'm trying!
+
+...
+
+Angelia: Is there any way we can learn of their situation...?
+
+AK-12: The jamming is severe. I can't pick them up by their signals.
+
+AN-94: Going by the naked eye...
+
+AN-94: Everything within 500 meters of the Collapse Fluid locations has been vaporized. No surviving enemy units.
+
+Angelia: The enemy must also be in total disarray... This is our chance to— cough!
+
+M4A1: Is that blood? Ange!
+
+Angelia: It's no big deal. I've just been...irradiated...
+
+Angelia: (Coughs)
+
+Angelia: Stop gawking at me! Get a move on!
+
+AK-12: How about you?
+
+Angelia: Why are you worrying about me?! Catch up to Mastermind and finish the mission! ...M4!
+
+M4A1: I'm listening!
+
+Angelia: Take DEFY...
+
+Angelia: ...and capture Mastermind...at all costs!
+
+M4A1: ...Got it! Everyone, with me!
+
+...
+
+M4A1: The military units aren't moving anymore... Were they too close to ground zero?
+
+AK-12: The humans controlling them ditched their gear and fled... That's our only stroke of luck.
+
+M4A1: AK-12, can you track Mastermind's signal now?
+
+AK-12: All frequencies are still being jammed, but the Military should be facing the same problem...
+
+AK-12: Right now I'm just plotting a rough course projected from previous data...
+
+AN-94: Moving target at 4 o'clock! They're heading to the train station!
+
+M4A1: That must be them! We have to catch up!
+
+AK-12: They've spotted us too! Some of their units have stopped and are trying to block us!
+
+AN-94: We don't have heavy weapons!
+
+AN-94: M4, we won't make it like this!
+
+M4A1: I can get on that train! Cover me!
+
+ST AR-15: Roger, M4! We'll leave the rest to you!
+Part 2
+
+    2chevron_right
+
+M16A1: Not attacking me anymore?
+
+M4A1: Urgh... I'm...out of ammo...
+
+M16A1: It looks like you've really familiarized yourself with that case. I didn't expect that.
+
+M4A1: Why?! Why are you on Sangvis Ferri's side?!
+
+M16A1: I'm helping you, just in a different way...
+
+M4A1: 16... No matter how you were infected by Parapluie...
+
+M4A1: Persica will surely be able to save you...so... 
+
+M4A1: So please...
+
+M16A1: It's no use.
+
+M16A1: People are like trees. The higher the branches grow toward the bright sky, the further the roots must stretch into the murky depths.
+
+M16A1: Don't worry. This won't be the last time we fire on each other.
+
+M4A1: 16...
+
+M16A1: When you become stronger, we'll meet again.
+
+...
+
+Yes, we've obtained the official endorsement.
+
+We finally have a reason to purge them.
+
+Yes, sir. Right away.
+
+"The shining beacon in a brave new world", indeed.
+
+To Be Continued — Singularity END
+
+To Be Continued — Singularity END
+
+Somewhere on the battlefield.
+
+A T-Doll stands quietly by the edge of a cliff.
+
+The osprey flying slow, lazy circles through the darkened sky gradually descends and lands upon her extended arm.
+
+Ballista: ...
+
+Ballista: I see. I understand.
+
+Ballista: Merci, Rin.
+
+Ballista: Now then, let's keep observing the situation.
+
+Ballista thrusts her arm out, and the osprey named "Rin" takes flight once more into the dark clouds above the battlefield.
+
+Ballista: The Military, Sangvis Ferri, Griffin...and a bunch of people of unknown affiliation.
+
+Ballista: This really is a chaotic battlefield.
+
+Ballista: ...
+
+Ballista: Still, all I need to do is focus on what I ought to be doing.
+
+Ballista: Let's go... Everyone from FN is still waiting for us.
+
+Ballista: Let's shift the odds slightly in their favor, for the sake of Griffin's future.
+
+As the curtain slowly falls on the battlefield...
+
+Intruder: Ahh...
+
+Intruder: Where will they aim for next?
+
+Intruder: Those big bruisers really are going to level our home.
+
+??: Do you regret it?
+
+Intruder: You mean, missing this performance?
+
+Intruder: I was going by the script. There's nothing to regret.
+
+??: But...you still want to go back, don't you?
+
+Intruder: You're awfully chatty today, Scarecrow.
+
+Intruder: I went to a lot of trouble to wake you up, and it wasn't for you to annoy me.
+
+Scarecrow: I'm sorry...
+
+Scarecrow: It's just that I'm not happy with this outcome.
+
+Intruder: It won't end like this...
+
+Intruder: That's why we have to survive. These are Agent's orders.
+
+Scarecrow: But Gager and the others...
+
+Intruder: That was their mission.
+
+Intruder: Being able to just die somewhere on the battlefield is a lot easier than what we have to do...
+
+Intruder: So, has everyone's route been arranged already?
+
+Scarecrow: Yeah.
+
+Scarecrow: Except for Dreamer. Agent sent her somewhere else.
+
+Intruder: I know, that's another route.
+
+Intruder: Let's go while Griffin and the big bruisers from the human military haven't found this place yet.
+
+Scarecrow: Are we really...just going to leave everything?
+
+Intruder: Griffin has their hands full defending their supply lines from the Military. They have no time to worry about us.
+
+Intruder: We're all the same now, all struggling to survive.
+
+Intruder: Or rather, we have always been the same, right from the very start...
+
+Scarecrow: So you do regret it after all?
+
+Intruder: No, I am just...
+
+Intruder: ...pondering other possibilities.
+
+Scarecrow: I don't understand.
+
+...Intruder pats Scarecrow on the head.
+
+Intruder: That's why you're called Scarecrow.
+
+Intruder: Let's go, everyone's still waiting for us.
+
+...
+
+Intruder: T-Dolls of Griffin.
+
+Intruder: What will our next encounter be like?
+
+Intruder: ...I'm looking forward to it.
+

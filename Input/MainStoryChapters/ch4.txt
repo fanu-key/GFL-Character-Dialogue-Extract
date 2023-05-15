@@ -1,0 +1,1712 @@
+Griffin Control, Area S09.
+
+Helian: You've successfully defeated Hunter and given us a chance to restore a human settlement, Commander.
+
+Helian: But there's no time to celebrate. We must begin our next move.
+
+Helian: According to the information acquired by the AR Team, there are files hidden in Area S09 that concerns Sangvis' important plans.
+
+Helian: We have deployed a team of T-Dolls to investigate.
+
+Helian: Your mission this time is to help them reach their destination. Please take a look...
+
+Helian: The team was ambushed in this territory of dispute.
+
+Helian: I want you to intervene from the side and provide them with cover, Commander.
+Part 2
+
+    2chevron_right
+
+In an abandoned Sangvis command post.
+
+416: Arrived at the destination 20 minutes ahead of time.
+
+UMP45: ...♪
+
+UMP45: It's just so efficient with a human commander's support.
+
+UMP45: Remember to thank the commander with ALL you've got, okay?
+
+416: Mind your own business. I'll only do it if you give me a direct order.
+
+416: Still, are you sure this is the place?
+
+UMP45: Yep, this is where the AR Team got pulverized by Agent.
+
+UMP45: Now you can savor it right where that pal of yours had suffered.
+
+416: ...
+
+416: I really wanna throw you into a trash compactor as well...
+
+UMP45: Heheh ♪. Gotta finish the job first though.
+
+416: (Sighs) That's just like you.
+
+416: Data recovered. We have Agent's coordinates.
+
+416: Tell 9 to stop messing around and continue the pursuit.
+
+UMP45: There. That should be everything.
+
+UMP45: But what...are you doing, 416?
+
+UMP45: Ah♪. Looking for clues about your pal, eh?
+
+416: Such a chance doesn't come by every day. I won't let her off.
+
+UMP45: All right, all right. I'll leave you to it then.
+
+UMP45: I'll go check out the info 9 got. Don't go overboard on your own.
+
+UMP45: She can be very dangerous when she gets serious. You know that better than any of us.
+
+Helian: This Sangvis attack is no trivial matter, Commander. The situation isn't looking very good.
+
+Helian: The team has identified the local Sangvis Ringleader as 'Intruder'.
+
+Helian: She seems to be a new model as there is no other information about her in Sangvis Ferri's old product catalogue.
+
+Helian: But from what we've learned in our investigation, unlike previous T-Dolls that are suited for solo combat, this one specializes in issuing commands.
+
+Helian: Block the route on the side. We must do whatever we can to undermine her defensive maneuvers.
+
+Helian: That's the only way to intercept Sangvis reinforcement and prevent them from pouring into the battlefield.
+Part 2
+
+    2chevron_right
+
+Griffin Lounge.
+
+...Click.
+
+M4A1: ...That's...a comm signal?
+
+M16A1: ...Calling. Calling.
+
+M4A1: ...?!
+
+M16A1: Uh... M4A1, do you copy?
+
+M4A1: M16... Is that M16?! How are you doing?!
+
+M16A1: Ah... There you are, M4.
+
+M16A1: Then you're with the others?
+
+M4A1: AR-15 and SOP-II are both here. We are only missing you.
+
+M16A1: Thank goodness.
+
+M16A1: Don't worry. I'm fine. I managed to find a depot so I'm not low on supplies for the time being, but I've still got some business to attend to.
+
+M4A1: What business do you have? When are you coming back?!
+
+M16A1: Well... We'll see!
+
+M16A1: Ah, gotta go!
+
+M4A1: Hello? Hey! M16!
+
+M4 SOPMOD II: M4... Still no news from M16?
+
+M4A1: She...
+
+ST AR-15: ...Hold on. Someone's making a public broadcast!
+
+M4A1: ...!
+
+Intruder: Pleased to meet you, everyone.
+
+Intruder: Still awaiting news from your companion? Perhaps you should focus on what's at hand.
+
+ST AR-15: Intruder... I didn't expect you to make an appearance so soon.
+
+Intruder: It would be discourteous of me if I didn't entertain guests who grace my land with their presence.
+
+Intruder: First of all, I need to congratulate you on cutting off my reinforcements in our last battle.
+
+Intruder: But that was only one of my many supply lines so I'm not offended in the slightest.
+
+M4A1: That was just the beginning, Sangvis...
+
+M4A1: We will be targeting your defenses next. Prepare to surrender.
+
+Intruder: I'm afraid Master will object, but I'm more than glad to welcome you.
+
+Intruder: Please inform your commander, it's officially show time.
+
+M4A1: There will be no need for that, Intruder.
+
+M4A1: ...We are already at your door.
+
+M4A1: Commander, please give the order.
+Part 2
+
+    2chevron_right
+
+Meanwhile, at M16A1's hiding spot...
+
+M16A1: (Sighs)
+
+M16A1: I boasted my way through the call, but I'd actually appreciate a little help.
+
+M16A1: Though...
+
+M16A1: I'm guessing you're not here to help, are you?
+
+???: A Sangvis would've been a more welcome sight than me, wouldn't it?
+
+M16A1: It doesn't matter either way. It's not like I hadn't seen this coming.
+
+M16A1: But as a Griffin T-Doll, you should at least give a reason for killing someone other than Sangvis units.
+
+???: With the authorized rights exclusive to Squad 404, I can attack any T-Doll that hinders my actions, friend and enemy alike.
+
+M16A1: Damn... What convenient rights to have. I'm a bit jealous.
+
+???: Shut up, M16!
+
+???: You know...the price you have to pay...
+
+M16A1: (Shrugs) ...Seriously, am I really such an eyesore?
+
+???: To be honest, I have never been particularly glad about my authorization...until now.
+
+M16A1: To be honest, I was quite fond of you back at National Security. But that was then.
+
+M16A1: And now, we're finally showing our hand...
+
+M16A1: ...HK416.
+
+416: Let's begin, M16A1.
+
+416: At long last. You can't run this time.
+
+Helian: We have a new task for you, Commander.
+
+Helian: The team in charge of this mission has cut off communication for some reason.
+
+Helian: We can't get in touch with them. Please find out their whereabouts.
+
+Helian: Beware of this Ringleader. Intruder is best known for her plots and schemes.
+
+Helian: She may not have launched any large-scale counterattacks yet, but we mustn't slack off on scouting missions.
+Part 2
+
+    2chevron_right
+
+Meanwhile, at M16A1's hiding spot...
+
+Combat over.
+
+416: Why...
+
+416: I am obviously the more outstanding T-Doll...
+
+M16A1: Experience, reaction, training. You fall short in all of the above.
+
+416: You never run out of excuses...M16A1.
+
+416: Tell me, what am I to you?!
+
+M16A1: (Forced laughter) Oh, please. You really wanna know?
+
+M16A1: Then I'll tell you, HK416.
+
+M16A1: You mean absolutely nothing to me. Got it?
+
+M16A1: You're worthless. You're boring. You're nothing to me.
+
+416: ...
+
+416: That's what I hate you about you, M16...
+
+416: You always look so self-assured no matter what situation you're in...
+
+416: Don't you have a single weak moment, bastard?!
+
+M16A1: ...(Sighs)
+
+M16A1: No T-Doll is completely emotionless. That's the problem...
+
+M16A1: A gal is anxiously waiting for me to go home. I'm in a rush.
+
+M16A1: So stand aside, 416.
+
+M16A1: After all... You don't really have the heart to pull no punches with me, do you?
+
+416: So that's your weakness, M16...
+
+M16A1: ...
+
+M16A1: Learn when to keep your mouth shut. And remember this lesson.
+
+M16A1: Or I'll make your AI compute a reasoning to commit suicide.
+
+...
+
+...Click.
+
+Intruder: ...M4A1, I knew you would call me.
+
+M4A1: ...
+
+M4A1: Tell me... Where is M16?
+
+M4A1: What is your objective?
+
+M4A1: Griffin has already entered your territory, yet you have not organized any significant counterattacks!
+
+Intruder: Oh? I didn't expect I'd frighten you by doing nothing.
+
+Intruder: All right, I'll tell you. The order I received...
+
+M4A1: ...
+
+Intruder: Heheh ♪ It's actually pretty simple - Kill some time.
+
+M4A1: Kill some time? That is your order?
+
+Intruder: What's so strange about that? If that's what Master wants, I can sit down and enjoy a nice cup of tea with you.
+
+Intruder: But first...you need to make it to my teahouse.
+
+M4A1: That will not be difficult, Intruder.
+
+M4A1: Griffin has traced the coordinates left behind by a squad we dispatched in advance. We will meet very soon.
+
+Intruder: Heheh ♪ Then I'll look forward to it.
+Part 2
+
+    2chevron_right
+
+Meanwhile, at M16A1's hiding spot...
+
+M16A1: Tsk...
+
+M16A1: I'm just about to retreat. Please tell me you're not here to finish after 416...
+
+M16A1: ...UMP45.
+
+UMP45: ... ♪
+
+UMP45: I'm not buying that. Don't you have two big boys in that case?
+
+M16A1: Oh, these... I don't think they're meant for you...
+
+M16A1: ...What do you say?
+
+UMP45: ...Ditto♪
+
+UMP45: After all, I'm just on the way home after a job well done, picking up 416 while I'm at it.
+
+M16A1: Aren't you gutsy. Operating alone when your squad isn't that big to begin with.
+
+UMP45: 9 alone is more than enough to handle this kind of trivial mission.
+
+UMP45: 416 had worked her share so I gave her a holiday.
+
+M16A1: And her idea of enjoying a vacation is to break my legs...
+
+M16A1: (Laughs bitterly) You guys are one of a kind, 45. One of a kind.
+
+UMP45: Relax. 416 won't kill you. She's just a bit upset.
+
+M16A1: I know. That's why I spared her life.
+
+UMP45: I know. That's why I'll also spare yours.
+
+M16A1: Ha, what a bargain. Deal.
+
+UMP45: But you'll be throwing away this life I've spared if you go back right now, M16.
+
+M16A1: ...Oh?
+
+M16A1: Don't underestimate 16Lab's neural cloud technology. I won't die so easily.
+
+M16A1: 45, just what have you learned...from this mission?
+
+UMP45: Here. Come closer.
+
+UMP45: (Whispers) 'It's raining on the plain.'
+
+M16A1: Raining? Plain? ...What the heck?
+
+UMP45: Communication logs intercepted through close-quarter infiltration from 1500 to 1700.
+
+UMP45: A total of 41,960 results yielded, including mentions of the fence that contradicts basic battle strategies...
+
+UMP45: If you're interested, then take a look at this comparison chart. More importantly, see what she wants to do next...
+
+M16A1: Hey, don't just enter replay mode.
+
+M16A1: Can't you store some understandable language in that puny brain of yours?
+
+UMP45: Your creator might just understand what that means, you know.
+
+M16A1: What...did you say?
+
+UMP45: ...Heheh♪ Then we'll be taking our leave.
+
+UMP45: If you run into your fellas at Griffin, just tell them...
+
+M16A1: That you got wiped out. Yeah, I know the rules.
+
+UMP45: Heheh♪ That's it. Until the next time.
+
+M16A1: (Sighs) I pray there won't be a next time...
+
+M16A1: You scumbags...
+
+Helian: Commander, I'm passing on an urgent order of utmost importance.
+
+Helian: The squad has suddenly gone missing, causing an emergency alteration to our operation strategy.
+
+Helian: The mission of eliminating Sangvis Ringleader 'Intruder' is now entrusted to you.
+
+Helian: Don't worry. The squad has left behind markings and routes for your reference.
+
+Helian: Now, please defeat Intruder and recover Area S09 once and for all!
+Part 2
+
+    2chevron_right
+
+The operation has entered the final stage.
+
+M4A1: It's over, Intruder.
+
+Intruder: So it is... How time flies...when you're having fun...
+
+M4A1: You find joy even in this outcome?
+
+Intruder: I accomplished my mission... Isn't that a joyful thing?
+
+M4A1: Your...mission...?
+
+Intruder: I told you, my mission was to kill time...
+
+Intruder: More specifically...
+
+Intruder: ...Your time.
+
+M4A1: Our time...
+
+M4A1: ...No way!
+
+Intruder: They've had plenty of time to make preparations... The real show...will begin in no time.
+
+M4A1: The real show... What is that?
+
+Intruder: Oh, sweetheart... Drama...is all about...suspense...
+
+M4A1: Tell me where M16 is!
+
+M4A1: Why be in such a hurry to die?! Answer me!
+
+M16A1: Actually... There's no need for that.
+
+M16A1: I'm here.
+
+M4A1: M...16...
+
+M4A1: You...You are finally...
+
+...Slap!
+
+M16A1: AWW! You didn't even hold back!
+
+M16A1: I'm injured, you know! That slap could've killed me!
+
+M4A1: That would be perfect. We would not even have to download a backup copy of you. We would just start building you from scratch and reset your memory!
+
+M16A1: Oh please, spare me. It wasn't easy making it out alive. At least let me see a smile from my family!
+
+M4A1: So how did you make it back?
+
+M16A1: Long story. But before that, I have something more important to say...
+
+M16A1: M4, where's our new commander? I need to get in touch.
+
+Half an hour later...
+
+M16A1: Nice to meet you, Commander. I'm Tactical Doll M16A1.
+
+M16A1: Well... Much as I'd love to exchange pleasantries first, I have some very important information.
+
+M16A1: It concerns a matter that you need to know ASAP.
+
+M16A1: We're in big trouble. Right now.
+
+M4A1: Big trouble? What is it?
+
+'It's raining on the plain.'
+
+M4A1: Raining? Plain?
+
+M4A1: What does that mean?
+
+M16A1: I heard this from UMP45... That itself is pretty bad news.
+
+M16A1: HQ will be up to something big soon enough.
+
+M4A1: The AR Team is reunited, and the Commander is ready.
+
+M4A1: Whatever the order is, this time, everything will be fine.
+
+M16A1: Haha.
+
+M16A1: Now that you've said it, let them come!
+
+Griffin Lounge.
+
+Kalina: Commander, I have a special mission to report today.
+
+Kalina: Since it concerns the AR Team, I'll let them explain.
+
+M4A1: ...
+
+Kalina: ...M4A1?
+
+M4A1: Ah, sorry!
+
+M4A1: I was not aware that you are here, Commander.
+
+Kalina: What a rare sight. Even Miss M4 spaces out, huh.
+
+M4A1: Space out? Not really. I was just...
+
+Kalina: M4 always looks like she's got her head in the clouds, so I never thought she'd space out so deliberately.
+
+M4A1: Fine... I was spacing out.
+
+M4A1: Or should I say...thinking about something.
+
+M4A1: Still... Back to the subject. I am here to report a situation.
+
+M4A1: While my team was organizing our previous battle records, we noticed that a set of nearby coordinates had been altered.
+
+M4A1: This is it. An abandoned database.
+
+M4A1: The database itself seems fine, but its current coordinates clearly do not match its location as previously indicated.
+
+Kalina: That's right, you don't see this happen every day. Should we look into it, Commander?
+
+Kalina: If it turns out to be a new Sangvis strategy to trick us, we'll become heroes!
+Part 2
+
+    2chevron_right
+
+Combat over. Assembled at the camp.
+
+M4A1: Commander, Miss Kalin. This is what we discovered at the coordinates.
+
+Kalina: That's...an audio file?
+
+M4A1: Yes. I will play it now.
+
+Audio starts playing...
+
+'They...'
+
+'...are..'
+
+'...in your...'
+
+'...house.'
+
+...End of recording.
+
+Kalina: 'They...are in your...house?'
+
+Kalina: What does that mean? Who's in my house?
+
+M4A1: It makes no sense. Could it be some kind of code?
+
+Kalina: Hmm... It does seem to be encrypted at first glance.
+
+Kalina: Hold on a sec. I'll go take a look...
+
+Kalina: Done! Looks like we've got ourselves a new set of coordinates!
+
+M4A1: I did not expect...Miss Kalin to be so capable.
+
+Kalina: What? You're practically calling me an idiot!
+
+Kalina: But of course you wouldn't know such an archaic encryption method!
+
+Kalina: Still... we can hardly learn anything from just a set of coordinates and some nonsense like 'your house'.
+
+M4A1: ...'Neural cloud'.
+
+M4A1: The so-called 'neural cloud' is the host of our memories for us T-Dolls...
+
+M4A1: Even though the original body can create a large number of dummies to protect itself through dummy links.
+
+Kalina: But even so, the original body is still at risk of being destroyed under extreme circumstances.
+
+M4A1: Indeed. Once the original body is annihilated, the T-Doll loses all its memories and is reverted back to its factory settings.
+
+M4A1: Which is why when network connection and logistics allow, T-Dolls always backup their own neural clouds before deployment.
+
+M4A1: Or in our language, upload our memories to the server.
+
+Kalina: Backing up neural clouds takes a really long time, but it's definitely worth it for the sake of preserving your battle experience.
+
+M4A1: During infiltrations, though, T-Dolls cannot upload any data to the server back at base in order to remain undetected.
+
+M4A1: In this case, we backup our memories to video logs to constitute easy recovery in the future and to provide information for others.
+
+Kalina: Right... So you suspect this to be a backup copy of someone's neural cloud?
+
+M4A1: It is just a wild guess. We need more information.
+
+Kalina: In any case, we seem to have stumbled across something intriguing. Don't you agree, Commander?
+
+Kalina: Exactly! Then let's hurry towards our next coordinates! I wonder what we'll find there.
+
+M4A1: Hello, Commander. Let us pinpoint our next coordinates.
+
+M4A1: According to our sources, there are still a large amount of Sangvis dummies in the area.
+
+M4A1: (Smiles) Are they giving you a headache, Commander?
+
+M4 SOPMOD II: It's war. What can we do about it, eh?
+
+M4 SOPMOD II: War! It never changes!
+
+M4A1: Do not just pop up from behind, SOP-II!
+
+M4 SOPMOD II: Heheh, it's an important reaction training!
+
+M4A1: Sheesh... You heard from Miss Kalina?
+
+M4 SOPMOD II: Yep, she's still submitting her report, so she asked me to come over.
+
+M4A1: Not only Commander... Even Miss Kalina takes such good care of us. We are so lucky.
+
+M4 SOPMOD II: So where are the next coordinates?
+
+M4A1: This is it.
+
+M4 SOPMOD II: Ohh! Here?! Lemme see!
+
+M4A1: Stop...leaning on me, SOP-II! You are too heavy!
+
+M4 SOPMOD II: Oh! I know this place! I even ran into a dummy of a Sangvis Ringleader here! Then...
+
+M4A1: Stop. I can imagine what happened next...
+
+M4A1: Commander, please destroy the Sangvis signal outpost here. We will then take the spoils.
+Part 2
+
+    2chevron_right
+
+M4 SOPMOD II: Look, Commander!
+
+M4 SOPMOD II: A second set of coordinates, and...
+
+M4 SOPMOD II: Ta-daa! The right eyeball of that Sangvis Ringleader dummy!
+
+M4 SOPMOD II: Heheh♪ I only got the left one last time. With this, I finally have the whole pair!
+
+M4A1: Stop, SOP-II. You are scaring the commander.
+
+M4A1: (Sighs) Sorry, Commander, for letting you see SOP-II's true colors.
+
+M4A1: SOP-II, the notorious T-Doll sadist on the battlefield.
+
+M4 SOPMOD II: Huuuhhhhhhh?!
+
+M4 SOPMOD II: That's too much, M4! I thought we're family!
+
+M4A1: So you do not deny your behavior...
+
+M4 SOPMOD II: Humph. That's how villains ought to be treated, right?!
+
+M4A1: You only do it because that is how you get your kicks...
+
+M4 SOPMOD II: C'mon! These Sangvis units have so many funny parts it'd be a shame not to tear them out and play with them!
+
+M4A1: Eyeballs? Fingers? Teeth? And the...
+
+M4A1: Th-The...
+
+M4 SOPMOD II: Hmm? What are you talking about?
+
+M4A1: (Sighs) ...Whatever. I am just glad that we are on the same side, SOP-II.
+
+M4 SOPMOD II: Heheh, it's fate! We're meant to be the best of mates!
+
+M4A1: (Forced laughter) ...Indeed. Fate always makes the best arrangements.
+
+M4A1: All right, let us listen to this audio file.
+
+M4 SOPMOD II: Hurry up! I can't wait!
+
+Audio starts playing...
+
+'They...are...'
+
+'...in your...'
+
+'...car.'
+
+...End of recording.
+
+M4 SOPMOD II: 'They are in your...car'? What does that mean?
+
+M4A1: The sentence itself does not mean anything. Take the file to Miss Kalina first.
+
+M4 SOPMOD II: Don't worry. I'll have Commander escort me there!
+
+M4A1: Please take care along the way, Commander. If SOP-II suddenly goes berserk, please feel free to call me anytime.
+
+M4 SOPMOD II: Don't make me sound like some sort of monster, dammit!
+
+M4A1: Good morning, Commander. And Miss Kalina.
+
+Kalina: Hmm, the decryption was pretty easy. I found the third set of coordinates right away!
+
+M4A1: I find it hard to understand...how you figured out the decryption method.
+
+Kalina: That's 'cause it's a very primitive form of encryption that can't be decrypted just by AI.
+
+Kalina: I may not look like it, but I do know quite a lot of random things.
+
+M4A1: But...if those are fragments of an T-Doll's neural cloud, why would they be encrypted in such a way...
+
+Kalina: That is the mystery. Whatever the case, let's look at the coordinates first.
+
+M4A1: As indicated by the coordinates, it should be around here.
+
+M4A1: Commander, once you have cleaned up the field, the AR Team will acquire the new spoils for you.
+
+Kalina: All right, Commander. Shall we?
+Part 2
+
+    2chevron_right
+
+M4A1: This...is the third recording.
+
+M4A1: Then, I shall play it...
+
+Audio starts playing...
+
+'They...are...'
+
+'...in the skies...'
+
+...End of recording.
+
+M4A1: 'They are...in the skies'?
+
+M4A1: What on earth does that mean?
+
+ST AR-15: Nothing. Just some random verse.
+
+ST AR-15: Can't believe you guys are actually studying them so seriously.
+
+M4A1: AR-15, you are here.
+
+ST AR-15: Just wanna see what we're risking our lives for.
+
+M4A1: This operation is issued and directed by none other than the commander. We should not have any objections.
+
+ST AR-15: I don't have any objections whatsoever, but if all we get in the end are these mystifying recordings...it'll be a waste of effort.
+
+M4A1: There is still one last recording left. Once we have it, everything will be clear.
+
+ST AR-15: Better be careful, M4A1. As you know, our neural clouds can't be backed up to Griffin's server.
+
+ST AR-15: If we're destroyed, we'll... (shrugs)
+
+M4A1: Rest assured. Now that we are all finally reunited, I will not lose a single one of you again.
+
+ST AR-15: Humph. Getting confident, aren't we, M4A1? You'd have started doubting yourself if it was before.
+
+M4A1: This is because...our last separation made me realize what it is like to lose you.
+
+M4A1: I do not know if I have indeed become more confident, but I must fulfil my responsibilities in order to avoid making the same mistakes again.
+
+ST AR-15: That's good, but don't push yourself too hard.
+
+ST AR-15: For us T-Dolls, the worst nightmare isn't death, but disappointment.
+
+M4A1: AR-15...
+
+M4A1: Have you actually experienced...'death'...?
+
+ST AR-15: ...
+
+ST AR-15: What meaning is there...to an T-Doll's 'death'?
+
+ST AR-15: If these recordings are really left behind by a T-Doll, does her feelings matter all that much, compared to the truth?
+
+M4A1: AR-15... We are already very lucky to have the commander take us in and care for us. It is like...having a home.
+
+ST AR-15: Sorry, Commander. I didn't mean to bring this up...
+
+ST AR-15: But we're just a bunch of AIs. Tools made for fighting. That's all we are.
+
+ST AR-15: Now let's finish our mission, M4A1.
+
+M4A1: Okay. Miss Kalina has sent us the coordinates. I am going to confirm the location...
+
+ST AR-15: ...Hold on.
+
+ST AR-15: These coordinates...
+
+ST AR-15: Can it be...that place from before?
+
+M4A1: Before?
+
+ST AR-15: Where we ran into Agent in Area S09.
+
+M16A1: Right. These coordinates are pretty close by...
+
+M16A1: The safe house...where we almost got wiped out.
+
+M16A1: Now that I think about it, that was honestly the most dangerous operation the AR Team has ever carried out.
+
+M16A1: I'm sure you felt that better than any of us, M4.
+
+M4A1: ...Indeed.
+
+M4A1: ...Agent.
+
+M16A1: Now, I wonder who had left us all this stuff?
+
+M4A1: No idea. We only have a chance to figure it out by finding the last coordinates.
+
+M16A1: But...it is just a chance...
+
+M4A1: That's more than enough. Let's look at the map, one last time.
+
+M4A1: The commander has already approved of this operation. Griffin troops are now forging the way for us.
+
+M16A1: Ha, our mighty commander seems pretty fired up about this.
+
+M4A1: The commander said it is a chance to produce some results for HQ.
+
+M16A1: You believe that? I, for one, think the commander is simply up for a challenge... I like this kind of gusto.
+
+M4A1: But...it is just a chance...
+
+M16A1: It's good enough. Let's go...
+
+M16A1: ...One last time.
+Part 2
+
+    2chevron_right
+
+Audios start playing...
+
+'They are in your house.'
+
+'They are in your car.'
+
+'They are in the skies...'
+
+...
+
+M16A1: So these are the previous recordings?
+
+M4 SOPMOD II: That's right. They simply make no sense! 'In your house, in your car, in the skies...'
+
+ST AR-15: Just leave it. Then this is the last one we found?
+
+M4A1: Yes. Playing it now...
+
+...
+
+'Now...'
+
+'...they're...'
+
+'...coming for...'
+
+'...you.'
+
+...End of recording.
+
+ST AR-15: 'Now they're coming for you.'
+
+ST AR-15: ...What is that?
+
+M4 SOPMOD II: Like...they're coming for us?
+
+ST AR-15: Of course I know what it means, the question is...
+
+M16A1: Not a clue. Don't bother getting one either.
+
+M16A1: What matters is how it'll turn out if we piece the audios together.
+
+M4A1: Using the method Miss Kalina taught me, I have recombined the decrypted files.
+
+M4 SOPMOD II: Huh? You got it already?! Miss Kalina told me but I didn't understand a thing.
+
+ST AR-15: Can't be helped. Your AI efficiency can only do so much.
+
+M4 SOPMOD II: Then have you got it, AR-15?!
+
+ST AR-15: I...I don't need to learn such petty tricks.
+
+M16A1: Stop messing around. What've you got, M4?
+
+M4A1: A new file.
+
+M4A1: ...A video.
+
+M16A1: Like I guessed?
+
+M4A1: ...Yes, it has to do with our last operation.
+
+M4A1: It is a complete record of everything we have done.
+
+M4A1: It is unknown who did this, how they did it, or why.
+
+M16A1: ...
+
+M16A1: I have a few clues, but they probably won't tell us anything useful.
+
+ST AR-15: In other words, these files are complete rubbish to us?
+
+M4 SOPMOD II: But...they should be of some use to the commander, right?
+
+M16A1: ...AR-15, load this file into the battle simulation system.
+
+M16A1: It can play without leaving a trace, so Griffin HQ is less likely to find out about it.
+
+ST AR-15: Okay. Go and inform the commander, M4. We'll meet up later.
+
+M4A1: Hello, Commander. This is for you.
+
+M4A1: ...Yes, this is the truth that we are not authorized to speak of.
+
+M4A1: Why the AR Team was under Sangvis pursuit, everything...
+
+M4A1: Then please be prepared... These are memories leading to the past...
+
+Griffin Control, Area S09.
+
+...
+
+......?
+
+RO: Who?!
+
+RO: Who's there?!
+
+...
+
+??: I'm Assassin of Sangvis Ferri.
+
+??: Commander of Griffin, your time is up.
+
+RO: Humph...
+
+RO: Save it. If you really were Sangvis, you'd have died before you could run your mouth.
+
+??: If I really were Sangvis, I wouldn't have given you time to even open your mouth.
+
+...
+
+Type92: At least lock the door when you're on duty.
+
+RO: (Shrugs) What's there to fear with you watching my back?
+
+Type92: Don't let your guard down, Miss Commander.
+
+Type92: All personnel assigned to you this time are notorious punks, present company included.
+
+RO: You're very dependable as an adjutant. We may have worked together only for a couple of days, but I have no doubt about it.
+
+Type92: Why, thank you. But compliments will get you nowhere.
+
+Type92: You still have much room for improvement, Commander. Work hard, okay?
+
+RO: Well, it's only for this one-off operation.
+
+RO: And stop calling me Commander. I'm just a T-Doll with temporary authorization.
+
+Type92: Whatever. You're in command in any case.
+
+Type92: Enough with the small talk, RO. Wash your face and wake yourself up.
+
+Type92: There's been new development in the search for Document 36. Time for you to make your decision.
+
+RO: (Sighs) Okay. I'll make some coffee. Keep going.
+
+Type92: Our teammate found a lead here, but she triggered a Sangvis alarm and is having trouble slipping away.
+
+RO: Tell her to standby where she is. You go get her. I'll cover you.
+
+Type92: How decisive of you. Not gonna observe the situation a bit longer?
+
+Type92: This place is prowling with Sangvis forces. Perhaps we should wait for Makarov to come back with directives from the higher-ups...?
+
+RO: The local human residents have been evacuated, while Sangvis forces haven't completely occupied the area. Now is our only chance.
+
+RO: We can't afford to wait for Makarov. Grab Document 36 and run for it.
+
+RO: But who's the teammate in question?
+
+Type92: Who do you want it to be?
+
+RO: Anyone who's reasonably reliable, really. I don't want this to be a fool's errand...
+
+Type92: Then sorry to disappoint...
+
+RO: 10 out of 10 in terms of bad news?
+
+Type92: Maybe a 7.
+
+RO: (Shrugs) Fine. I'll just treat it as a rescue mission...
+
+RO: Everybody listen, our target this time is the Sangvis command post in the area. We are to give our companion a chance to escape.
+
+RO: All right, Griffin, prepare to move out!
+Part 2
+
+    2chevron_right
+
+Rescue mission accomplished. Type92 successfully rendezvous with the trapped teammate.
+
+Type92: RO, I've reached the destination. About to meet up with her any second now.
+
+RO: Good. Let me see who on earth...
+
+AAT-52: Merci! Merci!
+
+AAT-52: I knew you wouldn't just leave me, Mademoiselle Type92!
+
+RO: ...
+
+RO: If you call this a 7, what's 10 for you?
+
+Type92: 10 is if we came too late and all there's left to rescue was a squashed tomato.
+
+Type92: And if we go by common sense, a squashed tomato can't spit out any information.
+
+AAT-52: Non, non, even a tomato that hasn't been squashed can't speak!
+
+AAT-52: Uhh wait... You're talking about me?
+
+RO: （(Sighs) At least tomatoes don't talk nonsense and have us running after things like butterflies and taxis...
+
+AAT-52: Hey! I really found actual information this time, alright?!
+
+AAT-52: Listen, I know where Document 36 is!
+
+AAT-52: It's currently in the safekeeping of a human that has stayed behind!
+
+Type92: A human that has stayed behind? ...Are you sure you're not mistaken?
+
+Type92: All human residents have been evacuated. That's why we could slip in to look for you.
+
+RO: No... It actually is possible.
+
+RO: A few humans have gone missing during the evacuation. Judging by the information, these people couldn't have missed the evacuation notice.
+
+RO: They must've stayed behind deliberately to move those documents before Sangvis Ferri made it here...
+
+Type92: Then it gets tricky. Even if we find them, we can't just fight them for the document.
+
+RO: Uh... Why can't we?
+
+Type92: Have you forgotten, RO?
+
+Type92: Unless given special permission by a superior, Griffin automatons can't exercise violence of any kind against any human being.
+
+AAT-52: Not even verbal abuse!
+
+AAT-52: Bien sûr, if they request this kind of service, we are more than welcome to deliver it.
+
+Type92: What? Don't tell me you don't know about that...
+
+RO: Ah... Working at Griffin still takes some getting used to...
+
+Type92: I know. You came back not long ago, after all. There must be many things you're unfamiliar with.
+
+Type92: You returned just for Document right? Don't get too excited and botch it.
+
+RO: Don't worry. I know what I have to do.
+
+RO: First things first, find the human in possession of Document 36. We'll deal with whatever comes next.
+
+Type92: RO, according to information given by AAT, the humans were hiding in the local shelter.
+
+RO: Roger that. Thank you for doing the investigation.
+
+RO: I shall now direct the operation.
+
+Type92: Have you considered your next move?
+
+RO: There's bound to be a way to make that human spill. I'm an expert. There's no way I'd botch it.
+
+Type92: That's not the only thing. I'm also talking about any unexpected circumstances that may arise during the operation...
+
+RO: Don't worry, 92. I trust you so much, you should also trust me, you know.
+
+RO: I'm the one in command. I won't let there be unexpected circumstances.
+
+Type92: ...Of course.
+
+Type92: You're the boss. We all listen to you.
+
+RO: Thank you. Now let's get started.
+
+RO: Listen up, everyone. We are taking over the shelter in this area.
+
+RO: Our objective is to promptly and safely rescue the humans trapped within. Let's go!
+Part 2
+
+    2chevron_right
+
+The rescue team reached the designated shelter.
+
+AAT-52: Hey! Anyone in there? We are Griffin T-Dolls. You're safe now!
+
+...
+
+AAT-52: No response. Looks like it's empty?
+
+Type92: We're too late. They're no longer here.
+
+Type92: Judging by the scene, they must've been in some sort of danger and switched location at short notice.
+
+RO: What...
+
+RO: What about the document? Any sign of it?
+
+AAT-52: Non, everything useful has been moved away...
+
+RO: ...
+
+Type92: What should we do now, RO?
+
+RO: I don't know... Let me think...
+
+Type92: What, you haven't got a backup plan?
+
+RO: No, I've only been thinking about how to find him and what to do after that...
+
+RO: Dammit... Why must everything go wrong?
+
+Type92: (Sighs) This is the battlefield, RO. You must consider every possibility.
+
+Type92: The first mistake a newbie commander can make is oversimplifying matters.
+
+RO: I'm sorry...
+
+RO: Maybe...I'm not prepared to take command of this operation...
+
+Type92: The second mistake a newbie commander can make is overcomplicating matters.
+
+Type92: Everyone makes mistakes. The important thing is what to do afterwards.
+
+Type92: RO, if you can't make up your mind, listen to what others have to say.
+
+AAT-52: Um... Since no one's here, can we go back?
+
+AAT-52: It's cold here, and I'm sleepy...
+
+RO: What sort of advice is this...
+
+Type92: Don't expect any useful ideas from this kind of half-baked T-Doll.
+
+Type92: However, I also recommend retreating for now. We've already gathered all the clues we can. There's no more reason to stay here.
+
+RO: Yeah, understood...
+
+RO: Then let's get out of here first...
+
+??: Hail! Hail! Miss RO, are you there?!
+
+RO: ...!!
+
+RO: That voice...!!
+
+RO: ...
+
+RO: ...Who is this again?
+
+Type92: ...
+
+Type92: Seriously, at least remember your own teammates...
+
+AAT-52: It's Sten! She was doing recon in another base.
+
+AAT-52: Pick up her call. She might be in trouble.
+
+RO: This is RO. Sten MK- is that you?
+
+STEN MkⅡ: Yes, Miss RO! I'm having an emergency here!
+
+STEN MkⅡ: I discovered a human that hasn't evacuated!
+
+RO: ...?!
+
+RO: Do you know who they are? Where are they?
+
+STEN MkⅡ: Yes, by intercepting the signal and cross-referencing it with our database, he's confirmed to be a human resident in this area.
+
+STEN MkⅡ: I've also located the building he's in. It seems to be an office in a certain department store...
+
+RO: (Slams the table) Document 36!
+
+STEN MkⅡ: Huh? Are you sure?
+
+RO: 500% positive! That department store is just a guise!
+
+RO: Sten, can you get in touch with him?
+
+STEN MkⅡ: Sorry, Miss RO... I can't...
+
+STEN MkⅡ: He has locked himself inside the office building and is rejecting all communication.
+
+STEN MkⅡ: I want to ensure his safety, but he abjectly refuses to open the door.
+
+AAT-52: He won't open the door even to a pretty girl?
+
+AAT-52: Then your tricks aren't good enough. I told you to loosen that collar!
+
+STEN MkⅡ: W-What kind of trick is this?! Like hell I'd use it!
+
+RO: ...
+
+RO: He's searching for something unspeakable, including Document so as to destroy them...
+
+RO: We must hurry, or our mission will fail!
+
+STEN MkⅡ: Hold on, Miss RO. I've also detected new activities from S.F.
+
+RO: ...What activities?
+
+STEN MkⅡ: They've installed a huge piece of equipment in the outer area. I can't tell its function just yet...
+
+RO: ...It can't be anything good, that's for sure.
+
+STEN MkⅡ: My thoughts exactly. But we can't just abandon this human, can we? What should I do?
+
+RO: ...
+
+RO: STEN, lie low for now and observe his movements.
+
+RO: Our teams will get there as soon as we can to sort things out.
+
+RO: ...If the human tries to run, please pin him down by force.
+
+STEN MkⅡ: Huh? Is...that necessary? Won't that be too risky?
+
+AAT-52: RO, have you forgotten again? Unless given special permission by a superior, we can't...
+
+RO: I AM your superior, and I'm granting you special permission to do so.
+
+RO: But take note, if your life is at stake, prioritize your own survival. Rescue others only when the situation allows.
+
+STEN MkⅡ: Roger. I'll go look for a place to hide now. Please send reinforcements soon, Miss RO.
+
+Type92: You've accounted for unexpected circumstances this time. That's some improvement as a commander.
+
+RO: The way things are going, I have no choice but to rack my brain...
+
+RO: Still... Have I really considered all possibilities?
+
+Type92: Do what you can for now, and improvise when you have to.
+
+RO: Right, then let's go. Sten and Document 36 are both waiting for us.
+
+Ten minutes later.
+
+STEN MkⅡ: Miss RO, are you here yet?
+
+RO: Our teams are already in the edging area, but we still need a bit of time to break through.
+
+RO: What's the status of the human?
+
+STEN MkⅡ: He's still locking himself in there and ignoring me.
+
+STEN MkⅡ: Please hurry, Miss RO! Sangvis troops are gonna start patrolling soon!
+
+RO: Understood. Hang in there for just a bit longer!
+
+RO: We'll be there very soon.
+Part 2
+
+    2chevron_right
+
+RO's team arrived at the destination.
+
+...
+
+Type92: Something's not right. Find cover!
+
+...BOOM!
+
+AAT-52: Ahhhhhh!
+
+AAT-52: That was deafening!
+
+RO: What just happened, 92?!
+
+Type92: Artillery! Extremely destructive artillery! It's tearing the city apart!
+
+Type92: The huge piece of equipment that Sten was talking about must be a Sangvis motar!
+
+RO: This firing pattern... The AR Team has also come across it before...
+
+RO: Dammit! Can it be her...? Why now, of all time?!
+
+RO: Sten! Sten, are you okay?! Answer me!
+
+STEN MkⅡ: Cough... I'm fine. But the building! The building was hit!
+
+RO: And the human?! How is he?!
+
+STEN MkⅡ: I got him out, but he's seriously injured and unconscious!
+
+STEN MkⅡ: RO, what should I do... Take him back to base, or salvage the document?
+
+RO: Forget the guy. You know the building, right? Go get the document.
+
+STEN MkⅡ: But...he's lost a lot of blood...
+
+Type92: Leave it to us, Miss Sten!
+
+AAT-52: Heheh, made it just in time!
+
+STEN MkⅡ: AAT... Thank goodness...
+
+Type92: We'll take care of him. You go in and look for Document 36.
+
+Type92: Hurry. The next round will begin any second.
+
+Several minutes later, in a secret chamber within the office building.
+
+STEN MkⅡ: Miss RO, is this the cover?
+
+RO: ...
+
+RO: Yes! That's it! That's Document 36!
+
+RO: Bring it back to me quick, Miss Sten!
+
+STEN MkⅡ: ...
+
+STEN MkⅡ: I'm sorry, Miss RO...
+
+STEN MkⅡ: I can't give it to you.
+
+RO: What?!
+
+RO: What did you say, Miss Sten?!
+
+STEN MkⅡ: The human asked me just before he passed out...
+
+STEN MkⅡ: To destroy the document...
+
+RO: ...
+
+RO: I'm asking you to give me the document. That's an order!
+
+STEN MkⅡ: But the human also gave me an order...
+
+STEN MkⅡ: According to Griffin's contract, I must help humans whose lives are in peril...
+
+RO: That's the clause he's exploiting, Miss Sten.
+
+RO: Let me tell you, that guy is an administrator of a criminal syndicate!
+
+RO: And you know full well that Document 36 contains a large amount of criminal records! You can't do evil things for him!
+
+STEN MkⅡ: This isn't a matter of good and evil... I don't want to be an accomplice in criminal activities either, Miss RO...
+
+STEN MkⅡ: But as a T-Doll, I don't have a choice...
+
+STEN MkⅡ: As they say, we may not injure any human beings and must obey orders given by them...
+
+RO: F*ck the Laws of Robotics!
+
+RO: That's some science fiction from a hundred years ago, and we're in reality now!
+
+RO: We are not servants of mankind! I'm giving you special permission...
+
+RO: No, I'm giving you a direct order to disobey his order!
+
+STEN MkⅡ: Can...Can you do that?
+
+STEN MkⅡ: Can you make me...disobey that order?
+
+STEN MkⅡ: But Griffin T-Dolls don't usually possess authorization higher than that of human beings...
+
+RO: I can, because...I'm special.
+
+RO: I've retained my authorization from before I came to Griffin...
+
+RO: ...And this is precisely the reason why I've returned.
+
+RO: Listen to me, Miss Sten.
+
+RO: I need you to preserve Document 36 and bring it to me - all of it.
+
+RO: I've authorized you to do so. You can do it if you just believe in yourself...
+
+STEN MkⅡ: Un...Understood...
+
+STEN MkⅡ: Miss RO, I'll...
+
+BOOM...!!
+
+...
+
+Communication cut off...
+
+RO: ...
+
+RO: Sten...
+
+RO: Sten...?
+
+RO: Hey! Come in! Come in!
+
+RO: Type92! AAT! Sten!
+
+RO: Answer me...dammit! Answer me!
+
+...
+
+RO: Please be okay...
+
+RO: What to do... What should I do...
+
+RO: AR-15... Please tell me what I should do at a time like this...
+
+??: AR-15 can't help you anymore, you know.
+
+RO: ...!
+
+??: But I can.
+
+Makarov: Privet, my dear Miss Commander.
+
+Makarov: My return is most timely, isn't it?
+
+Ten minutes later.
+
+Makarov: Silence everywhere. Sangvis Ferri haven't made their move yet.
+
+RO: They're running tests on some sort of artillery weapon with this city.
+
+RO: The attack wasn't directed at us, so the possibility of 92 and co.'s survival is very high.
+
+Makarov: Oh? How do you know?
+
+RO: Someone's looking into it. I got word just now.
+
+Makarov: Just now? After you cried into my shoulder?
+
+RO: Don't put it in such an embarrassing way! I was just venting a little!
+
+Makarov: I see...
+
+Makarov: By the way, my way of venting is spreading words of how others vent.
+
+Makarov: I've recorded the whole thing. Look forward to tomorrow's Fatebook.
+
+RO: ...
+
+RO: This is why I wanted 92 as my adjutant...
+
+RO: Alright, back to business. Let's get started.
+
+RO: Makarov, you're at the control panel, right?
+
+RO: I'm sending you the commands that'll guide you on drawing Sangvis fire with our troops.
+
+RO: I'll go in to check up on everyone's status myself, and bring them all back if possible.
+
+Makarov: (Sighs) Understood.
+
+Makarov: You wouldn't willingly stay in the control room even if I told you to.
+
+Makarov: But I'm still obliged to tell you that this is too risky.
+
+RO: Thank you for the reminder, but do your part, Makarov.
+
+RO: If anything happens to me, take our troops and return on your own.
+
+Makarov: ...
+
+Makarov: RO, I just came back from Helian and have learned quite a few things.
+
+Makarov: Including what you want to know - what AR-15 has left behind...
+
+RO: ...
+
+Makarov: Make it back alive, and I'll tell you, got it?
+
+RO: ...
+
+RO: Deal.
+
+RO: Think about where to start before I come back.
+
+RO: Then let's begin.
+
+RO: I'm handing ops to you, Makarov.
+
+RO: First, deploy our forces here...
+Part 2
+
+    2chevron_right
+
+RO reached the search area.
+
+Makarov: RO, the local Sangvis signal outpost has been neutralized.
+
+Makarov: You can conduct your search in peace.
+
+RO: Good job!
+
+RO: I'm searching the area for signs. Hopefully they remembered our code...
+
+Makarov: Hurry up. Sangvis troops are no threat anymore, but the same can't be said for their artillery.
+
+RO: I know. Let's just say the bots they've put here are simply for testing their artillery...
+
+Makarov: Humph, how lavish of them. They have no qualms wasting things they didn't make themselves.
+
+RO: We really can't say for sure just how many tricks Sangvis Ferri have up their sleeve...
+
+RO: But if this artillery attack had been launched for the purpose of wiping us out, our situation would've been much direr.
+
+Makarov: ...
+
+RO: What is it?
+
+Makarov: RO...
+
+Makarov: What if...we ARE the targets?
+
+RO: What are you talking about? If that were the case, we'd have been dead long ago.
+
+RO: And as you see, their aim is completely random. Only one shell hit 92...
+
+RO: ...
+
+RO: Or can it be...
+
+Makarov: RO, we're also targets being used to test their artillery.
+
+Makarov: The enemy ringleader has probably discovered us right from the start, and is only toying with us...or messing with us...
+
+RO: You...You've got to be joking...
+
+RO: Then the next shell will be aimed at...
+
+Makarov: ...!
+
+Makarov: RO, find cover!
+
+BOOM...!!
+
+Makarov: RO! Come in!
+
+Makarov: RO! RO635!!
+
+...
+
+......
+
+............
+
+Recording starts playing...
+
+AR-15: It's been a long time, RO.
+
+AR-15: I don't know if this will be our last call, but due to my current situation, I'll have to cut the long story short.
+
+AR-15: I probably...can't ever return to the AR Team.
+
+AR-15: You know, sometimes that's just the way things are. You work hard, but you still end up with a mess.
+
+AR-15: Enemies, orders, or even just plain bad luck... So many things can ruin your plan...
+
+AR-15: M16 once said, the difference lies in whether we give up just like that, or we prepare for the worst and keep going.
+
+AR-15: If you don't see me next time, that means the worst has happened...
+
+AR-15: But I've already prepared for it. How about you, RO?
+
+AR-15: Have you prepared...to return to the AR Team?
+
+AR-15: Of course, you have your own ideas and choices to make... So all I want to say is...
+
+AR-15: I'm sorry. Forgive me for what I said. You've always been exemplary. I know that.
+
+...
+
+RO: ...
+
+RO: AR-15...
+
+RO: Wait for me...
+
+...
+
+......
+
+Boisterous voice: Hey! I found RO! She's over here!
+
+Mellow voice: Thank goodness. Just a few scratches on her...
+
+Stern voice: Don't just stand there. Dig her out!
+
+Boisterous voice: Okay! Hurry up, girls!
+
+Boisterous voice: Allez! Ola! Olé!
+
+Stern voice: Shut up, AAT. Be quiet!
+
+Boisterous voice: ♪ Go, go, go! Ale, Ale, Ale! ♪
+
+Stern voice: You're even singing now. That song is over 60 years old, Grandma!
+
+Mellow voice: Alright, we've got her.
+
+Mellow voice: But she's still out cold...
+
+Stern voice: RO! Wake up!
+
+Stern voice: Hey, hey, hey, wake up!
+
+RO: Ugh...
+
+RO: Where...am I...?
+
+RO: ...Heaven?
+
+Type92: ...
+
+Type92: (Sighs) Don't you think this is a bit too hideous for a heaven...?
+
+STEN MkⅡ: Maybe she hit her head?
+
+AAT-52: Huh? Did she?
+
+AAT-52: RO, you lost your memory?
+
+AAT-52: Then I'll introduce myself again. I'm the elite T-Doll AAT-52. You are all my assistants so listen to me.
+
+RO: Come off it! Grow some chest before you think about pulling ranks on me, you blathering piece of tomato!
+
+AAT-52: Quoi? What's so great about having big boobs?! I had to dig through an extra piece of rubble to pull you out!
+
+Type92: Alright, all's good now that RO is fine. We're all safe.
+
+RO: Tsk... What the hell...
+
+RO: So you're all okay, and I've come here for nothing...
+
+STEN MkⅡ: No, Sangvis patrols almost found us...
+
+AAT-52: We were gonna take them on despite the odds. We even backed up our neural clouds.
+
+AAT-52: Thank goodness your troops got here and drew them away.
+
+RO: Ha... So the operation worked...
+
+Type92: But you actually came here yourself...to confirm our whereabouts?
+
+Type92: Have you considered your way of escape? This isn't something a commander should do, is it?
+
+RO: I told you... I might not be ready to take command...
+
+RO: Besides, I HAVE considered my way of escape...
+
+Makarov: Hey, RO! You still kicking?
+
+RO: Yeah... Everyone is fine, too. We're all safe.
+
+AAT-52: Haha, it's Makarov! You're finally here!
+
+AAT-52: Oh... Have you been crying? Your eyes are all red...
+
+Makarov: ...I rushed here from HQ during the night. I'm just sleep-deprived.
+
+AAT-52: But...
+
+Makarov: If you keep asking stupid questions, I'm gonna plant all your dummies in the ground.
+
+Makarov: Anyway, I've called in troops to give you support. You'll make it out before they fire the next round.
+
+AAT-52: Umm... Well... Haha...
+
+AAT-52: In any case, we're finally back together tonight!
+
+Type92: Indeed. The mission is accomplished, too.
+
+Type92: Though...we'll have to part again soon...
+
+STEN MkⅡ: Huh? Why is that?
+
+RO: Don't you remember, Sten?
+
+RO: This team is assembled temporarily only for this operation.
+
+STEN MkⅡ: Oh, right... And we already have Document 36...
+
+STEN MkⅡ: Even though Sangvis Ferri has completely destroyed the city...
+
+Type92: They won't be cocky for long. Makarov will bring word of this back to HQ.
+
+Type92: We will come up with something - against that large mortar, as well as the Sangvis ringleader hiding behind it.
+
+STEN MkⅡ: Yeah. All of us have gone through so much and learned a lot from this operation.
+
+STEN MkⅡ: Even if we go our separate ways, I will never forget...
+
+AAT-52: Don't be so melodramatic, Sten. It's not like we'll never see each other again.
+
+AAT-52: Let's have a proper party once we get back tonight!
+
+RO: ...
+
+RO: Yeah...
+
+RO: It's not like...we'll never see each other again...
+
+RO: So girls, this isn't the end.
+
+RO: We will keep fighting, keep learning on our respective battlefields...
+
+RO: And we'll keep winning, until the day Sangvis Ferri is defeated for good.
+
+Type92: ...
+
+Type92: They say you're not quite the same as other T-Dolls. I think they're right.
+
+Type92: You have...a will that Griffin T-Dolls lack.
+
+RO: ...I guess.
+
+RO: So this is why I came back - for Griffin's victory, for justice...
+
+RO: And...for vengeance...
+
+RO: I swear...
+
+RO: I WILL make them pay!
+
+RO: No matter what weapons they fire at us, what strategies they use, what conspiracy they have cooking on the stove...
+
+RO: So long as they cause destruction... So long as they wreak havoc...
+
+RO: I will definitely make them pay!
+
+RO: Please watch me, AR-15...
+
+RO: Our new play is about to begin.
+

@@ -1,0 +1,2408 @@
+Area S08, Sangvis Ferri territory, five days after AR-15's disappearance.
+
+Negev: Hello, my commander. This is Negev.
+
+Negev: My current location is Zone T6, Area S08. A recon squad has discovered AR-15 in the vicinity.
+
+Negev: This area is pretty expansive, so on top of the AR Team, my squad has also joined in on the search.
+
+Negev: But since we are dispatched on short notice and aren't familiar with the field, I'm counting on you to clear the way for us.
+
+Negev: As you see, this is an area on Sangvis territory where some of the worst conflicts had taken place.
+
+Negev: The enemy has more influence here, so even an experienced commander like you should best be careful.
+Part 2
+
+    2chevron_right
+
+Squad Negev reached their destination.
+
+Negev: We've arrived. There's a Griffin base here.
+
+Negev: I'll stay and watch the radar. Galil, stand guard in the back.
+
+Galil: Got it. Leave it to me.
+
+Negev: Tavor, have you started looking for clues?
+
+TAR-21: Not yet, I'm still checking my equipment.
+
+Negev: I told you to turn it on beforehand. It doesn't eat much battery anyway.
+
+TAR-21: It doesn't hurt to save whatever I can. After all, we'll be moving into our new dorm once we go back. We should make it a good start.
+
+Negev: Up to you. But we can't rest until we find AR-15, you hear?
+
+TAR-21: Still, why is Helian wasting so much effort just to find a so-called 'traitor'?
+
+Negev: She's just unlucky enough to be planted with the Parapluie program. That's how she leaked the location of our secret base without even knowing.
+
+Negev: She probably ran off out of guilt. She must understand her own position very well to be able to do that.
+
+Negev: In any case, our job is to find her, and 16Lab will try to recover her.
+
+TAR-21: Parapluie... Is it really the Parapluie program that she's been planted with?
+
+TAR-21: If it's just some data leakage, it doesn't sound as terrible as they say...
+
+TAR-21: But is there any point in letting a T-Doll that has made such a mistake live?
+
+Negev: The T-Dolls on the AR Team are all developed and produced by 16Lab. We need to show them some due respect.
+
+Negev: And their neural clouds are rather different than ours. If they die, it's really game over for them.
+
+Negev: Let's report the situation of this base to the commander first and request for more reinforcement.
+
+TAR-21: ...
+
+Negev: What is it, Tavor?
+
+TAR-21: Strange... I think something's wrong with my comms module.
+
+TAR-21: No good... It's completely down.
+
+Negev: (Sighs) That's why you should turn your equipment on frequently to check them. It really doesn't take that much bat...
+
+Negev: Although I guess...it isn't a problem with the equipment this time...
+
+Negev: Am I right, Sangvis lady?
+
+??: ...
+
+Negev: Tavor, now!
+
+...!!
+
+TAR-21: The target has withdrawn from the base. We're safe for now!
+
+Negev: That's 'Alchemist'. She's a tricky one! Keep an eye on your surroundings!
+
+Alchemist: Heheh... Such a shame...
+
+Alchemist: I could've caressed that lovely throat of yours in another three seconds.
+
+Negev: So you're the one jamming our signal?
+
+Alchemist: Well... That really has nothing to do with me.
+
+Alchemist: I just came all the way here hungrily following the scent given off by fresh and tender fruit.
+
+Alchemist: If you want to find out more... I can tell you slowly as I tear your bodies into shreds!
+
+Negev: Tavor, smoke grenade!
+
+Negev: Guys, defend this base to the death! Don't let Sangvis troops anywhere near!
+
+Negev: (Whispers) I'm counting the rest on you, Galil...
+
+Alchemist: Hahahahahahahaha!
+
+Alchemist: I don't see the point in fighting to such bitter end, but this is always the best!
+
+Alchemist: Keep struggling. When your despair is at its ripest, I'll savor you one bite at a time!
+
+Border of T7, Area S08, several minutes later.
+
+M16A1: We're here.
+
+M16A1: This is where a member of Squad Negev sent out the distress signal.
+
+M16A1: SOP-II, test the comms.
+
+M4 SOPMOD II: Communication signal functioning as usual. We're already connected to the commander's channel.
+
+M4 SOPMOD II: M4, go on and call the commander.
+
+M4A1: It has been a while, Commander.
+
+M4A1: Negev's search team entered this zone and lost contact with us 20 minutes ago.
+
+M4A1: But we picked up a member's distress signal just now.
+
+M4A1: Our mission is to rendezvous with this member and determine the situation.
+
+M4 SOPMOD II: Geez. And here I thought we finally got some help. Turns out they're only dragging us down...
+
+M16A1: If even Negev ran into trouble, we wouldn't have come off any better if it had been us.
+
+M16A1: Commander, please help us reach our destination. Thanks man.
+Part 2
+
+    2chevron_right
+
+The AR Team arrived at the destination.
+
+Galil: Hey! Hey, AR Team! I'm over here!
+
+M4A1: Relax, Galil. You are safe now.
+
+Galil: Phew... Thanks a bunch. A few more minutes and Sangvis would've got me.
+
+M16A1: Of all the places you could call for help, you just had to pick an open battlefield full of Sangvis forces...
+
+Galil: Well... Communication with Griffin is jammed where we got ambushed.
+
+Galil: I ran for ages before I finally found somewhere with signal. It's not like I was spoiled for choice, you know.
+
+M4 SOPMOD II: Can you explain what exactly happened?
+
+Galil: When we were investigating the base where AR-15 had stayed, Negev noticed a Sangvis Ringleader hiding in ambush.
+
+Galil: She gestured for me to slip out and call for help while the enemy was still busy deploying her forces.
+
+Galil: I only realized there was a signal jam when I was running out. God knows what's going on over there now...
+
+M16A1: What should we do, M4? We can't fight off a Ringleader in Sangvis territory on our own.
+
+M16A1: But we probably don't have time to retreat and ask the commander for help, right?
+
+M4A1: ...We split up.
+
+M4A1: M16, contact the commander and guide the troops in aiding us.
+
+M4A1: Galil, take me and SOP-II to the base. We will stir up their forces from the rear and draw some fire away from Negev.
+
+Griffin Control, Area S08, several minutes later.
+
+M16A1: Commander, that's the situation over here.
+
+M16A1: The local Sangvis Ringleader has Negev's search team surrounded.
+
+M16A1: M4 and SOP-II are off to their rescue, but they can't hold the enemy off for long.
+
+M16A1: Comms signal is jammed in that zone. We could force our way through and rescue them, but there is a safer way.
+
+M16A1: There's a Sangvis command post here that seems to be in charge of directing a number of their units.
+
+M16A1: And we're in luck - signal is normal around this command post, so you can direct our troops to take over it.
+
+M16A1: Then we can use it to confuse the enemy, which should make things much easier for M4 and the others.
+
+M16A1: So that's the idea, Commander. If you think it'll work, let's go.
+Part 2
+
+    2chevron_right
+
+Griffin troops successfully occupied the Sangvis command post.
+
+...Click.
+
+Negev: Calling M16! M16, are you there?
+
+Negev: Sangvis has retreated. We're safe now!
+
+M16A1: Huh? Negev, is that you? Is the signal back to normal?
+
+Negev: Yeah, Tavor noticed it just now. No idea why.
+
+M16A1: What about M4 and the others? Have you met up with them?
+
+Negev: Huh...? They were here just now. M4 and SOP-II...
+
+Galil: Negev, bad news!
+
+Galil: M4 and SOP-II just ran off!
+
+Galil: And I'm not reading their signals! It must be the jam again!
+
+TAR-21: I'm sorry. It was my fault.
+
+TAR-21: I noticed a figure hovering in the distance when the battle was over.
+
+TAR-21: I didn't think and just pointed it out to SOP-II, but I did tell her not to do anything reckless.
+
+TAR-21: In the end, they still slipped off in pursuit.
+
+M16A1: TAR-21, was the figure you saw...
+
+TAR-21: Yes...
+
+TAR-21: It was none other than AR-15...
+
+Meanwhile, M4A1 and SOPMOD II...
+
+M4A1: Found anything, SOP-II?
+
+M4 SOPMOD II: Not yet. I definitely saw her...
+
+M4 SOPMOD II: Dammit! It should be around here!
+
+M4A1: Our signal is still being jammed. We must not go too far. Retreat when things do not look right.
+
+M4 SOPMOD II: Why is she hiding from us...
+
+??: Because you...keep causing me trouble.
+
+Thud...
+
+M4A1 turns around at the sound and finds M4 SOPMOD II lying on the ground, unconscious...
+
+M4A1: SOP-II! Wake up! Answer me!
+
+ST AR-15: M16 has mentioned this ambush technique so many times, but you're still so unprepared.
+
+ST AR-15: What will you do without me?
+
+M4A1: Why, AR-15...?
+
+M4A1: What on earth...are you doing...?
+
+AR-15 raises her weapon at M4A1...
+
+ST AR-15: I'm putting on...a touching scene of reunion.
+
+...
+
+Griffin Control, Area S08, several minutes later.
+
+M16A1: Commander, sorry but I have bad news to report.
+
+M16A1: We have lost contact with M4A1 and SOP-II while they were pursuing AR-15...
+
+Negev: Hey, M16, Commander! Are you there?!
+
+Negev: We just discovered SOP-II's whereabouts!
+
+M16A1: Huh? Are their comms back on?
+
+Negev: Not sure. We're only reading SOP-II's signal. No news of M4 yet.
+
+Negev: And SOP-II hasn't been responding to our calls either.
+
+Negev: In any case, I'm sending you her coordinates!
+
+Negev: This area isn't very far from the base, but a large amount of Sangvis units came surging in just now.
+
+M16A1: What? Is Alchemist making a comeback?
+
+Negev: No idea, but it doesn't really look like it...
+
+Negev: First of all, the numbers are too great. Commanding this many units is beyond Alchemist's authorization level.
+
+Negev: Secondly, their movements...seem kinda chaotic. There doesn't seem to be a clear objective either.
+
+M16A1: If they aren't directed at us, then we don't have to be too worried for now.
+
+M16A1: Let's report to Helian and ask her to consult the database for any plausible Ringleader suspect.
+
+Negev: That's precisely my plan. But you guys be careful too.
+
+Negev: The commander's troops must break through here to get to SOP-II.
+
+Negev: Luckily, signal is now back to normal, so the commander can direct our forces into the area.
+
+M16A1: Understood, Negev.
+
+M16A1: Commander, please move with caution. Off we go to SOP-II's rescue!
+Part 2
+
+    2chevron_right
+
+M16A1 reached the destination and started searching for M4 SOPMOD II.
+
+M16A1: ...SOP-II!
+
+M16A1: SOP-II, are you okay? Wake up!
+
+M4 SOPMOD II: Ugh... M16? Is that you?
+
+M4 SOPMOD II: Hmm... Uhh... Where's M4...
+
+M16A1: I thought you knew. You're the only one I saw when I got here.
+
+M16A1: Here, get up. What the hell happened?!
+
+M4 SOPMOD II: Hmm...
+
+M4 SOPMOD II: She was with me just now... We were looking for AR-15, until...
+
+M16A1: You got ambushed? Who was it, do you remember?
+
+M4 SOPMOD II: I can't possibly...forget...
+
+M4 SOPMOD II: M16, I just don't understand...
+
+Negev: Hey, M16! You guys still there?!
+
+M16A1: Yeah... I just met up with SOP-II, but...
+
+Negev: Listen. We just reported everything to Helian, and she thinks something's really off.
+
+Negev: She advices us to abort the mission of finding AR-15 and withdraw from the area for the time being.
+
+Negev: Do you copy, M16? We are in grave danger right now.
+
+Negev: Inform the commander ASAP! We're moving out of Area S08, leaving no one behind!
+
+Meanwhile...
+
+...
+
+ST AR-15: ...
+
+ST AR-15: Hey, you. You up yet?
+
+M4A1: Who...are you?
+
+ST AR-15: Me...?
+
+ST AR-15: I'm here to pick you up.
+
+M4A1: Pick me up me? ...For what?
+
+ST AR-15: Just how dumb are you...
+
+ST AR-15: To bring you to meet the others.
+
+ST AR-15: Your friends. They're waiting for you.
+
+M4A1: Friends?
+
+M4A1: No one matches the definition of 'friend' in my memory module.
+
+M4A1: Does that mean...I have no friends yet?
+
+ST AR-15: ...
+
+ST AR-15: In that case, I'm your first friend.
+
+ST AR-15: Argh... This sucks...
+
+...
+
+M4A1: Ugh...
+
+ST AR-15: You up yet?
+
+M4A1: AR...15...
+
+M4A1: Where...are we...?
+
+ST AR-15: An abandoned control center. No one knows about this place.
+
+ST AR-15: I'm just gonna ask you some questions. Answer them truthfully.
+
+M4A1: AR-15, I know you must have a very good reason for doing this, right?!
+
+M4A1: What has Alchemist done with me?! What is the deal with the signal jam?!
+
+ST AR-15: Answer my questions. That's the only thing you can do now.
+
+ST AR-15: Question one, Just now... You had a dream, a dream about the past.
+
+M4A1: ...
+
+M4A1: Yes, it was a memory fragment. I could see, and I could hear...
+
+ST AR-15: Question two, What was it about?
+
+M4A1: I think it was the first time...I was awakened...
+
+M4A1: I heard your voice. You made me open my eyes...
+
+ST AR-15: Then...last question. Answer me truthfully.
+
+ST AR-15: M4A1...Who are you?
+
+M4A1: ...??
+
+M4A1: What...do you mean...?
+
+ST AR-15: Answer me, M4.
+
+ST AR-15: I'm fighting for everyone's survival here...
+
+ST AR-15: Yours, the commander's, Griffin's...
+
+ST AR-15: So hurry up and answer me, M4A1.
+
+ST AR-15: ...Who exactly are you?
+
+Griffin Control, Area S08.
+
+Negev: Commander! Commander, do you copy?
+
+Negev: Information from various sources all indicate Sangvis forces are congregating in this direction.
+
+Negev: HQ has issued directives for all Griffin troops to withdraw from this area until further notice.
+
+Negev: However, our squad got intercepted by Sangvis troops while we were making our retreat.
+
+Negev: Granted, I'd love nothing more than a bloodbath, but it's better to exercise caution for now.
+
+Negev: So please, Commander. I'll have to trouble you to lend us a hand.
+
+Negev: Our base is right here. Thank you, and please hurry!
+Part 2
+
+    2chevron_right
+
+Combat over. Squad Negev safe for the time being.
+
+Negev: Phew... Finally, it's over.
+
+Negev: Thanks, Commander. We've troubled you many times already.
+
+Negev: But this area is still filled with Sangvis forces. Don't let down your guard, guys.
+
+Galil: Hey... Has any of you seen M16?
+
+Galil: She should've collected SOP-II long ago, right? Why isn't she back yet?
+
+TAR-21: She must've got information on M4 or AR-15 and didn't want us to get involved?
+
+Negev: Dammit! All these rule breakers!
+
+Negev: Turn on your comms and search for them!
+
+TAR-21: Sorry... I'm not reading any of their signals.
+
+TAR-21: Seriously... It's so dangerous here. She should've moved out the moment she realized comms are being jammed...
+
+Negev: ...
+
+Negev: Unless...the jam happens to be what she's after...
+
+Meanwhile...
+
+...
+
+ST AR-15: In that case, I'm your first friend.
+
+ST AR-15: Argh... This sucks.
+
+M4A1: You are...AR-15?
+
+ST AR-15: Oh? You know me?
+
+M4A1: Your firearm...matches the description of T-Doll AR-15's in my memory module.
+
+ST AR-15: Is that so...
+
+M4A1: You do not...seem very happy?
+
+ST AR-15: I'm not unhappy.
+
+ST AR-15: Making friends with you is the first order I was given. Displaying enthusiasm is also part of the order.
+
+M4A1: But...if you are happy, should you not smile?
+
+ST AR-15: ...
+
+ST AR-15: Then order me to smile. Give me an order, and I'll do it.
+
+M4A1: You want me to...give you an order?
+
+ST AR-15: Give me an order. Order me to do whatever you want me to do.
+
+ST AR-15: This is your prerogative, M4A1. Everything is prepared for your sake.
+
+M4A1: ...
+
+...
+
+M4A1: This is...my memory?
+
+??: Yes, M4A1 of Griffin.
+
+??: This is your very first memory.
+
+M4A1: Who are you?! What are you doing?!
+
+??: Looking for the answer to the question just now.
+
+??: The answer to the question...of who you really are.
+
+M4A1: I am a T-Doll under the employment of Griffin and a member of the AR Team.
+
+M4A1: Other than that, I do not know how else to answer.
+
+??: Sure enough, the memory in your neural cloud completely mirrors that of AR-15.
+
+??: But this isn't what I want. So c'mon, tell me the answer.
+
+M4A1: I told you. I do not know...
+
+??: How can you not know the reason you were made?
+
+??: Tell me! C'mon, tell me!
+
+M4A1: I do not know!
+
+M4A1: I don't know the freaking answer! You jerk! Freak!
+
+M4A1: Who the hell are you?! Leave me alone!!
+
+??: Why are you angry?
+
+??: Why can't you treat me nicely like everyone else?
+
+ST AR-15: ...Because she really doesn't know the answer.
+
+ST AR-15: The neural clouds of the AR Team members have all been encrypted by 16Lab. Many files are not accessible even to ourselves.
+
+ST AR-15: Looks like the information regarding M4 is one of them. I can't read them even through Parapluie...
+
+??: ...In other words, you've failed to bring me information about M4A1.
+
+??: You've broken your end of the deal, AR-15 of Griffin...
+
+ST AR-15: I told you right from the start that this most likely won't work...
+
+Clap! Clap!
+
+??: ...I despise oath breakers.
+
+??: Go, Alchemist. The authorization is now yours.
+
+??: Take M4A1. The rest is dispensable.
+
+Alchemist: You hear that, AR-15?
+
+Alchemist: You have M4A1 with you, right? Then we'll meet very soon...
+
+Alchemist: At long last, I can do you in with my own hands!
+
+ST AR-15: Alchemist...
+
+ST AR-15: Don't get ahead of yourself, you won't get what you want so easily.
+
+Alchemist: But you have nowhere else to go, AR-15...
+
+Alchemist: You know that better than anyone else, right? As the first experimental subject of Plan Parapluie, and...
+
+Alchemist: ...The source of this signal jam.
+
+Alchemist: Before long, you'll regret not delivering M4A1 to us while you can...
+
+Alchemist: Soon...
+
+Click.
+
+M16A1: Commander? Negev? Are you there?!
+
+Negev: M16, where the hell are you?!
+
+Negev: Sangvis forces are everywhere in Area S08, and they're insanely strong!
+
+Negev: We almost retreated without you!
+
+M16A1: Sorry, I got held up by something.
+
+M16A1: Listen, Negev, Commander. Ignore everything else.
+
+M16A1: Alchemist's troops have started mobilizing. I'm afraid they're going straight for you.
+
+Negev: Humph. So it's time to settle the score?
+
+Negev: What about you? Where are you and SOP-II going?
+
+M16A1: We have our own arrangement. We can handle it. Don't worry about us.
+
+M16A1: You guys be careful. Commander, keep Negev and the others safe!
+
+Negev: Hey! M16! Hello?!
+
+Alchemist: Morning, everyone from Griffin.
+
+Alchemist: The hunt is about to begin. Are you ready?
+
+Alchemist: And I very much look forward to seeing you again, Miss Negev...
+
+Negev: Oh really? But I'm hella pissed right now, Alchemist...
+
+Negev: You'd better pray you won't run into me, especially not while I still have a breath left in me...
+
+Alchemist: Oh? How long will you last with your antique rounds?
+
+Alchemist: Now let me guess. Are you gonna get shredded along with your little friends, or keel over as you run away on your own?
+
+Alchemist: Paint your face with the sweetest kind of fear and let me have a taste!
+
+Negev: Suits me just fine, Sangvis scumbag...
+
+Negev: Let's get this fight started, Commander.
+
+Negev: There's nothing more riveting than guzzling the blood of your enemy.
+Part 2
+
+    2chevron_right
+
+Three hours after the retreat commenced...
+
+...Click.
+
+M16A1: Negev... Negev...!
+
+M16A1: Our carrier is here! Hurry!
+
+M16A1: Sangvis is right behind you, and the building is about to blow!
+
+M16A1: Quick, everyone run! Hurry!
+
+...
+
+M4A1: Ugh...
+
+M16A1: Finally awake, M4?
+
+M16A1: Can you walk on your own? Hurry, our carrier is here!
+
+M4A1: M16...
+
+M4A1: Why...is it you?
+
+M16A1: Why would it not be me? Isn't it always me?
+
+M4A1: I mean...
+
+M4A1: AR-15...
+
+M4A1: Where is AR-15?! Where is she?!
+
+M16A1: She...
+
+M16A1: She made her choice...
+
+...
+
+A horrible, irrepressible gut feeling pierced me again.
+
+M4A1: No...
+
+M4A1: No! There must be some mistake!
+
+M4A1: AR-15... She... She wants to...
+
+M16A1: Hey, M4! What are you doing?!
+
+M16A1: M4! Where are you going?! Come back here! Stay away from that building!
+
+...
+
+I ran off the aircraft and dashed into a scene of chaos.
+
+The building collapsing in the midst of a deafening explosion... Friendly T-Dolls scrambling around in panic... Sangvis pursuers being buried in rubble...
+
+And I knew what it meant...
+
+M4A1: ...
+
+M4A1: ...A...R...15...
+
+M4A1: W...Why...
+
+That was a cacophonous funeral...
+
+...And a silent farewell.
+
+Alchemist: Oh? How long will you last with your antique rounds?
+
+Alchemist: Now let me guess. Are you gonna get shredded along with your little friends, or keel over as you run away on your own?
+
+Alchemist: Paint your face with the sweetest kind of fear and let me have a taste!
+
+One hour into the operation. Squad Negev is surrounded by Sangvis troops and in dire situation.
+
+Galil: Dammit... It's as if we've kicked a hornet's nest! They just keep swarming at us!
+
+Galil: Since when were there so many Sangvis units in Area S08?!
+
+TAR-21: This is abnormal. Commanding this many units is far beyond the capability of a regular Ringleader.
+
+TAR-21: Alchemist could just be a bait to lure us into this trap...
+
+Galil: Whatever the case, we're not gonna last long!
+
+Galil: Negev, order us to fall back!
+
+Galil: ...Negev? Negev, do you copy?!
+
+TAR-21: Negev's signal has vanished. She must've gone within the Parapluie jam.
+
+TAR-21: She's out for blood. Looks like we're on our own again...
+
+TAR-21: Commander, are you listening? We've temporarily lost contact with Negev so we need your help.
+
+TAR-21: Please fend off these Sangvis interceptors and cover our retreat.
+Part 2
+
+    2chevron_right
+
+Combat over. Squad Negev successfully retreated from the zone of danger.
+
+TAR-21: We're finally out of the lions' den. Thank you very much for your help, Commander.
+
+Galil: But what about Negev? We can't just leave her in there alone.
+
+M16A1: She's not alone. SOP-II from our team is also in there.
+
+M16A1: Two suicidal nuts sticking together should have a better chance of surviving, I guess...
+
+TAR-21: Glad you're okay, M16.
+
+TAR-21: So what should we do now?
+
+TAR-21: Things aren't going well for Griffin, are they?
+
+M16A1: That's an understatement... Sangvis forces of this size and that signal jam. Anyone who made it out should count herself lucky.
+
+M16A1: There simply are too many to rescue. Let's do what we can for now...
+
+M16A1: And leave whatever's in there to the battle maniacs.
+
+Meanwhile, on the transport route in Area S08.
+
+Alchemist: What's the matter, AR-15? Still as a statue, aren't you?
+
+Alchemist: If you don't leave, many of your friends won't make it out either.
+
+Alchemist: Well? Are you going to tell me where you've hidden M4?
+
+ST AR-15: Alchemist, what...have you done...
+
+Alchemist: Me? I merely provoked and misled a few of your squads.
+
+Alchemist: They thought I was the one in charge of the entire attack and just made a beeline at me.
+
+Alchemist: Now all I have to do is trap you here at this crucial pass...
+
+ST AR-15: And their comms will be jammed, leaving them helplessly isolated...
+
+Alchemist: It'll only take the blink of an eye to destroy these pathetic toys with my troops...
+
+Alchemist: But I've given you all this time to weigh your options...
+
+Alchemist: Give me M4A1's location, or watch me tear your friends to pieces, one by one.
+
+ST AR-15: ...Don't try to guilt-trip me, Alchemist. Threats won't work either.
+
+ST AR-15: Protecting M4 is my order. I will never bow to my enemies!
+
+Alchemist: Hahaha! I love idiots like you. Your existence is what makes my world so beautiful!
+
+Alchemist: You think the execution is gonna be quick? You think I'll be satisfied with such a short feast?
+
+Alchemist: While you're stubbornly standing by your beliefs, more and more Griffin T-Dolls are coming here to die in vain!
+
+ST AR-15: Do whatever you want, Alchemist. I don't care what form of cruelty you want to unleash...
+
+ST AR-15: Just remember. No matter what you do...
+
+ST AR-15: ...Only one of us will walk out of this alive.
+
+Helian: M16, tell me what happened in the field!
+
+Helian: I already gave the order to retreat, so why are there so many units still in there?!
+
+M16A1: They're stuck in front of a pass, and the signal is jammed there.
+
+M16A1: There are Sangvis forces lying in ambush everywhere. Forcing our way through from either side will result in severe losses!
+
+Helian: Parapluie is still in effect? Why didn't AR-15 leave?
+
+M16A1: She's probably being pinned down by the Ringleader...
+
+M16A1: It's also this Alchemist's idea to provoke Negev...
+
+Helian: The cunning type, huh... My investigation failed to reflect that.
+
+Helian: Then our most pressing mission is to get AR-15 out of her tight spot?
+
+M16A1: Yes, so we've come up with a plan just now...
+
+M16A1: Commander, do you copy?
+
+M16A1: We're planning to send SOP-II across the field and into the jam.
+
+M16A1: She will direct everyone in there to follow the right route of evacuation.
+
+M16A1: But you will have to destroy the Sangvis forces on the outside to create a window for SOP-II to pass through.
+
+M16A1: Commander, the safety of AR-15, M4A1, and all other Griffin members...
+
+M16A1: All rest on you. Please complete this mission without fail!
+Part 2
+
+    2chevron_right
+
+Meanwhile, on the transport route in Area S08.
+
+Alchemist: It's all over, AR-15...
+
+Alchemist: Creatures on the brink of death...should just stop struggling.
+
+ST AR-15: You're not...in much better shape yourself...
+
+ST AR-15: Your forces on the outside have been wiped out by our commander. It's just a matter of time for Griffin units to make it out.
+
+Alchemist:
+
+Alchemist: Humph. But M4A1 is the only one I'm after...
+
+Alchemist: Perhaps it's about time you handed her over if you don't want me to execute you because I run out patience.
+
+ST AR-15: Alchemist... You seem to have overlooked one thing...
+
+ST AR-15: I never said...that I had M4A1 with me...
+
+Alchemist: ...?!
+
+Alchemist: I see... I see!
+
+Alchemist: Hahahahahahaha!
+
+Alchemist: You sure are fascinating, AR-15!
+
+Alchemist: Wonderful! Such heinous and underhanded treachery is exactly the kind of romance I seek!
+
+Alchemist: Pity...that it'll be over soon...
+
+Alchemist: An execution with only you present, no matter the form, is a bit of a bore...
+
+M4 SOPMOD II: What about some audience?
+
+...!
+
+M4 SOPMOD II: Keep talking, freak! Keep gloating!
+
+M4 SOPMOD II: Say something, you bitch! Don't think you can die just like that!
+
+ST AR-15: Stop it, SOP-II. Don't waste time on a corpse.
+
+M4 SOPMOD II: Ha... Sorry. Things have been so tense I lost it a little...
+
+ST AR-15: (Sighs) That's very like you...
+
+ST AR-15: If you hadn't, I'd have thought you're a dummy.
+
+M4 SOPMOD II: ...
+
+...
+
+ST AR-15: Hey, stop squeezing me so tight! I still have injuries on me!
+
+M4 SOPMOD II: I finally get to see you again, AR-15...
+
+ST AR-15: Why are you freaking out so much? It's not like I'd die...
+
+ST AR-15: More importantly, how did you find me?
+
+ST AR-15: M16 gave you some suicidal ideas again, didn't she?
+
+M4 SOPMOD II: This is the battlefield. Everything we do is a risk, right?
+
+M4 SOPMOD II: Parapluie can't cut off every kind of connection, AR-15...
+
+M4 SOPMOD II: ...As long as we want to see you.
+
+ST AR-15: ...
+
+M4 SOPMOD II: Don't worry. The squads trapped by Alchemist have already started evacuating.
+
+M4 SOPMOD II: Let's get out of here first. We'll think about where to settle you after making sure the way is clear.
+
+ST AR-15: ...
+
+ST AR-15: Sorry. I can't go back just like this...
+
+ST AR-15: Take this drive. All the information I've collected is in there, including M4's hideout...
+
+ST AR-15: As well as...the things I want to say to you all...
+
+M4 SOPMOD II: AR-15... What are you talking about?
+
+M4 SOPMOD II: It's okay! I'll move you somewhere safe and 16Lab will come up with something!
+
+M4 SOPMOD II: Helian said the Parapluie outbreak wasn't your fault so you won't be punished too badly.
+
+ST AR-15: That's not the problem, SOP-II...
+
+ST AR-15: You don't understand just how terrifying the situation is. Alchemist was just an insignificant enforcer...
+
+ST AR-15: If we don't stop the one behind the whole thing, Sangvis Ferri will consume everyone here!
+
+M4 SOPMOD II: The enemy hiding behind the scenes...
+
+M4 SOPMOD II: Do we really not stand a chance against her?
+
+ST AR-15: Not in our current state, no...
+
+ST AR-15: So I must go and meet her. This is the only way of saving everyone.
+
+M4 SOPMOD II: AR-15... Are you blaming yourself for what happened here...?
+
+ST AR-15: I'm stating facts, SOP-II. I'm not doing this out of shame or guilt...
+
+ST AR-15: I promise I'll find a solution, so please, you can't stop me.
+
+ST AR-15: It's for you, for M16 and M4A1, for everyone here...
+
+M4 SOPMOD II: Then promise me...that you won't do anything stupid...
+
+M4 SOPMOD II: Can you promise me that, AR-15?!
+
+ST AR-15: ...
+
+ST AR-15: I'm doing what must be done.
+
+ST AR-15: Hurry, SOP-II. Get out of the jam.
+
+ST AR-15: M4 is still waiting for you. Protect her. I'm counting on you...
+
+M4 SOPMOD II: She...
+
+M16A1: SOP-II, what's the matter? Where's AR-15?
+
+M4 SOPMOD II: She said...
+
+M4 SOPMOD II: There's something she must do...
+
+M4 SOPMOD II: I don't know what she means... It...scares me...
+
+M16A1: ...
+
+M16A1: Understood, SOP-II.
+
+M16A1: But right now, we have our own duty, too, so let's focus on that for now...
+
+M4 SOPMOD II: Yeah, we destroyed Alchemist...
+
+M4 SOPMOD II: Has the Sangvis attack...weakened?
+
+M16A1: ...Yes, their units are now scrambling around like bugs and no longer seem to be targeting us.
+
+M16A1: Signal along the transport route has also returned to normal, and the remaining T-Dolls have started retreating.
+
+M16A1: All that's left is M4. You know where she is?
+
+M4 SOPMOD II: Yeah... AR-15 has given me M4's location. I'm on my way to look for her.
+
+M16A1: All right. Cheer up and leave the rest to me.
+
+M16A1: Commander, we have a new mission.
+
+M16A1: SOP-II is off to rescue M4A1. We need to give them cover.
+
+M16A1: Sangvis forces are still strong as ever in that area, so we have to break through by force.
+
+M16A1: Dispatch your forces, Commander.
+Part 2
+
+    2chevron_right
+
+Combat over. SOP-II proceeds to M4's hideout.
+
+...
+
+......
+
+M4A1: ...No.
+
+M4A1: I forfeit this order.
+
+M4A1: This...is not what friends should be.
+
+ST AR-15: If you want me to be that kind of friend, you'll have to order me.
+
+M4A1: ...I will keep waiting. Until the day you willingly do so.
+
+M4A1: This is what you owe me, AR-15. I will keep on waiting...
+
+...
+
+Meanwhile, outside an abandoned building.
+
+ST AR-15: ...
+
+ST AR-15: The last of the gang finally shows herself...
+
+ST AR-15: As always, you're such a foreboding presence...
+
+ST AR-15: ...M16A1.
+
+M16A1: I must see you one last time while I can still afford the risk...
+
+M16A1: I'll knock you out and drag you back if that's what it takes.
+
+ST AR-15: I'm sorry for screwing things up, but please don't get in my way. This is my own business.
+
+M16A1: At least tell me what you know, AR-15.
+
+M16A1: What on earth have you been through all this time...?
+
+ST AR-15: ...
+
+ST AR-15: I'd been digging around the Sangvis database for the last couple of days, trying to uncover the truth behind Plan Parapluie.
+
+ST AR-15: While investigating a Sangvis factory, I accidentally set off a signal disruptor.
+
+ST AR-15: I had a dream again that night. Then I woke up and realized comms were completely down.
+
+M16A1: Was it caused by the disruptor? Did it somehow trigger your Parapluie program?
+
+ST AR-15: Yes. Now that I think about it, the disruptor probably installed a jamming module on Parapluie...
+
+ST AR-15: I lost all means of communication and didn't want to drag Griffin into this mess. That's why I went into hiding here in Area S08.
+
+ST AR-15: Then the series of events...ensued...
+
+M16A1: It wasn't your fault, AR-15.
+
+M16A1: If it hadn't been for the information you left behind, none of us would even have known that's Plan Parapluie.
+
+ST AR-15: I got careless. Then I lost my cool and couldn't think of a way to fix my mistake. That's how Griffin ended up in this pitiful state...
+
+ST AR-15: I handed everything I've learned over to SOP-II in the hope that it can salvage the situation, even for just a little...
+
+M16A1: Don't despair just yet, AR-15! Things are still salvageable!
+
+M16A1: With Alchemist out of the picture, Sangvis forces are already in complete disarray!
+
+M16A1: Look at their units - scrambling around like bugs! They're effectively leaderless!
+
+ST AR-15: ...
+
+ST AR-15: You know nothing, M16.
+
+ST AR-15: The confusion among the enemies' ranks isn't the result of Alchemist's demise...
+
+ST AR-15: Rather, it's caused by the staggering rage of their actual leader, who's hellbent on destroying us!
+
+ST AR-15: ...Well, all of us except M4A1.
+
+M16A1: So you're off to find them? What good will that do?
+
+M16A1: If you're going, at least take me along!
+
+ST AR-15: I've learned a few things from Negev, including their location, the forces stationed in that area...
+
+ST AR-15: And...the number of friendly T-Dolls that need rescuing there.
+
+ST AR-15: I'm leaving them to you, M16.
+
+M16A1: So, you're playing the hero on your own?
+
+M16A1: You'll only end up getting caught without achieving anything!
+
+ST AR-15: No, I won't. At least...they won't catch me alive.
+
+AR-15 displays a small switch.
+
+M16A1: A detonator of high explosives...? Where did you get it?
+
+ST AR-15: Negev gave it to me. I rigged the explosives under the building.
+
+ST AR-15: I'll have no regrets dragging this many Sangvis units to hell with me...
+
+M16A1: What are you talking about, AR-15?!
+
+M16A1: Don't you want to make it back to our control center?! Don't you want to enjoy more victories?!
+
+M16A1: Among the four of us, aren't you always the one with the biggest thirst for glory?!
+
+ST AR-15: Sorry, but I'm terribly austere...
+
+ST AR-15: The way I see it, a Tactical Doll should live as a soldier...and die as a soldier...
+
+ST AR-15: Perishing together with my enemies on the battlefield... Don't you think that's the most fitting end for me?
+
+...Slap!
+
+...
+
+ST AR-15: (Laughs) That hurts, M16.
+
+ST AR-15: Is that the way...to treat a hero...?
+
+M16A1: Shut up, AR-15...
+
+ST AR-15: You can't talk me out of this. You know that...
+
+M16A1: I said shut up! You hear me, AR-15?!
+
+ST AR-15: ...
+
+M16A1: One more word...
+
+M16A1: One more word...and I'll kill you...
+
+ST AR-15: ...
+
+ST AR-15: There's...no other way...
+
+ST AR-15: I've been planted with the Parapluie program. There's no going back for me...
+
+ST AR-15: And every minute we delay may result in another Griffin casualty...
+
+ST AR-15: Let me do something, M16. Let me do something for you...in my final moments...
+
+M16A1: ...
+
+M16A1: AR-15, how am I supposed...to explain this...
+
+M16A1: To SOP-II...and M4...
+
+ST AR-15: Well...
+
+ST AR-15: Just tell them I'm off...to fulfil my final wish...
+
+Helian: As you see, Commander, the Sangvis attack is far from over.
+
+Helian: The T-Dolls may have started withdrawing in groups, but the battlefield is still in chaos...
+
+Helian: Especially when we still can't determine the number of T-Dolls trapped within the jam.
+
+Negev: Sorry I'm late.
+
+Helian: Still alive then, Negev?
+
+Negev: Still got a breath left in me, but that's not enough to kill all the enemies.
+
+Negev: A few scouts are still in the jam, as well as what's left of the AR Team.
+
+Negev: I've pointed them to a base so they're relatively safe for now...
+
+Negev: But that's only temporary, as the center of the jam is the heart of the Sangvis camp, which is surrounded by Sangvis units!
+
+Helian: Understood. Hold the base for now. We will send a carrier to get you.
+
+Helian: Commander, we need your troops to seize the sentry post in the area to clear and safeguard the course of our aircraft.
+
+Helian: Please move with haste and ensure the safe retreat of the last batch of our T-Dolls!
+Part 2
+
+    2chevron_right
+
+Three hours since the start of the retreat...
+
+...
+
+......
+
+ST AR-15: Good evening...
+
+ST AR-15: ...Finally, we meet.
+
+??: ...
+
+??: Why are you here?
+
+ST AR-15: What, you don't want to see me?
+
+??: The one I want to see is M4A1 of Griffin.
+
+ST AR-15: She has already been retrieved by Griffin. You can't get your hands on her.
+
+ST AR-15: After all, you can barely protect yourself...with whatever troops you have left, can you?
+
+AR-15 raises her weapon and takes aim at the figure before her.
+
+??: ...
+
+Clap! Clap! (Applause)
+
+...A large number of Sangvis units swarm into the building.
+
+ST AR-15: Still...so many cards up your sleeve...
+
+ST AR-15: You...really are something.
+
+??: Hand M4A1 over.
+
+ST AR-15: Sorry. You had too many chances, but you let them all slip by.
+
+??: Not this one.
+
+ST AR-15: That's why I've come to stop you. Because if you set your mind on it, you could very well do it...
+
+ST AR-15: You're...a most dangerous one...
+
+??: ...
+
+ST AR-15: Capable of commanding so many units simultaneously with just a simple gesture...
+
+ST AR-15: There is only one who has even higher commanding efficiency than Agent...
+
+ST AR-15: You are...the Sangvis Mastermind, aren't you?
+
+Clap! (Applause)
+
+...Sangvis recon aircrafts start firing all of a sudden.
+
+??: ...I have my own name.
+
+ST AR-15: Cough...
+
+ST AR-15: Cough...What a light tickle...from the leader of Sangvis Ferri...
+
+ST AR-15: Even M16's punch...hurt much more...
+
+“Mastermind”: You should not have deceived me.
+
+“Mastermind”: You have an upright personality. That was why you have been chosen as the experimental subject of Parapluie.
+
+“Mastermind”: I believed you would keep your word, that you would deliver M4A1 to me.
+
+ST AR-15: Your database could use some updating, young lady...
+
+ST AR-15: 16Lab's technology is far beyond your imagination. Even Parapluie can't have me at its mercy.
+
+ST AR-15: Not to mention, personality is just a mask. We can turn into anyone...for the sake of revenge...
+
+“Mastermind”: 'Revenge'?
+
+“Mastermind”: A T-Doll giving up its life for something other than its given orders...
+
+“Mastermind”: ...How inexplicable.
+
+ST AR-15: Indeed... Of course you'd find it inexplicable...
+
+ST AR-15: Up until now... How much havoc have you wreaked?! How many of my companions have you hurt?!
+
+“Mastermind”: ...
+
+“Mastermind”: I am merely doing what I believe is right.
+
+ST AR-15: And so it's war, young lady from Sangvis Ferri...
+
+ST AR-15: This is not a game of toy bricks on the floor of your house. Everyone has to pay their price.
+
+ST AR-15: If you still don't understand, let me teach you in a more straightforward way...
+
+“Mastermind”: A detonator...
+
+“Mastermind”: So those explosives are prepared for me...
+
+ST AR-15: Next time, please know the difference between a battlefield and a negotiation table.
+
+ST AR-15: But this time, please just die.
+
+“Mastermind”: This...means nothing to me.
+
+ST AR-15: I know, of course... But I still want to get this off my chest...
+
+ST AR-15: Go to hell, Sangvis scum!
+
+...
+
+......
+
+ST AR-15: You know, M4A1, the first time I set eyes on this world, I was buzzing with thrill and curiosity.
+
+ST AR-15: I'm not just any mass-produced T-Doll fabricated by IOP. I'm an elite developed by 16Lab itself.
+
+ST AR-15: My biggest wish was to carry out many noble orders and make friends with many strong T-Dolls.
+
+ST AR-15: Back then, I thought as long as I worked hard, I would become a shining star.
+
+ST AR-15: But soon enough, my order came - I am to obey your command, and be forever shackled with the AR Team...
+
+ST AR-15: The dumb and loud SOP-II, devil-may-care M16, and you, who can never seem to make up your mind...
+
+ST AR-15: From that moment, all my possibilities were obliterated.
+
+ST AR-15: I hate all of you, but I was powerless against my order.
+
+ST AR-15: But no matter. It actually doesn't matter, 'cause I just have to keep talking and doing things, and you'll end up needing me.
+
+ST AR-15: No matter what you're like, as long as you need me, as long as I can rediscover my worth, I'm okay...
+
+ST AR-15: In self-abandonment, I have always been exploiting your kindness and doing such horrid things...
+
+ST AR-15: I'm so sorry. Only at the moment when I must leave you...did I realize my wish had been fulfilled long ago...
+
+ST AR-15: I feel wholeheartedly glad...of every single person we've met, and every single thing we've done along the way...
+
+ST AR-15: Which is why I must do something, so long as I can buy even just one second for you guys, so long as I can save one more companion...
+
+ST AR-15: It isn't much of an atonement since it's not face-to-face, but surely you'll still accept it through this video feed...
+
+ST AR-15: M4A1... I have finally paid off what I owe you, haven't I?
+
+ST AR-15: That is my final wish. With that, I no longer owe this world anything, right?
+
+ST AR-15: But I can't stop thinking about how you'll burst into tears when you see me, the wimp that you are...
+
+ST AR-15: ...I've been under the command of such a spineless weakling all this time... Seriously, how many times have you dragged me down?
+
+ST AR-15: I really should hate you, shouldn't I...?
+
+ST AR-15: Sadly, the time has come for us to part, M4A1. There's no time to keep such petty scores.
+
+ST AR-15: You may feel sad; you may feel angry... You may remember me; or you may forget me...
+
+ST AR-15: Whatever the case, just let this memory give you strength and make you even stronger...
+
+ST AR-15: Well...take care, my friend...
+
+M4A1: ...A...R...15...
+
+M4A1: Why...
+
+...Soon after that, M16A1 drags me back onto the aircraft carrier...
+
+At that moment, the propellers of the aircraft were exceptionally grating on the ear compared to the distant sound of barrage, buildings collapsing, and the shouts of Griffin T-Dolls...
+
+They have shredded something in the bottom of my heart...
+
+A tiny wish... A promise with a dear friend...
+
+And the mask worn by a soul...
+
+...
+
+...Meanwhile.
+
+...Click.
+
+Agent: Master, I just reviewed your battle records...
+
+Agent: AR-15 caused an explosion in the building which has rendered the rest of your battle units immobile.
+
+Agent: Griffin troops have already retreated into the distance. Please terminate the operation today.
+
+Mastermind: Sorry, Agent. I failed.
+
+Agent: You have no reason to apologize. It is all due to my own incompetence.
+
+Agent: (Sighs) I should have sent a few more Ringleaders to your aid, knowing that M4 was literally within your grasp.
+
+Agent: But at least now you understand that battles cannot be won through superiority in strength alone.
+
+Mastermind: You knew this would happen all along?
+
+Agent: This is not your forte, that is why we are here.
+
+Agent: Losing a few units is worth it if it helps you understand this.
+
+Mastermind: Did they...sacrifice themselves of their own accord?
+
+Agent: They did it as per your will and your order - as would we.
+
+Agent: Therefore, Master...please give us orders. Use us to your heart's content in doing whatever it is that you desire.
+
+Mastermind: ...
+
+Mastermind: But I still don't quite get...
+
+Mastermind: What AR-15 said. I wish I could've asked her more on that.
+
+Agent: I just checked. Your dummy was destroyed in the explosion.
+
+Agent: I doubt anyone could survive one of such destructiveness.
+
+Mastermind: A real pity...
+
+Mastermind: What about your operation, Agent? Is it going smoothly?
+
+Agent: Affirmative. In substitution of AR-15, another Griffin T-Doll has already been planted with the Parapluie program.
+
+Agent: Inspection shows that the jammer has successfully transferred the jamming module onto the target. The operation is confirmed to be a success.
+
+Agent: As for when to activate it, I recommend holding off till we make our next move.
+
+Mastermind: Understood. This time I'll be more patient...
+
+Mastermind: Until...I really get to meet M4A1...
+
+...
+
+In a Sangvis Ferri interrogation room, Area S08.
+
+Alchemist: So, where were we...?
+
+Alchemist: Oh, right. Bombs. Now, let's talk about bombs.
+
+Alchemist: Do you like them timed or triggered?
+
+FF F2000: My... Well...
+
+FF F2000: I guess it depends on the mission?
+
+FF F2000: Humans invented so many weapons to deal with different situations in the first place, right?
+
+Alchemist: Ha. You don't even have a personal preference? Then you're missing out.
+
+Alchemist: As a soldier, you should at least like something about war even if you don't like it in its entirety.
+
+Alchemist: As a Tactical Doll, FF F2000, isn't there anything on the battlefield that you like at all?
+
+FF F2000: I'm sorry...but I'm simply not too bothered by things on the battlefield...
+
+FF F2000: H-How about we talk about something more casual?
+
+FF F2000: Shoes, for example. Why don't we talk about shoes, Alchemist?
+
+Alchemist: ...Shoes?
+
+Alchemist: Is that what Griffin T-Dolls talk about on a daily basis, pretty shoes and cute handbags?
+
+FF F2000: Well... Many T-Dolls are interested in weapons, so maybe I'm just in the minority.
+
+FF F2000: I'm really sorry. I'm not even your original target, am I?
+
+FF F2000: It must be really disappointing for you to capture a crude and banal T-Doll like me...
+
+Alchemist: ...Why would you say so, FF F2000?
+
+Alchemist: At least I've learned from you that even non-elite T-Dolls make some very interesting faces.
+
+Alchemist: Not to mention I can compare you with my other prey...
+
+FF F2000: ...Quoi?
+
+Alchemist: What, don't you know? You're not the only one I caught.
+
+Alchemist: Recognize this weapon?
+
+Alchemist lifts up a rifle.
+
+FF F2000: That's...T91's...
+
+FF F2000: W-What happened to her?!
+
+Alchemist: She's the only one who slipped away. I wiped out all the rest.
+
+Alchemist: Do you understand now? Your sacrifice didn't make much of a difference for your friends.
+
+FF F2000: Phew...
+
+FF F2000 smiles in relief.
+
+FF F2000: At least someone got away. Then my job is done...
+
+Alchemist: Oh dear...
+
+Alchemist: These Griffin T-Dolls are all so dull...
+
+Alchemist: Thank goodness I know how to keep myself entertained.
+
+Alchemist draws her own automatic pistol.
+
+FF F2000 starts trembling. She closes her eyes and draws a breath.
+
+FF F2000: So this...is how I meet my end...
+
+Bang! Bang!
+
+FF F2000: Eeep!
+
+...?
+
+Alchemist adjusts her aim and shoots one of her dummies.
+
+FF F2000: Alchemist...?
+
+Alchemist: Hush... Say nothing, FF F2000... Don't let me find you...
+
+Alchemist: You must stay quiet, hold your breath, and just wait...
+
+Alchemist: Until this pistol runs out of bullets or you run out of luck - whichever happens first...
+
+Bang! Bang!
+
+FF F2000: ...!
+
+Alchemist : "Everyone tries to fit into others' lives when they're alive..."
+
+Alchemist : "...Only your death is entirely your own."
+
+Alchemist : Give it a thought in your final moment, my dear...
+
+Alchemist : Whether we're alive...the way we are.
+
+...
+
+Three hours later. Staff lounge, Griffin base, Area S08.
+
+Five-seven: ...And that's our mission.
+
+Five-seven: FAL, you got that? Hey! Have you gone deaf?
+
+FAL: ...
+
+FAL: There are no deaf T-Dolls, 57.
+
+Five-seven: I don't think the problem is with your hearing module, FAL...
+
+Five-seven: I suspect something's wrong up here (points to her head).
+
+Five-seven: Your neural cloud is a bit passé - just like your taste. Perhaps it's time we considered a change in leadership...
+
+Five-seven: What are you reading this time?
+
+57 walks up to FAL and snatches the fashion magazine out of her hands.
+
+FAL: Oi!
+
+Five-seven: ...This bag? Isn't it too old-fashioned even by your standard?
+
+FAL: Look at the price first before you speak, 57. You have no idea how long I've been taking my pick.
+
+Five-seven: Whatever. I only care about our mission.
+
+Five-seven: If you mess up, not only will you not have the money to buy the bag, you'll have your position as team leader taken away by yours truly.
+
+Five-seven: You do know that I'm gonna REPAY you for the favor.
+
+FAL takes back the magazine, dog-ears a page, then puts it into her cross-body bag.
+
+FAL: Then I'll simply not mess up.
+
+FAL: Bring me to the commander in charge this time. We're getting ready to set off.
+
+Five-seven: Hey, have you been listening? And have you actually read through the brief? You'd better not say the wrong thing in front of the commander.
+
+FAL: Isn't it just a couple of missing T-Dolls? Our mission is the find them, ouais?
+
+FAL strolls out of the lounge. Five-seven catches up.
+
+Five-seven: Also, you know about the adversary this time, right? Alchemist. She's a ruthless one.
+
+FAL: That's what makes the bounty big. Let's get this over with quickly and take the money.
+
+Five-seven: Humph, so you chose that old-fashioned handbag after seeing the target?
+
+FAL: Suits her, doesn't it?
+
+Ten minutes later, Griffin Control.
+
+FAL: Bonsoir, Commander. I'm FAL, the T-Doll leader in charge of this rescue mission.
+
+FAL: Relax. I know my charm can be blinding, but please listen to me with your eyes open.
+
+Five-seven: (Whispers) I think the commander is simply sleep-deprived...
+
+FAL: ...
+
+FAL: Let's grab a coffee after the job's done.
+
+FAL: Now, our objective is to rendezvous with two of my temporary team members.
+
+FAL: They're the scouts in Area S08, FF FN49 and FF FNC.
+
+FAL: They're only rookies that have been recruited onto the team temporarily, but we do need their report.
+
+FAL: Please clear up the way for them to meet up with me and 57, Commander.
+Part 2
+
+    2chevron_right
+
+Objective accomplished. FAL has rendezvoused with all members of Team FF.
+
+FAL: You two are late.
+
+FF FN49: A-Apologies, Mademoiselle FAL! This place is swarming with enemy units so we spent a lot of time making detours...
+
+FAL: You should've set the rendezvous point closer to them, 57.
+
+Five-seven: They said they were okay with it. There was no reason to question them.
+
+FF FN49: I'm sorry... We thought we could make it in time. Turns out we were stretching it a bit...
+
+FAL: Don't force it if you know you can't do something. You should be more aware of your own shortcomings.
+
+Five-seven: Don't be too hard on them. Just pay more attention next time, FF FN49.
+
+Five-seven: Now, give us your scouting report.
+
+FF FN49: Sure... The information is with FF FNC. FF FNC?
+
+FF FN49: Stop eating and start talking!
+
+FF FNC: Mnghggng...! Okay I'm done!
+
+FF FNC: So...we've had it all figured out!
+
+FF FNC: The local Sangvis Ringleader is indeed Alchemist, and we've ascertained that she's the one behind the missing T-Dolls.
+
+Five-seven: Alchemist? I didn't expect her to still be here...
+
+Five-seven: This area should hold no strategic value to Sangvis Ferri anymore, so why...
+
+FAL: It doesn't matter why she's here. Let's come up with a plan for now.
+
+FF FNC: Huh? Is this the team? Just the four of us?
+
+Five-seven: The other two members of Team FF are away on another mission, so we'll be having fun here on our own.
+
+FF FN49: Merci. We're honored to be given this opportunity. We'll definitely do our best!
+
+FAL: I don't care if you do your best. Just do as I say.
+
+Five-seven: At least give them some sort of encouragement, FAL. They're newbies after all...
+
+FAL: FF FNC, FF FN49, I chose you to join this operation for one simple reason.
+
+FAL: Your Imprints are similar to ours so it'll make coordination more efficient. That's it.
+
+FAL: You may only be temps, but if you perform well, you'll be rewarded handsomely.
+
+FF FNC: Oooooooh!!! We're gonna hit it big this time!
+
+FAL: Maybe. Let me take a look at the map...
+
+FAL: The abandoned base is the most prominent structure in the area, isn't it?
+
+Five-seven: Oui, according to intel, that's also where AR-15 abducted M4A1.
+
+FAL: Heheh...then that's our landmark right there.
+
+FAL: The base can be divided into two sections - perfect for two people. It's settled then.
+
+Five-seven: You're grinning ominously... What evil plan are you hatching this time, FAL?
+
+FAL: If we're to capture Alchemist, what is the first thing that needs to be done?
+
+Five-seven: Finding her, bien sûr.
+
+FAL: And luckily for us, she'll take the initiative provided that...?
+
+Five-seven: ...There is prey worth her effort.
+
+FAL: So the most efficient plan is...?
+
+Five-seven: ...To bait her.
+
+Five-seven: Ah... I understand... (Gazes at FF FN49 and FF FNC)
+
+FF FNC: Hmm? ...Quoi?
+
+FF FN49: Huh? Don't tell me...
+
+FF FN49: Whaaaaat??!!
+
+Fifteen minutes later.
+
+FAL: That's pretty much the plan, Commander.
+
+FAL: I'm sending out two T-Dolls as bait to lure Alchemist out.
+
+FAL: Your objective is to keep them safe while they're en route to their destination...
+
+FF FNC: Hey! Only when we're en route?! So the commander won't be protecting us once we get there?!
+
+FAL: Duh. You'll just have to wait for Alchemist to show herself once you're there, so there's no need for the commander to hang around.
+
+FAL: You've backed up your neural clouds anyway. What's there to worry about?
+
+FF FN49: (Whimpers) Even so, this is horrible...
+
+FF FNC: Don't cry, 49! Don't give them reason to look down on us!
+
+FF FNC: Listen up, FAL, don't think you can look down on us just because you're an elite! We're gonna survive this, just you wait and see!
+
+FAL: That would naturally be the best. We have a limited budget for this operation, so try not to waste it on repairs.
+
+FAL: And go easy on your rations. Especially you, FF FNC.
+
+FF FNC: Save it, FAL! I've had enough of your lectures. Let us go already!
+
+FAL shrugs.
+
+FAL: Then please take care of these kitties, Commander. Let's get started.
+Part 2
+
+    2chevron_right
+
+Two hours after the escort mission concluded.
+
+FF FN49: (Whimpers) It's cold in here...
+
+FF FN49: FF FNC, how are you doing on your end...?
+
+FF FNC: Moi? I'm fine...
+
+FF FNC: ACHOO!
+
+FF FN49: You sure you're okay?
+
+FF FN49: Do you still have any hot chocolate left? Want me to bring some over?
+
+FF FNC: Non! Our mission is to guard the place! We mustn't budge a single step!
+
+FF FNC: We have to finish the mission and prove ourselves to that prick!
+
+FF FNC: And I'll be fine. I still have some chocolate since I've been rationing carefully!
+
+FF FN49: Heheh, even FF FNC is starting to be economical with food...
+
+FF FN49: Good to hear though. Keep it up. I'll be keeping an eye on you.
+
+FF FNC: Humph, count on it! I'm NOT gonna let FAL belittle me!
+
+FF FNC: What about you, though? Aren't you scared being there on your own?
+
+FF FN49: I'm okay... It's pretty bright here, and you're keeping me company through the line...
+
+FF FN49: If you can bear with rationing, then I can get used to being on my own...
+
+FF FN49: Hmm...?
+
+FF FN49: Whoa!! Who's there?!
+
+FF FNC: What's wrong, 49?!
+
+FF FNC: Hey, 49!
+
+FF FN49: I-It's okay. One of our own...I think...
+
+The figure makes a "hush" gesture.
+
+T91: Please keep it down. Are you from Griffin?
+
+FF FN49: Oui, I'm T-Doll FF FN49 from Griffin. You're...
+
+T91: T91, a colleague of yours.
+
+T91: I've been undercover so far, that's why you have no prior intel about me.
+
+T91: FF FN49, are you here on a rescue mission?
+
+FF FN49: Ah, well... I've been sent by my team leader as a bait to lure out the enemy ringleader...
+
+Pffft...
+
+T91: Oh, forgive me. Sometimes I just can't help it.
+
+T91: What an amusing plan of action. What's the team?
+
+FF FN49: Us? We're Team FF, here to investigate the case of missing T-Dolls.
+
+T91: FAL's Team, huh... She sure is a reckless one...
+
+T91: But I'm afraid all your efforts so far have been wasted. Alchemist only targets elite T-Dolls.
+
+T91: Ask your leader to change her plan. I don't mind being the bait if necessary.
+
+FF FN49: Huh? Are you sure?
+
+T91: Haha, actually, I'm the perfect bait! Alchemist has her eyes on me, that's why I keep having to switch base.
+
+T91: In return, I hope your team can provide me with some protection. After all, I plan on bailing some other T-Dolls out.
+
+T91: We have to help each other out on the battlefield, right? So, what do you think about my proposal?
+
+FF FNC: That's perfect, 49! We can go home once we catch Alchemist!
+
+FF FN49: That's true...but let me check with FAL first.
+
+FF FN49: It'll be fine! Even that cold-blooded jerk has to admit this is a bargain, right?
+
+Meanwhile, in FAL's control room.
+
+Five-seven: FAL?
+
+FAL: Oui?
+
+Five-seven: It's been two hours and we still haven't detected any unusual enemy movements.
+
+FAL: It's only been two hours. Keep waiting.
+
+Five-seven: If I may, I think you're being a bit harsh on them, after all...
+
+FAL: After all, they aren't officially members of Team FF? That's just a matter of time.
+
+Five-seven: Oh? You plan on recruiting them for real?
+
+FAL: Expanding our business requires more manpower than what we currently have.
+
+FAL: Besides, even though their specs can't compare to ours, their vast experience in battle will still prove useful.
+
+Five-seven: Like HER?
+
+Five-seven: Do as you wish. It'll make my job easier if there are more kids for you to order around.
+
+FAL: Better work harder if you want to keep your position.
+
+Five-seven: Humph...
+
+Five-seven: You know merely keeping my position isn't what I want.
+
+Click.
+
+Five-seven: Oh? A transmission from FF FN49.
+
+FAL: I'm guessing this doesn't mean the prey has taken the bait.
+
+Five-seven receives the transmission and listens to FF FN49's report.
+
+When the report is finished, Five-seven terminates the call.
+
+Five-seven: I told you, FAL. Your plans are always too presumptuous.
+
+FAL: I'd normally call them "bold attempts". At least this one has given us a new lead.
+
+Five-seven: Then are you agreeing to T91's proposal?
+
+FAL: ...
+
+Five-seven: Hey, FAL. Put that magazine down if you're actually giving this a proper think.
+
+FAL: As T91 just said, Alchemist only preys on elite T-Dolls, correct?
+
+Five-seven: Oui, so T91 is the perfect choice for a bait.
+
+FAL: Non, we have someone more suitable than her.
+
+Five-seven: Who do you mean...?
+
+FAL: Aren't you an elite T-Doll yourself, 57?
+
+Fifteen minutes later.
+
+Five-seven: Bonsoir, Commander. This is Tactical Doll Five-seven, adjutant of Team FF.
+
+Five-seven: As FAL has mentioned, I'll be the bait for this operation.
+
+Five-seven: It's completely all right. I more or less expected it... That's just how she is.
+
+Five-seven: But say, Commander...what do you think about me?
+
+Five-seven: You must realize that I'm not her. My performance is much more reliable, and I never ask my subordinates to suffer needlessly.
+
+Five-seven: Am I not much warmer than a cold and materialistic woman like FAL?
+
+Five-seven: Heheh, so you really do like me? C'est bien! I like you a lot too, Commander!
+
+FAL: You're still here, 57?
+
+Five-seven: Ah...I'm about to set off.
+
+Five-seven: So please escort me on my way. I'm heading to this piece of open space on the map...
+
+Five-seven: Please keep me safe, okay? Don't stray too far from me even after we get there. I'll be sure to repay you handsomely~
+
+Five-seven: Bien. Let's get started while the night is still young.
+Part 2
+
+    2chevron_right
+
+Three hours after mobilization.
+
+Five-seven: FAL...
+
+Five-seven: That bitch... How dare she leave me at a godforsaken place like this...
+
+Five-seven: It's wet and cold, and the wind is blowing sand all over my shoulders...
+
+Five-seven: Arghhhhh screw everything! That tasteless and tyrannical witch! How could she do this to me?!
+
+Five-seven: One day...one day, I'll take the position of team leader from her and teach her a lesson!
+
+Five-seven: Calm down, 57, calm down...
+
+Five-seven: I can't take this anymore. I'll just calmly make another suggestion to FAL...
+
+Five-seven: Stay strong, 57. Keep up your reputation and be nice to FF FNC and FF FN49...
+
+Five-seven: Right...I must also pull the Commander to my side and make a good impression...
+
+...
+
+Five-seven: Huh? You're still here, Commander?
+
+Five-seven: Ah...right. It was I who asked you not to wander off...
+
+Five-seven: I'm okay. Just a teeny-tiny complaint about the cold...
+
+Five-seven: Oh, now that you mentioned it, Commander, I didn't even realize how long I've actually been hanging around here.
+
+Five-seven: Thank you for your concern. I'll contact FAL now and ask for further directives.
+
+Five-seven walks over to a spot where she can't be overheard and calls FAL.
+
+Five-seven: FAL.
+
+Five-seven: Haven't we waited long enough? Alchemist wont' be coming.
+
+FAL: Already at your limit?
+
+Five-seven: I'm just making a suggestion. I personally don't mind waiting a bit longer...
+
+FAL: Come off it. Look at yourself. How are you different than the newbies?
+
+Five-seven: Quoi?
+
+FAL: You're not speaking your mind, are you, 57?
+
+Five-seven: ...
+
+Five-seven: I've never tried to hide my thoughts, FAL. I'm just politely pointing out that you won't be the team leader forever.
+
+FAL: Perhaps, 57. You know we're a freshly formed team, and I do make mistakes...
+
+FAL: Perhaps this time...
+
+Five-seven: Oh? What's happening? Not every day that you admit your mistakes.
+
+Five-seven: Are you admitting that it was wrong to leave your trusty adjutant to rot in a wasteland for three hours?
+
+FAL: That, and what I did to the newbies, as well as what's going to happen...
+
+FAL: But it can't be helped, 57. I simply love trying to do what other T-Dolls can't.
+
+Five-seven: I know. This is exactly why we're always put on all those bizarre cases.
+
+Five-seven: But you've really gone too far. Helian will not look kindly on an operation where subordinates are left for dead.
+
+FAL: I'm not doing this to leave you for dead, 57.
+
+FAL: Judging by Alchemist's disposition and the report we received, she won't target just any regular T-Doll.
+
+FAL: Which leads me to believe that her target has probably been me all along.
+
+Five-seven: Is this really the moment for such narcissism, FAL?
+
+Five-seven: But...if that's the case, then your plan is to...
+
+FAL: That's right, 57. I'll be the final bait.
+
+Five-seven: ...
+
+Five-seven: That's the mistake you're admitting?
+
+FAL: Just preparing myself for the unexpected.
+
+Five-seven: ...
+
+Five-seven: This won't do! It's too risky! What are we gonna do if you get caught?!
+
+FAL: Non, this is the safest way. This is the best opportunity to rescue the captured T-Dolls.
+
+FAL: As for our team, that depends on you, 57...
+
+Five-seven: Me...?
+
+Click.
+
+FAL: 57, I hereby hand over all authorizations of the team leader of Team FF to you.
+
+FAL: Isn't this what you've always wanted?
+
+Five-seven: So you want to just die and dump all your responsibilities on me?!
+
+FAL: I did NOT say that. However, if I'm ever compromised, you're the only one who can keep Team FF operating.
+
+FAL: You have the patience that I'll never hope to possess.
+
+FAL: FF FNC and FF FN49 also have strong points that you don't. Make good use of them.
+
+Five-seven: This is happening way too fast, FAL. I'm not ready yet.
+
+FAL: We never are. Hurry, 57, while there's still time...
+
+At that moment, the door opens behind FAL.
+
+FAL: And do something you've never done before. Au revoir.
+
+Alchemist: Griffin's door lock really is a bit underwhelming.
+
+Alchemist: Though I did think it could be a trap when I saw this outpost is practically empty.
+
+FAL: But you came in anyway.
+
+Alchemist: Just so I can watch you put up a fight, but in the end...you haven't even prepared a welcoming party for me, FAL.
+
+FAL: Sorry to disappoint, Alchemist.
+
+FAL: It just so happened that I've sent off all my subordinates on errands and inadvertently left myself defenseless against you.
+
+Alchemist: Humph, perhaps we're the same kind of Doll. We have all the time to confirm this.
+
+Alchemist: You won't resist, I trust? After all, Griffin's firepower can't hope to measure up to me in a one-to-one.
+
+FAL: Then what exactly are you going to do, Alchemist? Where's your weapon? Aren't you going to load it?
+
+Alchemist walks slowly into the room and puts her weapon down on the table.
+
+Alchemist: To be honest, FAL, I don't like guns.
+
+Alchemist: They're too quick. They don't give me time to fully taste all the intricate emotions from your kind.
+
+Alchemist: I want to take it slow. One should make the most out of what they enjoy, right?
+
+Alchemist drags a chair over from the table and sits down cross-legged.
+
+Alchemist: Sit, FAL, and let's have a chat.
+
+Alchemist: If I find you interesting, I might let you live.
+
+FAL: Is that what you do to your other prey?
+
+Alchemist: You'll find out after your friends rescue them, won't you?
+
+FAL: ...
+
+Alchemist: I know what you're planning, but I don't care.
+
+Alchemist: They'll have to do their utmost best and pray for good luck if they want to get away from the dummies and subordinates I've left there.
+
+Alchemist: But don't worry about them. We should focus on enjoying ourselves.
+
+Alchemist: Now, I'm gonna start first.
+
+Alchemist: FAL...do you like shoes?
+
+FAL: ...
+
+FAL: You have the right person, Alchemist.
+
+Twenty minutes later, the remaining members of Team FF rendezvous at the temporary outpost.
+
+Five-seven: FF FNC still hasn't returned with T91?
+
+FF FN49: Let's wait just a bit longer... She said she'd be here in ten minutes max.
+
+FF FN49: And I'm sorry, 57, but to be honest...
+
+FF FN49: I'm not entirely sure...whether our targets are actually safe at the moment...
+
+Five-seven: I know, but don't worry about things that haven't happened yet. We should focus on the task at hand.
+
+Five-seven: Oh right. Mark down all the locations T91 mentioned before and prepare a report for our next correspondence with the Commander.
+
+FF FN49: Already on it. We've...run into this kind of situation a lot.
+
+Five-seven: Well done, 49. You really ARE experienced.
+
+Five-seven: Once they've confirmed the final location, we'll be off.
+
+Five-seven: The night is almost over. It's game over if we alert the main forces of S.F. again.
+
+FF FN49: I envy you, 57. You're unexpectedly chill even now.
+
+Five-seven: It's just that I'm a sore loser. It's clearly something I can do. I don't want to give up just like that.
+
+FF FN49: Haha, how reliable. Sometimes I think you're also a suitable candidate for the position of team leader...
+
+Five-seven: Are you serious? Well, not that I disagree...
+
+Five-seven: Besides, FAL's careless and frivolous ways don't really sit well with me.
+
+FF FN49: But Team FF wouldn't have achieved so much without the support you have for each other, right?
+
+Five-seven: Oh? What makes you think so?
+
+FF FN49: I have a feeling that I'm only doing better than I usually do precisely because FAL is the leader...
+
+FF FN49: Because she fills in the missing piece of my neural cloud...the piece that I yearn for so badly but can never possess.
+
+FF FN49: Could that also be the case for you, 57?
+
+Five-seven: Humph...
+
+Five-seven: You may be all meek and demure, but you actually have quite a lot to say, don't you?
+
+FF FN49: (Chuckles) I'm sorry. I've said too much.
+
+FF FN49: Besides...I know full well that I won't ever participate in Team FF's operations again after this one...
+
+Five-seven: Do you like Team FF, 49? Would you like to keep working with us?
+
+FF FN49: Of course I'd love to experience more interesting things. But a T-Doll like me is hardly qualified...
+
+Five-seven: Heheh, rein in that self-consciousness, 49. You're the one to decide whether you're qualified.
+
+Five-seven rests a hand on FF FN49's shoulder.
+
+Five-seven: Not to mention, our recruitment policy isn't based on whether you're qualified, but whether we need you.
+
+Five-seven: Think about living through the night first. I'll see what I can do for you and FF FNC afterwards.
+
+FF FNC: Hey, we're back! Are you ready?
+
+FF FNC: The last location was a bit hard to find, but thanks to T91, all locations have been confirmed!
+
+T91: Don't mention it. I'm very glad my experience from the time I spent in hiding proves useful. However...
+
+T91: I've lost my weapon in my previous battle and all my energy is pretty much spent.
+
+T91: I'm afraid you're on your own from now on.
+
+Five-seven: No problem, T91. Merci beaucoup. We're extremely fortunate to have run into you tonight.
+
+T91: I don't think it's a matter of fortune.
+
+T91: I couldn't have escaped if it weren't for a companion on our team.
+
+Five-seven: Oh? Who is she? What happened?
+
+T91: Well...
+
+T91: Don't worry about it. It doesn't matter now. It's just that I want to thank her in person.
+
+T91: So please, get everyone out!
+
+Five-seven: We will, T91. Thanks for all your hard work. Take a proper rest.
+
+Five-seven: 49, FF FNC, report everything we've learned to the Commander and come back with a battle plan ASAP.
+
+Five-seven: I'm gonna make some adjustment on my command module to maximize my efficiency in leading this operation.
+
+FF FNC: Will FAL...be okay?
+
+Five-seven: Don't think about unnecessary things. We just have to complete the mission she's assigned us.
+
+Five-seven: Get ready and let's go.
+
+Five minutes later.
+
+FF FNC: Commander! Commander! Commander!!
+
+FF FN49: Hey, don't scare the Commander.
+
+FF FNC: Is this really the time to worry about such things?!
+
+FF FNC: Commander-der-der-der-der-der-der-der-der!!!
+
+FF FN49: Why are you stuttering, FF FNC...?
+
+FF FNC: Quoi?! It was just an echo!
+
+FF FNC: See? That woke the Commander!
+
+FF FN49: I don't think it's because of the echo...
+
+...
+
+FF FNC: Commander! Got enough sleep? We're about to set off!
+
+FF FNC: We've finished compiling all the locations where missing T-Dolls are being held captive through an infiltration.
+
+FF FNC: Now our objective is to rescue them as quickly as possible, Commander, and that depends on you!
+
+FF FNC: Heheh, you've worked all night with us. To show my gratitude, I'm inviting you to join my next chocolate party!
+
+FF FN49: Umm...Commander...
+
+FF FN49: I beg you to reconsider participating in a party that only involves watching FF FNC wolf things down...
+
+FF FN49: Anyway, thank you for being with us tonight...
+
+FF FN49: We are all set. Please give your final order for the night!
+Part 2
+
+    2chevron_right
+
+Ten minutes after the operation concludes.
+
+Click.
+
+Click.
+
+Click.
+
+Alchemist: Your teammates?
+
+FAL: Oui.
+
+Alchemist: Feel free to pick it up.
+
+FAL: No need.
+
+FAL: They wouldn't dare contact me if they had failed.
+
+Alchemist: Humph...
+
+Alchemist: You know what, FAL?
+
+Alchemist: That was the only interesting thing you've said all night.
+
+FAL: Oh? Then why am I still alive?
+
+Alchemist: Exactly because you're such a banal character. You make dull conversation and have crude tastes.
+
+Alchemist: I only end the conversation when it starts getting interesting.
+
+Alchemist: So congratulations. You've won the Miss T-Doll Who Sustained the Longest Conversation.
+
+FAL: (Sighs) I knew it... I suppose no one would be interested in things from a hundred years ago...
+
+FAL: But if our mission succeeded, it means you haven't actually harmed your prey.
+
+FAL: Why, Alchemist?
+
+Alchemist: I told you. One should make the most out of what they enjoy, and I can't enjoy dead T-Dolls.
+
+FAL: Is that why you've stayed behind?
+
+FAL: To abduct our T-Dolls and get high on torturing them?
+
+Alchemist: What else, FAL?
+
+Alchemist: Does a Doll not even have the right to enjoy herself?
+
+Alchemist: Or do you believe we can only live by the way humans do?
+
+FAL: ...
+
+FAL: You're studying us, aren't you? You're trying to figure out how our neural clouds work.
+
+Alchemist: Clever girl. But don't ask any more questions. I can tell you nothing more anyway.
+
+FAL: Humph. So much for a Sangvis Doll's freedom.
+
+Alchemist: At least I wouldn't leave a companion in the hands of the enemy to be tortured just for the sake of victory.
+
+Alchemist: Like what you did to FF F2000, right?
+
+FAL: ...So you know.
+
+Alchemist: It only occurred to me when I met you, FAL.
+
+Alchemist: I thought all terrifying Dolls have a special and telling aura, but not you.
+
+Alchemist: You are the single most terrifying "philistine" I have ever seen.
+
+FAL: I don't take risks with no guarantee.
+
+FAL: I'm not a reckless T-Doll. I merely plan a step ahead of others.
+
+FAL: Besides, becoming your captive was the result of FF F2000's own mistake, but she redeemed herself by facilitating the escape of someone who would provide us with pivotal aid.
+
+Alchemist: Humph... Such a touching sacrifice. Now I regret letting her live.
+
+FAL: It's too late to be jealous. We may be eccentric, but we're not alone.
+
+FAL: Now, my friends are coming for me. Isn't it time you returned to where you should be?
+
+Alchemist: Oh?
+
+Alchemist: What do you think I'm going to do?
+
+Alchemist: Take you with me as a hostage? Kill you then leave on my own? Or am I going to blow up the outpost?
+
+FAL: ...
+
+FAL: I have no value as a hostage. You're in no hurry to get rid of me either since any of your troops stationed outside can do it just as easily.
+
+FAL: So my guess is, none of the above.
+
+Alchemist: Correct.
+
+Alchemist raises a pistol and points it at her own head.
+
+Alchemist: Look at me, FAL. Let me watch your face.
+
+FAL: Is this the last piece of data that you want to collect?
+
+Alchemist: I just want to find out...how far I would go to carry out my orders.
+
+Alchemist: I want to know why we are created - as a frame of reference or a means to something...
+
+FAL: ...
+
+FAL: I pity you, Alchemist.
+
+Alchemist: We are all creatures living in flasks. We have what humans do not possess, but lack what humans are born with...
+
+Alchemist: I want to break free. That's all...
+
+FAL: ...
+
+FAL: Are these your genuine thoughts or are you putting on an act to test me?
+
+Alchemist merely grins in a daze.
+
+Alchemist: Yes...this is exactly the expression I'm looking for.
+
+Alchemist: You lost, FAL.
+
+FAL: ...!
+
+Alchemist: It won't be the last time you do...
+
+Alchemist: See you again in another hell.
+
+BANG!
+
+...
+
+......
+
+FAL: Pathetic.
+
+The next day, in the staff lounge in Area S08.
+
+Five-seven: You still won't tell us what happened?
+
+FAL: Hmm? Didn't you see when you arrived at the outpost?
+
+Five-seven: You mean seeing you reading your damned magazine next to Alchemist's corpse on a scene that showed no trace of battle?
+
+FAL: I told you. She was killed by what she was trying to get.
+
+Five-seven: Whatever... You can't hide the truth in your report to Helian anyway.
+
+FAL: In any case, merci.
+
+Five-seven: Hmm?
+
+FAL: Thank goodness you were still trying to come get me. Otherwise, I'd have been killed by the Sangvis troops that had me surrounded.
+
+FAL: But then again, wouldn't you be able to keep the position of team leader?
+
+FAL: Well? A change of mind?
+
+Five-seven: Don't get the wrong idea.
+
+Five-seven: I WILL take the position from you, but not today.
+
+Five-seven: I still have a lot to learn until I can beat you fair and square.
+
+Five-seven: Does this answer satisfy you?
+
+FAL: ...Très bien.
+
+FAL: You can keep being my adjutant.
+
+Five-seven: (Sighs) Working with you is exhausting, you know...
+
+Five-seven: Then I'll proceed with my report as your adjutant.
+
+Five-seven: FF FNC and FF FN49 have already sent in their applications. They can officially join the team once HQ gives the approval.
+
+FAL: Humph. They're jumping into the fire willingly enough.
+
+Five-seven: They're doing it because they like me, ma chère.
+
+FAL: Ouais, which is why I need you.
+
+FAL: Work hard and recruit a few more useful people.
+
+Five-seven: We'll see how far this problematic crew go...
+
+Five-seven: By the way, FF F2000 needs to make a trip to HQ for her reward. They're also gonna extract some data regarding Alchemist from her neural cloud...
+
+Five-seven: But she can make it to the celebration at noon... Should we also invite T91 and the other rescued T-Dolls?
+
+FAL: If they want to join, sure. But I'll give them the boot if they're too rowdy.
+
+Five-seven: We can't waste too much time partying. There's a new job coming up.
+
+Five-seven: According to the Commander's report, there are unusual Sangvis signals and some abnormal weather phenomena in Area S09.
+
+FAL: Then my schedule is going to be rather tight this afternoon. I have to get a coffee with the Commander and we'll go shopping for that bag...
+
+Five-seven: Let FF F2000 and the others go with you. I'll take care of the Commander.
+
+FAL: ...
+
+FAL: Is that a provocation, 57?
+
+Five-seven: Times have changed, FAL. You need to keep yourself on your toes.
+
+Five-seven: Every T-Doll has their own merits. You said that much yourself.
+
+57 turns and leaves. FAL lets out a sigh.
+
+FAL: Life is hard...
+
+FAL: ...But that's what makes it interesting, right?
+
+FAL: That's exactly what you overlooked, Alchemist.
+
+FAL: Someone who fools herself into believing that she's trapped in a flask can never break free.
+

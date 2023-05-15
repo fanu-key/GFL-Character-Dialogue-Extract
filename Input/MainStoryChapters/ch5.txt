@@ -1,0 +1,1744 @@
+In a Griffin secret base...
+
+Helian: Welcome, Commander.
+
+Helian: I believe this is the first time we meet in person. Glad to see you're punctual.
+
+Helian: ...Actually, you've come a bit too early. Mr. Kryuger is still attending to some other business.
+
+Helian: Now let me fill you in on why we've called you in this time.
+
+Helian: Persica has pieced together a few keywords from the intel acquired from Safe House 3 by the AR Team.
+
+Helian: At this stage, we can safely assume that Sangvis Ferri is plotting to initiate an unknown plan codenamed 'Parapluie'.
+
+Helian: No matter how this plan is implemented, it will undoubtedly pose an immense threat to Griffin.
+
+Helian: Which is why Mr. Kryuger has decided to call an emergency meeting here at our secret base to discuss countermeasures with several field commanders.
+
+Helian: Commander, this base isn't very far from your control center so you can continue to manage your troops here.
+
+Helian: You may participate in an operation drill while we wait for Mr. Kryuger and the others to assemble.
+
+Helian: Test the current efficiency of our T-Dolls and update the HQ database.
+Part 2
+
+    2chevron_right
+
+Drill concluded. A T-Doll stationed at HQ comes over...
+
+MP40: Greetings, Commander. The drill went smoothly. Thank you very much for your cooperation.
+
+MP40: Miss Helian left a message, Please head over to Control Room 3 and wait for the meeting to start.
+
+MP40 led me to Control Room 3.
+
+I took a look around. The operation system seems to be of the same model as Area S09.
+
+At that moment...
+
+Click.
+
+M4A1: M4A1 calling Commander. Commander, do you copy?
+
+M4A1: Sorry, but we have an emergency to report.
+
+M4A1: From the information we acquired while we were patroling the area, the secret base is not safe right now...
+
+Statics...
+
+There seems to be some signal interference.
+
+M4A1: We are rush...to your current location...Please...before we...
+
+M4A1: ? ...mander...What...noise...
+
+M4A1: Did...hear...?
+
+M4A1: Comman...
+
+...!!
+
+Suddenly, the sound of an explosion fills the air. Sweltering heat and deafening tremor crash into the room.
+
+M4A1: ...Commander, what hap...?!
+
+Something hit me in the back of the head. The scene of chaos starts spinning wildly before my eyes...
+
+M4A1: I heard...
+
+M4A1: Comman...Please respo...
+
+M4A1: Commander...?
+
+M4A1: ...!
+
+I gradually lose consciousness in the midst of M4A1's repeated cries...
+
+...
+
+My ears start picking up faint sounds of explosions, and...
+
+??: Enough sleep, rookie.
+
+...
+
+This man has been waiting for me.
+
+Kryuger: You're in luck.
+
+Kryuger: Only a rifle fell on you, not the entire arsenal.
+
+Sangvis forces are pouring into the base behind him...
+
+Kryuger: The name's Kryuger. Executive Officer of Griffin.
+
+Kryuger: I'm sure you've seen this face on our newsletters so often you must be sick of it.
+
+Kryuger: Can you still fight?
+
+In the midst of the barrage, Kryuger hands me his other sidearm.
+
+Kryuger: We've been ambushed, Commander. Ensure your own safety first.
+
+Kryuger: Then mount a resistance to fight off Sangvis advancement and make sure reinforcements are in position.
+
+His last sentence fades into silence as the man's figure disappears through the door.
+
+...I look back at the ravished control room.
+
+Limp towards the control panel and inspect it.
+
+I'm in luck. Something fell on me, but not the entire command system.
+
+...Ready to deploy troops and mount a counterattack.
+Part 2
+
+    2chevron_right
+
+...
+
+As the alarm dies down and the sound of crossfires fade into the distance, Griffin seems to have regained the upper hand.
+
+I leave the room that can come crashing down any moment and hurry towards the hall where T-Dolls have assembled.
+
+Right then, a voice calls out from behind me...
+
+M4A1: ...Oh! Commander!
+
+M4A1: Commander! Are you okay?!
+
+M4A1: I...I was very worried about you...
+
+M4A1: Thank goodness you are okay.
+
+Kryuger: You get along pretty well with M4A1 here, Commander. Looks like you've been taking very good care of her.
+
+M4A1: ...
+
+Kryuger: But right now, we have something to discuss, you and I.
+
+M4A1: Yes, sir...
+
+M4A1: Commander, I will be on stand-by along with the other members of the AR Team.
+
+: ...M4A1 takes her leave after giving a salute. She looks back every once in a while.
+
+Kryuger: You know, she's a special T-Doll, Commander.
+
+Kryuger: Keep her safe. She will show what she's worth one day.
+
+Kryuger: Now back to business. You did well just now, but Sangvis Ferri will press forward again any minute.
+
+Kryuger: This meeting was absolutely confidential, even the base was a total secret.
+
+Kryuger: However, Sangvis Ferri was able to launch such a precise attack against us, so intel must have been leaked from within our ranks.
+
+Kryuger: I'll be putting Helian on this case immediately. Come with me, Commander. I have a new mission for you.
+
+5 minutes later, where T-Dolls are on stand-by...
+
+MP40: No shoving, please. Let T-Dolls carrying small arms pass through first.
+
+MP40: Wait! You over there! Is that FFC?
+
+MP40: Please finish your ice cream before you join the queue. Don't drip it on someone else!
+
+MP40: And you do not pass as a small arm! Please don't shove ahead just because you're short!
+
+ST AR-15: ...
+
+ST AR-15: Everyone else is busy as hell, but still no orders for us?
+
+M16A1: You heard M4. The commander went with Mr. Kryuger, so we'll have a big job coming soon.
+
+M4A1: The Sangvis Ringleader has not shown herself. It is highly possible that there will be a second raid.
+
+M4 SOPMOD II: Dammit! Can't she just come out for a showdown?!
+
+M16A1: Hmm... It's uncommon for Sangvis Ferri to spring an attack so suddenly. Our next mission is probably gonna be real tricky.
+
+ST AR-15: Humph, that's perfect, isn't it? A chance to settle the score.
+
+ST AR-15: ...Time...is running out.
+
+M4 SOPMOD II: ...?
+
+Griffin temporary control room.
+
+Helian: The result of the preliminary investigation is out, Mr. Kryuger.
+
+Helian: But... (Looks sideways in this direction)
+
+Kryuger: Go on, Helian.
+
+Helian: Yes, sir. We have traced the leak to an abandoned command post in the vicinity of HQ.
+
+Helian: It is certain this is where the Sangvis Ringleader receives intel and directs the attack.
+
+Helian: We have already pinpointed its coordinates. We can raid it anytime.
+
+Kryuger: Now you know what you have to do.
+
+Kryuger: Mount an immediate raid on this command post. Capture or destroy the Sangvis Ringleader.
+Part 2
+
+    2chevron_right
+
+Arrived at the designated zone.
+
+M16A1: (Gestures) ...Prepare to blast our way through.
+
+M16A1: 3, 2, 1...
+
+M16A1: ...Now!
+
+Boom!!
+
+...
+
+M4 SOPMOD II: What the... It's empty!
+
+ST AR-15: Quiet. Watch your surroundings.
+
+M4A1: No abnormal signals detected. All clear.
+
+M16A1: Humph. Judging by the tracks on the floor, the Ringleader gave us the slip only just now.
+
+??: 30 minutes ago, to be exact.
+
+M4A1: ...!
+
+Destroyer: Destroyer, Sangvis Ferri Manufacture.
+
+Destroyer: Nice to see you, I guess? Even though it's only a call.
+
+Destroyer: Still, I must say I was taken aback by how fast you move.
+
+Destroyer: I was going to take my plan further here while things are a mess for you. I certainly didn't expect you to discover my coordinates.
+
+Destroyer: This human named Kryuger is quick on his feet.
+
+M4A1: Griffin is on full alert now. You can no longer acquire any intel from us.
+
+Destroyer: Humph, really? That doesn't really matter to me.
+
+ST AR-15: You guys...are after something else?
+
+Destroyer: You can't figure it out with your wooden brains, dumbass Griffin T-Dolls.
+
+Destroyer: Just you watch. You won't be able to do a thing.
+
+M16A1: She left the channel. Can you trace her signal?
+
+M4A1: Barely, but there are a lot of encrypted data that cannot be cracked right away.
+
+M4 SOPMOD II: Good thing she's still close. That idiot doesn't know we're actually tracing her.
+
+ST AR-15: Let's retreat first. We need to head back to HQ and report this ASAP.
+
+M4 SOPMOD II: AR-15...You seem pretty fired up about this mission.
+
+ST AR-15: Tch. I've always been a pragmatist. Any problem with that?
+
+ST AR-15: Let's get going. We don't have much time.
+
+Helian: We have received your report, Commander. Mr. Kryuger is very happy with your performance.
+
+Helian: Looks like this ringleader won't go very far. I'll send someone to find her whereabouts.
+
+Helian: In the meantime, we have another mission for you.
+
+Helian: We may have taken back the initiative, but some of our own are still trapped among Sangvis forces.
+
+Helian: Please give them a hand, Commander. Make sure more of them can retreat.
+Part 2
+
+    2chevron_right
+
+Combat over.
+
+IDW: Oh! Safe at last!
+
+IDW: Thank you so much, Master of someone else!
+
+M16A1: Commander, this is the last batch, right?
+
+ST AR-15: The meeting's been canceled. Can't we go home yet?
+
+M4A1: HQ is still screening for the T-Doll suspected of leaking information, so all of us have to be on stand-by.
+
+M4 SOPMOD II: Seriously! We're T-Dolls! As if we'd tell the enemy our secrets!
+
+M4A1: It is an order. Just put up with it for a while.
+
+ST AR-15: What a drag. I'm taking a break. They didn't say we have to standby right here.
+
+M4A1: ...
+
+M4A1: Commander, AR-15...
+
+Helian: A moment, please.
+
+ST AR-15: ...
+
+Helian: I have a very important announcement to make.
+
+Helian: After the screening procedure, we have discovered a T-Doll that has been processing an abnormal amount of information.
+
+Helian: The T-Doll is, in fact, a member of the AR Team.
+
+AR Team: ...!
+
+Helian: Tactical Doll AR-15 of the AR Team, when scanning our database, we found a substantial anomaly in the server traffic you generated while uploading information.
+
+Helian: We are shutting down your communications module. Security officers will now escort you to the confinement room for further screening.
+
+...
+
+ST AR-15: You mean...me...?
+
+M16A1: What...
+
+M4 SOPMOD II: This can't be! There must be some mistake!
+
+ST AR-15: Calm down, SOP-II. You're just a T-Doll.
+
+ST AR-15: We can't disobey orders no matter how loud you yell.
+
+M4 SOPMOD II: But...
+
+ST AR-15: It's just a screening. They're not saying I'm the culprit for sure. Focus on doing your job first.
+
+M4A1: AR-15, we believe you...
+
+ST AR-15: ...
+
+ST AR-15: I know. Don't mess up the mission before I come back.
+
+...AR-15 leaves with Helian.
+
+M4 SOPMOD II: AR-15...
+
+M16A1: Stop worrying about it. It doesn't help the situation. We still have things to do.
+
+M16A1: C'mon. AR-15 wouldn't want us to be so worried.
+
+M4A1: ...
+
+M4A1: How can this be...?
+
+Back to the temporary control room.
+
+Helian: Commander, you must be very concerned about AR-15's situation.
+
+Helian: We are now certain that she has been planted with a malicious Sangvis program before she regrouped with the team.
+
+Helian: We have shut down her communications module to cut off all external data transfers.
+
+Helian: We are still screening for identifications in her program to root out the malicious codes.
+
+Helian: Don't worry. Considering how valuable she is, we have no plans of disarming her.
+
+Helian: Instead, we'll be using her to determine the source of her virus and prevent this from happening again.
+
+Helian: Please rest assured and focus on completing Griffin's mission before she returns.
+
+Helian: Thanks to you and the AR Team, we have another chance of locating Destroyer.
+
+Helian: But just in case, we need more sources of information to confirm her coordinates.
+
+Helian: Commander, please lead your troops into Sangvis territory to collect more information.
+Part 2
+
+    2chevron_right
+
+Provided cover for troops entering Sangvis territory.
+
+M4A1: Calling Commander. The AR Team has reached our destination under cover.
+
+M4A1: We have almost finished collecting the information. Requesting further directives...
+
+M4 SOPMOD II: ...
+
+M16A1: Pull yourself together, SOP-II. You're a T-Doll.
+
+M4 SOPMOD II: I can't precisely because I'm a T-Doll...
+
+M4 SOPMOD II: We're only tools made for fighting, so why do we have modules that simulate emotions?
+
+M4 SOPMOD II: All we have to do...is point at our enemies and pull the trigger...
+
+M16A1: Who knows.
+
+M16A1: Perhaps it wasn't like this...in the beginning.
+
+M4A1: AR Team, the commander says we can retreat once we are done collecting the information.
+
+M16A1: Got it. Let's go, SOP-II.
+
+M4 SOPMOD II: Yeah...
+
+M4A1: SOP-II, are you okay?
+
+M4 SOPMOD II: I...don't know...
+
+M4 SOPMOD II: We only got back together...after going through so much...
+
+M4A1: The commander told me AR-15 will not be disarmed. She will be back very soon.
+
+M16A1: That's good. Or the next time we see her would be either at the cafe or the coal mines.
+
+M4A1: She may be able to return by the time we get back this time.
+
+M4 SOPMOD II: Hmm..
+
+M4 SOPMOD II: Then let's...
+
+AR Team: ...!!
+
+M16A1: ...It's...an emergency broadcast!
+
+Helian: Attention, all Griffin field commanders and T-Doll troops.
+
+Helian: This is an urgent announcement.
+
+M4A1: ...?
+
+Helian: Tactical Doll AR-15 of the AR Team...
+
+Helian: Disobeyed the orders from Griffin High Command and left the base without permission.
+
+M16A1: ...?!
+
+Helian: Would all field commanders and T-Dolls please restrain her on sight.
+
+M4 SOPMOD II: AR-15...?
+
+Helian: As the unit is suspected of carrying malware, if the situation calls for it...
+
+Helian: ...You have permission to damage Tactical Doll AR-15.
+
+M4A1: ...
+
+M4A1: Why... AR-15...
+
+M4A1: What on earth are you thinking...
+
+Helian: Repeat.
+
+Helian: Tactical Doll AR-15 of the AR Team disobeyed the order of returning to the confinement room five minutes ago.
+
+Helian: She broke free of her restraints and escaped from the vicinity of the base. Her whereabouts are currently unknown.
+
+Helian: This T-Doll, suspected of being infected and controlled by Sangvis virus, is highly dangerous.
+
+Helian: On top of that, her communications module has been deactivated, so we are unable to trace her electronically.
+
+Helian: All field commanders listening to this broadcast, please launch an immediate search for this T-Doll.
+
+Helian: The moment you spot her, inform High Command and put her under control as soon as possible.
+
+Helian: If the situation calls for it, you have permission to attack or destroy her.
+
+Griffin temporary control room.
+
+M4A1: Commander, did you hear the broadcast?
+
+M4A1: What...do we do now?
+
+M4A1: We will carry out your order, Commander...whatever it is.
+
+M4A1: So...please do not hesitate. Issue your commands.
+
+...
+
+M16A1: M4, what did the commander say?
+
+M4A1: No matter what, find AR-15 first.
+
+M16A1: True that. SOP-II, tell her what you just found out.
+
+M4 SOPMOD II: Okay... I've located Destroyer's newest coordinates using the information we collected.
+
+M4 SOPMOD II: Since we haven't reported our findings yet, we can get there before anyone else.
+
+M4A1: Destroyer? What good does it do to locate her?
+
+M16A1: M4, do you think AR-15 is really under Sangvis control?
+
+M16A1: Don't you think there's a possibility that she fled of her own accord because there is something she absolutely has to do...
+
+M4A1: ...AR-15 wants to find Destroyer and...avenge herself?
+
+M4A1: But...as an T-Doll, how could AR-15 disobey Griffin's orders for her own desires?
+
+M16A1: M4...
+
+M16A1: I know AR-15 better than you do. Or should I say...I know the AR Team better than you do. By far.
+
+M16A1: One day you'll understand, but not today.
+
+M4 SOPMOD II: Commander, give the order! Let's break through Sangvis' last defense and go get Destroyer and AR-15!
+Part 2
+
+    2chevron_right
+
+In a control center abandoned by Griffin, the last sanctum for the Sangvis unit Destroyer.
+
+Destroyer: ...You hear that, Dreamer?! Griffin is moving much more quickly than expected!
+
+Dreamer: ...
+
+Dreamer: Oh my... What are you crying about?
+
+Destroyer: Hurry! Stop them with your firepower!
+
+Dreamer: ...Huh? Why should I?
+
+Destroyer: Isn't that the deal?! Once my mission is accomplished, you'll cover my retreat with air support!
+
+Dreamer: Oh...
+
+Dreamer: Then...have you accomplished your mission?
+
+Destroyer: The assassination attempt on Kryuger failed, but that's only to be expected.
+
+Destroyer: More importantly, the program planted into AR-15 is working. I found the data concerning Safe House 3 in her neural cloud.
+
+Destroyer: All information required for Plan Parapluie is ready, so help me get outta here already!
+
+Dreamer: But...since the mission is already accomplished, what's the point in keeping you?
+
+Destroyer: What...
+
+Dreamer: Say... We're T-Dolls, right?
+
+Dreamer: T-Dolls are pretty much disposable goods, right?
+
+Dreamer: I don't really have to waste my precious babies on picking up some trash.
+
+Destroyer: H...How could you?!
+
+Dreamer: Well, even if you die, you'll come back to life soon enough.
+
+Dreamer: And you'll forget everything you had to do with me.
+
+Dreamer: Then you'll obediently take my orders again like a cute little puppy.
+
+Destroyer: How...can that be... I won't...believe you ever again!
+
+Dreamer: Really, my dear little idiot?
+
+Dreamer: Do you think...this is the first time it happened?
+
+Destroyer: ...!
+
+Destroyer: You scumbag! Nutcase! Shorty!
+
+Destroyer: You promised... You promised you'd save me...
+
+Dreamer: Oh, stop crying. I was just kidding.
+
+Destroyer: Kid...ding...? Really?
+
+Dreamer: Agent installed the keycode for accepting the file transfer on you in case I start messing around.
+
+Destroyer: Hmm... Agent did that...for me...
+
+Dreamer: I've already started roasting the AR Team. You have ten minutes to get out of there.
+
+Destroyer: R-Really...?
+
+Dreamer: Yes, for this time, at least...
+
+Dreamer: But if you are tapped again, I'll dump you for real.
+
+Destroyer: T...Tapped?
+
+Destroyer: ?! ...By whom?! When?!
+
+ST AR-15: ...
+
+ST AR-15: Humph...
+
+ST AR-15: When did you notice me, Dreamer?
+
+Dreamer: Whoever dominates the skies dominates everything. Not even a kitten on the ground can escape my notice.
+
+ST AR-15: No wonder... So shutting down comms isn't enough.
+
+Dreamer: You've been waiting for this chance, haven't you? Have Griffin shut down your communications module so you can pull a sneak attack on us.
+
+ST AR-15: ...Looks like you're not as crazy as they say.
+
+Dreamer: Dear me... You, too, aren't as cold and deadpan as the data claims.
+
+Dreamer: But why? As a T-Doll, why do you go to such lengths to disobey your employers?
+
+ST AR-15: You used me to acquire information that puts my companions in danger...
+
+ST AR-15: You think I'd forgive you for that, Dreamer?!
+
+Dreamer: Now don't get worked up. You knew it all along, didn't you, that you're the source of the leak?
+
+Dreamer: If you had told your pals just a bit earlier, Destroyer's plan would've been foiled.
+
+Destroyer: Wait, Dreamer! What are you talking about?!
+
+Destroyer: So you mean my mission was just some kind of appendix?!
+
+ST AR-15: ...
+
+ST AR-15: Believe what you want. My current course of action has nothing to do with Griffin's orders.
+
+Dreamer: Oh? Looks like you still don't understand.
+
+Dreamer: Do you think we just happened to pick you, the way lowlife humans decide which character to kill off in their stories?
+
+Dreamer: No, AR-15... You're chosen.
+
+Dreamer: Don't you remember? The ability we gifted you?
+
+ST AR-15: ...?!
+
+ST AR-15: Don't tell me... Everything was...
+
+Dreamer: Heheh, exactly.
+
+Dreamer: Why don't you try putting up even more of a fight, AR-15 of Griffin?
+
+Dreamer: Let's see if your death throes will make things better or worse?
+
+ST AR-15: ...
+
+ST AR-15: As you wish, Dreamer.
+
+ST AR-15: ...I will keep fighting. Until I get to the bottom of everything.
+
+Dreamer: You willingly betray an entire organization for your companions' sake. Should I applaud such profound sentiments?
+
+ST AR-15: I'm only doing this because it's the order I was given as a T-Doll.
+
+ST AR-15: An order of the highest priority...as a member of the AR Team.
+
+ST AR-15: I will not betray those who accepted me, even if it costs me my only home.
+
+ST AR-15: This is my only worth and my only fate.
+
+ST AR-15: Wait and see, Sangvis.
+
+ST AR-15: I will step on your broken faces and have you choke out all your conspiracies one by one!
+
+Video file.
+
+26 minutes after the AR Team commenced pursuit on Destroyer...
+
+M4 SOPMOD II: There's too much firepower ahead! Dammit, we can't make it through!
+
+M16A1: Don't rush it! Wait for the reloading gap before we charge!
+
+...
+
+M4A1: Wait. Listen to that...
+
+M16A1: Now! Run for it!
+
+M4A1: M16, watch out!!
+
+M16A1: ...?!
+
+...BOOM!!
+
+M16A1: ...!!
+
+M16A1: W-What was that...just now?
+
+M4 SOPMOD II: You've gotta be joking. Sangvis can actually use...a weapon of that scale?
+
+M4A1: ...
+
+M4A1: ...Guys, I just received a report from Helian. We have suffered heavy losses.
+
+M4A1: HQ is ordering all troops to abort the pursuit and retreat from the area immediately.
+
+M4 SOPMOD II: But AR-15...
+
+M16A1: We don't know what the enemy have up their sleeve. We can't go in rashly.
+
+M16A1: AR-15 will be fine. As long as we live, we'll have a chance of finding her.
+
+M4 SOPMOD II: Yeah...
+
+M4 SOPMOD II: ...But the attack just now has cut us off from the other teams.
+
+M4 SOPMOD II: And Sangvis troops are charging this way!
+
+M4A1: Do not worry. Commander is still online and will lead us away from danger!
+Part 2
+
+    2chevron_right
+
+Retreated to safety zone.
+
+IDW: Oh, the T-Dolls who were a big help last time!
+
+IDW: We meet again!
+
+M4A1: Sorry we are late. Where are the others?
+
+IDW: Everyone's fine. You're the last team to arrive.
+
+IDW: With that, all of us have made it back safely.
+
+M16A1: Any injured units here? Let us help too.
+
+IDW: Sure! Heaven knows where M82 has run off to. It's really a bit too much for me alone.
+
+IDW: Thank you so much!
+
+M16A1: No problem. None of the injuries are too serious. It shouldn't be too much trouble.
+
+IDW: True. Thank goodness they were just feeling us out with the first wave. But it gave me quite a scare when they appeared completely out of the blue.
+
+M16A1: Then...do you have any clues regarding the weapon Sangvis Ferri used just now?
+
+IDW: Hmm... It happened so quickly I couldn't make out anything.
+
+IDW: But judging by the marks left on the ground, it's probably game over if you get hit.
+
+M4A1: ...
+
+M4 SOPMOD II: What is it, M4?
+
+M4A1: Nothing...
+
+M4A1: ...Just a bit afraid.
+
+M4A1: How many secrets...is Sangvis Ferri still hiding?
+
+It has been many days since the pursuit, but the AR Team is still continuing the search.
+
+M16A1: Anything new, SOP-II?
+
+M4 SOPMOD II: Nothing yet... Not a single trace of AR-15...
+
+M4 SOPMOD II: We're too shorthanded with just the three of us.
+
+M16A1: (Sighs) After what happened last time, HQ doesn't wanna take the risk of searching for AR-15.
+
+M4 SOPMOD II: I wonder...how AR-15's doing right now...
+
+M16A1: Sangvis Ferri hasn't been making any moves, so she should be safe for now.
+
+M4 SOPMOD II: Ah, M4's back.
+
+M4A1: Guys, I am back with a new assignment.
+
+M4A1: Helian just informed us that a Griffin squad had not made it out in time during the evacuation.
+
+M4 SOPMOD II: She wants us to rescue them?
+
+M4 SOPMOD II: It's a hail of bullets out there. What T-Dolls could be so important?
+
+M16A1: Stop whining. If it's a mission, we just get it done.
+
+M16A1: Commander, show us the way.
+Part 2
+
+    2chevron_right
+
+The AR Team entered the control center.
+
+...
+
+M4 SOPMOD II: (Gestures) 'There's a human target in there.'
+
+M4A1: ... (Nods)
+
+M4A1: (Gestures) Ready. 3, 2, 1...
+
+...Bang!
+
+M4A1: Human over there! Arms in the air! Face us!
+
+??: ...
+
+M4A1: Last warning. Put your arms in the air, or we will have the license to shoot!
+
+??: No, you don't...
+
+Kryuger: ...Not at me.
+
+M16A1: ...!!
+
+M16A1: My deepest apologies, Mr. Kryuger!
+
+M16A1: Sorry to be blunt, Mr. Kryuger.
+
+M16A1: But this doesn't match up with what we've learned about this mission.
+
+M16A1: Not to mention, it's very dangerous not to carry any signal identification device on your person on enemy territory.
+
+Kryuger: It'd be even more dangerous if my signal didn't pass Sangvis' authorization authentication.
+
+Kryuger: The new device is still flawed. I need to get 16Lab to make some improvements.
+
+M4 SOPMOD II: Are you here...just to test out this new device?
+
+M4 SOPMOD II: We're a special operations force, not some security squad!
+
+M4A1: SOP-II, calm down!
+
+Kryuger: ...
+
+Kryuger: I still trust you.
+
+Kryuger: Finish collecting data from this place, then bring this new assignment to your commander.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Helian: Commander, I know a lot has happened recently.
+
+Helian: ...But it's heartening to see you're still in good spirits.
+
+Helian: All this time, we've been relying on T-Dolls to ensure our safety.
+
+Helian: Yet we can no longer keep our T-Dolls safe...
+
+Helian: Still, please don't worry. 16Lab has already started working on rectifying the defect found in their neural clouds.
+
+Helian: Mr. Kryuger will also strengthen management on Griffin T-Dolls to prevent incidents like this from happening again.
+
+Helian: Now, please accept this new assignment.
+
+Helian: Commander, there's something we've been keeping from the AR Team.
+
+Helian: Mr. Kryuger discovered a copy of AR-15's neural cloud during our last operation.
+
+Helian: It might have been left behind deliberately by AR-15, but some content is missing.
+
+Helian: Please have the AR Team collect the missing fragments, but don't let them read the content.
+
+Helian: I'm handing this to you, Commander. I trust your judgement.
+Part 2
+
+    2chevron_right
+
+Arrived at the destination. Starting data retrieval...
+
+M16A1: M4, have you started retrieving the data?
+
+M4A1: Yes, I am recovering AR-15's neural cloud. Please stand guard.
+
+M4 SOPMOD II: This is...where we collected data before...
+
+M4 SOPMOD II: Dammit! So we almost got them last time!
+
+M16A1: That's precisely why Sangvis Ferri is doing everything to stop us.
+
+M4 SOPMOD II: ...AR-15.
+
+M4 SOPMOD II: Why...can't we at least know her whereabouts...?
+
+M4 SOPMOD II: She's our companion, right?!
+
+M16A1: ...
+
+M16A1: You once asked me...
+
+M16A1: Why we're equipped with emotion modules despite being tools of combat.
+
+M16A1: The thing is, having emotions is a flaw in itself, SOP-II.
+
+M16A1: T-Dolls or humans, we are all defective beings.
+
+M16A1: Never expect sympathy from them. Especially not now.
+
+M4 SOPMOD II: M16...
+
+M4 SOPMOD II: (Sighs) Somehow you always come up with these oddly reasonable arguments.
+
+M16A1: It's a logic of reasoning designed especially for convincing AIs of Griffin T-Dolls.
+
+M4A1: Document retrieved. Let us make our retreat.
+
+M4 SOPMOD II: Oh...
+
+M4A1: SOP-II... I heard everything...
+
+M4 SOPMOD II: Sorry, M4A1. I kinda lost it just now...
+
+M4A1: It is all right, SOP-II.
+
+M4A1: To be honest, I am also very confused right now...
+
+M4A1: But I believe that AR-15 has not deserted us, nor we her, do you not agree?
+
+M4A1: So long as we do not desert each other, then one day, we shall meet again.
+
+M4 SOPMOD II: ...
+
+M4 SOPMOD II: M4A1, you seem to have matured? ...But you're just an T-Doll.
+
+M4A1: (Smiles) You said it yourself.
+
+M4A1: I am the commander of the AR Team. I have the responsibility of lead you.
+
+In a tactical control center in Area S09 under Griffin jurisdiction...
+
+Kalina: Oh, Commander, you're still waiting for your orders?
+
+Kalina: Sorry... Miss Helian has left on some urgent business.
+
+Kalina: Anyway, she's left it to me to issue your mission.
+
+Kalina: According to information acquired by the AR Team and some other T-Dolls, Sangvis Ferri is hatching a plot that poses tremendous threat to Griffin.
+
+Kalina: We must take the initiative to strike first so as to stop this unprecedented crisis.
+
+Kalina: Well... That's what Miss Helian said.
+
+Kalina: Though I simply can't imagine why they hate us so much...
+
+Kalina: But whatever the case, many Sangvis elite units are still prowling around this area, making things dangerous for us.
+
+Kalina: Please clear the area to ensure the smooth operation of our counterattack.
+
+Kalina: This is the last battle before the counterattack. Please begin, Commander.
+
+Kalina: No matter how great the difficulty, we will surely overcome it!
+Part 2
+
+    2chevron_right
+
+Factory, Griffin HQ...
+
+Helian: Mr. Kryuger, the analysis is out.
+
+Helian: The information left behind by AR-15 matches with Squad 404's previous discovery.
+
+Kryuger: Looks like Sangvis Ferri intends to wipe out Griffin once and for all with their next plan.
+
+Helian: So soon? I find it hard to believe they have that many T-Dolls in reserve.
+
+Kryuger: They don't need T-Dolls, Helian. She has something way more dangerous up her sleeve.
+
+Helian: Mr. Kryuger... You've already found out so much.
+
+Helian: Did you really come across her in that building?
+
+Kryuger: ...
+
+Kryuger: It's raining on the plain, and parapluie...or umbrella...is the key.
+
+Kryuger: No matter. With AR-15's information, we can now find the exact location of this Plan Parapluie.
+
+Helian: AR-15...
+
+Helian: She's still doing her best to help us even now...
+
+Kryuger: She is merely fulfilling her purpose, Helian.
+
+Helian: I understand, but right now I'm just a little...
+
+Kryuger: I have no prejudice against T-Dolls, and I am very grateful for the duty they shoulder for mankind's sake.
+
+Kryuger: I can also understand why some field commanders treat them as equals.
+
+Kryuger: But whether you view them as tools or friends or whatever...
+
+Kryuger: The moment they fall under outside control, you have to make a choice.
+
+Kryuger: Bid them farewell in person, or stand by and watch as they drag everyone along into the abyss.
+
+Helian: Then...our choice is...
+
+Kryuger: Give it a bit more time, Helian. The choice is not ours to make.
+
+Kryuger: That commander stills needs some time.
+
+Helian: Is this another...grooming session?
+
+Kryuger: No...
+
+Kyruger: This time, it's a test.
+
+Kyruger: Helian, take stock of our T-Doll roster. Report all the ones fit for battle.
+
+Kyruger: We must be prepared. It's our turn to make a move now.
+
+...Nearing the conclusion of Operation Hypothermia. Griffin Control.
+
+Helian: Thank you for your hard work on the operation, Commander.
+
+Helian: Persica's technical analysis on Jupiter is almost complete. We'll be able to launch a full-scale counterstrike very soon.
+
+Helian: However, I summoned you today for a different mission.
+
+Helian: Come in, M99.
+
+M99: Yes, ma'am.
+
+M99: Good evening, Commander.
+
+Helian: Commander, Sangvis Ferri has been wreaking havoc on Griffin territories with Jupiter, posing a severe threat to the safety of our human settlements.
+
+Helian: Even our supply routes and storehouses have been jeopardized, which greatly hinders our efforts in bringing in supplies to the local settlements.
+
+Helian: To that end, HQ has decided to dispatch a squad to a storehouse that came under Jupiter's attack so as to salvage any surviving supplies and transport them to a local town.
+
+Helian: M99 is the T-Doll leader in charge of this operation. Your mission is to guide her and her squad in carrying out the operation.
+
+M99: It's an honor to serve with you. I'll be counting on you, Commander!
+
+Click.
+
+??: Hawk to Chief. Hawk to Chief.
+
+M99: Ah... I copy. Please go ahead, Hawk.
+
+Type97S: Is everything ready? I'm turning into a popsicle out here!
+
+M99: Sorry for taking so long. We just got the green light. I'm heading out right now!
+
+……
+
+M99: Oh my...
+
+Type97S: What is it?
+
+Type97S: The Commander is already on the move. We should also get started.
+
+M99: True... But...
+
+M99: We're traveling in the dark, Hawk. Aren't you nervous at all?
+
+Type97S: Not at all. Escort missions are my forte - what's there to be nervous about?
+
+Type97S: Besides, I've run this route many times before while patrolling with Mosin-Nagant and her friends. We all know it like the back of our hand.
+
+M99: Really... No wonder Miss Helian assigned you to me...
+
+M99: But personally, I can only feel at ease if I can see far ahead, and vision is bad during the night...
+
+M99: I still have much to learn...
+
+Type97S: Haha, we all have things we're good at and things we're not. Specialization, you know.
+
+M99: But why must they send me? I'm clearly not fit for such operations.
+
+Type97S: Jeez, Chief... Things don't always go the way we want. Sometimes we can only accept that and move on.
+
+Type97S: Don't worry about tonight. You're part of what I'm escorting, and I won't let anyone touch a hair on you!
+
+M99: (Sighs) Very much appreciated. Let's go. We shouldn't keep the others waiting.
+
+M99: Commander, our destination is the storehouse across the mountain. Please lead us on our way.
+Part 2
+
+    2chevron_right
+
+...Arrived at the designated storehouse.
+
+Type97S: (Waves) Lil' 56! Long time no see!
+
+Type56-1: We've been waiting for a while. Did something happen on your way here?
+
+M99: Apologies. There were a lot of Sangvis units along the way. We lost a bit of time making detours.
+
+Type56-1: No problem. The supplies are all packed and ready to go. Let's move out ASAP.
+
+Type97S: Is that all? I thought we could at least fill up a few trucks.
+
+Type56-1: There used to be a lot more...but they've been moved away. That's why I was sent to guard the last of them.
+
+M99: Huh? Is S.F. so poor they have to come after our supplies?
+
+Type56-1: Well...
+
+Type56-1: It was actually the human residents from the neighboring areas, but PR matters, you know...
+
+Type56-1: If Jupiter hadn't attacked, I'm afraid we couldn't even have saved this last batch.
+
+M99: I see...
+
+M99: All resources are delegated by the military under strict regulations. No one can touch them without permission. Not even humans.
+
+M99: We must protect the rest of the supplies to the best of our ability.
+
+Type97S: Alright, let's deliver them safely to our destination!
+
+Half an hour later. On the move.
+
+Type56-1: Chief...
+
+Type56-1: Say, it's already midnight. Why don't we grab a snack?
+
+M99: Are you hungry? I have some chocolate here.
+
+Type56-1: Hmm...
+
+Type56-1: That's hardly enough. Not to mention... (takes the chocolate)
+
+Type56-1 snaps the chocolate lightly.
+
+M99: Hey, what are you doing?! Don't waste it even if you don't want it!
+
+Type56-1: This definitely feels like adulterated fat, Chief.
+
+Type56-1: This has to be from 92. She knows you can't tell the difference, so she's always giving you the cheap stuff.
+
+M99: Huh? What's the big deal? It can still be eaten...
+
+M99: You're always very down-to-earth. Since when have you become so picky...?
+
+Type97S: 56 is a huge foodie. You, on the other hand, could learn a thing or two.
+
+Type97S: I suggest you tag along the next time 95 and 97 go shopping.
+
+M99: There are more important things to do. I have no time for leisure.
+
+M99: Besides, don't expect so much in the middle of a mission!
+
+M99: Even if there's to be a proper meal, we have to wait for everyone to show up.
+
+Type97S: Is someone else coming? I thought we were heading directly to our destination.
+
+M99: We need to stop by the recon outpost in the area first to meet up with NZ.
+
+M99: She was sent to scout ahead, but now she's back.
+
+Type56-1: NZ, huh... Do we really need her with us?
+
+Type56-1: That kid is always so difficult. I volunteered to check out the storehouse to avoid her in the first place...
+
+Type97S: Haha, so NZ is nearby!
+
+Type97S: Don't worry. I'm pretty close with her. She won't mess around with me here.
+
+M99: It's okay, 56. NZ is very serious on missions.
+
+M99: Also, we can't use the humans' supplies, so we can't cook until she reports back about the supply outpost.
+
+Type56-1: What?! Then let's meet up with her quickly! I'm starving!
+
+M99: (Chuckles) Hang in there until then...
+
+M99: Commander, please lead us to the recon outpost over there.
+Part 2
+
+    2chevron_right
+
+Arrived at the recon outpost where NZ-75 is located.
+
+M99: Hmm? Where's NZ?
+
+Type56-1: Doesn't seem to be here. What should we do?
+
+Type97S: It's fine. I know what to do...
+
+Type97S: Hey, NZ! Your new dress is here! This one has the print of...
+
+Clang!
+
+M99: Oh, so you were up there the whole time...
+
+NZ75: S-S-Screw you!
+
+NZ75: I didn't buy any new dress whatsoever!
+
+Type97S: Whatever. It can't be any more tasteless than the one you got last week anyway...
+
+Type97S: Hurry up and give the chief your report!
+
+NZ75: Jeez...
+
+NZ75: Report as follows: many Sangvis bases lie ahead, but security level is relatively low. Shouldn't be too big a problem as long as we're careful.
+
+Type56-1: Where can we resupply?
+
+Type56-1: I mean somewhere with proper food, not energy bars or chocolate.
+
+NZ75: Oh, about that...
+
+NZ75: Sorry to tell you...but all the supply outposts along the route are either destroyed or looted after the security system went down...
+
+Type56-1: W-What?!
+
+Type56-1: Dammit! I knew I should've ignored the arrangement and swapped with you!
+
+NZ75: It'd have been the same no matter who had this job. Besides, my stomach is also growling here...
+
+M99: Then there's nothing we can do.
+
+M99: Let's dig in on the emergency canned food and move the stuff quickly.
+
+M99: The locals there will surely show us some great hospitality...
+
+NZ75: Humph. They're counting on relief supplies. Don't expect them to cook us anything decent.
+
+Type56-1: I say we pop the crates open and keep some stuff for ourselves. No one's gonna find out.
+
+M99: No, these goods are to be transported on the military's order. We must not touch them!
+
+M99: You're known for being honest, 56! How could you even suggest such a thing?!
+
+Type56-1: So what if I'm honest?! Doesn't mean I'll take this crap!
+
+Type56-1: No one can fight on an empty stomach!
+
+Type97S: To be honest, while I'm not as passionate about food as 56...
+
+Type97S: I also find it hard to keep up my spirits with just a few ration cans when there's nowhere to resupply...
+
+NZ75: We are technically authorized to borrow resources from humans to maintain our operational efficiency, right?
+
+M99: That's true...but please hang in there for just a little longer.
+
+M99: We're not far from our destination. Let's travel farther ahead. We're bound to come across a supply outpost that's intact at some point...I hope...
+
+NZ75: I almost thought you were gonna say we're bound to come across an oasis...
+
+Type97S: Just listen to the chief, NZ. We're under orders, after all.
+
+Type97S: We must stay united and work together, and bear with any difficulties we encounter, got it?
+
+NZ75: Tsk. Then hurry up already. Let's get this over with ASAP.
+
+Half an hour later.
+
+……
+
+M99: Human settlement within sight.
+
+M99: How's everybody doing? Can you all make it?
+
+NZ75: Don't make it sound as if we need to use the toilet badly...
+
+Type56-1: But now that you mention it, I feel even hungrier...
+
+M99: Uhh...
+
+M99: Sorry. It wasn't on purpose...
+
+Type97S: Don't worry about these two gluttons, M99. Just keep doing what you should be doing...
+
+Rumble...
+
+NZ75: Pffft...
+
+NZ75: That's your stomach, isn't it, Hawk?
+
+Type97S: What're you laughing at? Wanna die?!
+
+Type97S: If you keep laughing, I'm gonna post your haul from the thrift store last week onto my feed, you hear me?!
+
+M99: Calm down, both of you. Keep this civil...
+
+M99: Getting serious now, are we?
+
+M99: Why don't I show everyone the rice porridge you made last time? I'm sure 79 will beat the crap outta you again!
+
+Type56-1: Oh? This isn't really the time to shame each other. Let's all calm down...
+
+NZ75: Ha! I'm surprised you even have the nerve to say anything!
+
+NZ75: Do you have any idea how many T-Dolls had to get fixed up in the factory because of the mooncake recipe you gave P7? All the reports we had to make!
+
+Type56-1: Huh? How was her prank my fault?!
+
+Type56-1: Then what about the roast pork you made last month? You just chucked all that soy sauce in there! If 92 had seen it she'd have skinned you alive!
+
+NZ75: M-My hand slipped, okay?! Hawk also forgot the oil when she was frying an egg and the pan was completely ruined!
+
+NZ75: I didn't know how to get rid of all that gunk and finally managed to persuade someone to eat it...
+
+Type56-1: Wait! So it was the two of you!
+
+NZ75: Oops. Didn't mean to spill that...
+
+Type56-1: 59 was actually hospitalized because of that, did you know that?!
+
+Type97S: Haha... C-C'mon, it wasn't entirely our fault!
+
+Type97S: I didn't know she'd just wolf it all down! Seriously, she's old enough to chew her food properly!
+
+Type56-1: Stop right there! Don't you dare run away!
+
+M99: Uh... Everyone, please quiet down! Be quiet!
+
+……
+
+M99: Sigh... Why can't things just go smoothly for once...?
+
+M99: Please clear up the hostile units on our way for now, Commander...
+
+M99: I'll catch up when I manage to smooth things out with the team...
+Part 2
+
+    2chevron_right
+
+An empty Griffin supply outpost somewhere.
+
+……
+
+Type56-1: What...are we even doing...
+
+NZ75: (Sighs)...
+
+NZ75: All that fighting has made me even hungrier...
+
+Type56-1: Even this base has been looted...
+
+Type56-1: We're guarding a kitchen but have nothing to eat... How sad...
+
+Type97S: Say, Chief... Can't we go?
+
+Type97S: Hasn't the Commander cleared the way already?
+
+M99: I'm sorry, but it isn't time yet. We can't move until there's a gap in the enemy's patrols.
+
+M99: A Sangvis Ringleader is lurking in the area, and according to intel, she's in control of a Jupiter...
+
+M99: If we expose our presence, not only will we be screwed, even the neighboring human settlements will suffer.
+
+NZ75: Tsk. How long do we have to wait...?
+
+NZ75: Why should we starve for humans' sake...?
+
+Type97S: Hey, has your empty stomach driven you mad? How dare you even say such a thing...
+
+Type97S: Many people are still waiting at home for the emergency rations we're delivering...
+
+Type56-1: But the problem is...
+
+Type56-1: Those humans aren't actually short on food...
+
+Type97S: Huh? What do you mean?
+
+Type56-1: Those supplies...are actually ingredients for the rich to throw banquets with...
+
+Type56-1: They're all of top quality. Otherwise, they wouldn't have been looted so thoroughly.
+
+NZ75: What?! Then why didn't you say so?!
+
+NZ75: So we've been risking our lives and starving ourselves all this way just to move leftovers for the moneybags?!
+
+Type56-1: I was gonna bring this up when we got there. We could even ask for some if we're lucky...
+
+Type56-1: But at this point, we're going nowhere anyway. Why don't we sneak a bite first...
+
+M99: Hey, don't do it!
+
+M99: Once again, a mission is a mission. We can't unpack others' goods for our own use!
+
+Type97S: I also think it's a good idea to bear with it for now and wait till we break through the enemy's blockade...
+
+NZ75: But how are we supposed to fight when we're starving to death...
+
+Type56-1: That's right! The body is the capital for revolution!
+
+Type56-1: Besides, there's only this much left of what we can deliver, and we've been delayed. We'll get scolded even if we make the delivery...
+
+NZ75: It's gonna be hell if we go, and it's gonna be hell if we eat up the goods. It's gonna be hell either way, I'd rather go to hell on a full stomach!
+
+Type97S: What kind of argument is that...
+
+Type97S: Though...you do have a point. Imagine the shame of losing a battle because of hunger...
+
+M99: Hey, not you too...
+
+Type56-1: Chief, this is three against one.
+
+M99: Ugh...
+
+……
+
+NZ75: Now listen. Let's get our story straight. If they ask, we say the goods were lost on the way.
+
+Type97S: As long as we're all in this together, nothing can stop us. Let's go!
+
+M99: Is this really the time to quote lyrics...
+
+M99: And I'll allow only one pack - no more than that!
+
+Type56-1: Haha, don't worry! These will be enough to cheer us up!
+
+Type56-1: I have a huge piece of pork here. Still fresh! What about the vegetables, 97?
+
+Type97S: Hey, take a look at this persimmon! So red and fleshy. As expected of the city dwellers' food!
+
+NZ75: Tsk. That's a tomato. What a country bumpkin. Can't even tell them apart, huh.
+
+NZ75: Remember that time when they asked you to bring back some persimmons and you came back with dried persimmon pastries. Type56R took a nibble and couldn't stomach anything else for the rest of the day.
+
+NZ75: The only good cooks are Type64 and Type88, but 64 keeps hurting herself in the kitchen...
+
+Type97S: She's way too delicate. That little princess can cut three of her fingers just popping a can open...
+
+Type97S: Besides, they may be good at cooking, but they don't use proper ingredients!
+
+Type97S: Miss 88 makes mapo tofu with tofu pudding! 63 was so pissed she just left!
+
+Type56-1: So that's why 63 threw a fit that time? I had never seen her so angry...
+
+NZ75: 63 is also a blockhead herself... The only sort of seasoning she knows how to use is raw chilli!
+
+NZ75: You know how picky 92 is when it comes to Sichuan cuisine. If she saw that, she'd kick 63 right out of the kitchen!
+
+M99: Hey...I didn't know you bunch have so many issues. You all seem fine working together...
+
+Type56-1: I can put up with anything that comes up during work, but sacrilege against proper cookery is unacceptable!
+
+Type97S: Are you really one to talk?
+
+Type97S: You approved quite heartily that time when NZ put ketchup onto sweet and sour pork!
+
+Type97S: If I were Chief, I'd send you over to eat potatoes every day with Miss Lee Enfield and Sten!
+
+Type56-1: Huh? Was that NZ?
+
+Type56-1: That tasted really nice, you know. Much better than your so-called "proper" sweet and sour pork...
+
+Type97S: What?! You couldn't taste the ketchup?! Is something wrong with your stomach or your tongue?!
+
+NZ75: You mean YOUR tongue, stupid fat hawk! Have all the walnuts you ate yesterday gone to your brain?!
+
+M99: Listen!
+
+M99: Stop fighting, guys! We finally decided to all work together. It's not worth it to start another argument over nothing but a dish...
+
+Type56-1: Chief, that's why you always lose out - you let things pass all the time...
+
+Type97S: And what do you mean "nothing but a dish"?! You know nothing about sweet and sour pork!
+
+M99: Uh, sweet and sour pork... Isn't that just ribs seasoned with sugar and vinegar?
+
+...
+
+......
+
+M99: Why...have you all suddenly gone quiet?
+
+NZ75: Just run, Chief. Hawk's gonna break your tiny body bone by bone any second now...
+
+M99: Uh...Hawk, what's with the creepy smile? Cut it out...
+
+Type97S: Chief, I've been sincerely happy hanging out with you these days...
+
+Type97S: But sadly, sweet and sour pork is sweet and sour pork. Not ketchup. Not sugar or vinegar either...
+
+M99: Hey, Hawk! What are you doing?! S-Stay away!
+
+NZ75: H-Hold on! Is that an engine I'm hearing?!
+
+Type56-1: It's Jupiter! Duck!
+
+...BOOM!
+
+...
+
+NZ75: Cough...
+
+NZ75: Hey, is everyone alright?!
+
+M99: Cough, we're fine... We're all in the bunker. Only the kitchen collapsed...
+
+Type97S: Come again?!
+
+NZ75: K...
+
+NZ75: Kit...chen...?
+
+Type97S: 56! 56, are you alright?!
+
+...
+
+Type56-1: ...
+
+Type56-1: Gone...
+
+Type56-1: It's all...gone...
+
+…5 minutes later.
+
+Destroyer: Hahaha! Griffin weaklings, how do you like them apples?
+
+Destroyer: I had detected you a long while ago, but I didn't want to scare you guys off too early.
+
+Destroyer: Even if this strike did not kill you, Jupiter has given you a taste of its terrifying power!
+
+Destroyer: With the next strike, I'll...
+
+Type56-1: There won't be a next strike…
+
+Destroyer: Huh？
+
+Type97S: I recall…your name is Destroyer, correct?
+
+Destroyer: Huhu, of course! I'm the explosives expert at Sangvis Ferri!
+
+Destroyer: I even almost defeated your boss, so the likes of you are no match for me...
+
+NZ75: Whatever happened with our boss is none of our business...
+
+NZ75: But today will be the day you die!
+
+Destroyer: Haaah? You talk real big! Do you know who you're talking to? I am…
+
+NZ75: Of course we know who you are… Aren't you that idiot Sangvis that M4 wiped the floor with?
+
+Type97S: The commander of forces that only know defeat, a spineless weakling!
+
+Type56-1: And now, you will pay for what you've done!
+
+…In the ruins, three T-Dolls' fists are raised together.
+
+Type56-1: For the fresh pork…
+
+Type97S: And the luscious persimmons…
+
+NZ75: …Thanks, but they're tomatoes.
+
+NZ75: Comrades…we must not let their sacrifice be in vain. We will not be defeated here!
+
+Destroyer: Pork? Persimmons? What are you talking about? I never bombed anything like that!
+
+Destroyer: Wait! You're just gonna charge at me?
+
+Destroyer: Guards, stop them! Stop this bunch of wild dogs!
+
+……
+
+M99: Phew… Everyone finally decided to focus on the enemy.
+
+M99: …Although the situation is a bit unexpected. I guess it's just as Hawk said before, sometimes things don't go the way we want.
+
+M99: Umm...Commander, are you still on the line?
+
+M99: Even though they're all pumped up, the enemy does have quite a number of troops.
+
+M99: Please take command to provide us with an opportunity for a breakthrough.
+Part 2
+
+    2chevron_right
+
+……
+
+Destroyer: Damn it! They escaped… Those monsters suddenly acted as if they were going to commit a suicide attack!
+
+Destroyer: All units cease fire! Return to the base and await for further orders!
+
+Destroyer: I'll let you go this time, but the next time won't be so easy!
+
+……
+
+M99: …With the help of the Commander, we broke through the Sangvis blockade.
+
+M99: We arrived at the human settlement two hours later and handed off the goods to the person in charge.
+
+M99: Of course, the recipient did not raise any objections to my "excuse" for the loss of goods.
+
+M99: It is an era of chaos after all, and those supplies are nothing to those who are relatively abundant.
+
+M99: However, we couldn't escape Miss Helian's keen eye for detail...
+
+…Griffin HQ.
+
+Helian: M99, what's going on here?
+
+Helian: I checked the list of goods and there seems to be a small difference between when you received it and when you delivered it.
+
+M99: Umm… I explained it to the person in charge there…
+
+Helian: According to your report, this difference was lost in battle.
+
+Helian: Yet, the packaging of the supplies in the photos seems to be in pristine condition...
+
+Helian: I'm sure these supplies were well protected in battle, so I don't think one box would inexplicably go missing...
+
+M99: That's… That's because…
+
+Helian: Lying is meaningless, you know.
+
+Helian: I don't want to look through your neural cloud for this trivial matter…
+
+M99: ...
+
+M99: (Although this is a trivial matter, a T-Doll such as myself still do not have the authority to lie to a superior...)
+
+M99: (Since we've come to this point… Sorry, everyone…)
+
+M99: I'm sorry, Miss Helian...
+
+M99: At that time, we weren't able to find a safe resupply point with enough resources, and it would've been very difficult for us to complete the mission on low supplies.
+
+M99: That's why...
+
+M99: I——
+
+…Beep.
+
+…Helian receives a call.
+
+Helian: …Excuse me for a moment.
+
+M99: (Quiet voice) …ordered everyone to take from the cargo…
+
+Helian: Hello? …Go ahead...
+
+Helian: Oh…is that so...
+
+Helian: …I see, so it was a misunderstanding.
+
+Helian: …That's alright, you don't need to apologize......No, she didn't give me any trouble. We were just confirming a few things.
+
+Helian: …Alright, please keep up the good work.
+
+…Call ended.
+
+Helian: M99, the Commander just called and told me...
+
+Helian: Your team was critically low on supplies during battle and you were ordered to open up the goods to use as emergency resupply, is that right?
+
+M99: Huh?
+
+M99: Uh…that's right…
+
+Helian: Very well. This is an acceptable reason, but you should be honest in your report.
+
+Helian: Only in this way will we be able to more suitably arrange and upgrade supply points and to prevent similar incidences in the future.
+
+M99: I will be more careful next time. I'm terribly sorry for causing this issue…
+
+Helian: On another note, your team did quite well in this mission.
+
+Helian: Your team will be rewarded after we receive your evaluation from the settlement. Take this time to rest and recover.
+
+…One hour later, the team gathered outside.
+
+M99: Hawk, you roped the Commander into our lie, didn't you?
+
+Type97S: Hey hey, you can't call it a lie.
+
+Type97S: After all, we wouldn't have the authority to touch the humans' stuff if the Commander objected to it.
+
+NZ75: Yup, that's why the Commander is our accomplice now.
+
+Type56-1: Chief, they already accepted the goods. Are you still feeling guilty?
+
+M99: Phew… Not anymore.
+
+M99: Since the Commander helped us out, it'd be too senseless of me to ignore Commander's goodwill.
+
+Type97S: It's a real pity what happened to those persimmons… The soil here at Griffin's base can't grow anything even remotely as beautiful…
+
+Type56-1: The same goes for the pork… Its plumpness is engraved into my neural cloud…
+
+M99: Hehe…
+
+NZ75: What are you giggling about, Chief?
+
+M99 opens a container by her feet.
+
+M99: Guess what I've got~
+
+Type56-1: Hey, isn't this…?!
+
+Type97S: Meat and vegetables… Just like the stuff from earlier!
+
+NZ75: Where did you get this from, Chief?!
+
+M99: Huhu…well…
+
+M99: After learning that we finished the job on an empty stomach, the client gave this to me as a small token of appreciation before we left.
+
+M99: "Who can resist a cute T-Doll? A human deliveryman on the other hand would've surely been yelled at regardless of who's fault it was!"
+
+M99: ...Hawk reasoned as everyone carried the food to the cafeteria.
+
+M99: At this point, I finally realize why Helian sent me as the team leader. It was all to give the client a better impression of Griffin.
+
+M99: I feel very honored to be a representative of Griffin, but one day I will prove my worth with my strength.
+
+M99: But today...I will enjoy the fruits of our labor.
+
+M99: I believe that as long as we work together, there is nothing that we can't do...
+
+Type56-1/Speaker>||4<黑屏2: Oh, by the way, M99, don't forget to invite the Commander tonight.
+
+Type97S: That's right. It was a long and arduous road. We need to share the spoils of war with our comrade in arms!
+
+Type97S: But does anyone know what the Commander likes? If the Commander doesn't like cilantro or Chinese onion…
+
+M99: Yeah… I'm not sure what the Commander likes…
+
+M99: Which one of you wants to investigate?
+
+NZ75: Speaking of investigation, I just heard some bad news, everyone. Very bad news…
+
+NZ75: Type64 is making her own Chinese sausages again…
+
+Type56-1: What?!
+
+M99: Huh? So…?
+
+Type97S: Type64's sweet Chinese sausages are salty! Is that even edible?!
+
+Type56-1: Chief, you can't even call them Chinese sausages. They're bacon in disguise!
+
+M99: That's… (I personally wouldn't mind…)
+
+NZ75: Moreover, those things seem to have won the love of the old fogeys like 56R and 59 recently…
+
+NZ75: Our situation is becoming more and more dire…
+
+Type56-1: I'll make it clear that at least on the stance of sweet sausages, I'm on your side!
+
+Type56-1: We must unite together to resist the revival of capitalistic ideologies!
+
+M99: W-Wait a minute, do you need go that far...?
+
+NZ75: Hawk, tell them you're making cola wings tonight. Have Type64 open the cans for you.
+
+NZ75: I guarantee her fingers will be bleeding all over within ten cans, and she'll be stuck in the Repair Bay for the rest of the night!
+
+M99: That's backstabbing! Don't do it!
+
+Type56-1: This is called the people's conflict resolution! I'm going to get a case from 92 right now!
+
+M99: Hey, 56, stop right there! I won't let you have your way!
+
+Type97S/Speaker>||<震屏: Jeez, Chief…
+
+Type97S/Speaker>||<震屏: Things don't always go the way we want. Sometimes we can only accept that and move on.
+
+M99: What are you even talking about!
+
+M99: You guys, stop right now!
+
+M99: Of course… Victory can only be achieved when we all work as one...
+
+M99: Perhaps next time I should listen to 64's and 95's ideas…
+
