@@ -1,4 +1,4 @@
-# Girl's Frontline (GFL) dialogue extract
+# Girl's Frontline (GFL) character dialogue extract
 Python code to extract dialogue spoken by a specified character from the hit game Girl's Frontline.
 
 Just run extract.py
