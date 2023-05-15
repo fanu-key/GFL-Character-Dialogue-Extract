@@ -3,11 +3,10 @@ Python code to extract dialogue spoken by a specified character from the hit gam
 
 Just run extract.py
 
-Disclaimer:
+Disclaimers:
 - Some characters speak under two names
 - For example: RO635 is both RO and RO635 in dialogue. Same problem for Ange, she is both Ange and Angelia
 - For this edge case, run the program again to cover dialogue for both aliases
-- Also look at errors at the bottom
 
 ~~In theory this also works for other characters if you edit the code a bit~~
 
