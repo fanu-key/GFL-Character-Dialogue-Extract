@@ -16,7 +16,7 @@ try:
     os.makedirs(pathOutputInput)
     os.makedirs(pathOutputCharacter)
 except FileExistsError:
-    print('\nFolders already exist. No need to create again.')
+    print()
     
 success = False
 
@@ -24,18 +24,19 @@ success = False
 dirPath = r'Input\**\*.txt'
 savePath = r'Output\InputLines'
 
-"""# This will list all text files in the input folder, only use for debugging
-for file in glob.glob(dirPath, recursive=True):
+# This will list all text files in the input folder, only use for debugging
+"""for file in glob.glob(dirPath, recursive=True):
     print(file)"""
 
 # Read each text file in input folder and write each file to one big combined text file
 inputFolder = glob.glob(dirPath, recursive=True)
-mergedInput = open("merged.txt", "wb")
+mergedInput = open("merged.txt", "w+", encoding='utf8')
 
-with mergedInput as output:
-    for file in inputFolder:
-        with open(file, "rb") as input:
-            output.write(input.read())
+for file in inputFolder:
+    with open('{}'.format(file), 'r+', encoding='utf8') as input:
+        mergedInput.write(input.read())
+
+mergedInput.close()
 
 # Move the combined text file to output folder
 sourceFolder = r'merged.txt'
@@ -44,7 +45,7 @@ shutil.move(sourceFolder, destinationFolder)
 
 # Open merged file to read
 allTextPath = r'Output/InputLines/merged.txt'
-allText = open(allTextPath, 'r', encoding='utf8')
+allText = open(allTextPath, 'r+', encoding='utf8')
 
 # Ascii handling, replace � with a space and move to output folder
 fixedMerged = open('fixedMerged.txt', 'w+', encoding='utf8')
@@ -58,7 +59,6 @@ fixedMerged.close()
 fixedMergedSourceFolder = r'fixedMerged.txt'
 fixedMergedDestFolder = r'Output/Inputlines/fixedMerged.txt'
 shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
-
 
 # Extract all character dialogue and put into a text file and into a list
 fixedMergedPath = r'Output/InputLines/fixedMerged.txt'
@@ -75,16 +75,18 @@ for line in readFixedMerged:
         characterLines.append(line[index + 2:].rstrip('\n'))
         #ak12Dialogue.write(f"{line}\n")
 
-"""# Reading all lines in ak12Lines for debugging
-for lines in ak12Lines:
+# Reading all lines in characterLines for debugging
+"""for lines in characterLines:
     print(lines)"""
 
-# Check if text file is empty, if yes exit program and delete file
+# DO NOT UNCOMMENT THIS
+# This shit is the reason why some characters dont work for extraction
+"""# Check if text file is empty, if yes exit program and delete file
 if os.path.getsize('{}Dialogue.txt'.format(character)) == 0:
     print('File is empty! Character does not exist. Check if input is typed correctly')
     characterDialogue.close()
     os.remove('{}Dialogue.txt'.format(character))
-    sys.exit()
+    sys.exit()"""
 
 # Convert lines in list to csv file
 characterCsv = open('{}Dialogue.csv'.format(character), 'w+', encoding='utf8')
@@ -115,9 +117,9 @@ success=True
 
 # If success, print message to console, else print failure
 if success==True:
-    print("\nExtract Success. Check Output folder.")
+    print("Extract Success. Check Output folder.")
 
 if success==False:
-    print('\nExtract Failure.')
+    print('Extract Failure.')
 
 sys.exit()
