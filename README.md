@@ -26,6 +26,7 @@ To-Do:
 - GUI
 
 Error:
-- Program does not recognize the existance of AK-15 for some unknown reason
+- Program does not recognize the existance of some characters. Why? I don't know
+- Currently tested and not working: AK-15, Perosa, Welrod
 
 ![AK-12](https://cdn.discordapp.com/attachments/923718033942401065/1106834144849313792/upscaledAK12edit_2.png)
