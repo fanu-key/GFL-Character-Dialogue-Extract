@@ -26,3 +26,6 @@ To-Do:
 - GUI
 
 ![AK-12](https://cdn.discordapp.com/attachments/923718033942401065/1106834144849313792/upscaledAK12edit_2.png)
+
+Was originally going to be used to extract only AK-12 dialogue
+But I figured I could do better than that
