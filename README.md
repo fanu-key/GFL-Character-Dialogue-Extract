@@ -4,6 +4,7 @@ Python code to extract dialogue spoken by a specified character from the hit gam
 Just run extract.py
 
 ~~In theory this also works for other characters if you edit the code a bit~~
+
 Works for all characters now yay!!!
 
 All event text copy pasted from https://gfl.amaryllisworks.pw/
