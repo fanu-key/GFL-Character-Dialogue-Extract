@@ -7,6 +7,7 @@ Disclaimer:
 - Some characters speak under two names
 - For example: RO635 is both RO and RO635 in dialogue. Same problem for Ange, she is both Ange and Angelia
 - For this edge case, run the program again to cover dialogue for both aliases
+- Also look at errors at the bottom
 
 ~~In theory this also works for other characters if you edit the code a bit~~
 
@@ -25,7 +26,7 @@ To-Do:
 - ~~dynamic character dialogue extracting, specify which character to extract dialogue for on program start~~ done
 - GUI
 
-Error:
+Errors:
 - Program does not recognize the existance of some characters. Why? I don't know
 - Currently tested and not working: AK-15, Perosa, Welrod
 
