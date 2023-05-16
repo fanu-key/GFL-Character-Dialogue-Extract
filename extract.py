@@ -8,6 +8,7 @@ import threading
 import time
 
 def continueQuestion():
+    # Asks user if they would like to run the program again
     continueProgram = input("Would you like to extract again? [Y/N]: ")
     if continueProgram.upper() == "Y":
         print("...Running Program Again...")
