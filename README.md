@@ -1,7 +1,7 @@
 # Girl's Frontline (GFL) character dialogue extract
 Python code to extract dialogue spoken by a specified character from the hit game Girl's Frontline.
 
-Just run extract.py, will output both a .txt file and .csv file
+Just run extract.py, will output both a .txt file and .csv file of character dialogue
 
 Disclaimers:
 - Some characters speak under two names.
