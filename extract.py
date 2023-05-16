@@ -9,24 +9,32 @@ import time
 
 def continueQuestion():
     # Asks user if they would like to run the program again
+    yesInput = ["YES", 'Y']
+    noInput = ["NO", "N"]
+    
     continueProgram = input("Would you like to extract again? [Y/N]: ")
-    if continueProgram.upper() == "Y":
-        print("...Running Program Again...")
-        main()
-    if continueProgram.upper() == "N":
-        print("...Exiting Program...")
-        sys.exit()
+    for accept in yesInput:
+        if continueProgram.upper() == accept.upper():
+            print("...Running Program Again...")
+            main() # Run again if yes
+
+    for decline in noInput:
+        if continueProgram.upper() == decline.upper():
+            print("...Exiting Program...")
+            sys.exit() # Exit if no
+
     else:
         print("...Invalid input...\n")
-        continueQuestion()
+        continueQuestion() #Loop back if invalid input
 
 def extract(x):
+    # Start timer
+    startTime = time.perf_counter()
+
     # Input for which character to extract dialogue for
     inputCharacter = x
 
-    # Make directories for output and start timer
-    startTime = time.perf_counter()
-
+    # Make directories for output
     pathOutputInput = './Output/InputLines'
     pathOutputCharacter = './Output/CharacterLines'
 
@@ -44,16 +52,22 @@ def extract(x):
 
     # This will list all text files in the input folder, only use for debugging
     """for file in glob.glob(dirPath, recursive=True):
-        print(file)"""
+        print(file)
+    print('\n')"""
 
     # Read each text file in input folder and write each file to one big combined text file
     inputFolder = glob.glob(dirPath, recursive=True)
     mergedInput = open("merged.txt", "w+", encoding='utf8')
+    
+    # Threadlock to make sure all files are read
+    lock = threading.Lock()
+    lock.acquire()
 
     for file in inputFolder:
         with open('{}'.format(file), 'r+', encoding='utf8') as input:
             mergedInput.write(input.read())
 
+    lock.release()
     mergedInput.close()
 
     # Move the combined text file to output folder
@@ -85,10 +99,10 @@ def extract(x):
     characterLines = []
 
     characterCheck = ':'
+    
+    charLinesCounter = 0
 
     # Threadlocking so we don't have a race condition error
-
-    lock = threading.Lock()
     lock.acquire()
 
     for line in readFixedMerged:
@@ -96,10 +110,13 @@ def extract(x):
             index = line.find(characterCheck)
             characterDialogue.write(line[index + 2:])
             characterLines.append(line[index + 2:].rstrip('\n'))
+            charLinesCounter += 1
             #ak12Dialogue.write(f"{line}\n")
             
     characterDialogue.close()
     lock.release()
+    
+    print("Total {} lines extracted:".format(inputCharacter), charLinesCounter)
 
     # Reading all lines in characterLines for debugging
     """for lines in characterLines:
@@ -143,7 +160,7 @@ def extract(x):
 
     # If success, print message to console, else print failure
     if success==True:
-        print("Extract Success. Check Output folder.\n")
+        print("Extract Success. Check Output folder.")
 
     if success==False:
         print('Extract Failure.\n')
@@ -151,7 +168,7 @@ def extract(x):
     # Print out total time program takes to execute
     endTime = time.perf_counter()
     elapsedTime = str(endTime - startTime)
-    print(elapsedTime, 'seconds to extract.\n')
+    print(elapsedTime[:7], 'seconds to extract.\n')
 
     continueQuestion()
 

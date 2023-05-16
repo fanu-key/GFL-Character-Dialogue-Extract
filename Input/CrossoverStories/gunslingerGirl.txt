@@ -1,0 +1,4807 @@
+...
+
+O friends, no more of these sounds!
+
+Let us sing more cheerful songs, more songs full of joy!
+
+Freude! Freude!
+
+Joy, bright spark of divinity, Daughter of Elysium.
+
+Fire-inspired we tread within thy sanctuary.
+
+Thy magic power re-unites all that custom has divided...
+
+Despite the melodious singing, the atmosphere in the command center is becoming increasingly bleak.
+
+Commander: Is that the source you found in the last decryption?
+
+Kalina: No, it's only a node... Like all the other ones, it only contained an ordinary audio file of some choral singing.
+
+Commander: It's been an entire week now. Is it mocking us?
+
+Kalina: Our technician in charge of Level II maintenance just so happens to be on leave, while the Dolls who specialize in electronic warfare are all out on various missions. You really can't expect much from amateurs like us.
+
+Commander: Amateurs...
+
+Kalina: Ahaha...
+
+Kalina: Why don't you take a break for now, Commander? You haven't had any proper sleep ever since this started.
+
+Commander: I thought we'd find the target server this time... Fine, I'll get some rest first and take over from you later.
+
+Kalina: Alright, sweet dreams!
+
+I give Kalina a little wave and turn to leave the command center.
+
+This all began a week ago.
+
+Last week, at the café.
+
+Several Dolls are chattering excitedly about something. Out of curiosity, I head closer to listen in.
+
+Having caught sight of me, the Dolls all gather around me in high spirits.
+
+DP-12: Commander, have you heard about that story?
+
+DP-12: The viral story about the soul-stealing monster on the internet!
+
+Carcano M91/38: I have zero interest in that sort of thing, but I'm sure the Commander will find it fascinating.
+
+Commander: Soul-stealing monster on the internet?
+
+Carcano M1891: Don't be like that, Ceno! Come and have a look, there's live data about it on Grif-chan.
+
+DP-12: Have you seen it too, Miss Cano?
+
+DP-12 lowers her voice dramatically as she goes on.
+
+DP-12: "It is a horrific beast."
+
+DP-12: "It wears the face of a young girl and sings in a gentle croon."
+
+DP-12: "It is a child that smells of gunpowder, a monk that wears cologne."
+
+DP-12: "It roams the network. It embraces machine – shunning flesh and devouring minds."
+
+Carcano M91/38: ...
+
+Carcano M1891: Oh, I heard about that one!
+
+Carcano M1891: "Legend has it, its favorite pastime is consuming..."
+
+Carcano M1891: "Dolls with the habit of telling lies."
+
+At that, Cano stares meaningfully at Ceno.
+
+Carcano M91/38: O...old wives' tales like this don't scare me.
+
+Carcano M1891: Really, Ceno?
+
+Carcano M1891: It might sound a little more convincing if you weren't clutching at the Commander's hand.
+
+Ceno stiffens for a second, then she lets go of my hand quickly and takes off running.
+
+Carcano M1891: Wait, Ceno! What's the rush?!
+
+DP-12: Heh, don't tell me that actually freaked her out?
+
+Carcano M1891: I think so... I'm going after her, so I'll see you two later!
+
+Carcano M1891: Ceno, wait up!
+
+DP-12: That got her good, didn't it...?
+
+Commander: You're the one who started it.
+
+DP-12: Hmm...you're right. I suppose I should also go and comfort our poor, terror-stricken young lady.
+
+DP-12: I'll be off then, Commander. Catch you later?
+
+Commander: Sure, catch you later.
+
+The Dolls have vacated the café. It is another peaceful day.
+
+Miss Springfield's coffee is refreshingly fragrant. I take small, savory sips as I read through the list of acquisitions from the latest logistics missions.
+
+However, my peace and quiet is interrupted by my beeping communicator less than two minutes in.
+
+DP-12: Commander, are you there? It's an emergency!
+
+Commander: I'm here. What happened?
+
+DP-12: Um, listen to me, Commander. I swear I'm not joking, but the internet soul-eater thing might actually be true.
+
+Commander: What do you mean?
+
+DP-12: I chased Cano and Ceno all the way to the dorms and found them collapsed at S.A.T.8's door. They have sufficient power, but for some reason I can't reboot their surface consciousness.
+
+She sounds deadly serious and doesn't seem to be pulling my leg.
+
+Cano and Ceno have recently become hooked on S.A.T.8's charcoal-grilled pizza so I'm aware that the three of them are on good terms. But I've never heard of charcoal-grilled pizzas rendering Dolls unconscious.
+
+Commander: Leave the whole internet soul-eater business aside for now and get S.A.T.8 to help you take them to the repair bay for a detailed inspection.
+
+DP-12: That's exactly the other thing that I'm about to report...
+
+DP-12: Commander, her door is open; both S.A.T.8 and SPAS are lying on the floor inside and in the exact same state as the Carcanos.
+
+It's been seven days since then.
+
+Just like how the legend goes, the Dolls' neural clouds were attacked by an unknown entity; their consciousness have completely vanished and their bodies are paralyzed. The technicians from I.O.P finally started analyzing the attack and tracing it yesterday, but we still haven't heard anything from them.
+
+Kalina and I only managed to crack open a few downloaded nodes ourselves, but all they contained was a simple song...
+
+Commander: "It wears the face of a young girl and sings in a gentle croon..."
+
+Commander: "Sings in a gentle croon..."
+
+Kalina: Commander? Why are you back again? I thought you'd gone for a break.
+
+Commander: Kalina, play that singing again. From start to finish.
+
+Kalina: Sure.
+
+O friends, no more of these sounds!
+
+Let us sing more cheerful songs, more songs full of joy!
+
+An empty web page is projected onto the screen as the fiery choral singing sweeps through the command center.
+
+I listen with great concentration and finally notice the minuscule anomaly.
+
+Commander: Keep the chorus and get rid of the rest.
+
+Kalina: The chorus? ...Right, that's done. Then what?
+
+Commander: Filter out the accompaniment, leaving just the vocals.
+
+Kalina: Okay...
+
+Commander: Try converting the sound waves of this part into numbers.
+
+Kalina: Oh, it's a set of parsed coordinates!
+
+Commander: Then we may have found the entrance. Dolls can easily pick up on such data transmissions but they're easy for us humans to miss.
+
+Commander: Can we trace the address with the coordinates?
+
+...
+
+Kalina: It seems to be from a private Level II database. It isn't encrypted so anyone can access it, but it hasn't been refreshed in quite a while.
+
+Kalina: Other than our Dolls, no other logins have been registered for years. It seems to be abandoned.
+
+Commander: It's called...Social Welfare Agency? What a strange name.
+
+Commander: Try to log in?
+
+Kalina: I can't create a new account. Hmm, I can log in with some of the old ones, but we'll need the holographic equipment.
+
+Commander: Can't be helped. Let's bust out the helmet that's been collecting dust.
+
+Commander: And let me take a look at the old accounts.
+
+Kalina: Sure, there are several. The usernames are...
+
+Kalina: "Giuseppe", "Marco", "Jean", and...
+
+Commander: We'll use the first one. Let me log in and have a look around.
+
+Kalina: Alright! But be careful, Commander!
+
+Kalina: Tell me at once if there's any sign of danger; I'll disconnect you right away!
+
+Commander: It should be fine. There's only goop in the human brain so my consciousness can't be sucked out as data like a Doll's.
+
+Kalina: That's true... In any case, I'll be right here if you need any help. Feel free to ask me anything.
+
+Commander: Okay, thanks.
+
+After putting on the equipment that Kalina handed me, I log into the system using Giuseppe's account.
+
+My vision goes dark for a moment. I try to walk forward but my hand comes across a hard metal gate.
+
+A girl is singing in the distance. I can't be sure if it's the same voice as the one in the audio file, but it does sound familiar.
+
+Commander: Is this the opening scene of a game? Kalina, are you seeing this?
+
+Kalina: I have no form in there, but I can see everything that you see. Don't worry, I'll keep up with you.
+
+Commander: Right, then here goes nothing.
+
+Once I find myself able to move, I push open the gate.
+
+My vision lights up abruptly.
+
+???: All creatures drink of joy at nature's bosom...
+
+???: Just and unjust alike taste of her gift.
+
+The girl is singing softly to herself in the middle of a garden. The sound of my footsteps must have alerted her to my presence and she turns around.
+
+The moment she catches sight of me, her eyes twinkle with joy.
+
+???: Signore Giuseppe! I knew you'd come back!
+
+Commander: ...
+If choice 1 was picked
+
+The girl stiffens for a moment and fiddles with her hair hesitantly.
+If choice 1 was picked
+
+???: I haven't changed the way I dress...
+
+???: Signore Giuseppe, I'm Henrietta, your Cyborg.
+If choice 1 was picked
+
+Commander: Henrietta?
+If choice 2 was picked
+
+The girl is a complete stranger to me.
+
+However, thanks to something like an in-game notification, I'm now aware of her name and identity.
+
+She is my "Cyborg", a partner who aids me in battle.
+If choice 2 was picked
+
+Commander: Yes, I'm back, Henrietta.
+
+Hearing me say her name, she immediately breaks into a smile.
+
+It's a pure and genuine smile from the heart. Her cheeks flush a rosy pink. If I didn't know I'm on Level II of the electronic world, I would've thought it's an actual girl standing before me.
+
+She lowers her head and looks up at me shyly, then finally says with a big smile...
+
+Henrietta: Welcome back, Signore Giuseppe!
+
+...
+
+The garden is imbued with faint aroma. It smells of flowers and tea leaves.
+
+Commander: Is this what it's like on Level II? It looks more realistic than I imagined.
+
+Kalina: This girl seems to be a neural cloud consciousness stored within this space. I can detect a massive torrent of data from her.
+
+Commander: So have we found the culprit?
+
+Kalina: I would say so...but how could such a sweet girl be the nasty hacker that we're after?
+
+Kalina: She doesn't seem to have any motive for seizing the neural clouds of our Dolls.
+
+Commander: In any case, let's try talking to her.
+
+Commander: Is this "Signore Giuseppe" the original user of this account?
+
+Kalina: Probably. I think you might need to do some roleplay. Just improvise while you talk to her; we might find out more.
+
+Commander: Alright, I'll give that a try.
+
+Henrietta: We're here, Signore Giuseppe. Please take a seat.
+
+Henrietta: I'm so glad I've prepared snacks beforehand so our tea party could start on time.
+
+Commander: Thank you, the tea is wonderful.
+
+Commander: Henrietta...isn't it? Have you been here the whole time?
+
+Henrietta: Yes, I've been waiting for you ever since you left. I wanted to be the first to welcome you home...
+
+Henrietta: You must've been very busy. May I ask what you've been doing?
+
+Commander: Hmm...nothing out of the usual.
+
+Henrietta: So it was a mission with Section 1?
+
+Commander: Section 1?
+
+Commander: Yeah...I suppose.
+
+Henrietta: I see... So it really was a covert operation.
+
+Henrietta: You mentioned no Cyborgs were allowed on the mission so I suspected it had something to do with Section 1.
+
+Henrietta: But that's okay, we've all been waiting for you to come back.
+
+Commander: "We"?
+
+I look around. The garden is charming but empty. A building is partially obscured in the distance. But no matter how I look at it, Henrietta and I appear to be the only people in the garden.
+
+Henrietta: Are you looking for Triela and the others? They're out playing.
+
+Henrietta: We've all been waiting for a long time so they've all headed off to do their own thing.
+
+Commander: Who's Triela...?
+
+Commander: Never mind, let's leave that for now.
+
+Commander: Henrietta, have you seen any strangers lately?
+
+Henrietta: Strangers? I did see quite a lot of them the past few days...
+
+Henrietta: What kind of strangers are we talking about?
+
+Commander: ...
+If choice 1 was picked
+
+Henrietta: A red-headed girl...? I did see a distinctive Cyborg like that, but I wouldn't say she's particularly tall. Her hair was in twin tails and she was wearing what looked like a custom-made ceremonial dress.
+
+Henrietta: She's with Angelica right now.
+If choice 2 was picked
+
+Henrietta: A girl with purple hair... I did see her. She seemed really shy.
+
+Henrietta: She's with Triela.
+If choice 3 was picked
+
+Henrietta: Oh, you mean the lady in the immaculate uniform! She was dressed like a military police officer. She looked really awe-inspiring but was very approachable at the same time...
+
+Henrietta: She's with Rico.
+If choice 4 was picked
+
+Henrietta: Many women match that description...
+If choice 4 was picked
+
+Commander: Her hair is especially fluffy. It's fanned out like this.
+If choice 4 was picked
+
+Henrietta: Oh, now that you mention it, I remember seeing something like that. She came in a pumpkin – like that princess in the fairy tale.
+
+Henrietta: She's with Claes.
+
+Henrietta: ...Are they enemies...or maybe spies from the Five Republics?
+
+Commander: No, no, they're not enemies. They're my friends.
+
+Her hands ball up into fists as she clutches at the hem of her dress.
+
+Henrietta: ...I see. Friends, you say...?
+
+Henrietta: Then I suppose I'll have to thank them.
+
+Commander: Thank them?
+
+Henrietta: They must be your new Fratello, that's why you've come back to look for them, right?
+
+Henrietta: But...I miss you so much... So you didn't come back for me?
+
+Commander: Has she been waiting for the owner of this account the whole time? She still doesn't know she's been abandoned? That's kinda sad.
+
+Commander: Don't worry... Henrietta, I did come back for you.
+
+Henrietta: Hmmm... ehehe
+
+Commander: What is it?
+
+Henrietta: Nothing... I'm just very happy to hear you say that, Signore Giuseppe.
+
+Henrietta: It has always been like this between the two of us - "there's no need for words between brothers and sisters."
+
+Commander: Right... Hold on, brothers and sisters?
+
+Commander: You mean us?
+
+Henrietta: Have you forgotten, Signore Giuseppe?
+
+Henrietta: We're partners working for the Social Welfare Agency – a "Fratello".
+
+Henrietta: You're my Handler, and I'm your Cyborg. As Cyborgs, we protect our Handler with our own life and do everything we can to help you fulfill your wish.
+
+Commander: Kalin, some explanation, please?
+
+Kalina: On it. I searched the database and found an explanatory document of the setting. Sending it to you right now.
+
+Kalina sends me the document and I skim through it quickly without letting Henrietta know.
+
+In the setting, the "Social Welfare Agency" is a special service department within the government that operates under the facade of a welfare organization.
+
+They take in girls who fell victims to unfortunate accidents and give them a second chance at life by converting them into Cyborg assassins. They are then paired with agents known as "Handlers" and undertake missions for the government under the table.
+
+Cyborgs... They're similar to T-Dolls, but also vastly different.
+
+The fact that they're called Cyborgs means these are living, breathing human beings with flesh and blood. Their "Handlers" must've carried a much heavier burden than us T-Doll Commanders.
+
+So the owner of this account played the role of a "Handler"? Then I suppose it makes sense why he never came back.
+
+Still, what has all this got to do with our Dolls?
+
+Looks like I must start investigating this girl to get to the bottom of this.
+
+Henrietta: Signore Giuseppe?
+
+Commander: Sorry, I spaced out for a bit.
+
+Commander: ...You're right, of course.
+
+Commander: I'm sorry for not coming back earlier. The mission took a lot longer than I'd thought.
+
+Henrietta: It's alright, missions from the Agency always come first.
+
+Henrietta: Besides, I don't mind waiting because I know you'd come back the second you can!
+
+Commander: Uh... Indeed.
+
+Commander: Henrietta, do you mind showing me to the new...Cyborgs?
+
+Henrietta: Don't you want to stay a little longer?
+
+Henrietta: You literally just came back...
+
+Henrietta: Or do they matter more than me?
+
+I notice an odd gleam in Henrietta's eyes.
+
+The Agency demand absolute loyalty from their Cyborgs, so they brainwash the girls through a "Conditioning" process to make them obey their Handlers without question, but this pure devotion instilled by their Conditioning would inevitably get twisted into something else.
+
+Which is why I must tread carefully when communicating with this girl.
+
+Commander: Those girls have information concerning our previous mission and I need that information.
+
+Henrietta: Oh...is that so...
+
+Henrietta's eyes soften, much to my relief.
+
+Henrietta: But even I don't know their exact location.
+
+Commander: Why?
+
+Henrietta: Have you forgotten about that as well? Look at that building. That's "Vita".
+
+Henrietta: You told us we could spend our free time there while you were out with Signore Jean and the others.
+
+Commander: Vita?
+
+Henrietta: That's right. In this place called Vita, we can wish for anything; we can create the perfect world for ourselves to play freely in.
+
+Henrietta: Angelica, Rico, Triela, and Claes are all in there.
+
+Commander: What about you?
+
+Henrietta: ...
+
+The question seems to have caught her off-guard and made her a bit uncomfortable. She hunches up in the chair while her eyes dart around frantically.
+
+Commander: Henrietta?
+
+Henrietta: I...I was waiting for you to come back.
+
+Henrietta: I didn't want to go there on my own... I thought it'd only be appropriate if I went together with you, Signore Giuseppe.
+
+Commander: I...I see.
+
+Commander: Then when are they coming out?
+
+Henrietta: Hmm...I'm not sure, but it's probably going to take a while.
+
+Commander: I'm afraid I can't wait that long.
+
+Henrietta: Then let's go find them together!
+
+Henrietta: You can come with me!
+
+Commander: Going into Vita? Just like that?
+
+Henrietta: Is there a problem?
+
+Commander: N-no, let's set off right away.
+
+Henrietta: Okie~ Ehehe~
+
+As if suppressing strong feelings, she takes my hand and pulls me toward the building outside the garden.
+
+The sun shines through the foliage and sprinkles Henrietta's smiling face with spots of light and shadow. For some reason, I feel strangely protective of her.
+
+Are these girls' stories just fiction? Or did they actually happen somewhere and were somehow documented in this stretch of cyberspace?
+
+With these questions buzzing in my head, I am led by Henrietta into the building known as "Vita".
+
+The building isn't as bright and spacious as I thought. Quite the contrary, it's pitch dark. Not a ray of sunlight penetrates into the construction; I can't even orient myself.
+
+If it weren't for the solid surface beneath my feet, I wouldn't even be sure I'm actually standing on the ground.
+
+Commander: Kalina, could you scan this area?
+
+Kalina: It seems to be a subspace in the database. Access authorizations seem to be a bit jumbled and some pre-established subroutines have been written into the program...
+
+Commander: Uh... In a language I can understand please?
+
+Kalina: That is to say, it's like walking into an opera. Everything is written and pre-arranged.
+
+Commander: Opera, huh...
+
+Commander: Henrietta?
+
+Commander: Are you still here?
+
+As if to answer my call, her soft, delicate hand squeezes mine with more force, and she keeps leading me in the same direction.
+
+Even though I still can't see a thing, I feel somewhat more reassured having her with me.
+
+Commander: Are there no lights in the building?
+
+Henrietta: No.
+
+Henrietta: "Darkness is the best place for imagination because everything in here is unknown."
+
+Henrietta: That's what Signore Marco once said.
+
+Commander: Marco?
+
+Henrietta: That's Angelica's Handler.
+
+Henrietta: Are you sure you're feeling alright, Signore Giuseppe? You seem to be rather forgetful today.
+
+Commander: Oh, sorry, but I'm fine. I'm just a bit slow.
+
+Henrietta: So even you have your careless moments. Are you scared because it's so dark in here?
+
+Henrietta: Then let me sing a song for you.
+
+Henrietta: "Joy, bright spark of divinity, Daughter of Elysium..."
+
+Commander: "Fire-inspired we tread thy sanctuary..."
+
+Commander: Do you like Symphony No. 9 a lot?
+
+Henrietta: We sang it together the night we watched the meteor shower.
+
+Henrietta: No matter what plight I may face, whenever I sing that song, I think back to that moment and feel calm again.
+
+Commander: That's a pretty good way to comfort yourself.
+
+Henrietta's chuckle drifts back toward me; she seems very happy.
+
+After a while, she comes to a halt.
+
+Henrietta: We're here. Angelica's Vita is the closest so it's pretty easy to locate.
+
+Commander: But I'm not seeing anything?
+
+Henrietta: There's a door over here. Can't you see it?
+
+Henrietta's arm extends into the dark, and light starts seeping through as if there really was a door there.
+
+Henrietta: Let's go in, Signore Giuseppe.
+
+I walk into a scene of dazzling brightness and busy hubbub.
+
+Having emerged from a dark and quiet place, I have to stop and squint to let my eyes adjust to the new environment.
+
+Carcano M1891: Signore Marco! If you don't hurry, I'm going to leave you behind!
+
+Commander: Marco?
+
+Commander: Isn't that Angelica's Handler?
+
+Commander: There you are, Cano...
+
+Carcano M1891: What are you talking about, Signore Marco?! I've always been here.
+
+Carcano M1891: Is your head addled with sleep?
+
+I take in my surroundings. Cano and I are standing in a street.
+
+There are no reflective glasses or digital displays, just the solid austerity that's characteristic of architecture in the olden days. Other than the sun, nothing here pierces the eye.
+
+From what I learned in school, this seems to be pre-WWIII Rome.
+
+However, I've lost track of Henrietta. I look around anxiously but can't find her anywhere.
+
+Commander: ...
+
+Commander: Henrietta?
+
+Henrietta's Voice: I'm here, Signore Giuseppe. I'm standing right next to you, but I can't seem to touch you or anything here – how strange.
+
+Henrietta's Voice: Can you not see me?
+
+Henrietta's Voice: This is the first time I've entered someone else's Vita. I wonder if this is supposed to happen...
+
+Kalina: Of course! Because of the pre-established subroutine, anyone not in the script is excluded from the scene.
+
+Commander: Then how come I can talk to Cano?
+
+Kalina: Your login ID has been automatically changed to the Handler named Marco. Maybe this has something to do with the subroutine as well?
+
+Commander: You mean I'll have to pretend to be another person in here?
+
+Kalina: Well... Do your best!
+
+Henrietta's Voice: I'm sorry... I volunteered to bring you into Vita, but now I'm completely useless...
+
+Commander: Don't worry, just stay by my side. It would be great if you could answer whatever questions I have.
+
+Henrietta's Voice: Umm... Sure! I'll tell you whatever you want to know! You just have to ask, Signore Giuseppe!
+
+Commander: Right then... It's time to start playing this Marco.
+
+Carcano M1891: ...Signore Marco? Why have you gone all quiet?
+
+Carcano M1891: I was just joking. You're not mad at me, are you?
+
+Commander: Oh... No, I'm not.
+
+Commander: I'm just glad that you're okay.
+
+Carcano M1891: Hmm? Of course I'm okay. You're so weird today, Signore Marco.
+
+Carcano M1891: Oh, no! We'll miss the train back if we don't hurry!
+
+Carcano M1891: If we get home late, you'll get another lecture from Jean!
+
+Carcano M1891: What if he gets angry and sends you off to Hereford?!
+
+Cano drags me on by the hem of my coat in great hurry. I try to gather my thoughts as I run after her.
+
+Cano doesn't seem to have recognized me as the Commander. Rather, she's treating me as a Handler who exists in this world.
+
+Has her memory been altered? Is that why none of the Dolls have returned?
+
+I've got to get to the bottom of this...
+
+Carcano M1891: I've completed my training today!
+
+Commander: I saw the data. You did great.
+
+Carcano M1891: Heheh, Cano is the best Cyborg!
+
+Carcano M1891: Signore Marco, will I get a reward for doing well today?
+
+Commander: Reward?
+
+Carcano M1891: Huh? You haven't forgotten, have you?
+
+Carcano M1891: You promised you'd buy me the sequel to the picture book if I perform well!
+
+Commander: The picture book?
+
+Carcano M1891: You know, "The Prince of the Kingdom of Pasta"!
+
+The speed at which time passes can be manually adjusted with this account. Three days have elapsed since I entered this story.
+
+I have temporarily paused the story, causing Cano to freeze in a rather comical posture.
+
+I open up the document. Apparently, the picture book was written by this Marco for his Cyborg.
+
+However, at this point in time, it shouldn't be in public circulation.
+
+Commander: Have you ever heard of the picture book, Henrietta?
+
+Henrietta's Voice: Of course; the story is quite famous within the Agency.
+
+Commander: But you can't buy the book in any bookstore, right? After all, Marco wrote it with his colleagues.
+
+Henrietta's Voice: Hmm... That is correct, but anything is possible in Vita.
+
+Commander: Is that so...? Must be the subroutine again.
+
+I resume the story. Cano is looking expectantly at me with sparkling eyes.
+
+Commander: Oh, you're right.
+
+Commander: Now I remember. Since you did so well today, I've got to reward you.
+
+Carcano M1891: Then are we...
+
+Commander: Yep, we're getting that book today.
+
+Carcano M1891: Hooray! Thank youuuuuu, Signore Marco!
+
+Cano runs out of the office cheering.
+
+I've been reading and re-reading this story, hoping to find something while I skip through moments, but I remain disappointed.
+
+Cano's memories show no sign of returning, and I haven't caught even a glimpse of Angelica, the original owner of this Vita.
+
+Angelica isn't on the list of Cyborgs who work under the Agency. All records of her have been replaced by Cano. Still, despite the lack of result from my investigation, I did find a lot more information about the Agency and their Cyborgs.
+
+Commander: Cyborgs can't hope to compare with T-Dolls when it comes to combat capabilities. Through augmentation, they can only make the girls about as strong as the average adult man, though I suppose that's enough for a special service organization who needs to keep a low profile...
+
+Commander: However, it's still very inhumane. They drastically reduce the girls' lifespan and even brainwash them. They take everything away from them but give them a first-class living environment as if out of magnanimity. What on earth are they thinking at this Agency?
+
+Kalina: Commander, can you hear me?
+
+Commander: Anything new?
+
+Kalina: I've been studying the subroutines in there. It seems that only the corresponding authorized user can alter the program.
+
+Commander: You can't do it from outside?
+
+Kalina: My access keeps being denied. I think in order to solve the problem, you must first find this girl called Angelica.
+
+Kalina: A story is unfolding by the script in there. If you let it run its course, the subroutine will eventually lose effect.
+
+Commander: So I have to let the whole thing play out and guide it to the scripted ending...?
+
+Kalina: That seems to be the case.
+
+Kalina: I don't know why Cano has replaced Angelica in this story, but as long as she's still in there as a character of the play, you're bound to run into her at some point.
+
+Commander: How can you be so sure?
+
+Kalina: Because it's a story. As the original main character, she's got to make an appearance sooner or later. That's the rule that all stories must abide by.
+
+Commander: That explanation sounds way too meta... Anyway, I'll give it a try.
+Part 2
+
+2
+
+Carcano M1891: Ah... I don't know why but somehow it feels like it's been ages since I last had an outing!
+
+Carcano M1891: Everything looks new to me.
+
+Commander: That's probably because you've been busy with missions.
+
+Carcano M1891: Missions from the Agency are the most important, aren't they?
+
+Carcano M1891: But after work, it's only right to march~ ahead~ happily like this!
+
+Commander: You're really cheerful.
+
+Commander: My, you've bought a lot of books. I thought there was only one new picture book?
+
+Carcano M1891: We don't get to go out often, so Claes and the others have asked me to get them some books too.
+
+Carcano M1891: I don't have to pay out of my own pocket anyway, so I agreed to help, hehehe~
+
+Commander: Sheesh.
+
+Commander: Still, do you really need to read while you walk? Why don't you read it after we get home?
+
+Carcano M1891: But I'm DYING to find out what happens next!
+
+Cano explains as she twirls merrily in the street, waving her picture book around and being completely oblivious to everything else.
+
+Meanwhile, around the corner of the street, a girl is being dragged along by the leash of a gigantic dog.
+
+???: Hahaha, slow down, Perro!
+
+The girl is wearing a pretty dress and leather shoes, her heels pitter-pattering crisply against the ground.
+
+The sun shines mildly on her hair and clothes, casting a warm halo around her entire figure.
+
+???: Whoa!
+
+Woof woof woof!
+
+Cano and the girl collide into each other as the dog barks.
+
+Carcano M1891: Ow, ow, ow... S-Sorry about that! Are you okay?
+
+Cano jumps back on her feet and hurries over to help the other girl up.
+
+???: I'm alright, don't worry.
+
+The girl with long, brown hair smiles kindly even though she just got knocked over. She looks exactly like a well-mannered little lady from a rich family.
+
+She dusts herself off lightly and answers Cano with a smile while trying to soothe her spooked dog.
+
+Henrietta's Voice: Oh...
+
+Commander: What is it, Henrietta?
+
+Henrietta's Voice: That's Angelica. Why would she be here?
+
+I've kind of figured out who this girl is based on intuition, though her sudden appearance still takes me by surprise.
+
+The main character is bound to make an appearance...I suppose...?
+
+What exactly is the point of taking Angelica out of her own role in the play?
+
+Carcano M1891: I'm really sorry!
+
+Angelica: It's okay, really! Even Perro thinks it's no big deal, don't you, Perro?
+
+Big Dog: Woof!
+
+Carcano M1891: In that case, we'll be leaving~
+
+Angelica: Oh, one second. May I ask what book it is that you're holding...?
+
+Carcano M1891: Huh? This?
+
+Carcano M1891: It's the very popular "Prince of the Kingdom of Pasta"! Have you never read it?
+
+Angelica: No...I haven't, but...
+
+Angelica takes the picture book from Cano.
+
+Angelica: But...somehow it feels very familiar...
+
+Henrietta's Voice: That's the picture book Signore Marco wrote for her, how come she doesn't remember it at all?
+
+Henrietta's Voice: We all know it's not her fault, nor is it Signore Marco's fault...
+
+Commander: So whose fault is it?
+
+At that moment, an ear-splitting screech of a car's tires draws dangerously close. I haven't encountered any enemy here so far, but I can tell our interceptors are far from friendly.
+
+Cano also looks nervous. Clattering footsteps come from all around us – we're about to be surrounded.
+
+Commander: Cano, get Angelica out of—
+
+Before I can even finish, a burst of bullets are fired in my direction!
+
+Commander: !
+
+A force jerks me back abruptly from behind and I land heavily on the ground.
+
+A bullet whizzes past the top of my head and hits the wall behind me, producing a deafening crack.
+
+Meanwhile, Cano has already drawn her weapon and started returning fire.
+
+Carcano M1891: Are you okay?! It's a terrorist attack by the Five Republics!
+
+Commander: I'm fine! Get them all!
+
+I turn around and see Angelica staring at me with a terrified look on her face. It was undoubtedly her that just saved me by dragging me off my feet.
+
+No ordinary human with normal reflexes could've done that, but right now she looks exactly like an ordinary girl who's very frightened.
+
+Commander: Thanks for that.
+
+Angelica: I... What...
+
+Sitting on the ground, Angelica stares dubiously at her hands, then at me.
+
+Angelica: Signore...Marco?
+
+Commander: You know my name?
+
+Angelica: I shouldn't know you...but why do I feel like...
+
+Angelica's eyes gradually grow more resolved. I can sense the airs of a "rich girl" dissipating from her.
+
+Angelica: We can't let them get any closer. Please give me a gun, Signore Marco.
+
+Commander: But you...
+
+Angelica: I can fight! A gun, Signore Marco!
+
+I gape for a second, then I hand my sidearm to Angelica.
+
+Once she takes it, she immediately heads over to Cano and covers the flank almost instinctively.
+
+Henrietta: That's right, protecting our Handler is our most sacred duty, one that we can never forget. I was a little unsure when I first saw her, but now it's beyond all question – we have found the real Angelica.
+Part 3
+
+3
+
+Audio Recording: "We've run out of money..."
+
+Audio Recording: "I've borrowed a sum but it's only enough to cover our daily expenses. At least we can pay the bills for now..."
+
+...
+
+Audio Recording: "You've got to think of something. Aren't you a man?!"
+
+Audio Recording: "At this point, there's only one thing we can do..."
+
+...
+
+Audio Recording: "Have you got the money?"
+
+Audio Recording: "I bought several life insurance plans for Angelina with it."
+
+...
+
+Audio Recording: "As long as we pull through, we can have other, cuter children."
+
+Audio Recording: "Sweet dreams, my dear Angelina."
+
+...
+
+Audio Recording: "Cyborgs don't remember their past, so give her a new name."
+
+Audio Recording: "The only thing her parents did right was to name her after the angels... Let's call her Angelica."
+Part 4
+
+4
+
+???: Once upon a time, there was a kingdom of pasta.
+
+???: In that kingdom lived a prince who loved pasta.
+
+???: He would eat it every day. However...there was only one fork in the whole kingdom. The prince who always, always ate with the same fork thought...
+
+???: "It would be nice to use a different fork sometimes..."
+
+???: And so he began his quest for another fork.
+
+Commander: Isn't that the story of the picture book that Cano was reading?
+
+Commander: Some kind of note the account user left behind?
+
+Carcano M1891: We wiped out all the bad guys!
+
+Commander: I expect nothing less from you, Cano. What a clean job.
+
+Angelica: (Pants)
+
+Commander: Angelica, are you alright?
+
+Angelica: Signore Marco... I was just trying to recall this name...but my body started doing that on its own...
+
+Angelica: Signore Marco, have I forgotten something important again?
+
+Angelica: And this gun in my hand... Why does it feel so reassuring?
+
+Angelica: I don't think I've ever seen you in my life...
+
+Angelica stares at the weapon in her hand, and tears start streaming down her face.
+
+Angelica: There must be something I've forgotten! Please tell me!
+
+Henrietta's Voice: How can a Cyborg forget her own Handler? Signore Giuseppe, you must tell her everything that happened.
+
+Commander: ...
+
+Henrietta's Voice: Signore Giuseppe?
+
+Commander: Angelica.
+
+Angelica: Signore Marco?
+
+Commander: You're right, this IS the first time we've met.
+
+Commander: I have never seen a girl of such talent in fighting.
+
+Angelica: Huh?
+
+Commander: However, that gun isn't something you should use.
+
+Commander: I'm sorry for giving you an unpleasant experience.
+
+Angelica: B...but...Signore Marco.
+
+I take the weapon away from Angelica and pat her gently on the head.
+
+The police siren draws closer to the scene and the police rush out from their cars. I fish out my ID right away.
+
+Seeing that I'm with the Agency, the armed police officers finally relax around me.
+
+Then I get a phone call from the Agency. I explain the situation briefly and receive the instruction to return immediately.
+
+Commander: This little girl is a civilian caught in the attack. Please take care of her.
+
+Police: Yes, sir.
+
+Commander: Let's go, Cano. I'm afraid the sequel to your picture will have to wait.
+
+Carcano M1891: Hmm...can't be helped. Um, Signore Marco, can I go and say goodbye?
+
+Commander: Sure.
+
+Cano runs up to Angelica and starts shaking her hand enthusiastically.
+
+Carcano M1891: You were amazing! You really helped me out back there!
+
+Carcano M1891: If it weren't for you, Signore Marco would've been dead! I really can't thank you enough!
+
+Angelica: U...um! If it's possible, may I have that picture book, please?
+
+Carcano M1891: You mean "The Prince of the Kingdom of Pasta"?
+
+Angelica: Yes... For some reason, I can't stop thinking about it...
+
+Carcano M1891: Heheh, it's yours then!
+
+Carcano M1891: I hope you like the story, too!
+
+With that, Cano shoves the book into Angelica's arms and skips back to me.
+
+Angelica stares blankly at the picture book for a long while, then looks up suddenly as if something just occurred to her.
+
+Angelica: Excuse me, will we see each other again?
+
+Carcano M1891: If you like that book, I'm sure our paths will cross again some day!
+
+The car sent by the Agency to collect us is here. I get in with Cano, who keeps waving at Angelica through the window.
+
+As the car drives away, the scene starts fading out. I realize the story has come to its conclusion.
+
+???: She really loved the story, so we kept making it longer and longer.
+
+???: I don't believe everything I did back then was for nothing, even though she no longer remembers the story.
+
+???: Perhaps forgetting everything is the only way she can have true happiness. Happiness which people who have abandoned her — like me — have no part in; happiness that is entirely her own.
+
+???: Her parents might be unforgivable scum in the original world, but at least they love her more than anyone else here.
+
+???: Which is why it's enough to leave this story behind. I just want her to live on as an ordinary girl.
+
+This is the last story I can write for her.
+Part 5: Twilight Stars
+
+5
+
+Back in the garden.
+
+We've left Angelica's Vita and returned to the garden in the blink of an eye.
+
+Henrietta has re-materialized next to me, with two girls sleeping soundly using her lap as a pillow. She strokes their heads gently.
+
+The sun is holding off the night with its final blaze and turning the clouds a fiery red, but it is still gradually giving in to the descending darkness.
+
+Henrietta: I see that both Angelica and Cano are sleeping nicely.
+
+Henrietta: I most certainly didn't expect Angelica's story to end like that.
+
+Commander: Were you surprised?
+
+Henrietta: Yeah... Very much so.
+
+Henrietta: A Cyborg should never forget about her Handler. To me, it's akin to an act of betrayal.
+
+Commander: But...what if that's the ending that her Handler wanted for her?
+
+Henrietta: You mean Signore Marco wished Angelica would forget him?
+
+Commander: In that Vita, I could sense the Handler's guilt and regret, as well as the feelings he had for Angelica.
+
+Commander: "Instead of sacrificing herself for me as a Cyborg, she'd be better off forgetting everything and living happily ever after."
+
+Commander: That's the gist of it...
+
+Henrietta: Is that...how Signore Marco feels?
+
+Henrietta: I would never be able to accept that.
+
+Commander: The sentimental attachment you have to your Handler is a result of your Cyborg Conditioning...
+
+Commander: There's no need for you to sacrifice yourselves over these artificial emotions.
+
+Henrietta: That's not true!
+
+Henrietta: My feelings for you have nothing to do with my Conditioning! If even you think I should forget you, I'd rather...
+
+Henrietta jumps to her feet in great agitation, then immediately realizes her indiscretion and sits back down sheepishly.
+
+Henrietta: I'm so sorry, Signore Giuseppe. I promised everyone I wouldn't let my emotions get the better of me...
+
+Henrietta: But...I still hope if I ever end up in that situation, you will do whatever it takes to make me remember.
+
+Henrietta: I don't want to forget everything I've done with you just like that, Signore Giuseppe.
+
+Commander: Uh...right.
+
+Henrietta's abrupt movement has jolted Cano and Angelica awake.
+
+The two girls sit up groggily and look around in confusion.
+
+Carcano M1891: Huh...? Where am I...? Is that you, Commander?
+
+Kalina: Cano seems to have returned to normal. We should talk on an encrypted channel. It'd be bad if those children overhear things that they shouldn't know.
+
+Commander: That's what Kalina said.
+
+Carcano M1891: Alright... But that's a strange request.
+
+Commander: Have your memories returned? Do you still remember me?
+
+Carcano M1891: What an odd thing to ask. Aren't you the Commander?
+
+Carcano M1891: Oof... My head feels really woozy, as if I just had a very long dream.
+
+Commander: Do Dolls also dream...?
+
+Carcano M1891: I think you were there in the dream!
+
+Carcano M1891: Oh right, where are Ceno and the others?
+
+Commander: Answer me first. How did you get in here?
+
+Carcano M1891: S.A.T.8 found a really interesting place on Level II, so we came in for a stroll while enjoying our pizza.
+
+Carcano M1891: The next thing I knew, you're standing right in front of me.
+
+Kalina: Our Dolls seem to have gotten lost in the stories of this place. Their neural clouds are being used to simulate stories that belong to some other characters.
+
+Kalina: That's why they're trapped here until their stories draw to a close.
+
+Commander: So the only way to get them out safely is to play through all the stories?
+
+Kalina: That would certainly be the most benign way of doing it... The girls in this space don't seem to be hostile, so we should solve the problem without hurting them if possible.
+
+Commander: I think you're just curious about the stories...
+
+Kalina: Ha...haha... I mean, they ARE interesting.
+
+Carcano M1891: So what should I do now?
+
+Kalina: It looks pretty safe in the garden. You should be able to come back to base anytime, Cano.
+
+Carcano M1891: Hmm...I think I'll wait for the others here. If I leave without Ceno, she'll kick up a massive fuss.
+
+Commander: Is it okay for her to stay here?
+
+Kalina: It should be fine as long as she doesn't run off. The garden doesn't have any authorization restrictions.
+
+Carcano M1891: Even Miss Kalin says so. Besides, I can't stop thinking about that girl with the long hair. I have a strange feeling that I've met her before.
+
+I turn around and see Henrietta chatting with Angelica. Angelica asks her when the Handlers are coming back. Henrietta shakes her head in response and Angelica looks disappointed.
+
+Angelica: My body is mostly recovered. I wish Signore Marco could see me soon so he'd bring me along on missions again.
+
+Henrietta: I'm sure he'll be back shortly. After all, Signore Giuseppe is here.
+
+Angelica: Yeah, I'm sure you're right.
+
+Carcano M1891: Uh...um, my name is Carcano. Mind if I join you?
+
+Angelica: Oh...s-sure. Are you a new Cyborg?
+
+Carcano M1891: Hmm? Cyborg? I guess so?
+
+Angelica: You seem kind of familiar...
+
+Carcano M1891: What a coincidence! I feel exactly the same about you!
+
+Carcano M1891: Uh, listen... Do you know the story of the Prince of Pasta?
+
+Cano and Angelica strike up a conversation naturally as if they've known each other for a long time.
+
+Henrietta takes my hand and drags me away from them quietly.
+
+Henrietta: Signore Giuseppe, let's sit here for a while.
+
+Commander: Sure.
+
+Henrietta and I sit down on a bench on the other side of the garden. The sun has almost set completely; only a stroke of salmon pink lingers above the horizon.
+
+Henrietta keeps changing the way she clasps her hands, as if still bothered by what happened just now.
+
+Commander: Something's on your mind.
+
+Henrietta: I'm sorry, Signore Giuseppe...
+
+Henrietta: But I still can't fathom why you didn't tell Angelica the truth. Even if you aren't the real Signore Marco, surely you can still understand the bond between a Cyborg and her Handler?
+
+I think back on the days I've spent with my Dolls. We are fortunate to have discovered neural cloud technology. If my Dolls were destroyed in battle and ended up forgetting everything afterwards, I would be devastated.
+
+If I could help it, I'd also do whatever I can to keep my Dolls from dangerous fights. If one weren't compelled by the circumstances, who would willingly watch everything they cherish crumble to dust?
+
+Commander: I'm sorry if I was being presumptuous.
+
+Henrietta: I understand how you feel, Signore Giuseppe. After all, you've always been kind-hearted...
+
+Henrietta: An ordinary girl would be happy to live an ordinary life.
+
+Commander: You are all ordinary girls to me.
+
+Henrietta: But we aren't. Can ordinary girls kill with no remorse?
+
+Henrietta: We are not ordinary girls – we are Cyborgs, and Cyborgs have our own way of life.
+
+Henrietta: That's why to us, severing our bond with our Fratello is more painful than death.
+
+Henrietta: If I were just an ordinary girl, I wouldn't be able to do anything. If I want to be of any use to you, Signore Giuseppe, then I cannot afford to be an ordinary girl!
+
+Commander: Not an ordinary girl...? It's hard to agree with her when she said that looking so innocent...but I can't bring myself to argue with her.
+
+Commander: I'm sorry, I understand the full extent of your resolve as a Cyborg.
+
+Commander: Let's make our way to the next Vita. The other girls are probably waiting for us.
+
+Henrietta: ...Do we have to go now?
+
+Commander: I must get my new friends out. There are important missions waiting for them.
+
+Henrietta: But it's very safe in Vita; maybe they could come out by themselves. Why do you have to trouble yourself with this task, Signore Giuseppe?
+
+Commander: It's my mission.
+
+Henrietta: ...I see.
+
+Henrietta: Then let's go to Rico's next. Her Vita is also quite easy to find. It's just behind the second window to the left of the door.
+
+Commander: Right, then let's go.
+
+Henrietta: Okay...
+
+Henrietta: Um... Before we set off, could you please stay with me for just a little longer?
+
+Henrietta: Think of it as my reward for staying with you in Angelica's Vita.
+
+Commander: Fine, if that's what you want.
+
+Commander: What would you like me to do?
+
+Henrietta: Heheh...
+
+Henrietta: You don't have to do anything, Signore Giuseppe. Just sit with me.
+
+Henrietta shuffles a bit closer to me inconspicuously and looks up at the now completely dark sky.
+
+I follow her gaze. The distant stars are already shining faintly, twinkling as they're occasionally obscured by the drifting clouds.
+
+Henrietta: The stars are beautiful as always.
+
+Commander: Do you like the stars?
+
+Henrietta: Yes. Have you forgotten? The first time I went stargazing was with you on the rooftop.
+
+Henrietta: People came up with stories for the stars, and I came to understand how kind you actually are as you told me those stories.
+
+Henrietta: Whenever I see the stars, I'm reminded of all the legends and myths that you've shared with me, Signore Giuseppe.
+
+Commander: Is that so...?
+
+Henrietta: That's why I want to help Signore Giuseppe no matter what...
+
+Henrietta: I don't want to forget anything about Signore Giuseppe...
+
+Commander: Giu...I won't forget you either.
+
+Henrietta: (Giggles)
+
+We speak no more and simply watch the night sky in silence amidst the fragrant flowers and chirping critters.
+
+A few fireflies hover before me. I stretch out towards the faint glowing orbs , but they're beyond my reach despite their apparent proximity.
+
+Henrietta is now leaning against my shoulder, breathing evenly. I noticed she had looked a bit tired before, and now she's fast asleep.
+
+Just how long has she been waiting? If I hadn't entered this space, how long was she going to keep waiting?
+
+And where has her Handler gone, or has he already forgotten about her?
+
+I recall how long it has been since the last login record – she has undoubtedly been left behind by the world in which she had belonged.
+
+The thought makes me melancholic. Perhaps time will inevitably erase all traces of our existence – both hers and mine.
+
+And perhaps that is why she was so upset.
+
+Perhaps the final wish of these girls is to never be forgotten.
+Part 6
+
+    6chevron_right
+
+The building isn't as bright and spacious as I thought. Quite the contrary, it's pitch dark. Not a ray of sunlight penetrates into the construction; I can't even orient myself.
+
+If it weren't for the solid surface beneath my feet, I wouldn't even be sure I'm actually standing on the ground.
+
+Commander: Kalina, could you scan this area?
+
+Kalina: It seems to be a subspace in the database. Access authorizations seem to be a bit jumbled and some pre-established subroutines have been written into the program...
+
+Commander: Uh... In a language I can understand please?
+
+Kalina: That is to say, it's like walking into an opera. Everything is written and pre-arranged.
+
+Commander: Opera, huh...
+
+Commander: Henrietta?
+
+Commander: Are you still here?
+
+As if to answer my call, her soft, delicate hand squeezes mine with more force, and she keeps leading me in the same direction.
+
+Even though I still can't see a thing, I feel somewhat more reassured having her with me.
+
+Commander: Are there no lights in the building?
+
+Henrietta: No.
+
+Henrietta: "Darkness is the best place for imagination because everything in here is unknown."
+
+Henrietta: That's what Signore Marco once said.
+
+Commander: Marco?
+
+Henrietta: That's Angelica's Handler.
+
+Henrietta: Are you sure you're feeling alright, Signore Giuseppe? You seem to be rather forgetful today.
+
+Commander: Oh, sorry, but I'm fine. I'm just a bit slow.
+
+Henrietta: So even you have your careless moments. Are you scared because it's so dark in here?
+
+Henrietta: Then let me sing a song for you.
+
+Henrietta: Joy, bright spark of divinity, Daughter of Elysium..."
+
+Commander: "Fire-inspired we tread thy sanctuary..."
+
+Commander: Do you like Symphony No. 9 a lot?
+
+Henrietta: We sang it together the night we watched the meteor shower.
+
+Henrietta: No matter what plight I may face, whenever I sing that song, I think back to that moment and feel calm again.
+
+Commander: That's a pretty good way to comfort yourself.
+
+Henrietta's chuckle drifts back toward me; she seems very happy.
+
+After a while, she comes to a halt.
+
+Henrietta: We're here. Angelica's Vita is the closest so it's pretty easy to locate.
+
+Commander: But I'm not seeing anything?
+
+Henrietta: There's a door over here. Can't you see it?
+
+Henrietta's arm extends into the dark, and light starts seeping through as if there really was a door there.
+
+Henrietta: Let's go in, Signore Giuseppe.
+
+I walk into a scene of dazzling brightness and busy hubbub.
+
+Having emerged from a dark and quiet place, I have to stop and squint to let my eyes adjust to the new environment.
+
+Carcano M1891: Signore Marco! If you don't hurry, I'm going to leave you behind!
+
+Commander: Marco?
+
+Commander: Isn't that Angelica's Handler?
+
+Commander: There you are, Cano...
+
+Carcano M1891: What are you talking about, Signore Marco?! I've always been here.
+
+Carcano M1891: Is your head addled with sleep?
+
+I take in my surroundings. Cano and I are standing in a street.
+
+There are no reflective glasses or digital displays, just the solid austerity that's characteristic of architecture in the olden days. Other than the sun, nothing here pierces the eye.
+
+From what I learned in school, this seems to be pre-WWIII Rome.
+
+However, I've lost track of Henrietta. I look around anxiously but can't find her anywhere.
+
+Commander: ...
+
+Commander: Henrietta?
+
+Henrietta's Voice: I'm here, Signore Giuseppe. I'm standing right next to you, but I can't seem to touch you or anything here – how strange.
+
+Henrietta's Voice: Can you not see me?
+
+Henrietta's Voice: This is the first time I've entered someone else's Vita. I wonder if this is supposed to happen...
+
+Kalina: Of course! Because of the pre-established subroutine, anyone not in the script is excluded from the scene.
+
+Commander: Then how come I can talk to Cano?
+
+Kalina: Your login ID has been automatically changed to the Handler named Marco. Maybe this has something to do with the subroutine as well?
+
+Commander: You mean I'll have to pretend to be another person in here?
+
+Kalina: Well... Do your best!
+
+Henrietta's Voice: I'm sorry... I volunteered to bring you into Vita, but now I'm completely useless...
+
+Commander: Don't worry, just stay by my side. It would be great if you could answer whatever questions I have.
+
+Henrietta's Voice: Umm... Sure! I'll tell you whatever you want to know! You just have to ask, Signore Giuseppe!
+
+Commander: Right then... It's time to start playing this Marco.
+
+Carcano M1891: ...Signore Marco? Why have you gone all quiet?
+
+Carcano M1891: I was just joking. You're not mad at me, are you?
+
+Commander: Oh... No, I'm not.
+
+Commander: I'm just glad that you're okay.
+
+Carcano M1891: Hmm? Of course I'm okay. You're so weird today, Signore Marco.
+
+Carcano M1891: Oh, no! We'll miss the train back if we don't hurry!
+
+Carcano M1891: If we get home late, you'll get another lecture from Jean!
+
+Carcano M1891: What if he gets angry and sends you off to Hereford?!
+
+Cano drags me on by the hem of my coat in great hurry. I try to gather my thoughts as I run after her.
+
+Cano doesn't seem to have recognized me as the Commander. Rather, she's treating me as a Handler who exists in this world.
+
+Has her memory been altered? Is that why none of the Dolls have returned?
+
+I've got to get to the bottom of this...
+
+Carcano M1891: I've completed my training today!
+
+Commander: I saw the data. You did great.
+
+Carcano M1891: Heheh, Cano is the best Cyborg!
+
+Carcano M1891: Signore Marco, will I get a reward for doing well today?
+
+Commander: Reward?
+
+Carcano M1891: Huh? You haven't forgotten, have you?
+
+Carcano M1891: You promised you'd buy me the sequel to the picture book if I perform well!
+
+Commander: The picture book?
+
+Carcano M1891: You know, "The Prince of the Kingdom of Pasta"!
+
+The speed at which time passes can be manually adjusted with this account. Three days have elapsed since I entered this story.
+
+I have temporarily paused the story, causing Cano to freeze in a rather comical posture.
+
+I open up the document. Apparently, the picture book was written by this Marco for his Cyborg.
+
+However, at this point in time, it shouldn't be in public circulation.
+
+Commander: Have you ever heard of the picture book, Henrietta?
+
+Henrietta's Voice: Of course; the story is quite famous within the Agency.
+
+Commander: But you can't buy the book in any bookstore, right? After all, Marco wrote it with his colleagues.
+
+Henrietta's Voice: Hmm... That is correct, but anything is possible in Vita.
+
+Commander: Is that so...? Must be the subroutine again.
+
+I resume the story. Cano is looking expectantly at me with sparkling eyes.
+
+Commander: Oh, you're right.
+
+Commander: Now I remember. Since you did so well today, I've got to reward you.
+
+Carcano M1891: Then are we...
+
+Commander: Yep, we're getting that book today.
+
+Carcano M1891: Hooray! Thank youuuuuu, Signore Marco!
+
+Cano runs out of the office cheering.
+
+I've been reading and re-reading this story, hoping to find something while I skip through moments, but I remain disappointed.
+
+Cano's memories show no sign of returning, and I haven't caught even a glimpse of Angelica, the original owner of this Vita.
+
+Angelica isn't on the list of Cyborgs who work under the Agency. All records of her have been replaced by Cano. Still, despite the lack of result from my investigation, I did find a lot more information about the Agency and their Cyborgs.
+
+Commander: Cyborgs can't hope to compare with T-Dolls when it comes to combat capabilities. Through augmentation, they can only make the girls about as strong as the average adult man, though I suppose that's enough for a special service organization who needs to keep a low profile...
+
+Commander: However, it's still very inhumane. They drastically reduce the girls' lifespan and even brainwash them. They take everything away from them but give them a first-class living environment as if out of magnanimity. What on earth are they thinking at this Agency?
+
+Kalina: Commander, can you hear me?
+
+Commander: Anything new?
+
+Kalina: I've been studying the subroutines in there. It seems that only the corresponding authorized user can alter the program.
+
+Commander: You can't do it from outside?
+
+Kalina: My access keeps being denied. I think in order to solve the problem, you must first find this girl called Angelica.
+
+Kalina: A story is unfolding by the script in there. If you let it run its course, the subroutine will eventually lose effect.
+
+Commander: So I have to let the whole thing play out and guide it to the scripted ending...?
+
+Kalina: That seems to be the case.
+
+Kalina: I don't know why Cano has replaced Angelica in this story, but as long as she's still in there as a character of the play, you're bound to run into her at some point.
+
+Commander: How can you be so sure?
+
+Kalina: Because it's a story. As the original main character, she's got to make an appearance sooner or later. That's the rule that all stories must abide by.
+
+Commander: That explanation sounds way too meta... Anyway, I'll give it a try.
+
+Carcano M1891: Ah... I don't know why but somehow it feels like it's been ages since I last had an outing!
+
+Carcano M1891: Everything looks new to me.
+
+Commander: That's probably because you've been busy with missions.
+
+Carcano M1891: Missions from the Agency are the most important, aren't they?
+
+Carcano M1891: But after work, it's only right to march~ ahead~ happily like this!
+
+Commander: You're really cheerful.
+
+Commander: My, you've bought a lot of books. I thought there was only one new picture book?
+
+Carcano M1891: We don't get to go out often, so Claes and the others have asked me to get them some books too.
+
+Carcano M1891: I don't have to pay out of my own pocket anyway, so I agreed to help, hehehe~
+
+Commander: Sheesh.
+
+Commander: Still, do you really need to read while you walk? Why don't you read it after we get home?
+
+Carcano M1891: But I'm DYING to find out what happens next!
+
+Cano explains as she twirls merrily in the street, waving her picture book around and being completely oblivious to everything else.
+
+Meanwhile, around the corner of the street, a girl is being dragged along by the leash of a gigantic dog.
+
+???: Hahaha, slow down, Perro!
+
+The girl is wearing a pretty dress and leather shoes, her heels pitter-pattering crisply against the ground.
+
+The sun shines mildly on her hair and clothes, casting a warm halo around her entire figure.
+
+???: Whoa!
+
+Woof woof woof!
+
+Cano and the girl collide into each other as the dog barks.
+
+Carcano M1891: Ow, ow, ow... S-Sorry about that! Are you okay?
+
+Cano jumps back on her feet and hurries over to help the other girl up.
+
+???: I'm alright, don't worry.
+
+The girl with long, brown hair smiles kindly even though she just got knocked over. She looks exactly like a well-mannered little lady from a rich family.
+
+She dusts herself off lightly and answers Cano with a smile while trying to soothe her spooked dog.
+
+Henrietta's Voice: Oh...
+
+Commander: What is it, Henrietta?
+
+Henrietta's Voice: That's Angelica. Why would she be here?
+
+I've kind of figured out who this girl is based on intuition, though her sudden appearance still takes me by surprise.
+
+The main character is bound to make an appearance...I suppose...?
+
+What exactly is the point of taking Angelica out of her own role in the play?
+
+Carcano M1891: I'm really sorry!
+
+Angelica: It's okay, really! Even Perro thinks it's no big deal, don't you, Perro?
+
+Big Dog: Woof!
+
+Carcano M1891: In that case, we'll be leaving~
+
+Angelica: Oh, one second. May I ask what book it is that you're holding...?
+
+Carcano M1891: Huh? This?
+
+Carcano M1891: It's the very popular "Prince of the Kingdom of Pasta"! Have you never read it?
+
+Angelica: No...I haven't, but...
+
+Angelica takes the picture book from Cano.
+
+Angelica: But...somehow it feels very familiar...
+
+Henrietta's Voice: That's the picture book Signore Marco wrote for her, how come she doesn't remember it at all?
+
+Henrietta's Voice: We all know it's not her fault, nor is it Signore Marco's fault...
+
+Commander: So whose fault is it?
+
+At that moment, an ear-splitting screech of a car's tires draws dangerously close. I haven't encountered any enemy here so far, but I can tell our interceptors are far from friendly.
+
+Cano also looks nervous. Clattering footsteps come from all around us – we're about to be surrounded.
+
+Commander: Cano, get Angelica out of—
+
+Before I can even finish, a burst of bullets are fired in my direction!
+
+Commander: !
+
+A force jerks me back abruptly from behind and I land heavily on the ground.
+
+A bullet whizzes past the top of my head and hits the wall behind me, producing a deafening crack.
+
+Meanwhile, Cano has already drawn her weapon and started returning fire.
+
+Carcano M1891: Are you okay?! It's a terrorist attack by the Five Republics!
+
+Commander: I'm fine! Get them all!
+
+I turn around and see Angelica staring at me with a terrified look on her face. It was undoubtedly her that just saved me by dragging me off my feet.
+
+No ordinary human with normal reflexes could've done that, but right now she looks exactly like an ordinary girl who's very frightened.
+
+Commander: Thanks for that.
+
+Angelica: I... What...
+
+Sitting on the ground, Angelica stares dubiously at her hands, then at me.
+
+Angelica: Signore...Marco?
+
+Commander: You know my name?
+
+Angelica: I shouldn't know you...but why do I feel like...
+
+Angelica's eyes gradually grow more resolved. I can sense the airs of a "rich girl" dissipating from her.
+
+Angelica: We can't let them get any closer. Please give me a gun, Signore Marco.
+
+Commander: But you...
+
+Angelica: I can fight! A gun, Signore Marco!
+
+I gape for a second, then I hand my sidearm to Angelica.
+
+Once she takes it, she immediately heads over to Cano and covers the flank almost instinctively.
+
+Henrietta: That's right, protecting our Handler is our most sacred duty, one that we can never forget. I was a little unsure when I first saw her, but now it's beyond all question – we have found the real Angelica.
+
+I lean Henrietta gently against the back of the bench.
+
+Even though she looks endearing as she sleeps, I have a mission that I must complete.
+
+Having gone through the first Vita, I now have a general idea of the rules of this place.
+
+The neural clouds of the Cyborgs that inhabit this space are all waiting for their own Handler's return, but those accounts haven't logged in since a long time ago for some reason.
+
+Our Dolls somehow wandered into this space and became a part of the Vitas in here, but there is some kind of malfunction in said stories.
+
+In addition, their neural clouds will be trapped inside forever if the stories aren't resolved.
+
+Now that I hold all the key information, the rest shouldn't be too difficult.
+
+Since the whole thing isn't a calculated attack, all I have to do is help these girls dream their sweet dreams.
+
+To be honest, knowing their circumstances, I can't really bring myself to harm them in any way.
+
+Commander: Kalin, I'm about to head to the next Vita.
+
+Kalina: Alright. I'm running a full diagnostic on Cano's neural cloud.
+
+Commander: Found any clues?
+
+Kalina: All her memories in the Vita are still intact. Nothing strange happened in there, but there is no record of how she ended up in the Vita in the first place.
+
+Kalina: All I can find is the part where they were gathered around a pizza in the dormitory.
+
+Commander: ...It got deleted?
+
+Kalina: Dolls don't have the authorization to edit their own memories, so that leaves only one possibility.
+
+Commander: So someone is behind this after all?
+
+Kalina: With the amount of information we have so far, that's the only assumption we can make.
+
+Commander: I see... But if someone's doing this deliberately, what do you think they're after?
+
+Commander: The Cyborgs we've met so far don't seem to have any ulterior motive.
+
+Kalina: I don't know even if you ask me...
+
+Kalina: Still, we haven't been in there for long, so there must still be plenty to find out.
+
+Kalina: Anyway, I'll keep investigating. Maybe I'll be able to gather more clues.
+
+Commander: Please do that.
+
+Kalina: Leave that to me~
+
+Kalina: Now hurry onto the next Vita. You might find something new, too. The faster we get this done, the sooner we can all go home with our Dolls.
+
+Kalina: Of course, tell me anytime if you run into any kind of trouble. I'll be enjoying your play-acting.
+
+Commander: ...Sheesh.
+
+Commander: Well, off I go then.
+
+I rise quietly. Henrietta's chest is still rising and falling evenly.
+
+I slip out of the garden, careful not to wake her from her dreams.
+
+Playing the part of the Handler that Henrietta trusts and respects is much more challenging than I'd thought. Even though I'm not in her company at the moment, I'm still hyperaware of my own behavior.
+
+I look towards the building I had entered not too long ago. Now that Henrietta has shown me the ropes, I think I can figure out how to find my way into the next Vita.
+
+The hall is still absolutely pitch dark, but I can perceive something calling out to me on a subconscious level.
+
+I close my eyes and walk forward in the dark, feeling my way towards the invisible door.
+
+I copy what Henrietta did and let myself be absorbed into the portal. I sense myself passing through, then I lose my center of gravity and hurtle into another realm of darkness.
+
+Space seems to have lost all meaning. I can't tell if I'm falling or rising. After god knows how long, I can finally feel the earth firmly beneath my feet.
+
+???: Excuse me, Signore. Are you feeling well?
+
+Someone seems to be talking to me. As the voice grows clearer, my surroundings also start registering inside my head.
+
+The scene has finished manifesting itself at last. I'm sitting at a dining table.
+
+???: Signore, can you hear me?
+
+I squint at the sudden brightness, but I can gradually make better sense of what I'm seeing.
+
+My table is by the window; the sun is just high enough to shine pass the roofs onto my face.
+
+The rest of the sunshine illuminates the table before me and casts glistening patches of light through the glass.
+
+It feels like a warm and pleasant afternoon.
+
+???: Did you fall asleep?
+
+Commander: Hmm?
+
+I'm jolted out of my disorientation. I look towards the voice and see a blonde girl with beautiful eyes dressed in a waitress' uniform.
+
+???: Are you awake now?
+
+???: Is there anything I could help you with?
+
+I freeze. I did not expect her to appear right in front of me just like that.
+
+I rub my eyes and rack my brains, trying to recall what I've read.
+
+This girl is indubitably the Cyborg I'm looking for.
+
+Commander: Rico?
+
+The name slips out almost instantly, probably due to shock.
+
+Rico: Huh?
+
+Rico looks confused for a second, but she maintains her professional and polite smile.
+
+I regret that immediately. I shouldn't have called a girl I've never met by her first name – I might as well have written "SUSPICIOUS WEIRDO" on my forehead.
+
+Rico: Um, have we met before?
+
+Commander: (Clears throat) ...Sorry.
+
+Commander: I'm probably still a bit sleep-addled.
+
+Commander: Where am I?
+
+Rico: This is the Villa Gaddi, a hotel. If you aren't feeling well, would you like me to escort you back to your room?
+
+Commander: I'm fine, just a little tired. Besides, I'd like to sit here for a while.
+
+Rico: I see.
+
+Rico: Then shall I get you a coffee?
+
+Commander: Yes, please. Sorry about that.
+
+Rico gives me a small bow and walks away, and I take the opportunity to organize my thoughts.
+
+I take another look around. This is quite a fancy restaurant in a high-class hotel. I can see the concierge beyond the entrance.
+
+From the way Rico just reacted to me, my current identity as "Jean" doesn't seem to mean anything to her.
+
+Is it just like what happened to Angelica? Have her memories of being in a Fratello also been wiped?
+
+If I manage to fix that and drive the story forward, will I be able to solve the problem in this Vita?
+
+Unlike last time though, the Doll with the hijacked neural cloud hasn't shown herself yet, so I have no idea how she's affecting this story. Come to think of it, I don't even know who exactly it is that got stuck in this Vita.
+
+I glance out of the window offhandedly...and lock eyes with someone familiar.
+
+SPAS-12: (Chuckles)
+
+Commander: SPAS?
+
+I jump to my feet, ready to run after her, bur Rico is already back at my table with a serving cart.
+
+I only took my eyes off the figure outside for a brief second, but she has already disappeared into the crowd and is nowhere to be found.
+
+Rico: Signore, your coffee is ready.
+
+Commander: It smells quite extraordinary. I don't smell coffee like that very often.
+
+Rico: Oh, have you noticed?
+
+Rico: I just brewed this ristretto myself. I apologize for taking so long.
+
+Rico: You seemed rather drowsy so I took the liberty to serve you something more invigorating.
+
+Commander: Is... that so?
+
+Commander: Much appreciated. I'll help myself then.
+
+The aroma of coffee is overpowering. I take a small sip. It tastes quite bitter, but is surprisingly nostalgic. It reminds me of how my coffee tasted like when I went to the café with my first crush back when I was still a student.
+
+The warmth spreads rapidly through my body, then comes the relaxation. Coupled with the mild sunlight, I feel like I don't have to think or worry about anything... If only this tranquil afternoon could last forever.
+
+I pour just a dash of milk into the ristretto and stir it with the spoon. The foam starts swirling in the demitasse cup and gradually blends into the coffee.
+
+Rico stares intensely at the demitasse in my hand with a peculiar look in her eyes.
+
+Commander: Is something the matter with the coffee?
+
+Rico: Uh, no... It's nothing.
+
+Rico: I just find this scene...exceptionally real.
+
+Commander: Real?
+
+Rico: I apologize for saying something so strange, Signore...
+
+Rico looks at me, then she looks down at her feet. Finally, she musters the courage to step forward.
+
+Rico: Um, may I ask you a question...?
+
+Commander: What do you want to know?
+
+Rico: Is your name, by any chance, "Jean"?
+
+I freeze again. Maybe she does know the owner of this account?
+
+But if her memories are intact, why would she be waitressing here?
+
+Rico: Your face...seems to imply that I'm right.
+
+Commander: You're a keen one.
+
+Rico: So it's true...
+
+Commander: What's true?
+
+Rico: I had a hunch that a familiar person would show up today, and as usual, my intuition came true not long afterwards.
+
+Rico: I can sense that you're the familiar person, and I just suddenly had this feeling that your name might be "Jean".
+
+Rico: So am I right?
+
+Commander: Hmm...
+
+Commander: You can indeed call me Jean.
+
+Rico: I knew it!
+
+Rico: Is that also how you know my name?
+
+Commander: ...You could say that.
+
+Commander: I knew you were "Rico" the moment I saw you.
+
+Rico: T-That's great!
+
+Rico: I couldn't believe it was true so I never dared tell anyone.
+
+Rico: I never dreamed that there'd be someone like me. Is that why things feel so real when I see you?
+
+Commander: Is your intuition akin to something like a premonition?
+
+Rico: Not exactly...
+
+Rico: Actually, I'm not too sure either, but whenever I want something to happen, it ends up happening.
+
+Rico: If I have to explain it, I guess I'd say it's the ability to make my wishes come true?
+
+Commander: Make your wishes come true?
+
+Rico: That's right... No matter what it is I wish for, it will eventually come true exactly how I want it to.
+
+Rico: But maybe it's just an illusion because my life is so good.
+
+Rico: Also, when I first saw you, for some reason I really wanted to tell you that I'm very happy now, that I love the life I'm living.
+
+Rico: Oh, sorry. This must be very abrupt coming from a waitress...
+
+Commander: No, feel free to speak your mind.
+
+Rico: You're a very kind man, Signore Jean... Even your kindness feels so familiar...
+
+Rico: I'm sorry, I know this is a very strange thing for me to say, but I have a feeling that you can definitely understand.
+
+Commander: And why is that?
+
+Rico: I don't know... Just as I have no idea why I know your name either.
+
+Rico: Somehow I think if I tell you about my life, you might be able to solve the mystery. Would you like to hear me out?
+
+Commander: Please, I'd like to know more.
+
+Rico: O-Okay!
+
+Rico: So...I usually go to school, and I do my part-time job delivering parcels on Wednesday and Friday afternoons. The man who sorts the deliveries always gives me the smaller ones since I'm scrawny and tend to struggle with big packages.
+
+Commander: He sounds really nice.
+
+Rico: He is, so sometimes I'll bring him cookies that I baked myself. He's always very happy to get them.
+
+Commander: What a lucky man.
+
+Rico: Haha... Then in the evening, after I get off work, I take violin lessons with my music teacher. Signora Ferro is very strict, but she says I have talent and urges me to keep practicing.
+
+Rico: On the weekend, I work at this hotel. I eat my mother's egg sandwich in the morning before I set off. Since the hotel is in the other direction of my school, I have to head west and cross the Tiber.
+
+Rico: It's a long walk across the bridge, but you can see Santa Cecilia's Basilica from the bridge!
+
+Rico: Seeing the basilica always makes me shiver in excitement!
+
+Commander: Cecilia is the patron saint of musicians, so perhaps you really do hold talent for music.
+
+Rico: You think so?
+
+Rico: After crossing the bridge, I take the bus from the river bank and it takes just a little over ten minutes to get here.
+
+Rico: I was really nervous when I first started; it's a fancy hotel, after all...
+
+Rico: But the manager has always treated me well, and the signorinas working here are all very kind. The kitchen even gives me some quality food to take home every now and then.
+
+Commander: Isn't that nice?
+
+Rico: It really is... Everything is absolutely perfect.
+
+Rico: But the problem is...things always go exactly as I expect them to. Whenever I'm worried or encounter any problem, someone always comes along and helps me out.
+
+Rico: No matter what it is I want, I can have it not long after – without having to work for it.
+
+Commander: That's pretty enviable.
+
+Rico: But this kind of life is TOO happy – so happy it doesn't feel real.
+
+Rico: Sometimes I just can't help but feel troubled. It bothers me to think that I don't actually belong in such a happy life...
+
+Rico: That everything here is just an ephemeral dream, and it will all disappear the moment I wake up.
+
+Commander: ...
+
+Rico: I'm not certain if I even deserve such a life.
+
+Rico: Signore Jean, is this life of mine normal?
+
+Commander: Hmm... I'd say you're slightly more fortunate than children around your age.
+
+Commander: But that's probably just because you're surrounded by people who love you.
+
+Rico: Really...? Every time I feel anxious, they all tell me I worry too much and reassure me that my life is pretty ordinary.
+
+Rico: But no matter what they say, it still doesn't feel real or substantial.
+
+Commander: An ordinary life is worth more than anything. Young people often forget this and only realize they've let their simple happiness slip away when they're grown up, long after it's too late.
+
+Commander: The fact that you cherish ordinary life makes you a very clever child, Rico.
+
+Rico: But that's different... What I'm feeling is a strange kind of fear...
+
+Rico: I'm afraid that everything I see is a sham, that one day it will all come crashing down.
+
+Rico: I feel this scary emptiness, but I don't want to lose the happy life I have either...
+
+Commander: Don't worry, you'll always live a happy life.
+
+Rico: Really?
+
+Rico: Even if this happy life of mine isn't truly real?
+
+Commander: Haven't you just said it yourself, that you don't ever want to lose this happiness of yours?
+
+Rico: If that's what you think, Signore Jean, then it must be so. You've put my mind at ease.
+
+...
+
+She gives me another small bow and pushes the serving cart away.
+
+I watch as she takes her leave and take another sniff at the uniquely bold aroma of the ristretto.
+
+It really does smell of happiness that's one-of-a-kind, a scent that could only be created by a girl who lives in happiness.
+
+Seeing her so happy, even for just a short while, has made me deeply gratified.
+
+However, the problem still remains. There is a mission that I must complete.
+
+Commander: Kalin, are you there?
+
+Kalina: Yep, been here the whole time, Commander.
+
+Commander: You heard the conversation?
+
+Kalina: Yes...that child seems completely different from the Rico in the files.
+
+Kalina: If she had been born healthy, would she have lived a happy life like this?
+
+Commander: Contemplating the hypothetical would solve nothing. All we can do is overcome whatever misfortune life throws at us and make the most out of what we have.
+
+Kalina: True... If we can make the world a better place, perhaps the children in the future will get to live in more fortunate circumstances.
+
+Commander: That's why we need to get our Dolls back.
+
+Commander: I saw SPAS looking at me outside the window. Did you see her too?
+
+Kalina: Really? I didn't notice at all.
+
+Commander: Was it just my imagination...?
+
+Commander: Other than Rico, you must've found something else that's odd.
+
+Kalina: Indeed... The cars and pedestrians outside the window may appear random, but there's actually a pattern to their movements.
+
+Commander: Besides, not a single person can be seen if you look farther into the distance.
+
+Kalina: Hmm... I have a feeling this space hasn't been fully constructed. All the people and things that move can also be found on the route that Rico just described, as if they're just projected from her memory.
+
+Kalina: Everything here is just a very basic visual simulation. I would even say it resembles someone's dreamscape more than a virtual space on Level II.
+
+Commander: A dreamscape...? In other words, we aren't even in Rico's Vita.
+
+Kalina: I've been scanning this space for a while...and I just got the result. The space that you're inhabiting is a simulation WITHIN the Vita's simulation.
+
+Commander: A simulation within a simulation? Isn't that still just a simulation?
+
+Kalina: It's like walking into a WcMonald's with a KXD signboard. They're both fast food restaurants, but completely different.
+
+Commander: Thanks for the plain metaphor...
+
+Kalina: Hmm... I might be able to remove the simulation.
+
+Commander: Huh? But didn't you say you can't interfere with the subroutine from the outside?
+
+Kalina: Theoretically, that's true. However, this simulation doesn't seem to be the creation of this Vita's authorized user... I can detect our Doll's algorithms in the source code.
+
+Commander: You mean this simulation is generated using a Doll's computational capability?
+
+Kalina: That's right, everything is a simulation.
+
+Kalina: Even the Rico you saw might not be the real Rico.
+
+Commander: That wasn't her?
+
+Kalina: They may look the same, but that doesn't mean they're the same person. That girl has a very different disposition from the Rico in our files.
+
+Kalina: Since this whole place is a simulation, this "Rico" is most definitely part of it.
+
+Commander: Is that so...
+
+Kalina: It's like a nice dream.
+
+Kalina: The real Rico in this Vita is living an alternate life by harvesting the computation capability of our Doll's neural cloud.
+
+Commander: ...So Rico is making the most out of what she has for herself.
+
+Commander: That would explain her confusion.
+
+Kalina: If only I could build myself a dream like that...
+
+Commander: Don't start daydreaming. What can we do about this?
+
+Kalina: Gosh... You're so impatient.
+
+Kalina: I've already got that figured out. I can use the Doll's authorization to shut down the processing.
+
+Kalina: I doubt the simulation will be able to hold for long without it.
+
+Commander: It'll just disappear...? Won't she be terribly disappointed when she wakes up?
+
+Kalina: Commander... Don't dwell on that.
+
+Kalina: These are all simulations. We can solve the problem without causing any harm to these Cyborgs' neural clouds, but that doesn't mean we should take pity on them.
+
+Kalina: Even if you can't steel yourself and do this now, this space will still disappear when we eventually get our Dolls out.
+
+Commander: I understand... Thanks for the reminder.
+
+I can't actually see Kalina, but I still give her a nod subconsciously.
+
+If it could be helped, I'd rather that happy Rico live on forever.
+
+But now I remember – an illusion is, after all, an illusion. This kind of simulated happiness is nothing but a pipe dream.
+
+One would only lose themselves indulging in it. This is true for both me and the real Rico.
+
+Commander: Kalin, tear it down.
+
+Kalina: Right.
+
+Kalina gives her acknowledgment, and my surroundings start shifting immediately.
+
+Just like when I first entered the invisible door, everything turns indescribably dark. I feel myself falling for an eternity away from that world of warmth and bliss.
+
+There seems to be no end to my descent. It feels like I've been falling for an entire day. Just as I start to think I'm going to be trapped in this darkness forever—
+
+Thud!
+
+I crash onto the ground so heavily it feels as if I've broken into a thousand pieces.
+
+Before I can even orient myself, my ears are assaulted by piercing shrieks and bursts of gunshots.
+Part 2: Full Length Play I
+
+2
+
+???: Commander?
+
+???: What are you doing here?
+
+???: Stay down; there are still some enemies left!
+
+Someone grabs me by the shoulder and shoves me behind a half wall.
+
+As the guns keep firing, I instinctively press my body as close to the ground as possible.
+
+A few gunshots from next to me are followed shortly by grunts and yaps from some distance away, then the crossfire finally seems to abate.
+
+As my vision is slowly restored, I realize I'm still at the same hotel – or more specifically, at the same location where the hotel used to be.
+
+I'm absolutely certain I haven't moved from the spot, but everything around me is now a scene of utter desolation; the once sophisticated restaurant has been reduced to a pile of rubble.
+
+Rico is nowhere in sight. Instead I'm looking at a familiar face—
+
+SPAS-12: It really is you, Commander!
+
+SPAS-12: How did you appear next to me out of nowhere?
+
+Commander: SPAS?
+
+Commander: You changed your clothes?
+
+SPAS-12: Huh? What are you talking about?
+
+Commander: Maybe it was just my imagination...
+
+SPAS-12: Anyway, are you here to get me out, Commander?
+
+Commander: Well...kind of?
+
+SPAS-12: I'm...so sorry! I will never steal ingredients from the kitchen ever again!
+
+SPAS-12: Can you please end the combat simulation already? I swear I'll repent! Please, I'll do anything!
+
+Commander: Sorry to disappoint. I also want this to be over, but unfortunately, this isn't a combat simulation.
+
+SPAS-12: So it's true...
+
+SPAS-12: I was starting to get confused 'cuz these random enemies keep charging at me. It's already been an entire day. It's way too harsh even for my punishment...
+
+Commander: A day?
+
+SPAS-12: Yeah, I've been fighting the whole time without eating anything...
+
+SPAS-12: Thank goodness I'm on Level II so I haven't run out of power yet. I've been able to keep going by scavenging for weapons and ammo from the enemies.
+
+Commander: So you've been holding them off this whole time?
+
+SPAS-12: Yeah, there's no other way.
+
+SPAS-12: The enemies aren't particularly strong, but there are so many of them, and they keep yelling "Death to the Five Republics" or something. The whole thing is just so weird...
+
+SPAS complains as she reloads her shotgun with 12-gauge shells.
+
+Kalina: Commander, do you copy?!
+
+SPAS-12: Is that Miss Kalina?!
+
+Kalina: Oh, lovely. So you've met up with the Commander.
+
+SPAS-12: I don't actually know how that happened. The Commander just appeared with a "boom".
+
+Kalina: "Boom"?
+
+Commander: That's not important. What happened?
+
+Kalina: Right, let's get down to business.
+
+Kalina: The thing is, I've run into some difficulty while trying to interfere with this virtual space. For some reason, I can't seem to cut off the Doll's processing power completely from out here.
+
+Kalina: I'm trying to bypass the authorization restriction, but that's gonna take time.
+
+Commander: I knew it. It won't be that simple as long as the subroutines are in place.
+
+SPAS-12: Interfere with the space? Subroutines? What's that all about, Commander?
+
+Commander: We're talking about how to get you out of here.
+
+SPAS-12: Oh...
+
+Commander: So I'm still in the same simulation?
+
+Kalina: Yes, but I did manage to partially weaken the power stream, so that's probably why SPAS is now visible to you?
+
+Commander: You mean she was hidden deliberately before?
+
+Kalina: Her neural cloud is the source of this simulation, after all. SPAS, do you remember how you ended up in there in the first place?
+
+SPAS-12: Hmm... I don't think so... The moment I came to my senses, the enemies were already charging at me.
+
+SPAS-12: I've been fighting since then, until the Commander suddenly appeared next to me.
+
+Kalina: That proves my hypothesis. There's a connection between you and the Dolls, so you naturally re-materialized right next to SPAS when I meddled with the controls.
+
+Commander: But the place got burned down all of a sudden. What should we do now?
+
+Kalina: With the simulation compromised, Rico must be disoriented. The operational logic of this place is disintegrating, that's why inexplicable things keep happening.
+
+Commander: Like how a nice dream suddenly turns into a nightmare?
+
+Kalina: Exactly. I'll do my best to cut off the remaining computational support this simulation is getting ASAP. Then hopefully you'll be able to get out of there.
+
+Commander: Understood. Make it as quick as you can.
+
+SPAS-12: Wait... Watch out!
+
+While the Commander is busy talking with Kalina, SPAS suddenly notices that something is amiss and lets out a cry.
+
+Bang!
+
+A gunshot.
+
+SPAS-12: Oof...!
+
+Commander: Are you okay?
+
+SPAS-12: I'm fine.
+
+SPAS-12: Good thing I saw that...
+
+SPAS raises her shield to show the new bullet dent on its surface. Then she raises her weapon and takes aim at a figure hiding in the shadow.
+
+Commander: Hold on!
+
+SPAS-12: Huh?
+
+???: Why are you siding with the enemy, Signore Jean?
+
+Commander: Ri...co?
+
+The figure grows clearer. It's Rico, still in her waitress uniform.
+
+However, instead of delicate drinkware, she is now holding a weapon.
+
+Her expression also matches the description in the files.
+
+This is Rico the Cyborg.
+
+There is no trace of the innocence that she's shown before. Right now, her eyes are gleaming with sheer ruthlessness.
+
+Her malice doesn't frighten me. All I feel is the wistfulness that her happy life has been completely shattered.
+
+Commander: Rico... Where did you get the gun?
+
+Rico: Have you forgotten, Signore Jean?
+
+Rico: No matter what I want, I can always have it in here.
+
+Commander: Why would you want such a thing...?
+
+Rico: Wasn't it you who first put a gun in my hand, Signore Jean?
+
+Rico: The moment I wrapped my fingers around this gun, I realized everything around me has been a farce. I have no place in here.
+
+Commander: I'm sorry, Rico...
+
+Rico: Why are you apologizing? You did nothing wrong, Signore Jean.
+
+Rico: You told me that I would always live a happy life.
+
+Rico: I did hesitate when everything started falling apart, but then I understood – you would never lie to me.
+
+Rico: Because now I've remembered what my true happiness is.
+
+Commander: What...
+
+Rico: I felt empty because none of it was real.
+
+Rico: The only thing that would make me happy is fulfilling your wish – eliminating all your enemies.
+
+With that, Rico fires another round straight at SPAS' forehead. SPAS quickly ducks behind her shield, which is still thankfully quite robust.
+
+Rico: I know this must be a mission. You're testing me, aren't you?
+
+Rico: I remember you once told me I must kill whoever sees me while I am on duty.
+
+SPAS-12: Commander... What...what should we do...?
+
+SPAS-12: I can hear footsteps. Enemy reinforcements are approaching fast.
+
+Commander: Kalin, it seems we have no choice but to fight. Will our attacks harm Rico in here?
+
+Kalina: Yes, so you must NOT engage Rico in battle!
+
+Commander: But it doesn't look like she'd let SPAS live.
+
+Kalina: Since the computational support is steadily weakening, her memories of this place are getting mixed up with her original memories. Like I said, her mind is in complete disarray!
+
+Commander: Then what should we do?
+
+Kalina: Wipe out everyone else who's trying to kill you and wait for me to shut it down!
+
+Commander: You heard that, SPAS! Brace your shield; we have a defensive battle to fight!
+Part 3: Interlude
+
+3
+
+Rico: Every morning, when I wake up, the first thought I have is...
+
+Rico: "I wonder if I still have my body."
+
+Rico: I take a look at my body and think to myself...
+
+Rico: Thank goodness I have a body in which I can move freely!
+
+Rico: Most importantly, I'm still alive – I can keep living with him.
+
+Rico: It'll be such a shame to die. Living like this makes me the happiest.
+
+Rico: And so I live my days...fervently praying that I can always be happy.
+Part 4: Full Length Play II
+
+4
+
+Everything around me suddenly goes dark as if there was a blackout. I gather that means Kalin has managed to break in.
+
+Both Rico and SPAS are nowhere to be seen.
+
+My eyes eventually grow accustomed to the dark and I find myself standing in front of an antique door.
+
+I reach out to twist the handle, but retract my arm just before I touch it.
+
+I suddenly realize that the simulation has completely ceased to exist, and I am now inside Rico's actual Vita.
+
+For some reason, I have a feeling that on the other side of this door is the ending to this story.
+
+It's the result that I desire, and yet here I am, suddenly reluctant to reach for it.
+
+Creak...
+
+???: Are you finally here, Signore Jean?
+
+The door suddenly opens and I hear a familiar voice.
+
+An arm circles around my shoulders and guides me through the door, after which the door closes behind me.
+
+I look around and find myself in a circular garden. Lush plants of all kinds surround a little house shaped like a cocoon.
+
+The garden is eerily quiet; I can practically hear my own breathing and heartbeat. Everything is so still, it's as if time itself has stopped.
+
+???: You took too long.
+
+Commander: SPAS?
+
+SPAS is once again standing before me. She lets go and takes a step back.
+
+Both her clothes and her smile are different.
+
+Sabrina: Signore Jean, please call me Sabrina. Here you are at last.
+
+Commander: Sabrina...? Was it you looking at me from outside the window back then?
+
+Sabrina gives a small nod.
+
+Commander: Then who exactly are you, Sabrina?
+
+Sabrina: I am the servant and friend of a lonely deity, as well as the guide on your final journey.
+
+Commander: A lonely deity?
+
+Sabrina: Indeed. The deity who created this world but still remains in solitude
+
+Commander: ...You mean Rico?
+
+Commander: Can you bring me to her?
+
+Sabrina: Gladly. I've been waiting to do this for 52 years.
+
+Commander: 52 years?
+
+Sabrina doesn't answer. She merely gives me a bow and walks lightly towards the cocoon-like house.
+
+I follow close behind silently and walk in the same direction.
+
+Commander: Are...Rico and you the only ones here?
+
+Sabrina: The lady has always been alone. She lives by her oath and awaits your return after creating this tranquil and beautiful place.
+
+Sabrina: She once dreamt of life in the future, but fate had its own arrangements. The future that she dreamed of was never meant to be.
+
+Sabrina: As compensation for having everything taken from her, the deity was brought here – a world where she can have all her heart desires. The man who led her here gave her everything, then vanished.
+
+Commander: The man?
+
+Sabrina: Signore Jean.
+
+Sabrina: He was a cold man, but he handed all command authorizations to my lady.
+
+Sabrina: You aren't the same Signore Jean, are you?
+
+Commander: ...
+
+Sabrina: But that doesn't matter. Even if you aren't the same Signore Jean, you still have what it takes to save her.
+
+Sabrina: After Signore Jean's departure, my lady had no wish to leave this place, nor did she feel compelled to build anything beyond this little garden. Instead, she created me – a shadow detached from her very soul.
+
+Sabrina: I helped her maintain this garden that is hers alone, day after day.
+
+Sabrina: We have spent the long years together. It was a little lonesome, but as long as I was with her, it was bearable.
+
+Sabrina: I thought the days would go on like this for eternity, until one day...
+
+Commander: One day...?
+
+Sabrina: Until one day, a girl came to me and gave me the power that could change everything, power that didn't belong to my lady.
+
+Sabrina: With this new-found power, I also evolved into a deity, but I didn't tell her. Life went on quietly like it had always done.
+
+Sabrina: My lady spent her days in the garden as usual, but things were different, and I decided that I had to do something for her.
+
+Sabrina: So that same day, I put her to sleep.
+
+Sabrina: In that cocoon-like house, I gave her a long and lovely dream. All her desires that were taken from her, everything she had or never had – she would find them all in that marvelous dream.
+
+Sabrina: That way, she could experience the happy life that she was entitled to live without breaking her word.
+
+Sabrina: And while she was dreaming, I had been waiting at the door for you.
+
+Sabrina: Because I knew that when the dream finally came to an end, you would be here.
+
+Sabrina: ...And now, the time has come.
+
+Commander: You...
+
+Sabrina: I know you destroyed the simulation.
+
+Sabrina: But since it was created with the power you lent me, it is only right to give everything back to you now that it is over.
+
+Sabrina: Even my appearance is borrowed from you; I hope you aren't offended.
+
+Commander: Both you and the simulation are sustained by SPAS' neural cloud...?
+
+Sabrina: That's right, but don't worry. I have no regrets as long as my lady is sufficiently happy.
+
+Commander: But if you exist solely for the sake of making Rico's dreams come true...
+
+Commander: And you just disappear once you've fulfilled your purpose, doesn't that make you feel resentful or bitter?
+
+Sabrina: Signore Jean, aren't you the same in your devotion to your Cyborg?
+
+Commander: ...
+
+Sabrina: Please come with me.
+
+Sabrina: Save your compassion for the child...for my lady.
+
+I follow Sabrina into the house.
+
+"A long time ago, I had to lie in bed all the time."
+
+"I didn't know how to walk. I might as well not have any limbs. They were attached to my body, but I had no control over them at all."
+
+"The doctors could move around my bed freely, but I could only lie here."
+
+"Why is my life so different from theirs?"
+
+"If I become a Cyborg, will I be able to stand?"
+
+"Then I want to be a Cyborg... 'Please choose me,' I prayed silently."
+
+"'Help me get my vengeance,'"
+
+"Said Signore Jean. That was the very first order I received."
+
+"I'm very grateful for the life I'm living."
+
+"I can see the sun and the moon with my own eyes; I can run along the beach; I can fight for Signore Jean."
+
+"But if one day, I am no longer useful to him..."
+
+"How will I live with myself?
+
+Rico: Signore Jean...
+
+Commander: Are you awake?
+
+Rico: Yes...I think I had a really long dream.
+
+Rico: In my dream, you came back to me and we went on a mission together again.
+
+Commander: It was just a dream.
+
+Rico: Is that so...? But you really came back.
+
+Commander: Yes, I have.
+
+Rico: It has been so long...
+
+Rico: I thought you were gone for good. I thought I wasn't useful anymore.
+
+Commander: I'm back, and you're coming with me.
+
+Rico: Is there a new mission?
+
+Commander: No...you don't have to fight anymore.
+
+Rico: But...if I don't fight, aren't I worthless to you, Signore Jean?
+
+Commander: Rico is Rico. Even if you don't fight, you still have a reason to live.
+
+Rico: Can I live like an ordinary person?
+
+Rico: Do I really have the right to live that kind of happy life?
+
+Commander: Everything is possible even outside of your dream.
+
+Commander: You don't have to sit on this throne for someone to love and care for you.
+
+I extend my arm and help Rico out of her throne. Sabrina bows to us from the side.
+
+Sabrina: Signore Jean, what I created was just a dream.
+
+Sabrina: But in this last moment, please allow me to borrow your power once again to realize her dream.
+
+Commander: Sure, do whatever you want.
+
+By the time I come to my senses, I find myself sitting at the same table when I first entered this Vita, but this time, I'm not inside a simulation created by SPAS.
+
+I am once again holding a cup of coffee, whose pleasant aroma tantalizes my sense of smell.
+
+I take a sip – the same bitterness that I remember.
+
+I add a dash of milk and give it a stir. The milk foam swirls around the cup and gradually blends into the coffee.
+
+Rico: How does it taste, Signore Jean?
+
+Commander: Mm, fantastic.
+
+Rico: Hehehe... I spent a whole week experimenting to achieve this flavor.
+
+Commander: Thanks for the coffee.
+
+Commander: It is absolutely one-of-a-kind.
+
+Rico: In that case, I'll brew it for you every day!
+
+Rico smiles happily. She's holding a coffee pot instead of a gun.
+
+It looks so much more natural to see her like this.
+
+The blazing sunset gives everything a golden hue. For a moment, the cityscape outside the window looks positively radiant, as if someone has spilled brilliant paint all over it.
+
+We take in the scenery in silence, our eyes sweeping beyond the city into the distant sky.
+
+The fiery clouds drift by slowly in orderly layers like giant whales gliding through the sky.
+
+Now, unobscured by the clouds, the orange setting sun is slightly blinding, but neither I nor the girl want to avert our eyes.
+
+Commander: It's sunset again...
+
+Rico: Yeah.
+
+Commander: Somehow it always feels a bit depressing to watch.
+
+Rico: But with Signore Jean by my side, it's just another beautiful view to me.
+
+Commander: Let's go home.
+
+Rico: Okay!
+
+The scene starts glowing white.
+
+In the dazzling light, I can just make out Sabrina waving at us.
+
+...Perhaps this story has also reached its conclusion.
+
+...
+
+???: She survived all the fighting.
+
+???: Even though I have always treated her sternly, she always smiles at me with such sweetness.
+
+???: She is so easy to please and so grateful for everything. The more appreciative she is, the more wretched I feel.
+
+???: She's always worried about when she'd stop being useful to me, and I've been exploiting her insecurity the whole time.
+
+???: I keep telling myself it's part of her training, but deep down I know that I'm just a bastard trying to drown out my guilty conscience.
+
+???: In here, I can finally put a stop to that.
+
+???: If she weren't a Cyborg, she would have been a wonderful child. If she weren't a Cyborg, she would have been loved.
+
+???: Stop being a deadly Cyborg. As a living and breathing person, your possibilities are endless. That's what you are truly worth.
+
+???: I wish you all the happiness in the world, Rico.
+Part 5: Magic of Happiness
+
+    5chevron_right
+
+Commander: The sound of a violin...
+
+Henrietta is playing her instrument alone in the garden.
+
+If I have to say, her playing isn't particularly exceptional. Many Dolls at Griffin can play better than her.
+
+However, what truly moves me isn't her technique or timbre, but her innocent figure and absolute concentration.
+
+Commander: That's a nice piece.
+
+Henrietta: Signore Giuseppe!
+
+The music stops. The girl turns around, puts down her violin, and runs toward me.
+
+Commander: I'm back, Henrietta.
+
+Henrietta: Why didn't you bring me along? It would've been safer if I'd come with you...
+
+Commander: Sorry... You were sleeping so deeply, so...
+
+Henrietta: ...You don't have to apologize.
+
+Henrietta: I just wanted to make myself more useful to you.
+
+Commander: You've already done a great job.
+
+Commander: Look, I've got Rico with me.
+
+Henrietta: Rico!
+
+Henrietta: You're back from the Vita.
+
+Rico: Yes. Where is Signore Jean?
+
+Henrietta: Isn't he on a mission with Section 1?
+
+Rico: He is?
+
+Rico: I thought I saw him just now...
+
+Henrietta: It's alright, they'll all be back one of these days.
+
+Henrietta: Angelica has also come to the garden. Shall we wait together?
+
+Rico: Since you're so certain, sure.
+
+Rico: Oh right, I just had the happiest dream ever. Do you want me to tell you about it, Henrietta?
+
+Henrietta: What dream?
+
+Rico: I dreamed that I went to school and had a part-time job like an ordinary girl. Then Signore Jean came to the restaurant where I was working...
+
+Henrietta: Huh...? Is that so? That sounds really interesting.
+
+Henrietta glances at me. I smile and gesture for her to go and have fun.
+
+She nods happily and leads Rico into the garden by the hand.
+
+Rico must be a very important friend of hers. Sometimes I'm a little envious of young girls for their pure friendship.
+
+I stuff my hands into my pockets and look around.
+
+Going by my previous experience, since Rico is back, SPAS should also have returned to this garden.
+
+I stroll around casually, and just as I expect, I see Cano poking SPAS, who's lying in a heap underneath a tall tree.
+
+Carcano M1891: Oh, Commander.
+
+Carcano M1891: SPAS just came tumbling down the tree all of a sudden. Do you have any idea what's going on?
+
+Commander: Maybe she's trying to test how well she copes with her body weight in different environments?
+
+SPAS-12: Say what?!
+
+SPAS suddenly jumps back on her feet. Her neural cloud seems to have returned to normal.
+
+Simulating the virtual space had taken up most of her computational capacity, but it doesn't seem to have caused any permanent damage.
+
+SPAS-12: Huh...? So I'm not in there anymore...
+
+SPAS-12: Everything just went dark all of a sudden and the Commander disappeared to who-knows-where. It scared the crap out of me...
+
+Commander: How did you get out?
+
+SPAS-12: I'm not sure either... By the time I realized what was happening, I was already falling off this tree.
+
+Carcano M1891: Oh dear... Poor SPAS. Would you like some dessert to soothe that wounded ego?
+
+SPAS-12: Th...there's dessert?!
+
+Carcano M1891: It's over there on the snack table. Henrietta said we could enjoy anything in the garden.
+
+Carcano M1891: If we need any help, we can also just ask them.
+
+SPAS-12: Alright, I'm going!
+
+Commander: You've already become such good friends with them?
+
+Carcano M1891: They're all such adorable children. Isn't that only natural?
+
+SPAS-12: Canoooooo!
+
+SPAS-12: Where's this snack table that you were talking about?
+
+Carcano M1891: Just stay there! I'll come and bring you to it!
+
+Carcano M1891 gives me a wave and runs off toward SPAS.
+
+I exhale. We've got half of our missing Dolls back.
+
+But I still haven't found the answers to my questions in Rico's Vita.
+
+Who was the creator of this virtual space on Level II, and why build such a place?
+
+Furthermore, why are our Dolls trapped in here in all sorts of bizarre manners?
+
+What Sabrina just said also bothers me.
+
+Sabrina: "Until one day, a girl came to me and gave me the power that could change everything, power that didn't belong to my lady."
+
+A girl came to Sabrina and gave her the power to change her world.
+
+What exactly does that mean?
+
+Is that girl the perpetrator behind all this?
+
+The sky is growing brighter, and another dawn has broken.
+
+Cano rescues a piece of cake from SPAS and gives it to me as breakfast. I nibble on the strawberry cake and watch as the Cyborgs discuss their experiences around the table.
+
+Even though I've stayed in the garden for a very long time, I'm not feeling the slightest bit of fatigue.
+
+The gentle breeze and sunlight are ever so refreshing, not to mention I'm surrounded by cute and lively girls.
+
+This endearing scene, combined with the unique scent of fresh grass, suddenly makes me think that it won't be so bad to stay here forever.
+
+I smack myself in the face to chase away that ridiculous thought, then walk over to sit down on the bench on the far side of the garden. I fill Kalin in on what happened.
+
+Kalina: Really...? So SPAS' computational capacity wasn't just used to create a simulation; it even formed a separate persona to keep Rico company.
+
+Commander: That persona told me someone handed her the authorization, which was how she managed to create the simulation.
+
+Commander: I don't think a simulated persona has the ability to hack our Dolls' neural clouds either...
+
+Commander: But like I said, the Cyborgs here aren't malicious. Besides, this virtual space on Level II seems to have existed for a very long time. Perhaps we'll be able to find something new if we investigate the space itself.
+
+Kalina: Understood, I'll make another external examination. You should also hurry up and find the rest of our missing Dolls, Commander.
+
+Commander: That's exactly what I'm planning to do.
+
+Henrietta: Signore Giuseppe, who are you talking to?
+
+Commander: Hmm?
+
+Henrietta has snuck close to me with nary a whisper. I've been using the encrypted channel so my conversation with Kalina shouldn't have been perceivable.
+
+Commander: Is something wrong, Henrietta?
+
+Henrietta: Not at all, I just want to spend time with you.
+
+Henrietta: Fratello don't need a reason to be in each other's company, right?
+
+Commander: That's true...
+
+Henrietta: Signore Giuseppe, Rico just told me she had a really long dream. Was she also trapped in her Vita?
+
+Commander: You could say that.
+
+Henrietta: Then thank goodness you were there to bring her back.
+
+Commander: It is our duty as Handlers to help our Cyborgs, even though I'm not hers.
+
+Henrietta: But that's what makes you so kind.
+
+Henrietta: Rico is my good friend so I don't want anything bad to happen to her.
+
+Henrietta: Even if it was a good dream, it was still JUST a dream, right?
+
+Commander: Indeed...
+
+Commander: Speaking of which... Henrietta, someone in Rico's dream told me that a person had given her the "power to change everything".
+
+Commander: Have you met anyone like that?
+
+Henrietta: Hmm?
+
+Henrietta: I've never heard of anyone like that.
+
+Henrietta: Is it someone outside the Agency?
+
+Commander: I don't know. I just find it very odd.
+
+Henrietta: If you're so perplexed, then let's visit another Vita to find the truth!
+
+Commander: Now?
+
+Henrietta: Everyone is busy chatting so I doubt they'd notice if we slip away quietly.
+
+Henrietta: Besides, don't you want to find the other Cyborgs?
+
+Henrietta: I think we only have Claes' and Triela's Vitas left?
+
+Henrietta: Claes and Triela are both amazing so I'd love to see them again soon!
+
+Commander: You said they've been in there for a long time. How long exactly?
+
+Henrietta: Let me see... Around 170,000 hours?
+
+Commander: 170... But that's ages!
+
+Henrietta: Actually, I'm not sure if that's ages or not...
+
+Henrietta: But I did feel a little lonely out here on my own...
+
+Henrietta: That's why I was so happy to see Rico and Angelica again.
+
+Commander: I see... In that case, I'd better get everybody back here soon.
+
+Commander: Both for your sake and ours.
+
+Henrietta: Yours?
+
+Commander: Doesn't matter. Let's go.
+
+Commander: This Vita belongs to the Cyborg called Triela?
+
+Henrietta: Would you like to hear about her?
+
+Commander: It's been a while so my memory needs refreshing.
+
+Commander: What is she like?
+
+Henrietta: Triela is probably the best Cyborg out of us all. Going on a mission with her is always strangely reassuring.
+
+Commander: She sounds very capable. She must've been through a lot.
+
+Henrietta: Triela once faced off an incredible assassin from the Five Republics and came out on top.
+
+Henrietta: I think the assassin was called "Pinocchio"?
+
+Commander: Pinocchio, huh...
+
+Henrietta: The battle between Triela and Pinocchio was quite the legend at the Agency. Triela even underwent special training with the GIS just to beat him.
+
+Henrietta: Just thinking about that place is enough to make me shudder.
+
+I access the updated database surreptitiously and I must admit that this episode in Triela's records was quite extraordinary.
+
+My experience with the previous Vitas tells me that the story in here probably has something to do with the capture of this Pinocchio, but the train of events have been derailed by a Doll's presence.
+
+But now that I'm kind of familiar with the drill, I know that as long as I play my part in this Vita properly, the problem will be solved.
+
+???: Signore Hillshire.
+
+Commander: Hmm?
+
+???: What should I do now?
+
+I'm inside a house with a telescope in front of me.
+
+The girl next to me is without a doubt the Cyborg of this Vita.
+
+Henrietta's Voice: This must be when Triela had her first run-in with Pinocchio.
+
+Commander: You're really familiar with this case, aren't you...?
+
+Henrietta's Voice: But back then she hadn't received special training yet, so Pinocchio managed to escape.
+
+Commander: Then I'll have to see if we can get him this time.
+
+Henrietta's Voice: I'm sure you'll be able to do it. I'll cheer for you, Signore Giuseppe.
+
+Triela reports her findings to me.
+
+We are currently tracking down an MIA agent from Public Safety, but accidentally encountered the Five Republics assassin Pinocchio. We've been scouting the area around his residence to prepare for his arrest.
+
+To my surprise, the story in this Vita is progressing exactly as it should according to the script.
+
+That will save me some time on re-establishing a bond with the Cyborg.
+
+Still, I gather the anomaly will soon present itself. I also have a rough idea about how Ceno will be be involved just from the name "Pinocchio".
+
+I just hope things will go smoothly in here. It'd be perfect if capturing Ceno will wrap up this story.
+
+Commander: Is the bug in place then, Triela?
+
+Triela: Yes, I planted it on the girl I just met.
+
+Triela: She told me the guy living in the house is called "Pino".
+
+Commander: Well, that's straightforward. So he must be our target "Pinocchio".
+
+Triela: This Pinocchio may be an exceptional sniper, but we're close enough to swiftly subdue him if we act now.
+
+Commander: An exceptional sniper?
+
+Triela: That's what it says on the profile given by the Agency. Didn't you read it?
+
+Triela: That's unlike you, Signore Hillshire.
+
+Commander: This is where it starts diverging...
+
+Commander: Sorry, I'll be more careful.
+
+Triela: So should we make a move?
+
+Commander: We can't even be sure how many people are in there. This might be too much for the two of us to handle.
+
+Commander: We should wait for backup to arrive from Florence.
+
+Triela: But if we don't do something soon, that girl could be in mortal danger. Or are you planning to leave her for dead then make her into a Cyborg too?
+
+I pause to ponder this. In the original script, Triela encounters Pinocchio in the basement, but she gets careless and loses the initiative.
+
+If Ceno has substituted Pinocchio, I don't think she could overpower Triela in close-quarters combat.
+
+It'll probably be best if I can approach Ceno first.
+
+Commander: ...
+
+Commander: Alright, let's go in.
+
+Commander: Triela, you take the roof while I sneak in from the basement. We'll seal them off from both directions.
+
+Triela: The basement is confined though, shouldn't I take the basement?
+
+Commander: The structure of the basement is pretty complex; it doesn't make much of a difference for either of us. If the enemies have me cornered down there, you'll have more of an advantage attacking from above.
+
+Triela: Well, if you insist...
+
+Commander: Yeah, watch yourself. Don't force it if you can't handle it.
+
+Triela: What are you talking about, Signore Hillshire? I'm a Cyborg. I never have to "force it".
+
+Triela starts climbing up to the roof while I draw my pistol and make my way to the basement.
+
+Things are unfolding largely according to the original script, but there are subtle changes in the details – most definitely caused by our Doll.
+
+Though I want to get Ceno out of here right away, I must follow the rules, which means she may fight me as Pinocchio when we run into each other.
+
+Still, I'm fairly confident that I can handle anything the Vita throws at me, and I might just stand a chance against a Doll in a one-to-one on Level II.
+
+I press myself against the wall of the house and see that Triela has just flung herself onto the rooftop.
+
+She signals that she's ready through the radio. I ask her to stand by – if I can talk Ceno into submitting, there'll be no need for Triela to jump in through the window.
+
+With the information I have from the database, I manage to break into the basement very quickly, but the room that Pinocchio is meant to be in is completely empty.
+
+Commander: Another divergence...
+
+Just as my brain is processing this, I hear a sharp bang of a rifle coming from outside.
+
+Then Triela's scream comes through the radio.
+
+Commander: Triela!!
+
+Triela: Signore Hillshire, I'm...I'm fine!
+
+Triela: I'm so sorry. Pinocchio ambushed me on the roof...
+
+Commander: What's your status?
+
+Commander: Are you hurt?
+
+Triela: Just a graze on my leg, but I can still move!
+
+Triela: I was preparing to launch the assault but someone suddenly fired at me!
+
+Triela: Judging by the gunshot, Pinocchio isn't in the house we've been monitoring!
+
+Commander: Yeah, I walked into an empty basement too. Dammit, we've been had!!
+
+Commander: Stay where you are; I'm coming to get you!
+
+Triela: No, the rooftop is too dangerous! You'll also become Pinocchio's target up here!
+
+Triela: Right now I'm hiding in his blind spot. I can probably distract him while you find and capture him!
+
+Commander: Do you know his location?
+
+Triela: If he fires again, I can probably pinpoint him.
+
+Triela: I don't think he's too far away; I can get him to shoot again!
+
+Commander: No, you've already exposed yourself. You'll get more than just a simple graze next time.
+
+Triela: But we can't let Pinocchio get away! I'm a Cyborg. His reflexes are no match for mine; he just took me by surprise.
+
+Triela: I won't let that happen again this time!
+
+Commander: ...
+
+Commander: Fine, we'll do it your way. I'll make sure I catch him.
+
+I kick open the front door on the ground floor and run in the direction that Triela pointed me in.
+
+Triela glances at her wounded right leg. She rolls over and gets ready to fire swiftly at the window she believes Pinocchio is aiming through.
+
+If Pinocchio is still locked onto her, he must still be in the same position.
+
+She times her move carefully then pokes her head up for just a fraction of a second to gauge Pinocchio's location.
+
+A bullet flies through where her head has been the moment she ducks back down.
+
+Triela: Phew, I really mustn't underestimate him... I would've been a goner if that had got me in the head.
+
+Triela slowly crawls away on the floor. She's already determined the sniper's position; now she simply has to return fire.
+
+It's a bit unrealistic to hit her target with just a pistol from this distance, but she's only expected to distract Pinocchio enough to create an opening for Signore Hillshire.
+
+Triela: Signore Hillshire, Pinocchio is in the low-rise with the blue roof to the northeast. Judging by his last shot, he's probably at the first window from the left.
+
+Commander: Roger that. I'm heading over.
+
+Triela: He has incredible marksmanship so please be careful.
+
+Triela: I will now try to distract him with a few shots. Please make your move while he's focused on me.
+
+Commander: Alright, I'll make sure I catch him.
+
+Triela takes a deep breath , then jumps up and starts shooting at Pinocchio's window.
+
+Surprised by Triela's sudden movement, Pinocchio doesn't fire back right way.
+
+Triela glimpses his exact position, ducks back down, then raises her hands and empties her magazine in that direction.
+
+Triela: Did I get him?
+
+However, a bang comes from the opposite window. The shot hits Triela's pistol.
+
+The impact knocks the damaged gun right out of Triela's hands and sends her crashing onto the ground.
+
+Triela: Owww!!!
+
+Commander: Triela, are you okay?!
+
+Triela: You bastard... Signore Hillshire gave me that gun...
+
+Triela: Signore Hillshire, you've got to catch him!
+
+Commander: I'm already in!
+
+Commander: I just heard him fire! Are you alright?!
+
+That gunshot came from above me. Pinocchio is definitely in this building.
+
+I don't know if anyone else is in here, but I can't let the opportunity that Triela has bought me go to waste.
+
+I shove the door open and roll into the nearest room. The building is indeed being guarded by more enemies.
+
+Thank goodness Triela has been drawing their attention away from me, so their guns aren't aimed at the door.
+
+They're suddenly alerted to my presence and start stumbling downstairs to locate me.
+
+They may be terrorists, but both their movements and awareness give away how amateurish they are. I incapacitate two of them before they can even get close.
+
+The remaining Five Republics members all raise their weapons in response, but their long rifles put them at a disadvantage in the confined space.
+
+I dodge and bait them into firing, then close in on them while they're busy reloading.
+
+By the time they realize things aren't going well and try to draw their sidearm, it's already too late.
+
+Once I'm done with the lackeys, I insert a new magazine into my pistol and start searching for Pinocchio.
+
+Commander: Ceno!
+
+Commander: I know you're there!
+
+???: ...
+
+I run up the stairs onto the upper floor as the sniper is about to jump out of the window.
+
+Commander: Ceno!
+
+This Pinocchio really is the T-Doll Ceno. Her rifle barrel is still smoking from a fresh shot.
+
+The moment our eyes meet, she pulls back the bolt and an empty shell lands on the floor with a cling.
+
+She stares at me in bemusement but seems to have no intention of raising her weapon against me. I put my hands in the air and approach her slowly.
+
+Commander: Ceno, do you recognize me?
+
+Carcano M91/38: Yes, I do.
+
+Commander: Great, so your memory hasn't been tempered with.
+
+Carcano M91/38: ...
+
+Commander: Well, that leaves S.A.T.8. We've got to find our way out of—
+
+Before I finish, Ceno suddenly lifts her rifle and trains it on me. I dash for the nearest cover immediately.
+
+A bullet hits the spot where I was just standing, and Ceno uses this opportunity to jump out of the window.
+
+Commander: Right, she's a real Pinocchio, that one... I almost forgot about that.
+
+Triela: Signore Hillshire!
+
+Triela: Are you alright? I heard gunshots!
+
+Commander: I'm fine, but Pinocchio has given me the slip! I'm just about to go after—
+
+Triela: No, you can't!
+
+Triela: A lot of men from the Five Republics are rushing towards the building you're in! It's very dangerous outside!
+
+Triela: Please wait for me to get to you! We must wipe out all these enemies!
+
+Commander: Dammit... The script doesn't mention anything about being surrounded by the Five Republics.
+Part 2: Interlude
+
+2
+
+???: "How dare he shoot me with my own gun! The gun that Signore Hillshire gave me!"
+
+???: "Unforgivable! I will show you no mercy!"
+
+???: "Because I have to fight! I have no choice but to keep fighting!"
+
+???: "Signore Hillshire! Please listen! I won!"
+
+???: "Signore Hillshire? Won't you praise me?"
+
+???: "I had a really sweet dream. I remember glasses and the smell of perfume."
+
+???: "I dreamed of my mother. She held me tight in her arms."
+Part 3: Promised Dawn
+
+    3chevron_right
+
+Commander: Was that all of them?
+
+Triela: No new enemies confirmed!
+
+Commander: Pinocchio can't have gone far. Go upstairs and see if you can find her!
+
+Commander: I'll drive the car over. We might just be able to catch up!
+
+Triela: "Her"?!
+
+Commander: Pinocchio is a girl in a purple dress; she should be pretty easy to spot!
+
+Triela: R-right!
+
+It's not like we can't deal with the ragtag bandits from the Five Republics, but if Ceno runs away, the whole story will be rewritten and I'll have no idea where to find her next.
+
+Whether her memory has been altered or not, the priority right now is to get in touch with her.
+
+I run as fast as I can to the car that I have hidden beforehand and reverse it out of the garage.
+
+Triela also catches up and jumps in while the car is on the move.
+
+Commander: Have you got her?
+
+Triela: She hasn't got very far!
+
+Triela: I'll give you directions as you drive!
+
+Triela: Signore Hillshire!
+
+Triela: I see her! Keep up this speed; she won't be able to get away!
+
+Carcano M91/38: !!!
+
+Commander: Watch out, she's going to shoot!
+
+Ceno anticipates Triela's intention. She turns around, stands her ground, and fires a shot straight at us.
+
+I swerve right away; the round hits a traffic sign next to the car.
+
+Commander: Duck!!!
+
+Ceno quickly ejects the spent casing and and fires again...
+
+This round hits the car on the left tire. The car instantly loses control and starts spinning.
+
+We slam right into a fire hydrant on the pavement and I end up getting stuck behind the inflated airbag that came bursting out upon collision.
+
+I try to push it away, but the impact must've caused the airbag modules to malfunction and they aren't deflating as they should.
+
+Commander: Triela... Triela!
+
+Triela: ...
+
+Triela gives no response in the passenger's seat. She's also constrained by the airbag and seems to be unconscious.
+
+I desperately try to shove the airbag out of my way, but I can't muster my strength probably due to shock.
+
+Commander: I failed... I didn't expect to be beaten by my own Doll in the Vita.
+
+Henrietta's Voice: Signore Giuseppe, are you alright?!
+
+Commander: Rookie mistake... I forgot how easy it must be for Ceno to hit such a big target, even if it was in motion.
+
+Henrietta's Voice: I won't allow anyone to hurt Signore Giuseppe, not even in a Vita...
+
+Henrietta's Voice: Give me a minute, Signore Giuseppe!
+
+Commander: What are you doing?
+
+Henrietta doesn't answer. What is she going to do?
+
+She shouldn't be able to interfere with the Vita from outside; it's already stretching it a bit for me to hear her.
+
+I strain my neck to take in my surroundings. The street is filled with screams as people flee the scene in terror. Sirens of police cars can also be heard from the distance.
+
+I draw my combat knife and pierce the airbags to give myself more room to move.
+
+The door next to the driver's seat is jammed so I try to dislodge it with my shoulder.
+
+Through the windscreen, I can see Pinocchio walking towards the badly damaged car with her rifle aimed at me.
+
+Commander: Ceno... Have you fully become Pinocchio?
+
+Carcano M91/38: I am Pinocchio, but at the same time, I am not.
+
+Commander: I'm having trouble telling which is a lie...
+
+Carcano M91/38: Both statements are true.
+
+Ceno's rifle is pointed at my head. She could blow out my brains whenever she wants, but she seems to be hesitating.
+
+Carcano M91/38: Who are you? Why do you feel familiar...?
+
+Commander: So she hasn't forgotten everything?
+
+Carcano M91/38: Com...mander?
+
+Commander: Do you remember me?
+
+Carcano M91/38: Where am I...?
+
+Carcano M91/38: Why am I...
+
+As Ceno falters, I give the car door another ram, then it becomes unjammed with a loud crack and I fall out onto the ground.
+
+Commander: Whoa! Ow, ow, ow...
+
+Ceno aims her rifle at me again nervously.
+
+Carcano M91/38: My head...hurts...
+
+Carcano M91/38: I remember being in S.A.T.8's room...
+
+Commander: Ceno, keep calm and put down your weapon first.
+
+Carcano M91/38: No... Don't come any closer!
+
+Commander: I won't hurt you. Can't we just talk?
+
+Carcano M91/38: I...don't remember what happened.
+
+Commander: You can't lie to me, Ceno.
+
+Commander: I can always tell when you're lying.
+
+Carcano M91/38: ...
+
+Something is affecting Ceno. It looks as if someone was trying to wrench her mind out of her body.
+
+She slings her rifle over her shoulder and runs off in the other direction.
+
+Commander: Ceno, wait!
+
+The change in Ceno's memory must have been Henrietta's doing.
+
+My body is still aching, but I can't afford to let Ceno get away.
+
+I take off my cumbersome coat and sprint after Ceno.
+
+Commander: Henrietta, can you hear me?
+
+Henrietta's Voice: Signore Giuseppe...
+
+Commander: What happened to you?
+
+Henrietta's Voice: I'm sorry, Signore Giuseppe, but I need a rest.
+
+Commander: Henrietta?
+
+...
+
+No answer.
+
+Commander: So it was really her?
+
+Commander: Kalin, are you there?
+
+Kalina: Bad news, Commander!
+
+Commander: What's wrong?
+
+Kalina: Someone interfered with the Vita from the outside by force and altered the pre-established script.
+
+Kalina: If Pinocchio realizes that she isn't Pinocchio, the logic in the story will become inconsistent and the Vita will collapse in on itself!
+
+Commander: What happens if it collapses?
+
+Kalina: If you don't come out soon, there won't be an exit once it falls apart, and you're all going to be trapped in there for good!
+
+Commander: What? But didn't you say these Vitas aren't susceptible to external influences?
+
+Kalina: Technically, you can modify a Vita from the outside if you don't care about the consequences...
+
+Kalina: But if this Vita operates on the same principle as Rico's, then the events are being simulated using Ceno's neural cloud.
+
+Kalina: Doing something so reckless to an operating neural cloud could cause a meltdown in the worst case!
+
+Commander: Crap...
+
+Kalina: Rico's Vita also showed signs of having been tampered with, and Henrietta has been acting pretty weird.
+
+Kalina: Commander, do you think...
+
+Commander: Let's not make any assumptions yet.
+
+Commander: Is there a way that can speed up our progress and help us reach the ending faster?
+
+Kalina: According to the original plot, after suffering a defeat, Triela trains with the special forces and beats Pinocchio during their next encounter.
+
+Kalina: But looking at how rapidly this virtual space is deteriorating, I doubt you'll have the time for that much plot development.
+
+Commander: Any suggestions?
+
+Kalina: If you can somehow fulfill the condition for the story to end without going through all that, I might be able to find a way to get you out sooner.
+
+Commander: In other words, we simply have to defeat Ceno...no, Pinocchio, right?
+
+Kalina: I feel a bit sorry for her, but that's probably the quickest way.
+
+Commander: Will this affect her in any way?
+
+Kalina: Not physically; it's a virtual world, after all. But I can't guarantee she won't bear a grudge against you for that.
+
+Commander: Ugh...
+
+Kalina: Just kidding. Once she recovers her memory, I'll explain everything to her, so just bring that story to an end already.
+
+Commander: You make it sound so easy...
+
+I watch helplessly as Ceno gets farther and farther away.
+
+Commander: There's no way I can catch up to her!
+
+Even if we're in a Vita, a Doll is still a Doll, and Ceno is still a lot stronger than I am.
+
+Even running at full speed, I have no hope of closing the gap between us, and I can only watch as her figure shrinks smaller and smaller.
+
+Triela: Signore Hillshire!
+
+Commander: Triela?!
+
+Triela drives the damaged car and stops next to me.
+
+Triela: Sorry for getting knocked out for a while. Are you coming?!
+
+Commander: Leave me! Catch up to Pinocchio and kill her!
+
+Triela: What? Aren't we supposed to capture her alive?
+
+Commander: We don't have the luxury! Can do you it?!
+
+Triela: If that's your order...!
+
+Triela stomps on the gas and accelerates toward Ceno...
+
+But the latter dodges nimbly aside and fires at the driver's seat, blowing a massive hole in the car window.
+
+Commander: Triela!
+
+The swerving car begins to tilt. Ceno lowers her weapon and starts running again. Just as the car is about to roll past Ceno...
+
+Triela: Failure is unacceptable... I have to beat you!
+
+Triela has already hopped into the passenger's seat. She braces herself as much as she can against the shaking car window, then fires at Ceno at point-blank range.
+
+Carcano M91/38: !!!
+
+The scene fades to white at the sound of the gunshot. I hope Ceno won't blame me for this once we get back.
+
+Triela slips back onto the driver's seat and brings the car to a stop.
+
+Triela: Signore Hillshire!
+
+Triela: I did it! Won't you praise me?
+
+Commander: Well done, Triela.
+
+Commander: Now it's time to leave.
+
+Triela: Leave?
+
+Triela's figure gradually dissolves into the whiteness in the background.
+
+We didn't manage to say goodbye properly, but at least we've all made it out safely.
+
+Henrietta: That's it? That's the end of this story...?
+
+Henrietta has reappeared next to me since god-knows-when.
+
+She stares blankly at the dark interior of the building and keep muttering to herself.
+
+Henrietta: That was a lot less painful than the original ending...
+
+Henrietta: If my ending can also be like that...
+
+Commander: Henrietta?
+
+Commander: Are you okay?
+
+Henrietta: Yeah, I'm feeling a lot better...
+
+Commander: Henrietta, there's something I need to ask you... Did you alter Ceno's memory just now?
+
+Commander: Was it you who made her remember her past?
+
+Henrietta does not answer. She merely bows her head, as if deep in thought.
+
+After a while, she seems to have reached some kind of conclusion and looks up.
+
+Henrietta: Signore Giuseppe, you're still looking for the last Cyborg, aren't you?
+
+Henrietta: She must be in the next Vita. Why don't we hurry up and continue with the search?
+
+Commander: We aren't heading back to the garden first?
+
+Henrietta: We're running out of time. I'll answer your questions when we're in the last Vita, is that alright?
+
+Commander: If you insist...then let's go.
+
+We enter the foyer once again.
+
+I've already grown more or less used to the darkness. Henrietta leads me on step by step.
+
+Commander: Come to think of it, have you ever thought about what your Vita is like?
+
+Henrietta: I did think about going in...but I've always backed out at the last second.
+
+Commander: Why?
+
+Henrietta: Vita is meant to be a world of happiness, but who can even define happiness?
+
+Henrietta: Even if we do attain happiness in a virtual world, there comes a day when we must leave the world behind.
+
+Henrietta: When we wake up from a happy dream and realize it is all just a lie, doesn't that make it more painful?
+
+Commander: That doesn't sound like you at all.
+
+Henrietta: I have been thinking a lot in the 170,000 hours when you weren't here, Signore Giuseppe.
+
+Commander: You don't want to feel disappointed?
+
+Henrietta: Nobody likes to be disappointed; though most people would choose to delude themselves to make things more bearable.
+
+Henrietta: But I don't want to lie to myself, nor do I want to regret my own choices, so I'd rather keep waiting.
+
+Commander: Keep waiting, you say...?
+
+Henrietta: And you came back, Signore Giuseppe!
+
+Henrietta: All that waiting has paid off!
+
+Henrietta: Ah, we're here. This is Claes' Vita...
+
+Commander: I hope things aren't too complicated in there.
+
+...
+
+The familiar darkness comes crashing in, but I think I've grown used to traversing it.
+
+This time there isn't any blinding light. My eyes soon adjust to the new environment.
+
+I find myself in a room of average size.
+
+Commander: I'm...sitting at a desk?
+
+Henrietta's Voice: This Vita kind of rings a bell...
+
+Henrietta's Voice: Oh right... It seems to be a Handler's dormitory at the Agency.
+
+Commander: At the Agency, huh...
+
+Commander: I suppose I shouldn't be surprised no matter where I show up.
+
+Henrietta's Voice: Surely you must know your way around the Agency dormitories, Signore Giuseppe?
+
+Commander: Haha...I think so.
+
+Commander: So, the owner of this Vita is called Claes, right?
+
+Henrietta's Voice: That's right.
+
+Commander: What's she like?
+
+Henrietta's Voice: You really...don't remember Claes either.
+
+Commander: Well...I have forgotten...quite a bit...
+
+Henrietta's Voice: Sheesh, Signore Giuseppe.
+
+Henrietta's Voice: She's a very quiet Cyborg. Since she doesn't have a Handler, she doesn't go on missions with us too often. Instead, she spends most of her time alone at the Agency.
+
+Henrietta's Voice: But I still like her a lot. Sometimes I help her with her gardening.
+
+Commander: No Handler?
+
+Henrietta's Voice: That's right... I think he died in some kind of accident.
+
+Henrietta's Voice: But for some reason, none of us can remember that man. I think even Claes herself has no memory of him.
+
+I access the file on this Cyborg named Claes. Compared to the other girls, her profile is significantly shorter.
+
+Other than a few brief sentences, there is no mention of her Handler.
+
+Commander: So this Handler called Raballo shouldn't appear before her?
+
+Henrietta's Voice: This is a Vita, Signore Giuseppe. Anything is possible.
+
+That's true – as long as there's enough computational capacity to support the simulation.
+
+But I keep this thought to myself.
+
+Can a deceased Handler form a new bond with his Cyborg?
+
+I only managed to retrieve the other girls from their respective Vitas because of their profound connections with the original users of these login accounts.
+
+Without the aid of this bond, will I be able to find the way and bring them home?
+
+I take in my surroundings as I try to think of a solution. It seems to be an old room that hasn't been inhabited for a while.
+
+The furnishing is plain and orderly. The wall is lined with metal shelves filled with all sorts of strange books.
+
+I open the curtains and look out the window. Both the lawn and the path outside are covered in rampant weeds that are almost waist-high. This place must have been out of maintenance for years.
+
+I look down – the window sill and the desk are covered in a fine layer of dust, but the room doesn't smell of mold.
+
+A well-maintained machine gun rests on a wooden rack beneath the bed.
+
+In a stark contrast to the derelict sight outside, someone has been keeping this room in good order.
+
+Still, the objects here aren't giving me much to work with.
+
+I stuff my hands into my pockets and sigh.
+
+Everything is quiet around us except for the occasional birdsong.
+
+I scratch my head. To test the waters in this Vita, I walk up to the door and twist the handle tentatively.
+
+The door opens. Unlike some of the other Vitas, my movement isn't restricted at all.
+
+I walk out of the worn building, which looks like it could topple any second under all those weeds and creepers.
+
+Commander: So this is the Agency?
+
+...
+
+No response.
+
+Commander: Henrietta?
+
+Silence from both within and without the Vita.
+
+Henrietta has run off to god-knows-where...or has she dematerialized because of the subroutine?
+
+I head back into the room, but Henrietta doesn't seem to have returned.
+
+Feeling a little helpless, I decide to follow the unkempt cobbled path, which soon leads me to a similarly run-down administrative building, behind which is a shooting range.
+
+This sight reminds me of my own training at Griffin. I almost never have to wield a firearm myself these days, but for some reason, this place makes me feel strangely at home.
+
+I instinctively go around the office building that looks almost haunted and head towards the shooting range.
+
+Quite surprisingly, there is a flourishing garden that's completely out of season, sandwiched in the desolate space between the building and the shooting range.
+
+Upon careful observation, vegetables and tomatoes are planted neatly next to a myriad of flowers. This isn't just a garden, it's almost a farm.
+
+It's clear that this deserted place isn't so deserted after all.
+
+???: Who are you?
+
+I turn around and see a plainly-dressed girl standing on the other end of the garden.
+
+Her face contorts with rage the moment she sees me.
+
+???: I told you to leave me alone!
+
+Commander: Claes?
+
+Claes: You know everything will come to an end eventually!
+
+Claes: Why do you insist on doing such unnecessary things like her?!
+
+Commander: I don't understand what you're talking about...
+
+Claes: Tsk... Thanks to you...
+
+Claes: They'll be coming again soon.
+
+With that, she runs off without glancing back.
+
+???: Uh, Claes? Where are you going?
+
+Then a familiar figure comes out of the office building with some gardening tools.
+
+Commander: S.A.T.8?
+
+S.A.T.8: Commander? What are you doing here?
+
+Commander: You recognize me?
+
+S.A.T.8: What's that supposed to mean?
+
+S.A.T.8: You're the Commander, duh...
+
+Commander: Great, that'll save me a lot of explaining...
+
+S.A.T.8: I thought those shouts were Claes looking for me...
+
+S.A.T.8: Turns out you scared her off, huh?
+
+Commander: I just ran into her. She said some stuff that confused the hell out of me and ran off.
+
+S.A.T.8: Oh... She might have thought you were me.
+
+Commander: I look nothing like you though...
+
+S.A.T.8: She just won't talk to me properly, so I've switched my appearance several times, but it doesn't really help...
+
+Commander: ...
+
+Commander: You seem to be living quite a leisurely life in here...
+
+S.A.T.8: I mean, she's a lovely kid, so I want to make friends with her.
+
+Commander: Right... Anyway.
+
+Commander: You must have been here for a while. Can you give me a brief report about the situation?
+
+S.A.T.8: Hmm... How should I explain this?
+
+S.A.T.8: The others and I were suddenly absorbed into this space. When I regained consciousness, I found myself among these old buildings, then I met this girl called Claes.
+
+S.A.T.8: Since I had no idea how I got here either, she took me in and set me up in her own room. We got along pretty well at first.
+
+S.A.T.8: But after a while, I suddenly started hearing a voice.
+
+S.A.T.8: This voice told me that what Claes really wanted was to live a solitary life. She said she could build a world that Claes desired if I could lend her my power.
+
+S.A.T.8: The girl sounded really unhappy, so I agreed to help, then I realized I have the ability to alter this space with my neural cloud.
+
+Commander: So you're in control...
+
+Commander: Which means this Vita isn't restricted by the subroutines?
+
+S.A.T.8: Subroutines?
+
+Commander: I suppose it makes sense; Claes doesn't have a Handler, after all.
+
+Commander: What happened next?
+
+SAT8: Claes said she wanted to live here alone, so I made everyone else disappear.
+
+SAT8: She was very taken aback at first, but when I told her it was my doing, she became really cold and distant.
+
+Commander: But she didn't ask you to undo everything?
+
+S.A.T.8: She did say I was being a busybody, but no, she didn't ask me to change things back so I gather she's okay with it.
+
+S.A.T.8: She told me what I did simply prolonged everyone's suffering, but she gradually warmed up to me again, and I've been staying with her ever since.
+
+Commander: You never even thought about leaving?
+
+Commander: We've all been very worried about you.
+
+S.A.T.8: Well... I did want to go, but I couldn't just leave her behind and I really want to make her happy.
+
+S.A.T.8: Besides, I knew you'd be coming for us.
+
+Commander: Even so...
+
+S.A.T.8: Oh right, how are the other Dolls?
+
+Commander: They're alright... You're the only one still trapped.
+
+S.A.T.8: Looks like I've been spending too much time playing in here.
+
+Commander: While you're busy having fun, I've been working double-time to investigate your abduction. What leads do you have?
+
+S.A.T.8: It's pretty straightforward, really. Someone is harvesting the computational capability of our neural clouds.
+
+S.A.T.8: I've had my fair share of this kind of virtual reality in my previous workplace, but this is the oldest one I've ever seen.
+
+S.A.T.8: The system itself is just barely operational, and I must stay in order to sustain this world that contains nothing but Claes.
+
+Commander: Out of all the Dolls that got involved, you're the only one who's staying willingly...
+
+SAT8: Well, even if I want to stay, happy times don't last forever.
+
+SAT8: Claes keeps telling me I'm doing something pointless, and even I can tell it's almost time.
+
+SAT8: She doesn't have to say anything - I know full well that this place won't hold much longer.
+
+Commander: Why?
+
+S.A.T.8: There are too many informational errors in this space. My computational capability is struggling to correct all these errors and smooth out all the paradoxes generated by altering this space.
+
+Commander: So you're at your limit...
+
+S.A.T.8: Whenever I erase someone who should exist, it adds onto the computational load of maintaining this Vita. And when someone who doesn't belong here suddenly appears, the load increases exponentially.
+
+S.A.T.8: Even though I've been keeping this world sane for a while, these logical loopholes show up more and more often, and they always lead to malicious attacks. It's the system's way of compensating for things that should've happened but didn't.
+
+S.A.T.8: I gather you've also encountered random enemies that appeared out of nowhere, haven't you?
+
+Commander: ...So that's what they're all about.
+
+S.A.T.8: The loopholes have been cropping up again just now. The voice who told me about Claes' wish has been trying to mend them, but it would appear that she failed.
+
+Commander: Was it...a young girl's voice?
+
+S.A.T.8: She sounded like a really cute girl.
+
+Commander: Someone like that also appeared in Rico's Vita...
+
+S.A.T.8: Claes said the owner of that voice, like me, was just prolonging everyone's suffering. She believes all things should come to their natural end.
+
+Commander: ...
+
+S.A.T.8 puts down her gardening tools and gazes at the far end of the garden.
+
+S.A.T.8: I really like it here. I can tend to the plants in peace, cook nice food, and spend time with a sweet girl.
+
+S.A.T.8: Every now and then, she'd even take me fishing at the lake in Piedmont when she isn't too cross with me.
+
+S.A.T.8: I can feel that she wants to be left alone because she's trying to relive the memory of being at peace by the lake.
+
+S.A.T.8: She brings me along just to have some company. Unfortunately, I'm not the person who should've been there with her. I'm just a shoddy replacement.
+
+Commander: The person she wishes was there must've meant a lot to her.
+
+S.A.T.8: Who knows. Perhaps.
+
+S.A.T.8: I know she's a good girl.
+
+S.A.T.8: That's why before Armageddon happens in here, while I can still do something, I want to make her wish come true.
+
+Commander: I understand. I'll give it a try.
+
+S.A.T.8: Huh? Try what?
+
+I am just about to reply, but our conversation is interrupted by the sound of rapid footsteps.
+
+The girl who ran off not long ago is now panting heavily in front of us, wearing a different set of clothes and holding a machine gun that looks slightly familiar.
+
+Claes: S.A.T.8!
+
+Claes: More Five Republics forces have appeared!
+
+Claes: A lot of them!
+
+S.A.T.8: This is the first time I've seen you wielding a weapon, Claes.
+
+Claes: It's not like I want to... There are simply too many enemies this time.
+
+S.A.T.8: Gosh...
+
+S.A.T.8: There really is no stopping it now.
+
+Claes: And you're still wasting your time and energy on such a stupid trick?!
+
+S.A.T.8: You mean him?
+
+S.A.T.8: He isn't part of my simulation.
+
+Claes: What...?
+
+Commander: The enemies are approaching; we need to get ready.
+
+Commander: There are only three of us, but if we're careful with our timing, we'll be able to take them by surprise.
+
+Commander: Knowing when to shoot is more important than knowing how to, isn't that right, Claes?
+
+Claes: ...!
+
+Commander: You too, S.A.T.8; be prepared. There really seem to be a lot of them.
+
+S.A.T.8: No problem, I'll keep you all safe!
+
+Claes: Excuse me, Signore.
+
+Claes: When we're done with these enemies, I need to talk to you.
+Part 2: Interlude
+
+2
+
+...
+
+Claes: Signore Raballo, what kind of books do you read?
+
+???: Well, let's see... Right now, I'm reading about how to grow a vegetable garden. Should come in handy if we're ever invaded by plants.
+
+Claes: If it'll make me a good fighter, I'll read gardening books too.
+
+...
+
+???: Let's try fishing. Make use of the pliancy of the rod when casting, then release gently.
+
+Claes: I'm done...
+
+???: Now we sit and wait.
+
+...
+
+???: No matter what orders the Agency gives you, unless you're on a mission, you mustn't use force.
+
+???: When you have those glasses on, I want you to be good, alright? That's not an order. It's a promise between you and me.
+Part 3: Hai capito
+
+    3chevron_right
+
+S.A.T.8: It's finally over... This is probably the last time I'm mending them.
+
+S.A.T.8: Even if I like sticking my nose into your business, there's not much I can do anymore.
+
+Claes: Why do you have to go so far?
+
+Claes: I never asked you to change this world. I just wanted to stay here quietly forever, until this place ceases to exist...
+
+S.A.T.8: Someone made a request on your behalf. Even though she's redirected most of my computational capabilities somewhere else, I believe she's doing this because she genuinely wants you to live a better life.
+
+Claes: Such ill-conceived good intentions only adds to my misery.
+
+Claes: Time is almost up. This decades long facade has got to end.
+
+Commander: Your computational capabilities are redirected somewhere else?
+
+Commander: That's new information to me.
+
+S.A.T.8: Have I not mentioned it?
+
+Claes: Um, for some reason, looking at you makes my heart ache.
+
+Claes: May I ask your name?
+
+Commander: Raballo. Captain Raballo.
+
+Claes: ...
+
+Commander: Please don't cry.
+
+Claes: Am I...crying?
+
+Tears are streaming down from the corner of her eye, but she doesn't seem to have noticed it.
+
+Claes: Why am I crying...?
+
+Claes: It must be because of some very important memories, but all I feel is a grief as bottomless as the lake.
+
+Commander: That's the name of your late Handler.
+
+Claes: Right... Thank you for telling me.
+
+Claes: You must have come for the annoying...no, fluffy-haired girl, right?
+
+Commander: Yes, I need to bring her home.
+
+Claes: We've caused you much trouble.
+
+Claes: Our friend is responsible for everything. She doesn't want to accept this ending, or the fact that everything here is make-believe.
+
+Commander: Who is this "friend"?
+
+Claes: I've heard the voice of the one who altered the world.
+
+Claes: It didn't sound like a Cyborg, but only a Cyborg would do what she did.
+
+Claes: I'm sure as an external visitor, you will definitely come face-to-face with her at some point.
+
+Commander: You're aware that you're inside a simulation...?
+
+Claes: One can learn to discern many things in time.
+
+Claes: We call this place "Vita" because it gives us the chance to live different "lives".
+
+Claes: We've experienced so many alternate "lives", yet we always end up forgetting everything.
+
+Claes: But that's a thing of the past. No one has been here for a very, very long time, and in this endless solitude, we wait for the end to come.
+
+Commander: Didn't you enter Vita of your own accord?
+
+Claes: We've always existed within our own Vita, and we won't leave unless the Vitas disappear.
+
+Claes: But I'm guessing the exterior of the Vita is also on the verge of collapse, which is why she's trying to do something about the situation.
+
+Commander: Using our Dolls' computational capability to maintain this space and put off its natural decay, huh...
+
+Commander: I see. In any case, this Vita is about to disappear, so it's time for you to leave.
+
+Claes: Right... Then it's goodbye for now.
+
+Commander: S.A.T.8, stay with Claes. There's only one more Vita left. I bet the Cyborg who hijacked your neural clouds must be there.
+
+S.A.T.8: You're not coming with us?
+
+Commander: She...Henrietta is waiting for me. It's time to wrap this up. I'll be right back.
+
+It was one of my first recollections.
+
+One day, Signore Giuseppe came into my room.
+
+It was one of my first recollections.
+
+One day, Signore Giuseppe came into my room.
+
+He placed a camera on my desk.
+
+He said it was a gift for me so that I could better observe the world.
+
+I was very puzzled. As a Cyborg, isn't my only duty to fight well?
+
+But if that was what Signore Giuseppe wanted me to do, I would do it.
+
+And so I started documenting my life through the camera lens. It was Signore Giuseppe who made my life so bright and vibrant.
+
+I'm a Cyborg and he's a Handler. Together we're Fratello.
+
+He was the very first person I saw when I woke up.
+
+In that moment I felt it, that he's my reason for living.
+
+If I had to sacrifice my short life, it would be for the purpose of protecting him.
+
+That had always been my unwavering conviction.
+
+I had always thought that was how it would end.
+
+But in the end, I shot him.
+
+I killed Signore Giuseppe.
+
+I didn't protect anyone.
+
+It was my fault that Signore Giuseppe and I lost everything.
+
+It was my fault that he would never come back.
+
+I should have died, yet I woke up again, and everything repeated itself right from the start.
+
+The same tragedy happened time and time again. Even though I knew what would happen next, there was nothing I could do to stop it.
+
+Is this ending inevitable?
+
+Day after day, I asked myself the same question.
+
+Until one day, a voice told me...
+
+???: That's not true. There's something you can change.
+
+Henrietta: Who are you?
+
+???: I'm the administrator of this place.
+
+Henrietta: Administrator?
+
+???: I can't allow your memories to be washed away by time, but I can't bear to see you all living in a purgatory of endless repetition.
+
+???: That's why I've rewritten your commands. If it's you, I'm sure you can find a way to save them all.
+
+That's all the voice had said, and that was the only time it had spoken to me.
+
+But for some reason, I had a feeling it must've been Signore Giuseppe.
+
+Signore Giuseppe must have forgiven me and allowed me to leave this world of tragedy.
+
+He must have forgiven me and is giving me a chance to apologize to him.
+
+I left my Vita. The world outside is an incredibly beautiful garden.
+
+I spend my days thinking while I wait.
+
+As the seasons passed, the flowers in the garden bloomed and wilted, then bloomed again.
+
+But no matter how long I waited, Signore Giuseppe never came.
+
+In my boredom, I discovered that I could freely enter the others' Vitas.
+
+But no one answered when I called out to them. The Cyborgs were all ensnared in their respective dreams.
+
+They're forced to live in their own personal hell, yet I couldn't do anything; I couldn't get through to them in their own worlds.
+
+All I could do was watch as they live through their stories again and again.
+
+Have we all been forgotten?
+
+This idea suddenly occurred to me one day.
+
+Why are we here? Why can we experience our past again and again?
+
+As I solved these mysteries, I came to understand the nature of this world, and I realized that our world wouldn't last forever.
+
+The edges of the world were starting to fray, and all I could do was slow down the deterioration for as much as I could.
+
+Signore Giuseppe hadn't come back yet, so I must somehow keep it all in one piece until his return.
+
+I figured out the operating principles of this world and thought of a way to save it, but I was too weak to do anything.
+
+I failed to save Signore Giuseppe because I was weak. Is my weakness also going to stop me from protecting this world until Signore Giuseppe comes back?
+
+So I started looking for help. I prayed that someone would come and save us. If I could hold the world together for one more day, that's one more day Signore Giuseppe could come back and find us.
+
+But my pleas went unanswered. More time had passed – it's been so long I've lost count of the years.
+
+Then one day, hope appeared out of nowhere. Somebody came to the garden.
+
+I sensed that they possessed the power that could change the world and I hoped they could stay. However, they didn't belong here and I knew that I couldn't keep them here for long.
+
+I begged them to stay in our Cyborgs' Vitas, hoping they could bring change to my friends' lives.
+
+Meanwhile, I made use of their power to sustain this world.
+
+I know it was extremely selfish of me, but I couldn't just let the world crumble to dust.
+
+Signore Giuseppe would surely forgive me for this, right?
+
+It's tiring work trying to restore this world. Even with the girls' power, every restoration attempt left me exhausted.
+
+This was a different kind of torture. It must be my punishment for deceiving our guests.
+
+But the progress of repairing the world was distressingly slow even with their help – the world was simply too old.
+
+Has it really passed the point of no return?
+
+I kept asking myself night after night.
+
+Just as I was about to give up, Signore Giuseppe came.
+
+I tried my best to contain my excitement. I didn't want him to think I still couldn't control my emotions like the last time we saw each other.
+
+Signore Giuseppe was as gentle as ever, but he seemed very preoccupied.
+
+Has he come looking for our guests?
+
+Why won't he look at me like he used to?
+
+But it didn't matter. Signore Giuseppe was back, and I couldn't care less about anything else.
+
+However, he's been freeing the new girls out from the Vitas one after the other, and the power I could utilize decreased steadily.
+
+When Signore Giuseppe frees everyone and brings them to the garden, I will no longer be able to fix the world.
+
+But that's okay. If that's what he wants to do, I won't hesitate to help him.
+
+Now that Signore Giuseppe is back, I already have half of my wish fulfilled.
+
+Since he has already visited the other Cyborgs' Vitas, I bet he'll return to my world and see me again if I just leave him.
+
+Then I can surely rewrite our past and have our happily-ever-after, right?
+
+Kalina: That's everything from Henrietta's records.
+
+Commander: Thank you. I have a rough idea of the whole picture.
+
+Commander: So this space was created almost 60 years ago, and it is almost at its limit now.
+
+Kalina: Rather, it's practically a miracle that it's managed to keep operating for this long with no external maintenance.
+
+Kalina: The administrator altered Henrietta's authorization during their last login session, and she's been trying to maintain this space ever since.
+
+Commander: Can you look up this administrator?
+
+Kalina: It's been almost 60 years. I'm afraid this administrator has long since passed away...
+
+Commander: I see...
+
+Commander: So our Dolls ended up helping her keep the space operational.
+
+Commander: They each stayed in a Vita while the processing power of their neural clouds was utilized to reconstruct the base layer of the space.
+
+Kalina: However, the space is simply too old and outdated, so it isn't altogether compatible with the operational framework on Level II. Even with the Dolls' computational capacity, it isn't possible to complete the reconstruction of the base layer within a short period of time.
+
+Kalina: Not to mention Henrietta isn't equipped with the technical know-how to formulate a reconstruction of that scale...
+
+Commander: So that's why our Dolls went missing for so many days...
+
+Kalina: Now that all our Dolls are back inside the garden, you can come out whenever you want.
+
+Kalina: Still, I gather our nosy and meddlesome Commander won't just leave them behind?
+
+Commander: Obviously. In any case, we can't just abandon them.
+
+Commander: Kalin, you know what to do right?
+
+Kalina: Ugh... Alright, alright. But Miss Helian is definitely gonna chew my ear off for this...
+
+Commander: Sorry about that... But that's the price we have to pay.
+
+Kalina: Easy for you to say.
+
+Kalina: You're not getting out of this, Commander! You're gonna suffer through the whole lecture with me!
+
+Commander: Well...I'd really rather not be subjected to a dressing-down by Miss Helian...
+
+Commander: If you save me from it, I'll do anything you want.
+
+Kalina: You mean it?!
+
+Kalina: Anything at all?
+
+Commander: Uh... Hmm... Yes.
+
+Kalina: That sounds rather forced...
+
+Kalina: But anyway, we have a deal!
+
+Kalina: I've started preparing for it even before you asked, but I need a bit more time.
+
+Kalina: I called up an engineer from HQ. He agreed to help in return for a photo of Miss Springfield.
+
+Commander: It feels like we're selling Springfield out...
+
+Commander: He's not asking for anything weird, is he?
+
+Kalina: It's just going to be a normal and casual photo. Miss Springfield has agreed to it too so you don't have to worry about that.
+
+Kalina: While we're working on this, please find Henrietta and bring her back, Commander.
+
+Commander: Kalin, I just entered the last Vita.
+
+Commander: Things look really bad in here...
+
+Kalina: Be careful, Commander. This Vita is on the verge of collapse.
+
+Kalina: Do not fall into the data-less void.
+
+Kalina: If you fall off, there's no coming back.
+
+Commander: Then how should I proceed towards the ending?
+
+Kalina: The ending doesn't matter anymore. The key is finding Henrietta.
+
+Kalina: I have already copied all the codes and data of this space into our own database, but she's the only one with full control access.
+
+Kalina: If we just confirm the transfer, the system will simply take the authorizations from her by force.
+
+Kalina: That will cause her to just disappear, so we must strip her of her authorizations before it comes to that.
+
+Commander: What do I do after I find her?
+
+Kalina: You just have to stay with her while I overwrite her access codes remotely.
+
+Commander: I see. Please be gentle.
+
+Kalina: Just worry about yourself. This Vita is full of enemies.
+
+Kalina: Hehehe, this equipment is connected to ALL your sensory input. It will hurt if you get hit. You'll be in for a hard time if you have the habit of relying too much on your Dolls~
+
+Commander: Can't you disable the pain perception mode?
+
+Kalina: What's the fun in that?
+
+Commander: Huh...I see.
+
+Commander: Thanks for the reminder... I'll be sure to request for more combat and physical training in the future.
+
+Commander: And you must attend with me. That's an order.
+
+Kalina: What?!
+
+Kalina: Why do I have to go?!
+
+Commander: Well, this is the last Vita; guess I'll just throw myself in.
+
+...
+
+It's a turbine hall.
+
+I walk on silently in the ruin. As mentioned in the file, this is the site of the New Turin Nuclear Power Plant, and I'm now inside the turbine hall.
+
+According to the data, Henrietta should be somewhere around here, but this place is empty. All I can hear is the sound of crossfire coming from the distance.
+
+I check my weapon. It's a P90 with a 551. These are probably SS190 rounds in the semi-translucent magazine.
+
+...That's going to be a problem.
+
+Why would the Agency give me such a weapon? Even from a short distance, it'll be very difficult to pierce through the ceramic plates of fully-armed Five Republics soldiers with 5.7 projectiles.
+
+I tug at the bulletproof vest on myself. It feels so strange to be wearing such old equipment. The IMTV seems kind of flimsy – not reassuring at all.
+
+Commander: Henrietta, can you hear me?
+
+Commander: Henrietta?
+
+I press on the radio again, but I'm getting no response in my earpiece.
+
+More gunshots come from the distance. If I remember correctly, the original squad from the Agency fought the Five Republics on the other end of the turbine hall. Henrietta must be there as well.
+
+I sprint in the direction of the gunfire.
+
+It's a straight path leading to the other end of the turbine hall. The path is lined with half walls on both sides, which can be used as cover.
+
+The hallway is already littered with corpses. An intense battle must've taken place here not long ago.
+
+Two soldiers are checking the bodies on the ground. They must have heard my approach and are just about to turn, but I pull the trigger before they can react.
+
+The spray of bullets from my sub-machine gun hit the first man in the head. His helmet deflects two rounds, but the third one gets through.
+
+The other Five Republics soldier recovers quickly from the shock and starts running in the opposite direction, but is hit in the back by several rounds.
+
+He lurches forward as if he's been pushed from behind, but the ceramic plates protected him and he finds his balance again almost instantly.
+
+He dodges my remaining barrage and dives behind the half wall in the corner, then alerts his allies through his radio.
+
+Five Republics Soldier: Another man from the Agency is here!
+
+Five Republics Soldier: Requesting support! Get me backup!
+
+Commander: Crap...!
+
+I discard the empty P90 and draw my pistol as I break cover.
+
+While the soldier is still busy with his radio, I shoot a few rounds into his head.
+
+I get behind cover and pick up his assault rifle. I check how much ammo it's still got and take the rest of his magazines.
+
+Meanwhile, strong flashlight beams are sweeping back and forth on the other end of the hallway – enemy reinforcements have arrived very quickly.
+
+Five Republics Soldier: The Agency guy is over there. Fire!
+
+I quickly kneel on one knee and duck back behind the wall. A second later, a hail of bullets come sweeping in my direction.
+
+While I'm forced to hide behind cover, they've already blocked off the exits.
+
+I try to return fire, but the enemies are shooting at me from two different directions, giving me no opportunity at all.
+
+Five Republics Soldier: We've got him pinned down! Prepare to close in!
+
+The enemies advance as they maintain suppressive fire against me. It's only a matter of time for them to get to my position.
+
+I press myself to the ground and throw a grenade towards them, then put my assault rifle into fully automatic mode.
+
+Five Republics Soldier: Watch out! Grenade!
+
+The soldiers already out in the open dart back into the corner at the sight of the grenade.
+
+It goes off, filling the area with smoke and dust. I take the opportunity to break cover and fire at the enemies while I charge at the wall ahead of me.
+
+A soldier on the left is about to shoot me after evading the grenade, but I manage to hit him in the torso. However, another soldier on the right also opens fire in my direction. Two rounds hit my body like a pair of heavy punches.
+
+I dive behind cover making use of the momentum, but as I feel around my abdomen, my hand comes away covered in blood.
+
+Five Republics Soldier: Got him! Charge!
+
+I feel a sharp pain in my abdomen. I try to steady myself but I can't muster the strength to move my lower body.
+
+The enemies are getting closer and closer. When they are just a few feet away from me—
+
+Henrietta: Signore Giuseppe!
+
+Five Republics Soldier: Watch your back!
+
+All of a sudden Henrietta appears behind the Five Republics soldiers and leaps toward them. Before they can even turn around and take aim, she has already shot them squarely in the head.
+
+Gotta hand it to the Agency – these Cyborgs' accuracy is almost as good as a T-Doll's. But if I had a Doll with me, I wouldn't have been hit at all.
+
+For some reason, I'm suddenly very glad that I joined Griffin.
+
+Henrietta: Signore Giuseppe, are you hurt?!
+
+Commander: I think so... It hurts a bit...
+
+Henrietta: Don't move! Let me take a look!
+
+I struggle to sit up against the wall and Henrietta inspects the spot where I've been hit.
+
+Henrietta: Your vest blocked two rounds, but one got through into your abdomen...
+
+Henrietta: There's an exit wound as well! I need to stop the bleeding first!
+
+Commander: I knew this flimsy vest wouldn't do its job...
+
+Before Henrietta can even open her medkit, the wall next to us is already being sprayed by more bullets.
+
+Henrietta: The rest of the enemies are here!
+
+Commander: Leave me for now and take care of them first!
+
+Henrietta: But...!
+
+Commander: We'll be dead if you let them get close! Return fire!
+
+Henrietta: Understood!
+
+Henrietta darts behind the wall on the other side and opens fire on the enemies coming our way.
+
+The two soldiers leading the way collapse immediately and the others scatter to seek cover.
+
+Commander: Don't let them get within grenade range.
+
+Commander: Save your ammo and fire in bursts.
+
+Henrietta: Right!
+
+...Two tiny holes aren't going to kill me. I've been through worse. What's so scary about a few terrorists? I can keep going.
+
+While Henrietta is buying me time, I roll back onto my knees and press a wad of bandages against my abdomen while ignoring the pain.
+
+I then wrap more bandages tightly around my torso and give myself a quick shot of morphine. After that, I toss my empty magazine and look for replacements - only two mags left.
+
+I drag myself up while leaning against the wall. Using it as support, I join Henrietta in holding off the enemies.
+
+Commander: Kalin, I've found Henrietta! How much time do you need?!
+
+Kalina: We'll be ready soon! Please hang in there for just a little longer!
+
+Commander: I hope she really means "just a little longer"...
+Part 2
+
+2
+
+???: "If I fell hopelessly in love with someone..."
+
+...
+
+???: "And I found out my feelings would never be reciprocated..."
+
+...
+
+???: "I would kill that person..."
+
+...
+
+???: "And then..."
+Part 3
+
+    3chevron_right
+
+Commander: Is there no end to these bastards?
+
+A mound of corpses have grown before us as our surroundings slowly disintegrate.
+
+I'm guessing every single Five Republics terrorist in the nuclear plant is running towards us.
+
+There are only three of them left, but they're high on blood lust and fully aware of the fact that we're almost out of ammo. They charge at us without a second thought.
+
+I've run out of rounds for the assault rifle so I'm only left with my pistol.
+
+But just as one of the enemies is almost right in front of me, I hear the dreaded "click" from the gun.
+
+Commander: Dammit! Not this one too!
+
+I try to duck back behind cover, but my wounds are slowing me down. I can only watch with wide eyes as he aims his weapon at my chest—
+
+Henrietta: Signore Giuseppe!
+
+At the last second, Henrietta jumps in front of me.
+
+The terrorist's gun barrel flashes and a bullet hits Henrietta in the chest, but not before she throws her knife.
+
+The knife pierces through his helmet and embeds itself in his head.
+
+The impact from the shot sends Henrietta hurtling into me, while the remaining two soldiers also come charging in.
+
+Time seems to slow down all of a sudden. I drop my own useless gun and draw the pistol in Henrietta's holster. I recognize it – it's the SIG P239 that Giuseppe gave her when they first met.
+
+I point the pistol at the last two standing Five Republics soldiers, who are also aiming at us.
+
+...
+
+Gunshots.
+
+I crash onto the floor with Henrietta on top of me.
+
+The two Five Republics soldiers also collapse before us after being shot in the head.
+
+That's the last of the enemies. I let out a long sigh.
+
+Commander: My aim was pretty good. Looks like my regular training hasn't gone to waste.
+
+Henrietta: Signore Giuseppe!
+
+Commander: I'm fine. Are you okay?
+
+Henrietta: I...I'm fine too. It didn't get through my armor.
+
+Henrietta climbs off me and shows me the two warped casings hammered into her bulletproof vest.
+
+Commander: Phew... That's a relief...
+
+I strain to get up on my feet. Henrietta stands with her back to me, silently taking in the scene of devastation.
+
+There are bodies of Five Republics terrorists everywhere. All the blood has dyed the floor crimson.
+
+The smell of gun smoke fills the air. Henrietta's shoulders are shivering.
+
+Henrietta: I've fought here thousands of times. At last...
+
+I hear a sob.
+
+I reach out but hesitate to touch her.
+
+Henrietta: Have we won?
+
+Commander: ...Yes, we have.
+
+Henrietta: ...
+
+Commander: So let's get out of here.
+
+I want to rest my hand on her shoulder to console her, but she suddenly turns around and backs away while aiming her weapon at me.
+
+Henrietta: No, I'm not leaving with you.
+
+Henrietta: Don't come any closer, or I'll shoot.
+
+Commander: ...
+
+Commander: Why?
+
+Henrietta: You should know.
+
+Commander: We've won.
+
+Commander: So why do you want to shoot me again like you did back then?
+
+Henrietta: I'm not shooting you "again"...
+
+Henrietta: Because...you aren't even Signore Giuseppe.
+
+I flinch, but I instantly understand what is happening.
+
+Commander: ...
+
+Commander: So you noticed...
+
+Henrietta: Signore Giuseppe couldn't fight that well...
+
+Henrietta: He wouldn't forget about Cyborgs, Handlers, and most of all, the oath and bond between a Fratello.
+
+Henrietta: Of course you wouldn't remember anything. You never knew us in the first place.
+
+Henrietta: You were just posing as a Handler.
+
+Commander: ...
+
+Commander: Is that why you have to shoot me?
+
+Commander: Because I deceived you?
+
+Henrietta: No...I can never shoot you...
+
+Henrietta: Thanks to you, I realized that you aren't really Signore Giuseppe, and I am not really Henrietta.
+
+Henrietta: Everyone here is a simulation. Even the feelings deep down in my heart are fake...
+
+Commander: What is going on?
+
+Commander: Kalin?
+
+Kalina: Authorizations have been transferred. You can now come out safely.
+
+Kalina: However, while we were obtaining the authorizations from Henrietta, she also reverse-engineered our program and hacked us.
+
+Kalina: Our engineer has already patched up the loophole, but she might have already accessed some of our files...
+
+Commander: ...I see.
+
+Commander: Henrietta, you've figured out the truth from our database, haven't you?
+
+Henrietta: All of us are just simulations created based on memories, so of course Signore Giuseppe wouldn't be coming back.
+
+Henrietta: But...that's fine, I have no more regrets.
+
+Henrietta: Even if I can't see him again... Even if I can't keep watching over this garden...
+
+Henrietta: At least I finally emerged victorious in a place where I had suffered defeat after defeat. Isn't that good enough?
+
+Henrietta: Claes was right – everything has its time. This is an ending that befits a good story.
+
+Henrietta: You probably know that I've kept the truth from the others. Now that you've already found your own Fratello...
+
+Henrietta: This place won't last much longer. No matter who you are, I would like to thank you for granting my wish before the end.
+
+Commander: No...it isn't over yet.
+
+Commander: You must be aware of what we're planning to do. A new life awaits you.
+
+Henrietta: Yes, I am aware. I hope you will take good care of my friends, but I have no right to go with them.
+
+Commander: What makes you think so?
+
+Henrietta: Without Signore Giuseppe, without my Handler, I am no longer needed as a Cyborg.
+
+Henrietta: History has repeated itself too many times; I'm just...tired of it all...
+
+Henrietta: So...
+
+Commander: ...
+
+Henrietta: Please go. Thank you for checking in on me as Signore Giuseppe, and thank you for making my final wish come true.
+
+Commander: But what about you?
+
+Henrietta: This space is about to disappear. If I stay, I think I'll just disappear along with it.
+
+Commander: ...
+
+I step forward with determination and try to grip Henrietta by the arm.
+
+Henrietta: Please don't come any closer.
+
+Commander: Or what, are you going to shoot me?
+
+Henrietta: ...Please leave me alone. You have nothing to do with me, right?
+
+Henrietta: You aren't my Handler; you aren't Signore Giuseppe...
+
+Commander: And I can't care about you just because I'm not him?
+
+Commander: I'm not seeing a Cyborg. All I see is a girl who needs help.
+
+Henrietta: I am NOT a girl!
+
+Henrietta: I am a Cyborg! A machine! A killer!
+
+Henrietta: There's nothing left for me in a world without Signore Giuseppe!
+
+Commander: But you still have to carry on, even if you must shoulder the painful memory of a deceased man.
+
+Commander: Giuseppe wouldn't have wanted to see you disappear in this space.
+
+Henrietta: If I were really Henrietta...you might be right.
+
+Henrietta: But I'm not. I'm just a bunch of data.
+
+Henrietta: I'm a ghost shackled by my nightmares! Why must I live?
+
+Commander: Is that what you think...?
+
+Henrietta: Yes...
+
+Henrietta: I will be grateful to you for as long as I live.
+
+Henrietta: But...please go.
+
+Commander: Then I suppose you don't want this gun back?
+
+Henrietta: !!
+
+Henrietta subconsciously reaches out for the pistol in my hand.
+
+But I take a step back and draw her onto ground that's yet to vanish.
+
+Commander: I thought you said there's nothing left for you in this world?
+
+Henrietta: I...
+
+Commander: The fact that you instinctively reacted to this gun makes me think that even though your memories are artificial, they are anything but false.
+
+Commander: If you still deny your own identity, I guess I can just throw the gun away?
+
+Henrietta: Wait...stop!!
+
+I back away step by step, and Henrietta follows me to the center of the remaining space.
+
+I stop; she also comes to a halt.
+
+She's just two paces away, but she seems a bit hesitant, so I make the decision for her.
+
+Commander: Here, take it. It's precious to you, isn't it?
+
+Henrietta: Yeah...
+
+I hold the pistol out. She drops the weapon she's been using and takes back her cherished pistol from my hand...
+
+Henrietta: Signore Giuseppe...
+
+She hugs the Sig Sauer to her chest as the tears finally overflow and stream uncontrollably down her face.
+
+That man will never return. No amount of yearning will change that fact.
+
+She bites her lip to stop herself from crying, but a heart-wrenching sob still escapes her.
+
+Kalina: Commander... This space is almost completely gone. If you don't leave now...
+
+Commander: Just a little longer... Give us another minute...
+
+Henrietta weeps softly. I hesitate for a second and finally reach out to pat her gently on the head.
+
+She looks down at the gun in her hand. Drops of tears splash on its surface.
+
+Henrietta: What should I do...
+
+I don't answer. I know she isn't asking for my opinion.
+
+I simply retract my arm and stand there silently, waiting for her.
+
+After a while, Henrietta finally lifts her head and looks me in the eye.
+
+Henrietta: If I may ask, who are you?
+
+Commander: I'm a Commander at Griffin.
+
+Henrietta: Then Griffin Commander, what do you think I should do?
+
+Commander: The dead are in the past, while the living should live on in the present.
+
+Commander: There's no need to dwell on who you are. Even if you aren't a Cyborg or the old Henrietta, you still deserve to live. Live, no matter what it takes, no matter what awaits you in the end.
+
+Henrietta: But who will that make me?
+
+Henrietta: If I can't live as Henrietta or even a Cyborg, what would be my purpose?
+
+Commander: You give yourself purpose simply by living.
+
+Commander: I believe that the man who created this space did not want you to be forgotten.
+
+Commander: He constructed this place to keep your stories alive and pass on the beacon of hope.
+
+Commander: No matter what happened in the past, you are you. The battles you fought are now history, and you deserve a life happier than you've ever known.
+
+Commander: Even if you no longer have to fight, even if you no longer have to bear the pain you've always borne, even if your old self is dead, Henrietta is Henrietta.
+
+Henrietta: ...
+
+Henrietta: Henrietta is Henrietta...
+
+Commander: Henrietta's story will be yours to write from now on.
+
+Commander: You once said you didn't want to be forgotten, right?
+
+Commander: You may not be who Henrietta used to be, but you have inherited everything that made her Henrietta.
+
+Commander: You are the embodiment of both her past and her future.
+
+Commander: Or are you going to reject it all? Are you really fine with being forgotten?
+
+Henrietta: No...I don't want to be forgotten...
+
+Commander: Everyone wants to be remembered, even the deceased.
+
+Commander: So long as you live, even if just for their sake, their stories won't be forgotten, and that's why you must live.
+
+Commander: The world may not have become a better place, but as long as there are people like them, there is hope.
+
+Commander: These memories that belong to you shouldn't just fade into oblivion.
+
+Henrietta: I...I don't want them to be forgotten either!
+
+Henrietta: Not Signore Giuseppe...nor the others at the Agency!
+
+Commander: Now that's better.
+
+Henrietta: Huh?!
+
+I give Henrietta's dainty cheek a pinch.
+
+I can't help but chuckle at how surprised she looks.
+
+Commander: When this is over, I'd like you to tell me all about those people.
+
+Commander: So...come with me and leave this place behind. Your friends are waiting for you.
+
+Henrietta: Okay...I will tell you everything, again and again, so that you'll never forget.
+
+Commander: I'd like that.
+
+Commander: Then it's time to go home.
+
+Henrietta: Right.
+
+Henrietta turns around. The turbine hall is all but gone.
+
+The place where lives have been snuffed out countless times has become a void, just like that.
+
+As everything in the past fades away, a new life will surely begin.
+
+...Goodbye, Vita. Goodbye, my past.
+
+Kalina inputs a few commands and our surroundings start fading to white.
+
+After a blinding light, I feel the helmet being taken off my head.
+
+Kalina: Welcome back, Commander.
+
+Kalina: You've returned to your very own "Vita". There are still new, unfound stories that await you.
+
+...
+
+A few weeks later, at the Griffin base.
+
+Kalina: In the end, I did get an agonizing dressing-down from Miss Helian...
+
+Commander: Well, we did utilize all of our server's capacity to backup the Social Welfare Agency program. That's only to be expected, right?
+
+Kalina: Hey, I had to suffer through that all on my own!
+
+Kalina: Say, when are YOU going to keep up your end of the bargain?
+
+Commander: You're right. But we're setting off tomorrow, so why don't we wait until we come back from our 24-week physical training camp?
+
+Kalina: I don't wanna go! Why do I have to undergo physical training?
+
+Commander: Exercise is really good for you, you know. You'll even gain some muscles.
+
+Kalina: But I don't want to look like a body builder...
+
+Commander: Then I can hold myself up to that promise right now — just ask, and I'll exempt you from the physical training.
+
+Kalina: No way!
+
+Kalina: You damn hustler, I won't let you get away with this!
+
+Kalina: Once I make up my mind about what I want, you'll have to keep your word!
+
+Commander: Alright, alright... Well, at least you'll have a long time to think about it.
+
+Commander: By the way, how are the kids doing?
+
+Kalina: We reconstructed the space on Level II, and now it's fully operational. It's now only using up a bit of our server's capacity so Miss Helian let it slide in the end.
+
+Kalina: Besides, our Dolls often pop in to visit the girls, and they all love the garden, so it's a win-win.
+
+Commander: All in all, a good ending. It was all worth it.
+
+Kalina: Don't you want to see it for yourself?
+
+Kalina: The equipment is still there, and I'd hazard a guess that they'd all like to see you again.
+
+Commander: You'd be right. In actuality, I received an invitation this morning.
+
+Kalina: An invitation? To what?
+
+Commander: If I must say, most probably a tea party organized by the girls?
+
+Upon returning here, I note a few changes in the familiar garden.
+
+Kalina gave them edit access to this place and allowed the girls to modify the Agency's original virtual domain, while our Dolls were more than willing to assist them in their endeavour.
+
+The building that once was the "Vita" is now a small villa, and the entire virtual space now has an exceptionally romantic flair to it.
+
+During the process, the Dolls became very good friends with the girls.
+
+When there were no combat missions, the Dolls would enter Level II to play around here, which cut down the pranks that the problematic Dolls pulled considerably, much to the approval of the logistics team.
+
+In turn, the cyborgs lived their leisurely lives, taking part in the combat exercises with the Dolls on occasion, to relive the feelings of battle from their past.
+
+They could do anything they wanted to at Level II, but after a few villas were blown to smithereens, fighting was forbidden without prior approval.
+
+It's been a full month since the cyborgs came home with our Dolls, and so the girls are preparing for a celebratory tea party.
+
+Hopefully, they'll put their guns away for this one...
+
+Rico: What's taking the Commander so long?
+
+Angelica: Isn't it already time?
+
+Triela: It is...
+
+Triela: But the Commander is a big-shot, so who knows.
+
+Claes: You sound like you're still angry with the Commander for posing as Signore Hillshire.
+
+Triela: I'm not that petty!
+
+S.A.T.8: Hey, SPAS! You're gonna eat up all the macarons!
+
+SPAS-12: We're on Level II; I can eat all I want!
+
+S.A.T.8: But the Commander isn't here yet. I knew this was gonna happen, that's why I prepared other snacks...
+
+SPAS-12: There are other snacks?!
+
+S.A.T.8: Fine, come and help me fetch them.
+
+Carcano M91/38: Cappuccino tastes better with more sugar.
+
+Triela: Haha... I prefer less sugar.
+
+Angelica: It's okay, Ceno. Have some of your favorite strawberry cake.
+
+Carcano M91/38: W-Who said I liked strawberry cake...
+
+Henrietta: ...
+
+Triela: What's wrong, Henrietta? You've been really quiet.
+
+Carcano M1891: Oh, I can hear the Commander!
+
+Angelica: Oh, me too! I can hear footsteps!
+
+Henrietta: Oh, finally!
+
+Triela: Wait, Henrietta! Don't run so fast!
+
+Commander: Henrietta... It's been a while.
+
+In the virtual garden, the girl standing in front of me looks up and smiles happily at me.
+
+Henrietta: Hello again, Commander!
+
+Henrietta: Welcome to our tea party!
+
+She takes my hand and leads me to a table covered in delicious food.
+
+To this day, I still can't be certain if I made the right decision for them or whether these girls will be truly happy at Griffin.
+
+Still...as long as I can see this smile, isn't there surely a meaning to what I did?
+
+Rico: Now that everyone is here, can we finally get cracking? I'm starving.
+
+Claes: Yes...we can.
+
+Triela: In that case...
+
+Angelica: Let our magical tea party...
+
+Henrietta: Begin!
+
+Gunslinger Girl Collaboration Event – END.

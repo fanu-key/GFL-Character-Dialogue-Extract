@@ -1,0 +1,377 @@
+In the Griffin base, at the firing range.
+
+QBU-88: Say what—?!
+
+KSVK: Those who never give anything will never receive anything. There is no escaping this principle during tonight's activities.
+
+KSVK: Among the prizes which this year's organizers have furnished is a 20%-off discount coupon, valid at all supermarkets.
+
+QBU-88: No way! I've never heard of anything like that before!
+
+QBU-88: There's no way I'd miss out on that if it were true... But I didn't sign up for the event!
+
+KSVK: There are always surprises in life, so become a surprise in your own right.
+
+KSVK: I have relayed what I should pass on. Now, what awaits is the choice you make...
+
+QBU-88: I'll go! How could I possibly miss out on a deal like that?!
+
+KSVK: Do your best, then, chosen one. Claim the crown tonight, and may you obtain glory and what's rightfully yours.
+
+QBU-88: But if I join halfway... KSVK? Hello? She sure hung up fast. Ah, forget it, how could I let anyone else get their hands on such a huge discount?
+
+QBU-88: Heh heh heh, don't underestimate my skills.
+
+QBU-88: As it happens, I can make my outfit from the cloth I stockpiled earlier.
+
+QBU-88: ...There doesn't seem to be enough material for the skirt, so I'll make it a mini.
+
+QBU-88: I can just use paper from the Yellow Pages that I found in the city to make a talisman, and I can string these panda dolls up with fishing line and use them. As long as nobody's using IR lenses, I'll be able to dangle them in front of people from behind!
+
+QBU-88: The plan's perfect! Let's go!
+
+Screams and laughter fill the air after the test of courage begins.
+
+QBU-88 sneaks in after making sure her preparations are complete.
+
+m45: Things are getting really intense... Where's Gr PSG-1, she said she would be here soon...
+
+QBU-88: Hahah! This jiangshi's got her eye on you! If you don't hand over your candy...
+
+QBU-88: Then I'll go NOM and chomp off your head!！
+
+m45: Aieee...!
+
+m45: But your mouth is so small, how can you bite off my head?
+
+QBU-88: Don't judge me by my size! Jiangshis are really strong, you know.
+
+QBU-88: So what's it going to be, handing over the candy or having your head chomped off? Choose!
+
+m45: I'm sorry, I don't any candy with me. Could I give you these snacks instead?
+
+QBU-88: Snacks? Snacks are fine too! What kind of snacks? Hurry up and show me! I'm still going to eat you if they're not good enough!
+
+m45: I just made them.
+
+QBU-88: They smell great! Mmm, you pass. You can go!
+
+m45: Thank you, Miss Jiangshi.
+
+m45: And thanks for your hard work. After all, you put a lot of effort into...hm...scaring people.
+
+QBU-88: Of course! Take care on the way back. Don't let the other monsters eat you.
+
+m45: Well, this is the first time I've met such a caring jiangshi. I won't have to worry about being scared if everyone's like you...
+
+m45: That's strange, Gr PSG-1 isn't up there. Did she take the lift down?
+
+QBU-88: Hahah! This jiangshi's got her eye on you! If you don't hand over your candy...
+
+MG3: You're good at catching people by surprise, but I'm not going to be scared since I'm working here.
+
+QBU-88: Ah, I see...
+
+MG3 can't help but laugh after seeing the crestfallen look on QBU-88's face.
+
+MG3: Well, if you want candy, I brought some along.
+
+MG3: Here, this is for you.
+
+QBU-88: I'll take it, then! Thank you, MG3.
+
+QBU-88: I didn't expect to get candy during this test of courage, lucky me♪
+
+QBU-88: Yup, time for the next objective!
+
+QBU-88 hops and skips off, and as MG3 watches her leave, she suddenly realizes something.
+
+MG3: ...
+
+MG3: Wait a minute, she's not on the list of participants.
+
+MG3: Did she sneak in here?
+
+MG3: Type 97S, I've got something to tell you...
+
+QBU-88: Hahah! This jiangshi's got her eye on you! If you don't hand over your candy...
+
+Gr G36c: Help...help me, I can't run any more...
+
+QBU-88: ...
+
+QBU-88: Did you fall and hurt yourself?
+
+QBU-88: I mean, your clothes are in tatters. This is such a mess.
+
+Gr G36c: I didn't tear my clothes when I fell, it's just...
+
+Gr G36c: Are...you here to scare people too?
+
+QBU-88: Yep. Still, let's leave that aside for now. Did you twist your ankle? Can you still stand?
+
+Gr G36c: Yeah, I think I twisted it...
+
+Gr G36c: Owwwwww! It hurts! Don't...!
+
+QBU-88: It must have been dislocated because you fell down a flight of stairs. Alright, I've popped it back in.
+
+Gr G36c: It... really did stop hurting so much...
+
+QBU-88: Of course. All you need is to fix the position of the bones.
+
+QBU-88: Here, lean on me as you stand up.
+
+Gr G36c: ...I don't know what I would have done if it wasn't for you. Thank you, Miss Jiangshi. You're very good at this.
+
+QBU-88: Hehe, well, you pick a few things up when you enter the workforce. You could say nursing is my stock in trade...
+
+Type 97S: She's the one who broke the rules and snuck in! We've got her!
+
+QBU-88: I can't believe even a test of courage would have its rule breakers. Honestly, can't they just give it a rest?
+
+QBU-88: ...Whoa!
+
+QBU-88: Wait a minute, why are you grabbing me?!
+
+Type 97S: That would be YOU! You're the one who snuck into the venue without registering!
+
+Type 97S: How dare you run wild in a test of courage that I'm hosting! You're under arrest, QBU-88! Your crimes include trespassing into this place, extortion of the participants and bullying Gr G36c! Time to pay the price!
+
+QBU-88: Okay, so sneaking in here was on me, but I didn't extort anything from anyone and I didn't bully Gr G36c!
+
+QBU-88: Ugh...You're tying me up too tightly, my clothes...
+
+Type 97S: And you're STILL trying to talk your way out of it! I knew you were a greedy little miser, but I didn't expect that you'd go so far as to steal Gr G36c's outfit!
+
+QBU-88: What the heck are you talking about?!
+
+Gr G36c: Ah, she wasn't trying to steal my clothes... I was the one who...
+
+Type 97S: Don't make excuses for her, Gr G36c! I know exactly what she did!
+
+QBU-88: What did I do to deserve getting tied up like this?! I was HELPING her!
+
+QBU-88: I only noticed her just now because she twisted her ankle, otherwise I would have just asked her for candy!
+
+Type 97S: Oh, that's a good one, extortion of an injured person. I'm taking that as a formal confession, QBU-88!
+
+QBU-88: But I didn't do it!
+
+Type 97S: That just makes it ATTEMPTED extortion.
+
+Type 97S: You know, this isn't the first time you've gotten yourself into big trouble while chasing small gains, right?
+
+Type 97S: Didn't I have to rescue you from those human traffickers several days ago? Can't you give it a rest!
+
+QBU-88: I only went because he said there was a free holiday in store for me.
+
+QBU-88: And he didn't realize I was a Doll, that just means I did a good job...
+
+Type 97S: Oh, grow up already. There's no such thing in this world as a free lunch! Do you think everyone's as kind as the Commander?
+
+Type 97S: It's one thing to go with anyone who offers you a free vacation, but who knows what godforsaken place you might have been sold to if Miss Kalina hadn't found out in time and sent me after you? And you'd still be thinking that you got a bargain out of it, am I right?
+
+QBU-88: ...Being sold off... How-how can you say a free vacation is like being sold off? And you said the Commander was a kind person who would take me on holidays and vacations, what if other people were like that too?!
+
+Gr G36c: So Miss 88...was kidnapped by human traffickers who didn't realize that she was a Doll?
+
+Gr G36c: How could this be...
+
+Type 97S: Yes, that's how is. It's hard to believe, but that's what she did.
+
+Type 97S: When I worked my way inside, she was surrounded by several people, and she still thought she was going through customs. She even offered to help them count their money after being sold! That's the kind of person she is.
+
+QBU-88: ...
+
+QBU-88: Oh fine, have it your way! Besides, it doesn't matter what I say, does it?
+
+Gr G36c: I can hardly believe it...but still, my fall wasn't her fault, Type97S. Gr PSG-1 scared me and I accidentally fell down the stairs.
+
+Gr G36c: If it hadn't been for Miss 88, I might have been stuck here until Big Sis came...
+
+Type 97S: Oh? Is that true?
+
+Type 97S: ...Alright then, it seems I falsely accused you. Sorry about that.
+
+QBU-88: Humph.
+
+Gr G36c: I'm so sorry about this, you went out of your way to help me but then...
+
+Gr G36c: Does your hand hurt?
+
+QBU-88: It's not so bad.
+
+Type 97S: So why did you sneak in, anyway? There was no excuse to not register, right? It's free.
+
+QBU-88: I came because KSVK said there was a discount coupon up for grabs! The winner's going to get it and there's no way I'm going to let such a huge discount pass me by!
+
+Type 97S: Huh? A discount coupon? What do you mean by discount...
+
+???: Aaaaaaaaaaaaaahhhhhhhhhhh—!
+
+Type 97S: Looks like another person's been frightened.
+
+Type 97S: That's strange, why hasn't KSVK broadcast the updated score yet?
+
+???: Someone help meeeeeeeeeeeeeeeeeee!
+
+QBU-88: She sounds like she's in pain!
+
+QBU-88: No wait, Type 97S, she sounds like she's in trouble!
+
+Type 97S: I need to head over there and take a look! Follow me, QBU-88!
+
+QBU-88: Why do I have to go with you?! My hand is still hurting and so are my legs!
+
+Gr G36c: Then I'll...
+
+QBU-88: ...I was exaggerating, it's not that bad. You go rest and wait for your sister to come. We'll head over first!
+
+QBU-88: If she's hurt too, I might be able to help...
+
+Type 97S: ... If you'd told us earlier, you could have worked security too.
+
+QBU-88: Do the security staff get paid?
+
+Type 97S: Nope.
+
+Type 97S: ...Ah, MG3's here too. Is that person on the ground the victim?
+
+Type 97S: What happened, MG3?
+
+MG3 shrugs.
+
+MG3: Huh, your Halloween outfit is pretty special, M870.
+
+Type 97S: So you were screaming because it was so round that you couldn't stand up?
+
+QBU-88: Was that you crying for help just now?
+
+M870: Quit chatting over there! Hurry up and get me out of this!
+
+Type 97S: Easier said than done. Now that you're stuck so tightly in there, how are we going to free you?
+
+M870: I don't care how you do it! Just get me out of here!
+
+QBU-88: Don't worry. Let me see how we can get you loose.
+
+QBU-88: This hollowed-out pumpkin looks kind of familiar.
+
+QBU-88: Wasn't Gr G36c carrying something like this just now?
+
+QBU-88: Do the participants in this test of courage get jack o' lanterns?
+
+...
+
+Kalina: So, although you discharged your weapon without consent, you rescued M870, while QBU-88 has been recorded as a participant and is eligible for a special prize. Is that it?
+
+Type 97S: Those are the facts. It's not like QBU-88 did anything particularly wicked. Although, she ought to register with me next time!
+
+QBU-88: What's so fun about Halloween, anyway... Still, it's a different matter if there's free candy.
+
+Gr G36c: Ah, there you are, Miss 88!
+
+Gr G36c: Here, this is for you.
+
+QBU-88: What's this? ...An ice cream?
+
+Gr G36c: I'm so sorry I didn't have any candy or snacks ready... Big Sis told me to give this to you as a token of appreciation.
+
+QBU-88: Wow, this is sweet. I mean, she helped me fix my clothes, so she didn't need to stand on ceremony...
+
+QBU-88: Alright, I'll join next year's Halloween, then.
+
+Gr G36c: Ja, let's come again next year!
+
+Kalina: ...Now then, that was the list of the Dolls who won a prize.
+
+Kalina: Please come up and collect your prizes from me!
+
+Kalina: Thank you all for participating. See you next year!
+
+QBU-88: Kalina, I'm here for the 20%-off supermarket discount coupon.
+
+Kalina: Huh? But we don't have a prize like that...
+
+M870: Kalina, give me my soda first!
+
+Kalina: We don't have a prize like that either...
+
+M870: ...
+
+QBU-88: ...
+
+M870: Where the hell is KSVK?! I'm going to stuff her into a pair of speakers and blast her with death metal all night long!
+
+QBU-88: I can't believe KSVK tricked me...and I worked so hard to scare everyone too...
+
+Kalina: KSVK? What are you talking about?
+
+Kalina: Someone knocked KSVK out and she's still unconscious.
+
+...
+
+QBU-88: You must be kidding me, right? KSVK was hosting the radio broadcast! She must have been pretending to be knocked out, then she came out to scare us!
+
+Commander: Er...
+
+Commander:
+If choice 1 was picked
+
+QBU-88: I know, right? I worked so hard, but in the end I got tricked and frightened!
+If choice 2 was picked
+
+QBU-88: Things were a real mess back then...
+
+QBU-88: I really was scared pretty badly back then. I only managed to calm down after running back to the dorm.
+
+QBU-88: Now that I think about it, there's no way gods or devils could exist in this world!
+
+QBU-88: If they did exist... Well, there's no difference between spirits who didn't answer prayers and ones who don't exist.
+
+Commander: This isn't like you at all.
+
+QBU-88: You understand, right, Commander? I used to be a caretaker before I came to work with Griffin. I saw so many people lying on their sickbed and praying for their families to visit them, but...
+
+Commander: But?
+
+QBU-88: ... Forget it, I shouldn't be talking about such things on a happy occasion!
+
+QBU-88: It's getting too late tonight, so I'll make sure I settle the score with KSVK tomorrow. How dare she trick me with something as important as a discount coupon! I'll make sure I drive her credit rating into the dirt!
+
+Commander: It wasn't KSVK. It was one of her Dummies that went rogue.
+
+QBU-88: You mean, as in Dummy-linking?
+
+QBU-88: Are there even Dolls out there who can't manage their Dummies?
+
+Commander: It was probably an accident.
+
+QBU-88: Yeah, in that case, I can...
+
+Another QBU-88: ...Do this too.
+
+Commander: ...Ahhhhh!
+
+Another QBU-88: I didn't expect to see a look like that on your face, Commander. That means I'll be able to scare KSVK.
+
+Commander: This is...
+
+QBU-88: One of my Dummies. Since I went to all the trouble to make these clothes, I can't let them go to waste, can I? They're still usable if I fix them up.
+
+QBU-88: My plan is to use it to scare KSV... Commander? Why are you patting my head all of a sudden?
+
+Commander: I think you shouldn't prank KSVK.
+
+Commander: While there's no 20%-off discount coupon, I need to get some household supplies this weekend.
+
+Commander: Would you like to go shopping with me?
+
+QBU-88: You've got the right Doll, Commander! There are lots of places offering discounts this weekend, so what do you want? The clothes in this store are cheaper but also kinda bland. The discounts only apply to clearance goods, but you might still be able to find something decent. The shop sells really good food ingredients and things don't go on sale too often! And then there's this...
+
+QBU-88 immediately comes to life the moment shopping comes up. She talks excitedly about the shopping plan until late at night before leaving in satisfaction.
+
+Yeah... although this year's Halloween wasn't a peaceful one, I was looking forward to this weekend's excursion.
+
+At that time, I had not considered that my plans to go out for the weekend would soon be ruined in a few short hours...

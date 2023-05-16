@@ -1,0 +1,379 @@
+KSVK: Are you sure you're not attending the ball?
+
+KSVK: It's a rare opportunity to leave your work behind and experience something new.
+
+DP-12: They really can't spare me at Logistics. Besides, your evening dresses have already been made. It's too late for me to start preparing for it.
+
+DP-12: Oh right, your dress has just arrived. I've put it in your room. Remember to try it on when you have time.
+
+KSVK: Hm.
+
+KSVK: Are you sure...that's my size?
+
+KSVK: I can't possibly fit in that.
+
+DP-12: Did you send the wrong measurements?
+
+KSVK: I couldn't have. I sent them my default factory specs.
+
+KSVK: I wonder if there's still time for alterations.
+
+DP-12: The ball is in two days, right?
+
+DP-12: I think the Commander ordered all the fabric in bulk.
+
+KSVK: Yes, I also heard that QBU-88 had just enough to finish all the dresses, so she probably can't make another one for me...
+
+KSVK: What should I do? I really can't fit into that dress, but everyone will be in formal dress that day...
+
+DP-12: Is there any other way?
+
+KSVK: I don't have another evening dress. I doubt anyone else would have one lying around either.
+
+KSVK: I would be a party pooper for showing up in my usual clothes, wouldn't I?
+
+DP-12: Don't you have a smaller body in the depot?
+
+KSVK: I do, but I've switched back to my old body because that size wasn't practical for the recent battles.
+
+DP-12: Maybe give that a go? It could come in useful now.
+
+KSVK: I suppose that's the only possible solution.
+
+DP-12: Don't worry, I'm sure it'll work out.
+
+KSVK: Huh?
+
+DP-12: Nothing. Just try on the dress with that body. I'll wait for your good news.
+
+KSVK: It's a perfect fit.
+
+KSVK: Could this be divine grace? So God does listen to prayers every now and then.
+
+She closes the door of the depot carefully, then she hears a set of footsteps coming her way.
+
+ST AR-15: Who's there?
+
+KSVK: Huh...?
+
+ST AR-15: Uh, since the alarm didn't go off, you must have been granted clearance.
+
+KSVK: AR-15 can't tell it's me?
+
+ST AR-15: You look familiar.
+
+KSVK: Do I?
+
+ST AR-15: You remind me of KSVK...
+
+KSVK: ...That's only natural.
+
+ST AR-15: Are you from the same line?
+
+ST AR-15: Like a sister model?
+
+KSVK: ...May I ask who you are, Miss?
+
+ST AR-15: I'm ST AR-15, a colleague of KSVK's. Are you looking for her?
+
+KSVK: Yes, please. I've never been here before, so I don't really know the way.
+
+KSVK: I'm somehow enjoying this!
+
+ST AR-15: No problem.
+
+ST AR-15: Follow me to the reception room. This is the depot.
+
+KSVK: Thanks.
+
+KSVK: She's so friendly! I didn't know there's such a side to AR-15. She never shows it...
+
+ST AR-15: I'm going to call KSVK.
+
+...Beep beep beep...
+
+KSVK's communicator comes alive.
+
+KSVK: ...
+
+ST AR-15: ...
+
+ST AR-15: Sister?
+
+ST AR-15: Ha.
+
+KSVK: The photo studio is ready. Have you tried having your pictures taken?
+
+ST AR-15: Don't change the subject.
+
+KSVK: Hm? I've placed a lot of props and decorated the space. It's perfect for taking artistic portraits.
+
+KSVK: I've even asked M200 for help. She's quite skilled in photography and is really good at taking extremely flattering photos without too much embellishment.
+
+ST AR-15: How does she do that?
+
+KSVK: Probably something to do with the lenses, lighting, and presets.
+
+KSVK: Interested?
+
+ST AR-15: I'll ask SOP-II and the others.
+
+ST AR-15 turns and leaves.
+
+KSVK: Portraiture will never fail to appeal to women. From charcoal sketches to photographs, the captured visage becomes eternal.
+
+KSVK: It's been quite a refreshing experience to prank people.
+
+KSVK: Do I usually give off an air of austerity that makes others difficult to relax around me? Now I'm curious...
+
+KSVK: This will probably make somebody upset, but I still want to go ahead and do it.
+
+KSVK: Ha, is that an evil thought? Interesting.
+
+The lights in the banquet hall make the space as bright as day.
+
+Music swirls through the air like a spring breeze.
+
+M200: K...SVK? When did you get a new body?
+
+KSVK: Oh, I was hoping I could fool you, but you saw right through me.
+
+M200: I could see your signal ID when we talked.
+
+M200: Since my correspondence was KSVK, you're still KSVK even though you're in a different body.
+
+KSVK: Huh, looks like I'll have to mask my signal.
+
+KSVK: Way to go, M200.
+
+M200: ...It's nothing worth mentioning.
+
+M200: So who are you trying to trick?
+
+KSVK: Nobody in particular.
+
+KSVK: Aren't you going to stop me?
+
+M200: Huh? I don't see the harm as long as you don't go overboard.
+
+KSVK: Well...
+
+M200: Though someone will probably get angry.
+
+KSVK: I derive joy from playing a trick while the victim experience exasperation. It's all about equivalent exchange.
+
+KSVK: I'll make sure to apologize afterwards.
+
+M200: Good.
+
+KSVK: But may I ask you for a favor?
+
+M200: Uh, sure.
+
+M200: You're still talking about taking pictures, right? I have my camera set up.
+
+KSVK: Yes, but I'd like you to take a few extra ones for me, especially during my prank.
+
+M200: I'll do my best.
+
+The bar is a great place for Dolls to mingle.
+
+That also makes it the perfect place for a prank.
+
+KSVK: May I have a Rose in the Snow?
+
+Bartender: Of course. Any other special request?
+
+KSVK: No, just mix it your way.
+
+KSVK: A cocktail with such a name is bound to taste delightful.
+
+???: That voice? Are you new around here?
+
+A Doll in a pure white dress walks up to her.
+
+It's Saiga-12.
+
+Saiga-12: H...Hello! Huh? What a beauty! And you look kinda familiar...
+
+KSVK: Me?
+
+KSVK: She hasn't figured it out yet...
+
+The lights suddenly go out with a snap.
+
+KSVK: Ah!
+
+KSVK: The others are probably getting ready for the first dance.
+
+Saiga-12: Don't worry! This is part of the program. The dancing is going to start soon, so they're turning off the bright lights.
+
+KSVK: I see... Thanks.
+
+Saiga-12: Don't mention it. Say, have I seen you somewhere before?
+
+KSVK: I look like KSVK, don't I? She's my elder sister, so of course we resemble each other.
+
+Saiga-12: Huh?! Then...why did she leave you here all by yourself?
+
+KSVK: She's busy with work today so she gave the invitation to me.
+
+KSVK: You can just call me Dushevnaya.
+
+Saiga-12: Dushevnaya... What a pretty name.
+
+KSVK: She fell for it so easily... Generally speaking, the more gullible a victim is, the angrier she will be when she finds out she's been tricked. How should I apologize afterwards?
+
+KSVK: Eh, I'll worry about that later.
+
+A mellow song starts playing, and the hall is once again illuminated.
+
+Bartender: Miss, here's your drink.
+
+KSVK: Thank you.
+
+Saiga-12: Aren't you going to dance?
+
+KSVK: I'm sorry, but I don't dance.
+
+Saiga-12: Not dancing at a ball? Isn't that a shame?
+
+KSVK: Some flowers stubbornly refuse to bloom even in spring.
+
+KSVK: Dancing isn't obligatory at every ball.
+
+Saiga-12: Some flowers do bloom in winter.
+
+Saiga-12: But if you don't give it a try, how do you know if you'll enjoy it?
+
+KSVK: ...Do you treat everyone with the same enthusiasm?
+
+Saiga-12: Certainly not!
+
+Saiga-12: I...I'm your sister's colleague, so it's only right for me to look after you.
+
+Saiga-12: I'm not forcing you to dance just because everybody's dancing. I'm inviting you to dance simply because it's fun.
+
+KSVK: ...To be completely honest, I don't know how to dance, not even the most basic round dance.
+
+Saiga-12: I can teach you!
+
+Saiga-12: Round dance is one of the easiest dances to learn.
+
+KSVK: Is it really that easy? I saw some Dolls practicing it in a rehearsal room.
+
+Saiga-12: It IS that easy. Just imagine yourself as a rose chasing after the moon and searching for moonlight in the wind.
+
+Saiga-12: When your dress swishes with you, you look just like a rose.
+
+Saiga-12: You'll truly be a Rose in the Snow.
+
+KSVK: What an interesting metaphor.
+
+KSVK: I know she is definitely going to be furious when she finds out, but I'm having too much fun to stop.
+
+DP-12 puts down the supplies that she's been organizing and smiles at KSVK.
+
+DP-12: What happened then?
+
+KSVK: Then I went back to the banquet.
+
+DP-12: Do you like Saiga?
+
+KSVK: Huh? What makes you say that?
+
+DP-12: She invited you to dance. Just the two of you, outside.
+
+DP-12: You actually agreed...and you were raring to go.
+
+DP-12: If Zas hadn't exposed you...she would probably have stayed in the dark the whole night.
+
+KSVK: Well, with my new identity, I just had to try something new.
+
+DP-12: That doesn't sound like you at all.
+
+DP-12: Your neural cloud seems to have changed along with your body.
+
+KSVK: ...The physical change has probably brought out a hidden side in me.
+
+KSVK: I've never played any tricks before, and I certainly didn't know pranking people can be so much fun.
+
+DP-12: Harmless pranks are the spice of life.
+
+KSVK: You're exactly right, which is why I invited her to afternoon tea.
+
+DP-12: Hm? That's an interesting turn of events.
+
+DP-12: But it's heartening to see you making new friends, Dushevnaya.
+
+A hot cup of earl grey with cheesecake. What could be more relaxing than a nice afternoon tea?
+
+KSVK: You aren't angry at all?
+
+Saiga-12: I can't possibly be angry with you.
+
+KSVK: Why?
+
+Saiga-12: Because it's you, KSVK. You're cute no matter what you do.
+
+KSVK: Cute? That's one word I never thought would ever be used to describe me. How unusual.
+
+Saiga-12: Huh, but you ARE cute. I just don't want you to dislike me.
+
+KSVK: Why would I?
+
+KSVK: I actually think a Doll who doesn't get angry even after being pranked is even cuter. Even I would've lost my temper.
+
+Saiga-12: Then...can I lend you something very precious to me?
+
+KSVK: A photo magazine?
+
+Saiga-12: That's right! This is my absolute favorite, and I'm only showing it to you.
+
+Saiga-12: Not even the Commander has seen this one...
+
+KSVK: Why is this such a big deal to you?
+
+Saiga-12: Ha, looking at pretty girls together with a pretty girl – that's delightfully intimate, don't you think?
+
+KSVK: So we grow closer by doing that, and then we become friends?
+
+Saiga-12: Well, since I'm lending it to you, you're gonna have to return it...
+
+Saiga-12: That way we'll get to see each other again...
+
+KSVK: Pffft, you don't have to make it so complicated.
+
+KSVK: Let's get together again next weekend.
+
+Saiga-12: Oh, that's awesome!
+
+Saiga-12: You didn't take the magazine, but somehow it feels like I've got myself a better deal!
+
+KSVK: I was too uptight.
+
+KSVK: Being friendly isn't embarrassing at all – it's actually very endearing!
+
+Saiga-12: So we have an agreement on pretty girls?
+
+KSVK: Yeah, I guess you can say that.
+
+DP-12: Back in the dorm, DP-12 calls KSVK again.
+
+DP-12: How did it go?
+
+KSVK: It was fun, but I turned down a weird photo magazine.
+
+DP-12: Sounds like you had a nice date.
+
+KSVK: Come to think of it, why would they make the dress to the wrong measurements?
+
+KSVK: And why did the dress fit a body that just so happens to be lying around? Helena... Don't tell me...
+
+DP-12: My, my, the ball was so long ago, why are you still thinking about that?
+
+DP-12: By the way, M200 has sent over the photos.
+
+KSVK: Oh, I'm going to back them up.
+
+KSVK: It was my one and only prank, but...I had so much fun!

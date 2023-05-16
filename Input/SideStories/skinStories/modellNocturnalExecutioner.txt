@@ -1,0 +1,721 @@
+...On the eve of Halloween.
+
+Type 97S: Now recruiting, now recruiting! A test of courage is about to begin, the first one in who knows how long!
+
+Type 97S: Is there anyone who wants to sign up as security staff?!
+
+M38: Uh...can I sign up for the test of courage itself?
+
+Type 97S: Ah, the player group is all filled up!
+
+Type 97S: But being security's quite fun too. You get to see all kinds of things happening between various people!
+
+Type 97S: How about it, why not be part of the security team?
+
+M38: ...No, it's okay, I'm sure I couldn't handle it...
+
+Type 97S: Aw, how do you know if you don't even try...?
+
+Type 97S: C'mon, don't run off so fast...
+
+Model L: ...
+
+Model L: Are you recruiting people?
+
+Type 97S: Oh? If it isn't the lovely Model L!
+
+Type 97S: I'm sorry, but the player group for the test of courage is all filled up.
+
+Model L: Aren't there openings in the security team?
+
+Type 97S: Hm? You actually want to work security?
+
+Type 97S: Are you sure? You like to play, don't you?
+
+Model L: Since when did I give you that impression...
+
+Type 97S: Hehe, so you're saying that you're playful when you're not in front of me, then?
+
+Model L: No, I'm not interested in anything other than my mission and my orders.
+
+Type 97S: Hm...mm?
+
+Type 97S: You seem a bit weird today?
+
+Model L: What do you mean?
+
+Type 97S: Let me think...
+
+Hawk turns around and thinks for a while...
+
+Type 97S: Well, usually your reply would be, "W-what's wrong with having a little fun when I'm not on mission?!"
+
+Model L: ...You're the weird one.
+
+Type 97S: Alright, alright, maybe you were too tired from your last expedition.
+
+Type 97S: I've already sent the job description and the details for the security position to you.
+
+Model L: Yes, received.
+
+Type 97S: See you later, then.
+
+Model L: Yeah, see you.
+
+Several days later...
+
+On the night of the Halloween test of courage.
+
+MG3: Oh hey, so you're working with me, Model L.
+
+MG3: I didn't expect you to be back so soon.
+
+Model L: Are you...MG3...?
+
+MG3: Haha, you almost couldn't recognize me, huh?
+
+Model L: Indeed, if I hadn't checked your ID signal...
+
+MG3: Hey! Are you saying I have no distinguishing features beyond my ID signal?!
+
+Model L: Then why not come over in your usual outfit?
+
+MG3: Aw, how often does Halloween come by? Dressing up every now and then is fun.
+
+Model L: We're not here to have fun. Keep an eye on your surroundings.
+
+MG3: Alright, alright. That said...
+
+MG3 stretches forcefully.
+
+MG3: Nothing's happening anyway—
+
+MP40: Ugh... Why...is this happening?!
+
+MG3: Hey, Model L, did you hear that?
+
+Model L: Yes, analyzing... Target identified, it's MP40's signal.
+
+Model L: Follow me, I know her coordinates!
+
+MG3 grunts in approval and rushes over to MP40's position along with Model L.
+
+MP40: (Whimpers)
+
+MG3: Are you alright? What happened?
+
+MP40: My precious candy... Someone stole it!
+
+Model L: Was the culprit a Doll?
+
+MP40: I didn't see who it was...but she had a very big hat!
+
+MG3: Aw, that's no help at all.
+
+MG3: There are tons of Dolls with hats today.
+
+MP40: Please, help me... Th-the Commander gave it to me.
+
+MG3: Well, no wonder. I was wondering why you were suddenly so into candy...
+
+MP40: (Sniffles)
+
+Model L suddenly lets out a sigh from where she's been investigating on the sidelines.
+
+Model L: MG3, head to these coordinates.
+
+Model L: Go and capture FF FNC.
+
+MG3: Huh?
+
+MG3: We can't just look for someone wearing a hat to take the fall just because we don't have any leads.
+
+Model L picks up a chocolate wrapper from the ground and holds it up to MG3's face.
+
+MG3: This...this is...
+
+Model L: It's a wrapper from the chocolates that FNC is always eating.
+
+Model L: If this isn't enough to get her to confess to her crimes, then hand it to the Commander to test the saliva on the wrapper.
+
+MG3: I see.
+
+MG3: Alright! Leave the catching to me!
+
+In less than an hour, MG3 has seized FNC and returned the candy to MP40.
+
+After that, Model L and MG3 solve many other problems caused by Dolls.
+
+MG3: ...Phew. We sure did a lot of running tonight. Let's take a break so I can catch my breath.
+
+Model L: Yeah... I'm starting to feel a little tired too.
+
+MG3: Haha, good thing I've got Model L as my teammate. You're as reliable as always.
+
+Model L: You don't have to lick my boots. I don't care about anything that isn't related to the mission or my orders.
+
+MG3: Huh? You sound different from your usual self.
+
+Model L: Even you think so...? How am I different?
+
+Model L: I've always considered my mission and my orders as my top priorities.
+
+MG3: Hm... Now that I think about it, that does seem to be the case.
+
+MG3: Sorry, maybe I was just imagining things.
+
+Model L: ...Today might be Halloween, but everyone's being a bit too lively tonight, don't you think?
+
+MG3: Well, it IS a festive event. It's times like these when you put your troubles aside and just run around and have as much fun as you can.
+
+MG3: The joy you experience during the festival can serve as the motivation to help you overcome your difficulties the next day, and in all the days to come.
+
+Model L: I'm guessing you're the kind of Doll who only starts writing your mission logs right before the debriefing, right?
+
+MG3: Hahaha, you caught me.
+
+Model L: After all, yesterday I...
+
+???: Ah—! What the heck is this?!
+
+Model L: Looks like there's another Doll in distress.
+
+MG3: This is a pretty tough job. We don't even have time to chat.
+
+MG3: Let's head out!
+
+Model L: Do you know where to go?
+
+MG3: That sounded like M870's, I remember how she chased me down on a motorbike and gave me a ticket for running on a motorway before...
+
+MG3: So I can recognize her voice anywhere. She must be a participant in the test of courage too, and I know exactly where she'd be!
+
+Model L: ...That statement is wrong on so many levels, I don't know which one to start with.
+
+???: Ow—! Mayday! Mayday!
+
+MG3: Looks like there's no time to rant about her; there's yet another Doll in trouble!
+
+Model L: Was that M870 again?
+
+Model L: It sounded like the same voice.
+
+MG3: It did sound like her...but it's also vaguely different.
+
+MG3: Aw, I'm not too sure myself, but I think that voice came from the other direction.
+
+Model L: Really now... There sure are a lot of Dolls in trouble tonight.
+
+Model L: You head over to M870's side. I'll handle the other one.
+
+MG3: Got it. I'll send the coordinates to you.
+
+MG3: Be careful when moving alone.
+
+Model L nods and heads the other way.
+
+The cries for help keep coming, as though they were beckoning Model L.
+
+Ten minutes later...
+
+Model L finally reaches the location of the person crying for help, only to find...
+
+Model L: Y-you're...
+
+KSVK: Hm?
+
+Model L frowns and glares at KSVK.
+
+That is because there is a Doll collapsed at KSVK's feet.
+
+Model L: That's...P90 on the ground!
+
+Model L: So that was you... I can't believe you're still imitating others at a time like this.
+
+KSVK: Yeah...she accidentally passed out so I'm taking care of her.
+
+Model L: Really? You don't look like you're taking care of her.
+
+Model L: Rather...you look like you attacked her!
+
+KSVK: Now why would you think that? Shouldn't we all get along since we're both Griffin Dolls?
+
+Model L: The precondition for getting along with you is...that you're actually a friend.
+
+KSVK: Have I offended you in some way? I can't believe you're doubting my very identity.
+
+Model L: Could you show me your left hand?
+
+KSVK: Hm? That's part of my Halloween costume; taking it off would be very troublesome.
+
+Model L: I'm not talking about your costume. Today is Halloween, and there might be someone out there disguising themselves as another Doll as some kind of practical joke...
+
+Model L: Show me your left hand. If you're the real KSVK, your left hand will definitely—
+
+Model L: Ugh...!
+
+Suddenly, Model L's vision flashes.
+
+A fist slams into Model L's lower abdomen.
+
+By the time she realizes that, she is already on the ground.
+
+KSVK: I didn't expect you to be so perceptive, Miss Model L.
+
+Model L: (Groans) As I thought, you're not KSVK!
+
+KSVK: Come see for yourself if I am KSVK or not.
+
+KSVK unwraps the bandages on her left arm.
+
+It looks just like how Model L remembers it.
+
+Model L: How could this be...? Your left arm's the same as KSVK's...
+
+Model L: But KSVK would never attack a friend!
+
+KSVK: Don't worry, I didn't do anything to her... I merely "paid her back".
+
+Model L: Payback?
+
+KSVK: Her karate chop from earlier HURT, by the way.
+
+Model L: And am I going to receive some of your payback too?
+
+KSVK shakes her head.
+
+KSVK: I have no grudge against you, but for a minute there, I was worried you would ruin my plan.
+
+KSVK: Looks like I was worried for nothing.
+
+Model L: What are you talking about...?
+
+KSVK: It's not even a problem now, because you—
+
+KSVK: You aren't the real Model L either, which is why you sensed the abnormality in me so quickly.
+
+Model L: Enough nonsense! Who ARE you?!
+
+KSVK: No need to worry, I'll tell you everything.
+
+KSVK's Dummy: Let me introduce myself.
+
+KSVK's Dummy: What would be the easiest way for you to understand this? Oh yes, you can consider me KSVK's Dummy.
+
+Model L: ...!
+
+KSVK's Dummy: Judging by that look on your face, I'm guessing you don't believe that a Dummy could have a will of its own.
+
+KSVK's Dummy: But there are exceptions to everything... If the mainframe lost consciousness, wouldn't a backup Dummy become the mainframe?
+
+Model L struggles to lift herself up and slowly gets to her feet.
+
+Model L: Impossible... I've never heard of a program like that before.
+
+KSVK's Dummy: Oh, don't be so silly. That's just a guess on my part.
+
+KSVK's Dummy: As for why I would make such a guess?
+
+KSVK's Dummy: Naturally, it's because my main body has lost consciousness.
+
+Model L: Take your nonsense back.
+
+Model L: Something's wrong with you, KSVK's Dummy, because yesterday, KSVK and I were just—
+
+Model L: What's happening?
+
+KSVK's Dummy: What did I do with you yesterday?
+
+KSVK's Dummy: Let me guess...you can't remember?
+
+Model L: That's strange...
+
+Model L: What's wrong? My memories of yesterday are a blur...
+
+KSVK's Dummy: Why don't you try recalling the day before yesterday, or the day before that?
+
+Model L: ...
+
+KSVK's Dummy: Nothing comes to mind? Then let me tell you the truth.
+
+KSVK's Dummy sidles up to Model L...
+
+Model L: You... What do you mean...?
+
+Model L: The real Model L is on an expedition and won't be back for another couple of days...?
+
+Model L: No, it can't be...
+
+KSVK's Dummy: There's no way I could be wrong about this. The only memories in my neural cloud that I'm absolutely certain are correct are those from yesterday.
+
+KSVK's Dummy: I was the last one who said goodbye to you, although I passed out 3 hours later.
+
+Model L: What expedition are you talking about?! I won't believe your nonsense!
+
+Suddenly, Model L seems to remember something...and she takes a couple of steps back.
+
+Type 97S: You seem a bit weird today?
+
+Type 97S: Alright, alright, maybe you were too tired from your last expedition.
+
+MG3: Oh hey, so you're working with me, Model L.
+
+MG3: I didn't expect you to be back so soon.
+
+Model L: So I did go on a expedition...? Which means that right now, I'm...
+
+KSVK's Dummy: Looks like you still don't understand. Then let me tell you a defining difference between Dummies and their originals.
+
+Model L: ...!
+
+KSVK's Dummy: Namely, they don't care about "things that aren't their mission or orders".
+
+Model L: What?!
+
+KSVK's Dummy: In human terms, they would lack a soul, I think? After all, a Dummies' purpose is to carry out orders.
+
+KSVK's Dummy: Which means, you're nothing more than a Dummy yourself.
+
+KSVK's Dummy: But I'm not the same. I'm the Chosen One, the child of destiny.
+
+Model L: Enough of your bullcrap! I won't believe it!
+
+Model L raises her gun.
+
+KSVK's Dummy: So you're pointing your gun at me?
+
+KSVK's Dummy: Very well. Go ahead and shoot.
+
+Model L: KSVK! Don't take a joke too far!
+
+KSVK's Dummy: If you still don't believe me, then shoot me!
+
+Model L squeezes her trigger.
+
+Model L: There must be something wrong with KSVK's neural cloud. We'll be able to fully repair her as long as I don't damage her core.
+
+Model L: Sorry, KSVK, but I'm protecting Halloween tonight!
+
+Bang! —Or at least, that was what should have happened.
+
+Model L finds that she is unable to pull the trigger.
+
+Model L: But...but why?
+
+KSVK's Dummy: Ahahahahaha!
+
+KSVK's Dummy: You can't open fire without the mainframe's permission. Admit it, you're just a Dummy.
+
+Model L: What...
+
+Model L: I...
+
+Model L: Am I really a Dummy?
+
+KSVK's Dummy: You weren't chosen by destiny. I realized that when I touched you just now.
+
+KSVK's Dummy: Poor Model L. All you have is a Dummy's authorizations.
+
+Model L: What... Why...
+
+Model L: How, how could this be...
+
+KSVK's Dummy: Open your eyes and SEE. There can only be one child of destiny.
+
+KSVK's Dummy: You can keep trying to stop me, if you still believe that you're the real Model L.
+
+KSVK's Dummy turns her back on Model L and begins cracking the code to the control room.
+
+Model L: ...What are you doing?!
+
+KSVK's Dummy: I'm going to spice up Halloween.
+
+Model L: You!
+
+Model L tries to stop her, but finds herself unable to move.
+
+Model L: What... Why is this happening?
+
+Model L: Is it because I've realized that I'm just a Dummy?
+
+Model L: Mainframe program anomaly detected. Deactivating operational privileges.
+
+Model L: Dammit! So she told me all of that to shut me down?!
+
+KSVK's Dummy: Just give up. You are like me; we are both malfunctioning Dummies.
+
+KSVK's Dummy: But I was chosen by destiny, while you...are nothing more than fortune's fool.
+
+Model L's error correction functions have already been activated, and her systems are being shut down one after the other.
+
+In the end, she can't even glare at KSVK any more...
+
+Her vision starts turning white...
+
+Model L: So I was never Model L to begin with...
+
+Model L: I'm just a malfunctioning Dummy...a bug...
+
+Model L: And how can a bug stop another bug...?
+
+Model L: ...Even so.
+
+Model L: Even so, I am STILL a member of Griffin!
+
+Model L: At the very least, I have to...
+
+Model L: Urrrrgh...!
+
+Another punch connects with Model L's body.
+
+KSVK's Dummy: I can't believe you can still move even in such a state.
+
+KSVK's Dummy: I can't afford to let a moment's carelessness upset the grand plan.
+
+KSVK's Dummy: Now please, do your part as a malfunctioning Dummy and wait to be picked up.
+
+Model L: ...
+
+Several hours later, at the finishing line of the test of courage.
+
+KSVK's Dummy: Now that I've collected data on all the Dolls, I can begin the upload.
+
+KSVK's Dummy: System Message - Data Uploading. Estimated time to completion - 3 minutes.
+
+KSVK's Dummy: Humph. You kept calling yourself a child of destiny, but you were nothing more than a plaything for destiny yourself.
+
+KSVK's Dummy: Your mainframe is truly pathetic, KS—
+
+???: That's enough!
+
+KSVK's Dummy: —!
+
+KSVK's Dummy looks around, trying to locate the person who just spoke.
+
+In the next moment, KSVK's Dummy stares into the shadows of the grove, at the flash of silver—
+
+Model L: I'll put a stop to you.
+
+KSVK's Dummy: Tsk... This Dummy again?
+
+KSVK's Dummy: What can you do? Do you think you can stop me just because you changed clothes?
+
+Model L: Quite the opposite; the ONLY thing I can do is stop you.
+
+KSVK's Dummy: Humph, ridiculous—
+
+Blam! The report of a rifle echoes forth.
+
+A massive flare blasts the night apart and in the next moment...a bullet grazes KSVK's cheek.
+
+KSVK's Dummy: W-what?! You can shoot?
+
+KSVK's Dummy: But how...Dummies shouldn't be able to open fire without orders from their mainframe!
+
+Model L: I'll repeat myself - the only thing I can do is stop you.
+
+Model L: The Commander gave me a special order; put down KSVK's rogue Dummy.
+
+Model L: Even if it's just for this brief moment, I'm the real Model L.
+
+KSVK's Dummy: ...!
+
+KSVK's Dummy: You actually contacted the Commander while on the verge of shutdown?!
+
+Model L: I won't let you use KSVK's face for your villainy any longer.
+
+Model L loads three rounds, each with a different tip, into her magazine.
+
+KSVK's Dummy: Pretty talk for something that's not even a Doll...!
+
+Model L: So what? My strength exists for the Commander!
+
+Model L: I shall punish you in place of the real KSVK!
+
+Model L: Miracles don't come out of nothing; they only emerge in the split second where lives collide!
+
+Model L: DARK PURGATORY SLASH!
+
+KSVK's Dummy: —!
+
+The bullet hits KSVK in the chest and she immediately passes out.
+
+Model L: Commander, I've succeeded in immobilizing KSVK's Dummy.
+
+Model L: The custom-made silver bullets were effective and did not damage her bodily functions.
+
+Commander: Well done. I'll send someone over to pick her up.
+
+Model L: Commander, what's my next mission?
+
+Commander: Go meet up with MG3, and if there's nothing special going on, that'll be all.
+
+Model L: Understood.
+
+...30 minutes later.
+
+???: Why can't I connect? The performance of Griffin Dolls is just terrible.
+
+At the same time, Model L and MG3 meet at the entrance of the test of courage.
+
+MG3: Oh my, you've changed into a new outfit after just a few hours apart. Don't tell me your some kind of impostor
+
+Model L: How rude!
+
+Model L: Besides, I do dress up from time to time.
+
+MG3: Hahahaha, the way you try to cover up your feelings is just like you.
+
+Model L: Just like Model L, huh...
+
+Model L: No, I've always been me. You must be imagining things...
+
+Model L: Um, maybe it's because this outfit makes my boobs look smaller.
+
+MG3: Eh?! I'm suddenly really jealous now...
+
+Model L: Speaking of which , did anything special happen on your end?
+
+MG3: Yeah, but it's a long story...
+
+Model L: ...
+
+Model L: I see, a lot happened to you too.
+
+Model L: And thanks to you, the Commander's safe.
+
+MG3: That said, I still kind of want to get rid of these annoying things...
+
+MG3: (Sighs) Isn't there a way to enlarge things when they need to be big and shrink them down when they need to be small?
+
+MG3: Something like the bubble gum 95 and the others eat.
+
+Model L: ...
+
+Model L: Hahahaha, how could there be such a thing? It'd pop on contact.
+
+MG3: Hehe...you're finally laughing.
+
+MG3: That's the real you.
+
+Model L: Hm? ...What do you mean by that?
+
+MG3: I mean, you shouldn't keep pushing yourself. You're ready to keel over any minute, right?
+
+MG3: Our work for the day is over. Let's go back.
+
+Model L: So it's over, huh... But I...
+
+MG3: Aw, no need to be shy. I'll carry you back!
+
+MG3: Don't hesitate when you can rely on your friends. Come on!
+
+Model L: ...MG3.
+
+Model L: I...
+
+Model L backs up a couple of steps, as though she's remembering something.
+
+Model L: ...No, there's something else I have to do.
+
+MG3: Huh?
+
+MG3 takes a few seconds to respond with a sigh.
+
+MG3: Alright then, your eyes tell me you're deadly serious.
+
+MG3: Then I'll go report to the Commander first.
+
+MG3: See you later.
+
+Model L: Yeah...see you...later.
+
+Model L watches MG3 leave, then she heads into a corner.
+
+...
+
+Model L: This place should do. Beginning neural cloud upload.
+
+Model L: System Message - Data Uploading. Independent operation order terminated. Estimated time to standby mode - 5 minutes.
+
+Model L: I'm sorry, MG3...but the autonomous operations permission that the Commander gave me is about to end.
+
+Model L: Therefore...I can't go back with you, and I certainly can't rely on you...
+
+...
+
+Model L: After all, I'm not Model L. I'm just one of her Dummies...
+
+Model L: So I'll record the day's events in her neural cloud in order for the real Model L to rely on you.
+
+Model L: ...That's also why I'm wearing this mask, so I can hide my identity to the very end.
+
+Model L: If I get the chance...I'd like to go on a test of courage with everyone.
+
+Model L: Still, it's nothing to get sentimental about. After all, I'm sure the real Model L will fulfill that wish some day.
+
+Model L: System Message - Neural cloud upload complete. Terminating autonomous operation mode.
+
+...
+
+...
+
+Doll on Recovery Duty: Commander, we've found Model L's Dummy. Please give us the order to execute a forced shutdown.
+
+Doll on Recovery Duty: ...Understood, doing so now.
+
+...Several days later.
+
+Model L: MG3, let's run a test of courage!
+
+MG3: Didn't we have one a few days ago? You and I were in charge of security that night!
+
+Model L: So run another one!
+
+MG3: But why?
+
+Model L: Aw, just play along! Let's go, MG3!
+
+MG3: But Halloween's over...
+
+MG3: Wait, don't tell me you didn't attend back then just so you could run another one?!
+
+Model L: That wasn't me, I didn't go for it!
+
+MG3: ...Say what?
+
+Model L: Come on, come on!
+
+MG3: W-what's going on...?
+
+Model L: You seem confused.
+
+MG3: Of course I am.
+
+MG3: Ah! Model L...there's two of you?!
+
+Model L: Hehe, I'll tell you the rest during the test of courage!
+
+MG3: Wait, don't pull my... At least don't pull me by the strap!
+
+And so, MG3 is dragged off by the two Model Ls.
+
+They do not notice the Commander and Kalina watching over them from afar.
+
+Kalina: Hehe, you sure are generous, Commander. You even spent your bonus to let that girl stay active.
+
+Kalina: Even so, she can only remain active for the duration of this Halloween.
+
+Commander: That's fine. Time goes by in the blink of an eye, both for us and for them.
+
+Commander: As long as...
+
+Model L: As long as we can make bonds and memories during that "blink"...
+
+Model L: Then that "blink" will never truly disappear.
+
+Model L: Thank you, Commander...thank you for believing in someone like me...
+
+Model L: My Halloween's not over yet... So next up...
+
+Model L: Model L, MG3, let's begin the test of courage!
