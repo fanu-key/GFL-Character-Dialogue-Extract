@@ -20,7 +20,8 @@ def continueQuestion():
 
     for decline in noInput:
         if continueProgram.upper() == decline.upper():
-            print("...Exiting Program...")
+            print("...Exiting Program in 5 seconds...")
+            time.sleep(5)
             sys.exit() # Exit if no
 
     else:
