@@ -7,6 +7,32 @@ import sys
 import threading
 import time
 
+def firearmFix(x):
+    # Firearms copyright fix
+    copyrightFix = x
+    
+    # If input character in list, append Gr to front
+    hkFirarms = ['MP7', 'G41', 'G3', 'G36', 'Mk23', 'G36c',
+                 'MG5', 'PSG-1', 'G11', 'MG4', 'USP Compact', 'G28',
+                 'HK45', 'MG23', 'MG36', 'HK33' 'P30', 'SL8']
+    
+    # If input character in list, append FF to front
+    fnFirearms = ['FN49', 'FNC', 'M249SAW', 'FNP9', 'F2000']
+    
+    # If input character in list, append Fr to front
+    masFirearms = ['FAMAS']
+    
+    if copyrightFix in hkFirarms:
+        copyrightFix = 'Gr {}'.format(copyrightFix)
+
+    if copyrightFix in fnFirearms:
+        copyrightFix = 'FF {}'.format(copyrightFix)
+
+    if copyrightFix in masFirearms:
+        copyrightFix = 'Fr {}'.format(copyrightFix)
+    
+    return copyrightFix
+
 def continueQuestion():
     # Asks user if they would like to run the program again
     yesInput = ["YES", 'Y']
@@ -34,6 +60,9 @@ def extract(x):
 
     # Input for which character to extract dialogue for
     inputCharacter = x
+    
+    # Check if input included copyright fix
+    inputCharacter = firearmFix(inputCharacter)
 
     # Make directories for output
     pathOutputInput = './Output/InputLines'
