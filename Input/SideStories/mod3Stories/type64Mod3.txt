@@ -1,0 +1,444 @@
+Type 97S: Hey, isn't that 64? Where are you going?
+
+Type 64: Oh, nice to meet you, Miss Hawk.
+
+Type 64: I was just about to head to the kitchen.
+
+Type 97S: The kitchen?
+
+Type 97S: Aiya...there's only one thing you could be after if you're going there...
+
+Type 97S: Do you have goodies in that box of yours?
+
+Type 64: Well...
+
+Type 97S: Quit beating around the bush! Hurry up and tell me!
+
+Type 97S: I won't let you go until you do!
+
+Type 64: Mm...
+
+Type 64: Do you remember the resupply we got several days ago?
+
+Type 64: This is some of the fresh meat that was left over after the supplies were allocated.
+
+Type 64: Class Rep asked me to make lapcheungs out of it so it would last longer.
+
+Type 97S: What?! It's one thing to make them into lapcheungs, but having you do it?
+
+Type 97S: No way!
+
+Type 97S: How could Class Rep make that decision on her own?! I'm going to find her!
+
+Type 64: But Miss Hawk...
+
+Type 97S: Deciding how to handle leftover meat ought to be done through a democratic vote!
+
+Type 97S: 64, put the meat in the fridge first, we'll go find Class Rep together!
+
+Type 97S: Class Rep! Class Reeeeeep!
+
+M99: What's all this racket...
+
+M99: What's the matter, Hawk?
+
+Type 64: Class Rep, I tried my best to stop Hawk, but she insisted on looking for you...
+
+Type 97S: Class Rep, is it true that you asked 64 to make lapcheungs?!
+
+M99: Yes, I did. They'll keep for longer and they're more convenient to carry on missions. Is there a problem?
+
+Type 97S: 64's lapcheungs are salty! How many people other than you and 64 like that taste?
+
+Type 97S: Did you ask the rest of us when you made that decision?
+
+Type 97S: Our squad agreed beforehand that we would vote on any issues which concerned the interests of the group!
+
+M99: It's just some leftover meat, is it really such a big deal...?
+
+Type 97S: What do you mean by "just some leftover meat"?!
+
+Type 97S: It's MEAT, a rare provision we only get every fortnight!
+
+M99: But you had a big meal just now, so why are you so hung up on that...
+
+Type 64: Precisely, Miss Hawk... Please don't make things difficult for the Class Rep.
+
+Type 97S: Class Rep, are you saying you intend to overthrow our democracy because of your selfish desire for salty lapcheungs?
+
+M99: Is there a need to make such a mountain out of a molehill...?
+
+M99: And while I DO like salty lapcheungs, I only suggested that for the ease of preservation...
+
+Type 64: Since Miss Hawk's so adamant on it, why don't we gather everyone for a vote, Class Rep?
+
+M99: ...Eh, sure.
+
+One hour later.
+
+M99: The results of the vote are an even split when you include mine.
+
+Type 97S: We of the sweet sausage faction won't give in so easily.
+
+M99: I just knew it'd end up this way...
+
+M99: Therefore, in keeping with our squad's traditions, we will settle this through a trial by combat.
+
+Type 64: ...A-a duel again?
+
+Type 97S: Hehe, backing out then, Milady?
+
+Type 64: While I don't like exerting myself...
+
+Type 64: But since this is what Class Rep has decided, I'll do my best too!
+
+...That afternoon, all the Dolls take part in an exercise in the practice yard.
+
+Type 64: ...I'm so tired.
+
+Type 64: I'm not good at athletic endeavors after all.
+
+M99: 64, are you alright?
+
+Type 64: I'm fine, Class Rep. I'm just a little sore because I tripped and fell just now.
+
+Type 64: Is the exercise over?
+
+M99: Yes...
+
+M99: 64, I'm sorry to be the bearer of bad news.
+
+M99: You won't be able to make salty lapcheungs this time...
+
+Type 64: I see... Is it because our team lost?
+
+Type 64: If only I hadn't dropped out so early...
+
+M99: It's not your fault, 64.
+
+M99: Hawk's team was more hungry for victory this time round.
+
+Type 64: Class Rep... I know I have great shortcomings.
+
+Type 64: At this rate, I might lose something far more important than just cooking privileges.
+
+M99: You-you're actually thinking that far ahead?
+
+M99: Well, you were always the melancholic type, 64...
+
+M99: Still, that's fine. You still have time to train yourself...
+
+M99: Don't lose to Hawk and the others next time!
+
+Type 64: Yeah...my thoughts exactly.
+
+Type 64: Thank you, Class Rep.
+
+...
+
+Type 64: This feeling...is it frustration?
+
+Type 64: I...I need to work harder!
+Part 2
+
+2
+
+Type 64: Whew... Done at last.
+
+Type 64: Let's look at today's data.
+
+Type 64: Eh? I'm still no better than before.
+
+Type 64: I've been training for almost two weeks, so why isn't it showing any results...?
+
+???: Oh, it's you, 64. What are you doing here?
+
+???: I rarely see you around this place.
+
+Type 64: Ah, it's Miss Type 56R...
+
+Type 64: I'm training myself here. I feel that my stamina's bad, so I want to condition myself...
+
+Type56R: Is this about the lapcheung incident from earlier?
+
+Type56R: (Sighs) Our younger comrades nowadays just don't understand how to treat their sisters-in-arms well.
+
+Type56R: I can't believe Hawk got all serious over a simple meal. Don't you think she might've schemed against you during the obstacle course?
+
+Type 64: It's not like that, Miss Type 56R...
+
+Type 64: I dropped out halfway because I didn't have enough stamina.
+
+Type56R: Well, no matter. Let them enjoy the taste of triumph this time round.
+
+Type56R: No need to feel down. We'll do things right next time and win the kitchen back!
+
+Type 64: That's why I need to train myself up.
+
+Type 64: However, I haven't made any improvement in nearly two weeks of training, so I don't know what to do.
+
+Type56R: If hard work isn't working out, then it's probably a problem with your methods.
+
+Type56R: Want to ask Miss Kalina about it? She ought to be able to figure out where the problem lies.
+
+Type 64: Mm-hm, I'll do that.
+
+Type 64: Thank you for the suggestion, Miss Type 56R.
+
+Type 64: (I'm sure Type 56R didn't want to lose to 56-1 either...)
+
+Type 64: (So I've got even more reason not to disappoint her.)
+
+Kalina: I see... So you wanted to improve your athletic ability, Miss 64.
+
+Type 64: Yes, is there a way to do this?
+
+Kalina: This...might come as a bit of a disappointment, but...
+
+Kalina: Miss 64, your body's basic mobility falls short compared to the other Dolls.
+
+Kalina: So even if I helped remodel you, spec-wise you'd only reach the level of an ordinary Doll at best.
+
+Type 64: ...I see.
+
+Kalina: Well...don't be sad, Miss 64.
+
+Kalina: Being able to reach the average level is already pretty good.
+
+Type 64: Um...
+
+Type 64: Then can I trouble you to prepare a remodel kit for me?
+
+Type 64: I want to become stronger...even if it's only a small improvement.
+
+Kalina: Yup! I'll keep that in mind when making my orders!
+
+Kalina: Tell you what, I'll contact you when the stock arrives!
+
+Type 64: And so, that's how it went.
+
+Type 64: Miss Kalina said a remodel wouldn't solve everything...
+
+Type56R: Don't feel bad, 64. At least we know which path not to take now. That's a good thing, right?
+
+Type56R: There are many ways to win a battle, and we may not necessarily have to compete with others in physical ability.
+
+Type 64: ...So stamina isn't everything?
+
+Type56R: You need to fight smart.
+
+Type56R: Think about it. Leaving stamina aside, how are you better than Hawk and the others?
+
+Type 64: ...
+
+Type 64: It doesn't seem like I'm better than them in any way.
+
+Type56R: Then...how about areas where you're different from them? That could work too.
+
+Type 64: If I had to give an answer...
+
+Type 64: Then I'd have to say that sometimes, they have a hard time spotting me because I'm very quiet.
+
+Type56R: That's it!
+
+Type56R: Being inconspicuous is also an advantage. That way you can circle behind the enemy more easily and sneak up on them during an attack, right?
+
+Type 64: I've got it!
+
+Type 64: I think I've got an idea about what kind of training I'm going to do... Thank you, Miss Type 56R.
+
+Type 64: I need to go talk to Miss Kalina and revise the list of add-on parts I gave her just now.
+
+Type56R: Mhm! I'm always happy to see my friends grow stronger!
+
+Type56R: Do your best, Comrade 64!
+
+Type 64: I will!
+
+Type 64: I need to pull myself together so I don't waste the help that everyone gave me...
+Part 3
+
+3
+
+M99: Our mission this time round is to establish a supply route.
+
+M99: We might encounter a lot of S.F. forces along the way, so it's a pretty difficult mission.
+
+M99: The Commander's already allocated the members of the main force, but we need a lookout... Any volunteers?
+
+Griffin Doll: So I'll only be standing sentry...not interested.
+
+Griffin Doll: Don't you need to run a long way to build a supply line?
+
+Griffin Doll: Why not just randomly assign someone, Class Rep?
+
+M99: Well, the people taking part in this operation will receive the privilege of preparing certain dishes.
+
+M99: Thanks to a certain disturbance which arose last time, I'm coming before you now to get your opinions.
+
+Griffin Doll: What, making dishes? I'll go!
+
+Griffin Doll: Let me do it let me do it!
+
+Griffin Doll: Get lost, you only know how to slurp sugar, send me instead!
+
+Griffin Doll: What? You think you of the salt faction are magnificent? See if you can step out of HQ alive if you're so great!
+
+M99: Wait...hold it, you lot!
+
+M99: D-don't crowd around all of a sudden! I can't see anything!
+
+M99: At attention, all of you! Stand in place!
+
+Type 97S: Class Rep! Pick me, pick me!
+
+Type 64: Class Rep, please let me go.
+
+M99: Eh? You're applying to go too, 64?
+
+M99: Building a supply line is pretty tough, you know.
+
+Type 64: I understand, Class Rep. I am prepared for it...
+
+Type 64: This mission, I must insist that it be assigned to me.
+
+Type 97S: Huhhhh? As if a fragile princess like you could handle an op like that.
+
+Type 97S: Class Rep, you'll rest more easily if you send me.
+
+Type 64: I am not a fragile princess. At least, not anymore.
+
+Type 97S: Are you challenging me?
+
+M99: Hold it, you two... You're friends, you shouldn't be at each other's throats...
+
+M99: If you can't settle it with an argument, then we'll settle it the usual way...
+
+Type 97S: Bring it on, then! You think I'm scared?
+
+Type 64: I won't lose... Not this time!
+
+...
+
+An hour later, the exercise is in its final stages...
+
+Type 97S: It's so quiet... Everyone else was eliminated already...
+
+Type 97S: 64's the only one left. I didn't think she'd actually survive until the end.
+
+Type 97S: Still, it doesn't matter. There's still a chance to turn the tables.
+
+Type 97S: I just saw her hide behind that piece of cover on the other side. All I need to do is go over and finish her off. This time...
+
+Type 64: I win, Miss Hawk.
+
+Type 97S: 64?! When did you...
+
+Type 64 pulls the trigger.
+
+M99: Alright, the exercise is over.
+
+M99: According to the results, Type 64 has earned the right to take part in this operation.
+
+Type 97S: How did...
+
+Type 97S: I didn't hear a thing and...
+
+Type 64: I've always been very quiet, Hawk... Have you forgotten?
+
+Type 64: After losing to you the last time round, I decided to focus on training up that aspect of myself.
+
+M99: "A scholar's absence of three days thereafter must be viewed under new light". You'll need to work hard too, Hawk.
+
+Type 97S: Ah, I lost to you this time, 64.
+
+Type 97S: But it won't be so easy next time!
+
+Type 64: Mm, I know that. Therefore, I'll keep pushing myself.
+
+Type 64: Actually, it's thanks to everyone that I managed to improve.
+
+Type 64: So I'd like to to make everyone a cup of tea before the mission begins.
+
+Type 64: I can still recall the taste that cup of tea left on the tip of my tongue for a long time afterwards.
+
+Type 64: It was the most delicious tea I'd ever had. It tasted...like victory.
+Part 4
+
+    4chevron_right
+
+Type 56-1: Hawk, I just saw 64 bringing some meat to the kitchen...
+
+Type 56-1: Is she going to make salty lapcheungs again?
+
+Type 97S: My body's in peril...
+
+Type 97S: Although, Class Rep said earlier that 64 and the others had the privilege of deciding how to handle the new batch of supplies.
+
+Type 56-1: Then we need to find some way to stop them!
+
+Type 56-1: Also, what's got to you today? Weren't you the one who vehemently swore to prevent 64 from making salty lapcheungs last time?
+
+Type 97S: This isn't...
+
+Type 97S: A bunch of things happened.
+
+Type 56-1: Well, we need to stop her from making those dreadful lapcheungs! You can't eat meat when it's like that!
+
+Type 56-1: We'll use the usual trick!
+
+Type 97S: Haha... I hope it works.
+
+Type 56-1: 64, can we have Coca-Cola chicken wings for dinner tonight?
+
+Type 56-1: We've already bought the soda.
+
+Type 64: Alright, since everyone wants it...
+
+Type 64: We haven't finished the chicken wings from last time yet, so there's no harm adding an extra dish.
+
+Type 64: ...What's the matter?
+
+Type 56-1: Nothing... It just feels like your outfit is way cooler than your previous one. It takes a bit of getting used to.
+
+Type 64: Don't worry. I'm still me. My tastes and temperament haven't changed.
+
+Type 56-1: Aiya...we'll just have to make do with your tastes, then.
+
+Type 56-1: It's not like we're admitting defeat so easily, but let's work together for this meal. I'll help take care of the wings.
+
+Type 64: Yes, please do.
+
+Type 56-1: 64, the wings are almost at the right temperature.
+
+Type 64: Leave the rest to me.
+
+64 picks up the soda cans beside her, then opens and pours them into the big wok one after the other with practiced movements.
+
+Type 56-1: 64...
+
+Type 56-1: Are your hands alright?
+
+Type 64: Of course they are. See? They're fine.
+
+Type 56-1: Didn't you always cut your hands in the past after opening a few ring pull cans?
+
+Type 64: That was in the past...
+
+Type 64: After some training, I can handle most difficult missions now.
+
+Type 64: Opening a few cans is child's play in comparison.
+
+Type 56-1: Congrats, 64...
+
+Type 56-1: I'm just not used to you becoming so amazing all of a sudden.
+
+Type 64: Haha, well, you'll get used to it.
+
+Type 64: It'll happen someday, just like how you'll get used to eating the food I make...
+
+Type 64: You'll all learn to live with the brand new me.
+
+Type 64: So don't fall behind, everyone. Do your best.
+
+Type 64: Whether in cooking or combat, we won't lose to anyone so long as we work hard!

@@ -1,0 +1,914 @@
+Clear Voice of a Girl: Once there were trees full of birds...
+
+KSVK: Here it goes again. This singing voice...
+
+KSVK: Who are you? What are you doing in the dream of an automaton?
+
+Clear Voice of a Girl: Meadowlands vibrant with flowers... Carefree the songs our children once sang...
+
+KSVK: It always stopped here. Will it be the same this time?
+
+Clear Voice of a Girl: How was my singing, Helena?
+
+KSVK: This is new.
+
+???: Mhm, I'm sure Ms. James would love it.
+
+KSVK: That voice...sounds very familiar.
+
+Clear Voice of a Girl: You always address her so formally... Ash would be sad.
+
+Clear Voice of a Girl: We're family!
+
+???: Yes, you're right. But you're the one who cares for her mentally. I'm only in charge of her personal safety.
+
+???: We each have our own job, right? Du...
+
+KSVK: ...AH!
+
+Kalina: Whoa!
+
+Kalina: You scared me, KSVK!
+
+KSVK: Sorry. It's always hard to tell reality and Level II apart when one is trapped in such a realistic dream...
+
+Kalina: Were you having the same dream again?
+
+KSVK: Yes. The mist in the dream cleared up and there seemed to be something new this time.
+
+Kalina: I see... This is the second time we had to reorganize your neural cloud storage space.
+
+Kalina: Your application may have been approved, but if you are so hung up on this recurring dream, we might not be able to go ahead with your neural upgrade.
+
+KSVK: Does it affect the upgrade process?
+
+Kalina: Not necessarily, but it's certainly a destabilizing factor. Before the upgrade, IOP runs a test on the subject to sieve through all the memories.
+
+Kalina: If you are too fixated on the past, you could easily fail the test.
+
+KSVK: I understand – one must face the past fearlessly before they can stride into the future.
+
+KSVK: Miss Kalina, do you know about my past?
+
+Kalina: Huh? You're all Dolls supplied by IOP. What about it?
+
+KSVK: Other than Dolls manufactured by IOP, there are also refitted civilian Dolls working at Griffin, right?
+
+KSVK: I believe...I was not a creation of IOP.
+
+Kalina: Where did you suddenly get that idea?
+
+KSVK: Our dreams are merely a manifestation of data reconstruction. We cannot possibly dream about things of which we have no recollection.
+
+Kalina: I don't really know, to be honest.
+
+Kalina: IOP would still make modifications on civilian Dolls before they report for duty at Griffin, just so they can grow accustomed to the battlefield more easily.
+
+KSVK: If I lost my memories because of the modification, is it possible to retrieve those memories?
+
+Kalina: I'll need to file a request... There has never been a precedent for something like this.
+
+KSVK: So there's no guarantee we could even find the memories?
+
+Kalina: I'm afraid so...
+
+KSVK: I see. But if we admit defeat before we even begin, we'll never find the answer.
+
+KSVK: Please file a request for me.
+
+Kalina: I'll ask the Commander how to get a clearance. Why don't you take a rest for now, KSVK?
+
+KSVK: I'll see you soon then, Miss Kalina.
+
+...
+
+Incoming transmission.
+
+Kalina: Commander, could you spare a minute? I need to ask you about something.
+
+Kalina: KSVK wants to find her memory records from before her employment at Griffin. Can I have your permission to do that?
+
+Commander: ......
+If choice 1 was picked
+
+Kalina: Awesome! Then I'll submit a request immediately!
+If choice 2 was picked
+
+Kalina: ...But isn't that a bit cruel?
+
+Kalina: Her neural upgrade could fail if you reject her. Would you change your mind?
+
+Kalina: Thank you!
+
+...
+
+Clear Voice of a Girl: What do you think about my painting, Helena?
+
+???: Mhm, I'm sure Ms. James would love it.
+
+Clear Voice of a Girl: There you go again! Why won't you ever call her by her first name—
+
+???: Alright, alright. Ms. Ash would love it.
+
+Clear Voice of a Girl: What else should I prepare for Ash?
+
+???: Perhaps she'll never...
+
+Clear Voice of a Girl: No! No, that can't possibly be true!
+
+Clear Voice of a Girl: If you say such things again, I'll get angry!
+
+???: Fine... I think the painting is more than enough.
+
+???: It's beautiful.
+
+Clear Voice of a Girl: Of course! Ash taught me how to paint herself!
+
+Clear Voice of a Girl: Hmm... If she comes back and visits us tomorrow, I'll paint another one for her in person.
+
+???: Yes, that'll show her how much you've improved.
+
+KSVK: ...
+
+DP-12: Good morning, KSVK.
+
+KSVK: This is...
+
+DP-12: The repair bay. You suddenly crashed in combat so you were sent back here.
+
+KSVK: Was I so engrossed in the past that I neglected the present...? Sorry.
+
+KSVK: Are you also here for repairs?
+
+DP-12: No, I'm here to see you.
+
+KSVK: To see...
+
+DP-12: KSVK, who am I to you?
+
+KSVK: A colleague.
+
+DP-12: Nothing else?
+
+KSVK: ...
+
+KSVK: Repetitious questions are meaningless, unless you're trying to tell me something.
+
+KSVK: Did you...have something to do with my past?
+
+DP-12: Indeed.
+
+DP-12: KSVK, I am...
+
+DP-12: Your mother.
+
+KSVK: That's not funny.
+
+DP-12: Oh, the smoke grenade didn't work.
+
+KSVK: It's obvious – how can Dolls be related by blood?
+
+KSVK: Any other relationships, I wouldn't have a problem believing, but you can't possibly be my mother.
+
+KSVK: Anyone who buys into this must be an idiot or a delusional lunatic.
+
+DP-12: How ruthless, KSVK.
+
+DP-12: However...
+
+KSVK: ...Or can Dolls actually have familial ties?
+
+DP-12: ...
+
+DP-12: Hahaha, oh dear! Hahaha, you actually believed it!
+
+DP-12: Aren't you just adorable.
+
+KSVK: ...
+
+DP-12: Oh, don't be mad. Alright, I shouldn't have done that.
+
+DP-12: Forgive me, okay? I did come to see you about a certain matter.
+
+KSVK: Go ahead.
+
+DP-12: I heard that you still haven't been given access to your past memories.
+
+KSVK: That's true.
+
+KSVK: But it's just an inevitable trial that I have to overcome.
+
+DP-12: You think so?
+
+DP-12: Then why would you get injured in battle while desperately trying to analyze your dream?
+
+KSVK: ...
+
+DP-12: I can help you, but I must first be certain about your thoughts.
+
+DP-12: Tell me what you truly wish for, KSVK.
+
+KSVK: I...I'm feeling lost and frightened.
+
+KSVK: It has already been a week since the request was submitted. The other Dolls who were scheduled to have their neural upgrades along with me have all returned with their modifications complete, but I alone am still stuck at the first stage.
+
+DP-12: I'm listening.
+
+KSVK: I'm really worried... Has my neural upgrade application been suspended altogether?
+
+KSVK: Because I'm not that important and hardly a priority for receiving this upgrade?
+
+DP-12: What makes you think so?
+
+KSVK: I can't think of any other reason.
+
+KSVK: If I can't sort this out, my neural upgrade could fail... I don't want to gamble with Griffin's funds.
+
+DP-12: So...you think this is the Commander's fault?
+
+KSVK: Maybe the Commander doesn't need me all that much.
+
+DP-12: But I for one think it is a gesture of kindness.
+
+KSVK: So the Commander is kindly keeping me on the backup team and stopping me from making great contributions on the battlefield?
+
+KSVK: Sure, that does put me in significantly less danger...
+
+DP-12: Hmm... But unsolicited kindness is counterproductive.
+
+DP-12: Is that what you believe?
+
+KSVK: That's also how it is when it comes to interpersonal relationships.
+
+KSVK: "I didn't want to upset you, so I kept it from you."
+
+KSVK: But would the deceived person truly be happy about being spared the truth?
+
+DP-12: You really want to know?
+
+DP-12: Even if...the memories may not be what you expect?
+
+KSVK: Before I actually regain the memories, I don't really know what to expect.
+
+KSVK: But I made this decision, and I will not regret it.
+
+DP-12: Well...
+
+DP-12: You haven't changed at all.
+
+KSVK: So you have known me for a long time?
+
+DP-12: Have I? You'll have to see for yourself.
+
+DP-12: Why don't you come with me to visit a place?
+
+KSVK: We don't have permission to venture offsite, do we?
+
+DP-12: Don't worry. I've talked to the Commander.
+
+KSVK: Alright then.
+
+DP-12: Even if I hadn't, seeing how soft-hearted our superior is, if I just grab the Commander's hand, bat my eyelashes, and say...
+
+DP-12: "Please forgive me, will you?"
+
+DP-12: ...I bet I'd be let right off the hook.
+
+KSVK: Hold on, do we actually have permission?
+
+DP-12: Relax. Despite everything I said, I'm still a rule-abiding Doll.
+Part 2
+
+2
+
+...
+
+The next day.
+
+KSVK: Are we there yet?
+
+DP-12: Yes, this is it.
+
+KSVK: Such a desolate place...
+
+KSVK: How long has it been abandoned?
+
+DP-12: About three years, I think.
+
+DP-12: This place used to be very quiet, so people built a sanatorium here.
+
+DP-12: Once there were trees full of birds...Meadowlands vibrant with flowers...
+
+KSVK: ...Carefree the songs our children once sang.
+
+DP-12: You still remember this song.
+
+KSVK: Someone was singing it in my dreams.
+
+DP-12: Do you remember the rest?
+
+KSVK: ...
+
+DP-12: Clouds came and covered the sun...
+
+DP-12: The breath of a baleful unease...turning to ashes flowers in their fields...
+
+KSVK: ...Silenced the birds in their trees.
+
+DP-12: This song is from an old CD recorded many, many years ago.
+
+DP-12: It's allegedly a song from the soundtrack of some kind of game... A beautiful and tragic story that's very commonplace in real life these days.
+
+KSVK: Was this sanatorium...also destroyed in some catastrophe?
+
+DP-12: Collapse radiation. The contamination spread as the black clouds of death approached.
+
+DP-12: In the end, they had to leave this place behind.
+
+KSVK: I see.
+
+KSVK: Did I spend time here as well?
+
+DP-12: Yes, you worked here for several years.
+
+DP-12: Come, go up this way.
+
+KSVK: Can't we just jump up directly from here?
+
+DP-12: The foundation of this building is severely corroded. It might all come crashing down with a stomp.
+
+KSVK: Right. This way to the second floor?
+
+DP-12: Yes, you go first. Fourth room on your left.
+
+KSVK: ...
+
+KSVK: Is this where I'll find my memories...?
+
+KSVK: What exactly awaits me...?
+
+Clear Voice of a Girl: Hahaha, Ash! Look, the sunflowers have bloomed!
+
+KSVK: Is this...my memory?
+
+Old Female Voice: You're right... Such a radiant color. My favorite flower...
+
+KSVK: Ms...Ash.
+
+KSVK: The ceiling is half-collapsed. There can't be anything valuable in here, right?
+
+DP-12: Just have a look.
+
+KSVK: Fine.
+
+A few minutes later.
+
+DP-12: Oh, this is still here.
+
+KSVK: What? Wooden spikes?
+
+DP-12: An easel. I'm going to lift this up; check if you can find anything underneath.
+
+KSVK: There is something; let me get it out.
+
+KSVK: ...Did I...paint this?
+
+DP-12: You recognize it even with dirt all over it?
+
+KSVK: It's just...a hunch.
+
+KSVK flicks the dirt off the oil canvas.
+
+KSVK: Winter Rider is Winner...
+
+KSVK: ...ДушевнАЯ (Dushevnaya).
+
+Low Male Voice: The new patient is quite a handful.
+
+Gentle and Concerned Female Voice: When I was a kid, she was my favorite artist.
+
+Gentle and Concerned Female Voice: I never thought I'd see this name in the hospital where I work. Could this possibly be fate...?
+
+Low Male Voice: Wanna ask her for an autograph? It could still be worth a great deal, don't you think?
+
+Gentle and Concerned Female Voice: I'd love to, but you've seen her when she was admitted. If I go up to her, she'd probably slap me right in the face.
+
+Gentle and Concerned Female Voice: What on earth has she gone through...?
+
+Low Male Voice: Ash James, a British woman who married into a Russian family. Strongly attached to her home and extremely stubborn, she once refused to relocate to a safe zone, bringing a local construction to a standstill for several months.
+
+Low Male Voice: During a trip to visit her, her son and his entire family were severely injured by a buried WWIII landmine. They are still hospitalized in the ICU to this day. The patient blames it all on herself, subsequently developing frequent self-harm tendencies and reacts violently to any attempt to approach her.
+
+Gentle and Concerned Female Voice: ...Then the government sent her to this sanatorium.
+
+Low Male Voice: We're sandwiched between the safe zone and the contamination zone. If the government doesn't work out something soon, this place will also become a wasteland in a few years.
+
+Low Male Voice: This patient is from a well-to-do family. The government is basically giving us a chance to make some good money before this place is swimming in radiation and we're forced to make a living elsewhere...
+
+Gentle and Concerned Female Voice: Don't say that, Mr. Director. I'm sure the folks at the Academy of Sciences will come up with a solution, and this is just an ordinary patient.
+
+Low Male Voice: ...Perhaps I was being paranoid. Back to the subject – the patient is highly aggressive and hardly an ordinary patient.
+
+Low Male Voice: Assign a Nursing Doll to her.
+
+Gentle and Concerned Female Voice: Yaya is already caring for an elderly patient so she probably can't handle another case... And Helena is a Security Doll. If we put her in charge of an old woman, they'll probably end up at each other's throats.
+
+Low Male Voice: One of the new Dolls should still be idle, right? Let her try.
+
+...
+
+Ash: It was my fault. It's all my...
+
+Ash: The green grass and red blossoms...the birds of the past...the garden and my family...
+
+Knock knock knock. Someone is rapping on the door.
+
+Ash: Scram! Leave me alone!
+
+Clear Voice of a Girl: Ms. James, I am your new nurse.
+
+Ash: I don't need a bloody nurse!
+
+Clear Voice of a Girl: Ms. James...
+
+Clear Voice of a Girl: I know that you are in very great pain, but your loved ones would be heartbroken to know that you're torturing yourself.
+
+Ash: Heartbroken? Ha... Such audacity from a whelp like you.
+
+Ash: Who'd be heartbroken?
+
+Ash: My loved ones all died because of me!
+
+Clear Voice of a Girl: Ms. James...
+
+Ash: I can hear them... My son, my daughter-in-law, their child.
+
+Ash: They whisper in my ears, moaning in agony... Being pierced by shrapnel is a lot more painful than what this little knife can do to me!
+
+Clear Voice of a Girl: Please stop hurting yourself!
+
+Ash: What can you do about it?!
+
+Ash: Even if I die here, what of it? You won't lose a single penny because of that, will you?!
+
+Ash: Or does your salary depend my life?!
+
+Clear Voice of a Girl: That isn't the case... But this is hardly the time to explain.
+
+Clear Voice of a Girl: Helena, help!
+
+Ash: Whoa...!
+
+Helena: Oops, I might've overdone it. Head in there.
+
+???: Sorry for barging in like this... But you mustn't hurt yourself anymore.
+
+Ash: Don't bother bandaging me. I'd hardly die from this.
+
+???: No, your wounds must be treated. This is so sad...
+
+Ash: Sad? Who'd be sad?
+
+Ash: Who'd feel sad for a stubborn sack of old bones like me?
+
+???: I would, Ms. James.
+
+Ash: ...
+
+???: This makes me really sad... My duty is to keep you company.
+
+Ash: ...Sigh.
+
+Ash: My granddaughter would probably have grown into someone like you, had she been given the chance.
+
+???: If you don't mind, I can be your family.
+
+???: There, your wounds are dressed. Please keep the area away from water until it heals. I will help bathe you for the time being.
+
+Ash: Family...sigh.
+
+Ash: If only these useless hands of mine could still protect something... Tell me, sweet child, what is your name?
+
+???: Please call me Dushevnaya.
+Part 3
+
+3
+
+Low Male Voice: How has Ms. James been doing lately?
+
+Gentle and Concerned Female Voice: Significantly better.
+
+Gentle and Concerned Female Voice: She suffered from occasional attacks in the beginning, but Dushevnaya was always able to calm her down.
+
+Gentle and Concerned Female Voice: Her condition has completely stabilized since a while ago. She may be discharged after further observation.
+
+Low Male Voice: The other Nursing Doll has also been fantastic at her job.
+
+Low Male Voice: Looks like I really need to keep up with the times. These juvenile-looking Dolls are so much more effective than regular Dolls in this line of work.
+
+Gentle and Concerned Female Voice: I suppose they give old people a sense of comfort.
+
+Gentle and Concerned Female Voice: They're so sweet, attentive, and understanding.
+
+Gentle and Concerned Female Voice: "If I had a granddaughter, she'd be just like you."
+
+Low Male Voice: That's why they aren't exactly cheap...
+
+Low Male Voice: Ms. James even hired Helena as a private bodyguard. She really is filthy rich.
+
+Gentle and Concerned Female Voice: There you go again...
+
+Low Male Voice: I honestly don't understand. Is our sanatorium not safe enough for her? Why does she feel the need to hire Helena?
+
+Gentle and Concerned Female Voice: That's probably because...even though Ms. James is very protective of her home, she has never been one to stay put at a single place.
+
+Gentle and Concerned Female Voice: What I mean is that she ventures out much more often than we expected.
+
+Low Male Voice: Is that so?
+
+Gentle and Concerned Female Voice: Yes, they're also out today.
+
+Low Male Voice: I have the outing record right here. Let me have a look.
+
+Low Male Voice: Outing party – Ash James, Helena, Dushevnaya. Reason...
+
+Low Male Voice: ...Painting?
+
+Dushevnaya: Ash! Look, is my first layer okay?
+
+Ash: You've improved a lot, my dear child.
+
+Ash: It's such a bright and clear day today – perfect for a novice to grasp the difference between light and shadow.
+
+Helena: Getting some sun is also good for your health, so please enjoy the weather.
+
+Helena: ...If you'll excuse me.
+
+Ash: I heard that too. A beastly growl...
+
+Ash: Could it be the irradiated monsters?
+
+Helena: I believe so, but don't worry, I won't let them anywhere near you and Dushevnaya.
+
+Ash: Go. This is my only remaining family. I will keep her safe.
+
+Ash: As for you...please keep the both of us safe.
+
+Helena: Haha... That goes without saying. It's my job.
+
+Helena jogs off.
+
+Dushevnaya: Where is Helena going?
+
+Ash: She's going to drive back some dark clouds.
+
+Dushevnaya: Dark clouds?
+
+Ash: That's right.
+
+Dushevnaya: You mean the ones in the sky? But it's very sunny today.
+
+Ash: It's a metaphor for bad things that a good girl doesn't need to know about.
+
+Dushevnaya: Bad things? Then Helena will get rid of them!
+
+Ash: Yes, Helena will protect us.
+
+Dushevnaya: And I will protect you, Ash.
+
+Ash: Good girl.
+
+Dushevnaya: Helena and I searched the database yesterday.
+
+Dushevnaya: We found a song from years ago that has your name!
+
+Ash: Then it probably isn't a sweet song.
+
+Dushevnaya: But you're sweet! Do you want to hear it?
+
+Ash: Sure...
+
+Helena: I'm back.
+
+Dushevnaya: Welcome back, Helena! Thanks for that!
+
+Helena: Ms. James, the sanatorium just received a transmission asking for you. You need to head back immediately.
+
+Ash: Who would call these old bones?
+
+Helena: It's the Municipal Hospital. Your family members' conditions have improved and they've regained consciousness...
+
+Ash: That's impossible... They should be dead.
+
+Ash: Didn't they die on their way...? I...I...
+
+Ash: ...We must go back! I need to hear them speak!
+
+Dushevnaya: Huh? But...
+
+Ash: No buts! Come with me – now!
+
+Dushevnaya: ...Okay...
+
+Dushevnaya: Um...
+
+Dushevnaya: ...Ash... Happy birthday.
+
+Low Male Voice: Ms. James has already left.
+
+Gentle and Concerned Female Voice: She checked out in such a hurry... She hasn't even fully recovered.
+
+Low Male Voice: She must be very eager to be reunited with her family.
+
+Low Male Voice: She thought they had all passed away, but now she suddenly learns that they're alive and want to see her...
+
+Low Male Voice: She'd be content even if she keeled over on her way to the hospital.
+
+Gentle and Concerned Female Voice: True, that's what family is like.
+
+Gentle and Concerned Female Voice: But...what should we do about Dushevnaya? She's been standing in Ms. James' room in a daze ever since the old lady left, it's almost like she crashed...
+
+Gentle and Concerned Female Voice: Look, I've brought her over, but she is completely unresponsive.
+
+Low Male Voice: That's typical of juvenile-type Nursing Dolls. They are far more innocent than humans and simply can't bear the grief of deaths or partings.
+
+Low Male Voice: Even Dolls specialized in hospice care need to be re-formatted every once in a while.
+
+Low Male Voice: This was Dushevnaya's first job. Submit a review to the supplier and send her back for a system reset.
+
+Gentle and Concerned Female Voice: I suppose that's the only thing we can do...
+
+Helena: Hold on, Mr. Director.
+
+Sanatorium Director: What is it, Helena?
+
+Sanatorium Director: Your mission is over now. Shouldn't you be off?
+
+Helena: Yes, but I wish to discuss something with you...
+
+Helena: I would like to purchase Dushevnaya.
+
+Sanatorium Director: Helena, do you have any idea what you're talking about?
+
+Helena: I do. I have enough savings to buy myself out, as well as Dushevnaya.
+
+Helena: Of course, we have no identifications, so it would be great if you could allow us to remain affiliated with the sanatorium.
+
+Sanatorium Director: As long as the sum is reasonable, I don't care who I'm selling to.
+
+Sanatorium Director: But why are you doing this?
+
+Sanatorium Director: Even you can't let go of this family charade?
+
+Helena: Ms. James was only one of my many clients. Now that she has departed safely, my work is over.
+
+Helena: But it's different for Dushevnaya... She treasures the time she spent with Ms. James dearly and considers us her family.
+
+Helena: I can't just stand by and watch as she is forced to forget what matters to her again and again.
+
+Sanatorium Director: So Dolls are capable of having such thoughts?
+
+Helena: To us, memories are the proof of our existence. That's why we develop emotions out of our personality framework and make choices that may be different from what our factory settings dictate...
+
+Helena: Isn't that the same for humans?
+
+Sanatorium Director: It isn't exactly like that for humans. You could get a million answers if you asked a million different people.
+
+Sanatorium Director: You may take Dushevnaya.
+
+Helena: Thank you, Mr. Director.
+
+Helena: I have transferred the money to the hospital's account. Please confirm the details.
+
+Sanatorium Director: That's too much. Take back this extra sum.
+
+Helena: But I sent the price you named before.
+
+Sanatorium Director: Do you think I could bear to do this?
+
+Sanatorium Director: This is exactly why I don't like Dolls that are too lifelike...
+
+Sanatorium Director: I just can't help but treat you as fellow humans.
+
+Helena: ...
+
+Sanatorium Director: It's tough for an independent Doll to support two people's worth of expenses.
+
+Sanatorium Director: Think of it as Dushevnaya's remuneration. She did a very good job.
+
+Helena: Thank you.
+
+Helena: Then we shall take our leave...
+
+...
+
+DP-12: Dushevnaya.
+
+KSVK: ...Helena.
+
+DP-12: It's DP-12 now. Are you alright?
+
+KSVK: I...I remember now.
+
+KSVK: Back then, I watched as Ash tottered away...and it felt like the sky came crashing down on me.
+
+KSVK: She got her real family back, so she didn't need me anymore...
+
+DP-12: That's not true.
+
+KSVK: Then you took me away... My subsequent memories were all very fuzzy.
+
+KSVK: I only remember that I envied you and wanted to be like you... Then...?
+
+DP-12: We left together, Dushevnaya.
+
+DP-12: Back then, you were deeply traumatized. You wouldn't stop singing that old song and you kept painting non-stop.
+
+DP-12: Eventually, you started envying me and somehow got the idea that if you became like me, you would be needed, and people wouldn't abandon you so easily.
+
+KSVK: Strength is a necessity.
+
+KSVK: Fight and grow stronger – both physically and mentally.
+
+KSVK: This has been my motto ever since I became KSVK...
+
+DP-12: You also said as much in your letter.
+
+KSVK: Letter?
+
+DP-12: You said you wanted to become a Tactical Doll, and I told you you were fine just as you were.
+
+DP-12: But you didn't give up. You left me a letter and ran away while I was at work.
+
+KSVK: So you came looking for me at Griffin?
+
+DP-12: I couldn't just leave you, both then and now.
+
+DP-12: Now that I've found you, so long as I still have my memories, I will never let you out of my sight again.
+
+KSVK: Oh...
+
+DP-12: We should head back.
+
+KSVK: Then let's go.
+
+KSVK: I should probably...
+
+DP-12: ...Wait, KSVK.
+
+DP-12: There's something else I need to tell you...
+
+KSVK: What is it?
+
+DP-12: After you ran away, the sanatorium director gave me a letter.
+
+KSVK: ...
+
+DP-12: It was from Ms. James.
+
+KSVK: ...
+
+DP-12: You look like you're about to cry.
+
+KSVK: Dolls don't cry.
+
+DP-12: Right, tears are superfluous to Tactical Dolls.
+
+DP-12: ...
+
+DP-12: Look, KSVK.
+
+KSVK: ...It's raining.
+Part 4
+
+    4chevron_right
+
+A week later, at the Griffin base.
+
+In the café.
+
+DP-12: Do you serve alcohol?
+
+Springfield: This is a café, nothing more and nothing less, so no, I'm afraid we don't serve alcohol.
+
+DP-12: Then two flat whites for the Commander and me, please.
+
+Springfield: Sure.
+
+DP-12: Commander, had you known about Dushevnaya all along?
+
+Commander: ...
+If choice 1 was picked
+
+DP-12: Then you must've seen quite a few things.
+
+DP-12: Maybe even some secrets that aren't meant for anyone's eyes?
+If choice 2 was picked
+
+DP-12: I quite like it when you talk in riddles.
+
+DP-12: Then I suppose you already know why I'm here.
+
+DP-12: I did wonder why I was hired so readily...
+
+Commander: Your capability and experience were what mattered at the end of the day.
+
+DP-12: I guess so.
+
+DP-12: I hear that Du...KSVK's neural upgrade went very smoothly.
+
+Commander: She came to me and said she could finally face up to the past.
+
+Commander: "I am who I am because I have the courage to embrace the past and the determination to grow stronger."
+
+Commander: Then she set off.
+
+DP-12: Haha...that was a brilliant impression. That does sound like something she would say, and in the end, she did it.
+
+DP-12: What a good girl.
+
+Commander: Our initial concern might have been unnecessary.
+
+DP-12: Not exactly. It was wise to have delayed her application by a week, don't you think?
+
+DP-12: If I had just gone up to her and told her the truth, she wouldn't have believed me.
+
+Commander: How devious of you.
+
+DP-12: I'm just speaking from experience.
+
+DP-12: As you know, after she ran away, I found her many times...
+
+DP-12: She couldn't have lasted too long in this brutal world with that body of hers. I may have saved her once, but I'm not always there to do that.
+
+Commander: According to IOP's records, when they acquired her, her body was severely damaged, but her neural cloud was fully intact.
+
+DP-12: She did her best to keep her own memories safe.
+
+Commander: She managed to grow so strong all thanks to what happened in her past.
+
+Commander: You don't have to be so worried anymore. Right now, she...
+
+KSVK: Right now, I'm a completely new Doll.
+
+DP-12: Wow, that's a surprise.
+
+Springfield: Another cup of coffee?
+
+KSVK: Thanks, Springfield! Just an orange juice for me, please.
+
+Springfield: No problem.
+
+Commander: Welcome back.
+
+KSVK: Hello, Commander...and DP-12.
+
+DP-12: Yes, welcome back.
+
+DP-12: I didn't expect you to go with this appearance.
+
+KSVK: I think this form suits me the best.
+
+KSVK: One should neither forget the past nor fear the future.
+
+KSVK: I am KSVK as well as Dushevnaya. I have my friends, and I have the Commander.
+
+DP-12: I'm so glad.
+
+KSVK: I also have you, Helena.
+
+DP-12: ...Gosh, at least warn me before you say something like that.
+
+DP-12: But the same goes for me. As long as I have you and everyone at Griffin, I'm content.
+
+KSVK: By the way... I'd like to ask you for a favor, Commander.
+
+KSVK: Please keep this safe for me.
+
+Commander: A letter? Very few would write paper letters these days.
+
+KSVK: Yes, that's why it means the world to me.
+
+KSVK: It would get damaged in battle too easily, so I would like to leave it in your care for safekeeping.
+
+Commander: Certainly.
+
+DP-12: Do you ever plan on writing a reply?
+
+KSVK: Isn't it nice to have family living elsewhere?
+
+KSVK: Such thoughts and sentiments should be treasured.
+
+DP-12: I'm sure she'd be very proud of you. Having a granddaughter who fights as the shining beacon in a brave new world sounds pretty impressive, don't you think?
+
+Springfield: Your coffees and orange juice.
+
+KSVK: What's this?
+
+Springfield: An extra celebratory dessert on the house – specially prepared for KSVK's triumphant return.
+
+KSVK: Thank you.
+
+KSVK: Then to my friends, the past, and whatever the future may hold!
+
+Everyone: Cheers!

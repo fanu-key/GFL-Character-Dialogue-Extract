@@ -1,0 +1,798 @@
+System: Destruction of the Doll designated "Type56R" - confirmed.
+
+System: Neural cloud backup verified. Backup timestamp - 36 hours ago...
+
+System: Download Y/N?
+
+System: Download confirmed. Please wait...
+
+System: ...
+
+System: ...
+
+System: Neural cloud backup download complete. Activating body...
+
+System: ...
+
+Type 56R: ...Huh?
+
+Female Voice: You're finally awake, Type 56R!
+
+Female Voice: Apparently the power went out or something while they were starting up your body, fixing it took a lot of effort.
+
+Type 56R: ...This voice... Is that you, Miss Kalina?
+
+Kalina's Voice: My voice? I'm right in front of you, can't you see me?
+
+Another Voice: What, Type 56R can't see?!
+
+Type 56R: You're there too, 56-1?
+
+Type 56-1's Voice: I'm here, 56R. How do you feel?
+
+Type 56R: It's still dark here...
+
+Kalina's Voice: Now that's strange...
+
+Kalina's Voice: Maybe there's something wrong with the drivers for your visual module. Let me tinker with it for a bit.
+
+...
+
+...
+
+...
+
+Kalina: How about now? I can see your pupils focusing.
+
+Type 56R: Yeah... The module's functioning normally. I can see now.
+
+Type 56R: Thank you, Miss Kalina.
+
+Kalina: I'm so sorry, I thought you were okay just now when I saw you open your eyes.
+
+Kalina: I didn't get an error message, but this sort of thing has happened before.
+
+Type 56-1: But the explanation for that is simple, right?
+
+Type 56-1: 56R often gets destroyed in battle, and anyone would have problems the way she keeps uploading and downloading her neural cloud, along with all the switching around of parts and so on.
+
+Type 56R: Ahaha, so that's how it is.
+
+Type 56-1: But that's not your fault either. After all, anything can happen on the battlefield.
+
+Type 56-1: The important thing is that you came back safely! Nothing else matters!
+
+Type 56R: Thank you, I'll be careful.
+
+Type 56-1: You always say that... In any case, do your best!
+
+Type 56-1: Since you're okay, I'll be heading back for dinner with the others. See you later!
+
+Type 56R: Yeah, goodbye.
+
+Kalina: ...
+
+Type 56R: What's wrong, Miss Kalina?
+
+Kalina: Your teammates don't seem to be aware of the fact that you got destroyed because you were protecting them.
+
+Kalina: At this rate, I'm worried that they'll end up being overprotective of you, which will affect the squad's coordination.
+
+Type 56R: Huh, will it?
+
+Kalina: Do you get along well with them?
+
+Type 56R: Things are fine among us, I guess. We eat together, train together, exercise together...
+
+Kalina: ...That sounds good. I guess I might be overthinking things.
+
+Kalina: Ah, it's a call from the Commander.
+
+Type 56R: Well, it's almost time. I ought to get back to my post too. See you later, Miss Kalina.
+
+Kalina: Remember to check your fire control system, Type 56R!
+
+Kalina: Uh, hello? Commander?
+
+Kalina: I was just talking to Type 56R, because we just redownloaded her neural cloud to a new body.
+
+Commander: Type 56R? Did she...
+
+Kalina: Yeah, it's the second time this month.
+
+Kalina: There was a small error during the download process, so I'm a little worried about the condition of her neural cloud.
+
+Commander: What a coincidence, I just received a piece of erroneous data which didn't show up in the maintenance plan. It might be a while before we can find a way to deal with it.
+
+Commander: How's Type 56R's team?
+
+Kalina: Nothing seems to be out of the ordinary for the time being, but...
+
+Kalina: 56R keeps a lot of things from her friends. She means well, but...
+
+Kalina: Maybe you should talk to her?
+
+Commander: I will.
+
+Commander: Don't worry too much. Type 56R is already on the morning's agenda.
+
+Kalina: That's great!
+
+Commander: Remember to let her have a good rest. Everyone will surely see her in a different light soon enough.
+
+Kalina: Yup!
+
+...
+
+System: Re-tracing data transmission pipeline...
+
+System: Neural cloud backup confirmed. Backup timestamp - 36 hours ago...
+
+System: Download Y/N?
+
+System: Download confirmed. Please wait...
+
+System: ...
+
+System: ...
+
+System: Neural cloud backup download complete. Activating body...
+
+System: ...
+
+...
+
+Type 56-1: There's only one item on the agenda of today's meeting. We're going to talk about 56R...
+
+...
+
+Type 64: Hm, so you want to improve her tactical skill level?
+
+Type 63: Given our abilities, I'm not sure how much good we can do for her.
+
+Type 63: Speaking of which, aren't you going to eat something?
+
+Type 56-1: Never mind that for now!
+
+Type 56-1: There was a slight malfunction today when 56R was reactivated, and I think it's because she keeps getting into trouble.
+
+Type 56-1: For the sake of keeping her up to speed and our team's future, let's think of something to help her.
+
+Type 64: Hm, if you want to solve the root cause of the problem, I think it's best if 56R talks to us about it on her own.
+
+Type 64: However...
+
+Type 63: She doesn't bring up things like that usually. After all, you lose some memories after you get destroyed.
+
+Type 64: Don't you think she's keeping things from us on purpose?
+
+Type 56-1: But why?
+
+Type 63: Maybe she's just embarrassed. Think about it, usually she just ends up listening quietly because she can't keep up with our conversation, right?
+
+Type 64: That's because she has no idea what's popular at the moment...
+
+Type 56-1: Maybe she's like this because we lack things in common that we can talk about.
+
+Type 63: Is it because 56R lacks good taste?
+
+Type 56-1: Well...
+
+Type 56-1: It's TRUE, but it's better not to just come out and say it. If...
+
+Type 56R's Voice: Hey, did someone mention me just now?
+
+Type 56-1: Pfffft—! 5-56R! Uh, no, we weren't talking about you at all, hahahaha...
+
+Type 56-1: Pfffft—! 5-56R!
+
+Type 63: Eh?! You...what's with you?
+
+Type 64: ...Everything's about to change.
+
+Type 56R: Hehehe~!
+Part 2
+
+2
+
+Type 56R: ...
+
+Type 56R: What...what's going on?
+
+In the morning, Type 56R wakes up and finds that her doorway is filled with colorful bouquets of flowers. It almost looks as if it's her funeral.
+
+However, there are also many exquisitely-wrapped presents neatly stacked up next to the flowers.
+
+Type 56R: Is this some kind of prank?
+
+Type 56R: ...
+
+Type 56R: But who would go so far as to send all these gifts as part of a prank? And what's this on top of the presents... Is that a letter?
+
+Type 56R: It's addressed to..."56-chan"?
+
+Type 56R opens the envelope. The letter within is not long, but by the time she finishes it, her face is as red as a tomato.
+
+Type 56R: Th-th-this...this is utterly...
+
+Type 56R: How indecent!
+
+Type 56-1: Yo~ 56R...
+
+Type 56-1: Wow, what are these?!
+
+Type 56R: It-it's nothing, it's got nothing to do with me!
+
+Type 56R: Ahem, speaking of which, has everyone started training already?
+
+Type 56-1: Training? What training?
+
+Type 56R: Er, didn't we schedule a training today during mealtime yesterday?
+
+Type 56-1: But after that, you said you had a rehearsal for a debut concert and canceled the training, right?
+
+Type 56R: So it's canceled... Alright, then.
+
+Type 56-1: ...
+
+Type 56R: Wait, what did I say again?!
+
+...
+
+Debating Voices: Ah~ 56-chan is soooo cute!
+
+Type 56R: ...
+
+Debating Voices: Yeah yeah, I want to go on a mission with her and protect her!
+
+Type 56R: ...
+
+Debating Voices: Say, want to join the 56-chan Fan Club? We've got close to 200 members now!
+
+Debating Voices: If you join now, you'll get a custom-made 56-chan plush dangle!
+
+Type 56-1: Wow, you're amazing, 56R.
+
+Type 56-1: Still, you should have worn yesterday's outfit. The one you have on now is so plain that nobody's going to recognize you.
+
+Type 56R: No, this has nothing to do with me!
+
+Type 56-1: But everyone's talking about you. We saw your glamorous performance in the activity room and it kept everyone excited all night.
+
+Type 56R: But I went to bed really early yesterday!
+
+Type 56-1: Huh? So who was that yesterday...?
+
+Type 56R: That's what I'd like to know too!
+
+Bang!
+
+Type 56R flings the door to the activity room open with all her might — the Dolls inside are dancing along with a beautiful figure on the bar counter, and the room is filled with a frenzy so intense that Type 56R can barely stand it.
+
+The loud noise of the door being flung open draws everyone's attention and all the Dolls look her way, including the person standing on the "stage".
+
+Type 56R?: Let's all become shining stars in the sky!
+
+Dolls: 56-chaaaaaan!!!
+
+Type 56R?: Ah, that's the spirit, 56-chan can feel all your energy!
+
+Type 56R?: ...Hm?
+
+Type 56R: ...
+
+Type 56-1: Wait... TWO Type 56Rs?!
+
+The rhythmic music suddenly cuts off and the surging mood in the air suddenly deflates.
+
+Type 56R: Who are you, and why are you impersonating me?
+
+Type 56R?: Me? I'm 56-chan, of course.
+
+Type 56R: Quit joking around!
+
+Type 56R?: But this isn't a joke, you know? Have a look~
+
+The Doll who looks like Type 56R pirouettes lightly on the bar counter, and another round of excited shrieks fill the air as her pretty dress flutters.
+
+Dolls: 56-chaaaan you're so cute—!
+
+Dolls: Please marry me!
+
+As she watches "herself" performing on stage with such aplomb, Type 56R seems to realize why the contents of that letter she received were so ardent.
+
+She blushes again when she recalls it.
+
+Type 56R: Th-that's enough, you impostor! Get down from there at once!
+
+Type 56R?: How can you say I'm an impostor?
+
+Type 56R: It's not like your deception could last! 56-1, you can tell, right? She's an impostor!
+
+Type 56-1: Eh?! Now I have to tell the difference between you two?!
+
+Type 56R?: Argh, can't be helped then. If you don't believe me...
+
+Type 56R?: 56-1, your remember when we were clearing out Military remnants on that mission the day before, and I entered a minefield at the end and took over 70% damage to my body, right?
+
+Type 56-1: Huh? Y-yes, I think?
+
+Type 56-1: I remember that back then you said...
+
+Type 56R?: "I'm picking up enemies that slipped the net inside the perimeter, I'm going after them."
+
+Type 56R?: Isn't that right?
+
+Type 56-1: Yeah, that's it!
+
+Type 56R?: Hehe~
+
+Type 56R: Wait a minute, do you actually know...?!
+
+Type 56R?: The reason I entered the minefield was because I detected several automated mortar emplacements directing fire at us.
+
+Type 56R?: If they were activated, they would have done tremendous damage to the rest of the team.
+
+Type 56R?: I was going to keep it a secret in my heart forever, but I'm telling you all now just to prove that I'm the real Type 56R!
+
+Type 56R: Y-you don't have to tell them that!
+
+Type 56-1: S-so that's why you did that, 56R? You were actually trying to protect us...?
+
+Type 56-1: No, wait, who should I be talking to here?
+
+Type 56R: Me, of course!
+
+Type 56R?: You see, I know myself like the back of my hand. I know all the secrets I have hidden deep within my heart.
+
+Type 56R?: Also, last time...
+
+Type 56R: Sh-she must have looked at the encrypted combat logs on the main server, I'm going to hand her over to the Commander...eeep!
+
+Just as Type 56R walks up to grab the fake Type 56R, her doppelgänger suddenly presses close to her and puts an arm around Type 56R's waist, pulling her close.
+
+Type 56-1: Whoa—!
+
+As the Dolls watch, Type 56R is twirled around like a princess dancing with a prince in a palace ballroom. After a series of graceful dance steps, Type 56R is bent over backward like at the end of a tango.
+
+Dolls: That was amazing!
+
+Dolls: Though we don't know what's going on, Type 56R is really cute after all!
+
+Type 56R: Urgh...!
+
+Type 56R?: Hehehe, how does it feel to be the center of everyone's attention?
+
+Type 56R: You...! You and me...!
+
+Type 56-1: Hey hey hey, wait a minute wait a minute!
+
+Type 56-1: Hang on a bit, Type 56R!
+
+Type 56R: 56-1, what are you...
+
+Type 56-1: Just leave it to me.
+
+Type 56-1: Ahem, alright~ This is the end of today's performance, featuring 56-chan and her Dummy wrapping up with a side show!
+
+Type 56R: Wait a minute, I'm not a Dum...!
+
+Type 56-1: So, uh, we'd like to ask you all to let 56-chan get some rest before tomorrow's performance!
+
+Type 56R?: Yup, that's how it is. Please look forward to 56-chan's official debut! Hope to see you soon!
+
+Dolls: What the heck, so that was 56-chan's Dummy.
+
+Dolls: And here I thought we actually had two 56-chans.
+
+Dolls: Ahaha, how could that be?
+
+Dolls: Let's just look forward to tomorrow's show!
+
+The Dolls file out of the activity room cheerfully, while Type 56R watches as her "impostor" backs off and prepares to leave too.
+
+Type 56R: Where do you think you're going?!
+
+Type 56R?: Well, I'm going to be holding a grand debut show, so I need to prepare for it.
+
+Type 56R?: Oh yes, good thing nobody learned about our little secret. I can't disappoint my audience just yet, of course. See you later, my other self~!
+
+Type 56R: W-wait!
+
+The doppelgänger pays no mind to Type 56R's protests and takes her leave without a backward glance.
+
+...
+
+Type 56R: What is this all about...?
+
+...
+
+Type 56-1: Well, the Technical Department's reply is...they're not sure.
+
+Type 56-1: That 56-chan looks like a new body that's supposed to be used in your neural upgrade, but it's prancing around in front of you now.
+
+Type 56-1: One explanation they came up with was "a hardware malfunction during the neural cloud download caused the data flow to connect to another terminal, leading to an unexpected activation..."
+
+Type 56-1: Even the Commander knows about this, but I have no idea what's going on either. The Technical Department says they're trying their hardest to resolve this problem, but if you can find a solution on your own, you can also take care of it by yourself.
+
+Type 56R: ...
+
+Type 56-1: Though I suppose you're just as bewildered as everyone else, aren't you?
+
+Type 56-1: I guess nobody would have expected two Dolls with identical neural clouds to ever show up...
+
+Type 56-1: Hey, wait for me...whoa, that was close!
+
+Type 56-1 carefully strides over the mountain of presents to catch up with Type 56R.
+
+Type 56-1: Whew—!
+
+Type 56-1: Looks like "your" immensely successful performance has attracted a horde of fans, and you're receiving more and more gifts. You can't just keep stacking them up in your room, you know.
+
+Type 56R: ...But that wasn't me.
+
+Type 56-1: But she's gotta be you. She's got the next generation of your body and the same neural cloud as you.
+
+Type 56-1: Other than having a personality that's the polar opposite of yours, she's basically Type 56R as well.
+
+Type 56-1: Look at how popular you are~!
+
+Type 56R: No, that's not right. It's the other Type 56R who appeared out of nowhere that everybody loves.
+
+Type 56R: She's nothing like me. She seems incredibly stylish, she knows a lot of things that I don't, and she can even dance in public.
+
+Type 56R: Most importantly, she looks really pretty...
+
+Type 56-1: Say what?
+
+Type 56R: I-I never thought that "I" could be so...popular with others.
+
+Type 56R: If...If everyone likes that Type 56R, then what's the point in me existing?
+
+Type 56-1: 5-56R...
+
+Type 56R: ...
+
+Type 56R: Am I going to be replaced?
+Part 3
+
+3
+
+Type 56R: All this was because of a malfunction. As long as I can verify that, then I can be certain that I'm not being delusional.
+
+Type 56R: I'm obviously here, but everyone else thinks the other Type 56R is the real Type 56R. At this rate, they'll never become aware of this deception!
+
+Type 56R: I can't let this go on!
+
+Type 56-1: Actually, we could just wait until the Tech Department finds a solution. Once that happens...
+
+Type 56R: She's going to have a debut show or whatever tomorrow! If I let her be, everyone is going to accept that Type 56R as the real one, while I...I...
+
+Type 56-1: Calm down, 56R.
+
+Type 56-1 puts her hands on Type 56R's shoulders.
+
+Type 56R: ...
+
+Type 56-1: No matter what happens, I believe you.
+
+Type 56R: 56-1... Thank you.
+
+Type 56R: But I need to stop her!
+
+Type 56-1: Sure, but if you end up fighting with yourself, I'm not going to step in.
+
+Type 56R: It won't come to that. This mess will be over once I figure out a way to recover my neural cloud.
+
+Type 56R: I need to prove that I'm me!
+
+Type 56-1: You know, I heard she's in the hall right now. Looks like she's preparing for that debut of hers.
+
+Type 56R: Thank you! I'll wrap this up ASAP!
+
+Type 56R storms toward the hall.
+
+Like before, she can feel the ardent gazes of the Dolls she encounters on her way, but this time, some of them actually try to strike up a conversation with her too.
+
+Passing Doll: 56-chan!
+
+Type 56R: No, I'm not...
+
+Type 56-1: It'd be better not to let the others know there are two of you until the matter is settled.
+
+Type 56R: Ugh... Alright then.
+
+Type 56R: Y-yep, it's me! It's 56-chan~!
+
+Type 56-1: ...
+
+Type 56-1: ...That sounds a little cringy.
+
+Type 56R: I'm cringing too, you know! Let's go!
+
+Introverted Doll: 5-56-chan!
+
+Type 56R: W-what is it?!
+
+Type 56-1: Keep it together!
+
+Introverted Doll: Uh, I-I'm sorry...
+
+Introverted Doll: I just wanted to thank you.
+
+Introverted Doll: If you hadn't told me personally in the activity room last night, I would never have guessed that you're just like me, the kind who tends to keep everything bottled up.
+
+Type 56R: Is-is that so?
+
+Introverted Doll: I felt really inspired when you chose to tell everyone about that.
+
+Introverted Doll: I decided to share my thoughts with the members of my squad, and everyone ended up speaking their own mind as well!
+
+Introverted Doll: We felt the same way about a lot of things in the first place, but now there aren't any barriers between us anymore, and it feels great!
+
+Type 56R: Um, it's good that you're getting along well with each other, no need to thank me...
+
+Energetic Doll: Listen up!
+
+Type 56R: Ehhh?!
+
+Teammates: Yes, Leader!
+
+Type 56-1: Relax, they're not talking to you.
+
+Energetic Doll: I'm sure you all saw 56-chan's performance!
+
+Energetic Doll: She has no inhibitions separating her from her squadmates! Everything she does is performed with perfect coordination with them! That is something we lack!
+
+Teammates: Yes, Leader!!!
+
+Energetic Doll: Very good! Then let us learn from 56-chan and constantly strive to grow closer to each other!
+
+Teammates: Ohhhhhhhhh—!
+
+With spirits high, the Dolls set off on what seems to be a mission.
+
+Type 56-1: Good for them. Looks like 56-chan's been a good influence.
+
+Type 56R: ...Looks like it.
+
+Type 56R: ...Is that how it is?
+
+...
+
+Type 56-1: Well, you've arrived at the hall now, though everyone was a little too crazy about you...
+
+Type 56-1: Ah no, I meant about that 56-chan.
+
+Type 56R: ...Yeah.
+
+Type 56-1: Now then, all you need to do is head inside and the rest is up to you.
+
+Type 56R nods, then she puts a hand on the doorknob.
+
+Type 56R: ...
+
+Type 56-1: ...Not going in?
+
+Type 56R: ...
+
+Type 56R: If it's more worthwhile for her to exist than me, then is it really okay for me to make her leave?
+
+Type 56-1: Er... Are you accepting or denying yourself?
+
+Type 56R: I don't know.
+
+Type 56-1: Neither do I.
+
+Type 56R: ...
+
+Type 56R: It didn't take us too long to get from the dorm to the hall, but it still felt like an eternity to me.
+
+Type 56R: "56-chan" seems to have done a lot of things I couldn't do while I wasn't aware of it.
+
+Type 56R: I can see how everyone's looking forward to a happy future with her, but I have no place in that future.
+
+Type 56-1: ...Um... Well...
+
+Type 56-1: You don't need to give up on yourself just because everyone expects great things from 56-chan! Both of you are Type 56R in the first place, right?
+
+Type 56-1: If you ask me, this is actually a good thing!
+
+Type 56R: How is this a good thing?!
+
+Type 56-1: Think about it, how many Dolls are lucky enough to be able to confront "themselves" and have a dialogue with "themselves"?
+
+Type 56-1: Be brave and take the first step, I'll be waiting here for you!
+
+Type 56R: ...
+
+...
+
+Type 56R enters the hall by herself.
+
+It's quiet and spacious, no different than usual.
+
+On the stage directly in front of her waits the Doll that Type 56R has been wanting to see.
+
+Type 56R takes a deep breath and steps onto the stage, quietly facing her, facing "herself".
+
+56-chan: ...
+
+56-chan: You've come at last.
+
+This new and improved body, controlled by Type 56R's backup neural cloud, has been affectionately dubbed "56-chan" by everyone.
+
+She greets Type 56R with a smile. She appears to have been waiting here for a long time.
+
+56-chan: We finally get a chance to talk, just us two!
+
+Type 56R: ...Yeah.
+
+56-chan: I'm guessing there's something you want to know.
+
+Type 56R: How does it feel to talk to yourself - am I right?
+
+56-chan: Yes! It's a very new feeling.
+
+56-chan: And a frightening one too.
+
+Type 56R: You also feel scared?
+
+56-chan: Well, we ARE the same neural cloud, after all.
+
+56-chan: I thought you already knew this.
+
+Type 56R: How could I possibly know...
+
+Type 56R: The entire base is talking about you and your fans are everywhere. Even my dorm is filled with the gifts and flowers that everyone has sent to you.
+
+Type 56R: You should be happy, right?
+
+56-chan: If you think of yourself as a bird in a cage, then surely you'd be happy in the moment when you broke free of the cage and could turn all your suppressed emotions into joyful song.
+
+56-chan: But yesterday, when I met 56-1 and the others in my brand new form, the way they looked at me like I was a total stranger made me think differently.
+
+56-chan: It seems that both inside and out, I'm the complete opposite of the "me" that's inside my neural cloud.
+
+56-chan: And this feeling persisted until the moment I met you... It may sound strange to say this, but back then I was struck by an unsettling though —
+
+56-chan: "I'm looking at myself... So who am I? Why am I here?"
+
+Type 56R: ...So you have no idea that you were created from an equipment malfunction.
+
+56-chan: I see... Is that it?
+
+56-chan: Turns out my existence is pointless after all...
+
+Type 56R: ...You know, up until just now, that was exactly my thought, but I'm not so sure anymore.
+
+Type 56R: Your personality, your appearance... Your entire existence is actually everything I wanted to be. You should know this desire of mine, given that you are me.
+
+Type 56R: But before this, I saw many of my friends who were changed because of you, and now, you've become me.
+
+Type 56R: Maybe you should be the real Type 56R...
+
+56-chan: ...
+
+56-chan: Pffffft... What the heck, so this is how we see each other?
+
+Type 56R: Well, we ARE the same neural cloud, after all.
+
+56-chan: Yes, yes we are.
+
+56-chan: ...
+
+56-chan: Oh, I've got it!
+
+56-chan: Why don't we become each other?
+
+Type 56R: Huh?
+
+56-chan walks up to Type 56R and takes her hand.
+
+56-chan: I am you, but not completely you.
+
+56-chan: You are me, or at least you eventually want to become me.
+
+56-chan: We don't need to be afraid of how we're different from each other, because the truth is that we have always been the same.
+
+Type 56R: We have always been the same...you say?
+
+56-chan: Hehehe, maybe this is the opportunity that our encounter is meant to give us, who knows?
+
+56-chan puts her hands together and begins singing a melody that seems to have come from a long time ago. Type 56R listens quietly, and it starts to sound familiar. Eventually, she begins singing along too.
+
+She seems to be on the verge of remembering something she's forgotten, memories that are just a little bit out of reach...
+
+...
+
+After the song ends, 56-chan draws closer to Type 56R.
+
+Type 56R: Then let us become each other...
+
+56-chan: And become our true selves.
+
+56-chan presses her forehead to Type 56R's...
+
+System: Neural cloud connection started...
+
+System: Commencing overwrite...
+Part 4
+
+    4chevron_right
+
+...
+
+Kalina: And those are the results of the checkup.
+
+Commander: Hm.
+
+Commander: Has the equipment involved been inspected too?
+
+Kalina: It's been checked and vetted. There wasn't anything unusual about it.
+
+Kalina: Type 56R's neural upgrade also went very well.
+
+Kalina: In theory, something like that should never happen again.
+
+Commander: Should?
+
+Kalina: Unless there's another special case like Type 56R...but don't worry - I'll be monitoring the neural cloud reactivation process more closely in future!
+
+Commander: Very well. Now then...
+
+Commander: What do you think?
+
+Type 56R: Huh? You want my input?
+
+Commander: Well, you're the key figure of this incident. Surely there's something you'd like to say? For instance, how it feels to become the center of attention or something like that?
+
+Type 56R: Ahahaha... Well, it scared me a little at first. After all, everyone was suddenly paying so much attention to me.
+
+Type 56R: But when everyone started looking at me, it made me want to set a good example for them.
+
+Type 56R: Of course, I think they don't need to be so eager about sending flowers.
+
+Type 56R: I'd much rather be fighting side by side with everyone and becoming a reliable comrade for them!
+
+Commander: That's a good attitude to have.
+
+...
+
+Type 56R: Oh, my comrades are all waiting for me!
+
+Type 56R: Commander, now that the neural upgrade is complete and I've delivered my report, I'll be heading off to meet up with the others and continue carrying out my mission!
+
+Commander: Got it. Go, then.
+
+Type 56R: Kay~!
+
+Commander: Oh, before that...
+
+Commander: So which of you is the real Type 56R?
+
+Type 56R: Well, about that... Hehehe~!
+
+Instead of answering the Commander, Type 56R simply winks and makes a one-handed heart sign.
+
+...
+
+System: ...
+
+System: Neural cloud rebooting...
+
+System: ...
+
+Type 56R: Ah~ Have you finished submitting the report?
+
+Type 56R: Yeah, but our work's only just begun.
+
+Type 56R: I've been waiting for it~!
+
+Type 56R: Once we're done with our mission, let's go shopping. We'll go to the place they mentioned earlier!
+
+Type 56R: Oh, that place. Sure thing.
+
+Type 56R: Yay! I'm on fire! Let's go~!
+
+Type 56R: Yay! I'm on fire! Let's go~!

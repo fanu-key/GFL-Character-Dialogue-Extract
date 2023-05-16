@@ -1,0 +1,355 @@
+JS9: Attention everyone, we're opening the doors now!
+
+DP-12: I haven't finished setting up yet and they're already letting the guests in...
+
+DP-12: Now where should I put this big cabinet?
+
+JS9: Sorry, DP-12. Do you have something that needs putting away?
+
+JS9: I'll come over in a bit to help you, so please hang in there!
+
+DP-12: I'll be fine, just leave this place to me.
+
+DP-12: Relax, JS9.
+
+JS9: Is my anxiety so apparent?
+
+DP-12: It's quite obvious to me, at the very least.
+
+JS9: Maybe I'm not cut out for this...
+
+DP-12: We'll only know that once this mission is over.
+
+DP-12: Until then, do the best you can. I'll be with you too.
+
+JS9: Alright... I feel a little more at ease now.
+
+JS9: See you later!
+
+DP-12: See you later, JS9.
+
+End of transmission.
+
+DP-12: Alright, now what should I do with this huge cabinet...
+
+Passerby: Huh, the decor in this section is pretty decent! But the way the bed faces the mirror is terrible feng shui!
+
+DP-12: Pardon me, but we haven't finished setting up yet. That mirror is meant to be on the other side. Are you interested?
+
+Passerby: Huh? It's not set... s-set-set...
+
+DP-12: Is something the matter?
+
+DP-12: You seem to have something stuck in your throat, would you like some water?
+
+Passerby: (Coughs heavily)
+
+Passerby: Thank you, you saved me! Well, truth to be told, it's nothing much...
+
+DP-12: You mentioned something about feng shui, you must be quite invested in the layout of your new home.
+
+Passerby: Ah...you could tell?
+
+DP-12: Surely all visitors who come to look at furniture expo have that thought in mind, am I wrong?
+
+Passerby: Mm, yes! I did have that on my mind... And your part of the exhibit is completely at odds with the principles of feng shui!
+
+Passerby: You...er...
+
+DP-12: Is there something about me that makes you uncomfortable?
+
+Passerby: ...I can't speak while looking at you.
+
+DP-12: May I know why?
+
+DP-12: Things won't be resolved unless you make yourself clear.
+
+Passerby 2: Whoa, that salesgirl is so pretty...
+
+Passerby 3: Yeah, she looks way better than the furniture...
+
+DP-12: ...
+
+Passerby: In any case, uh, that's because, er...
+
+DP-12: Are you staring at my face?
+
+Passerby: ...
+
+Passerby: You do look very beautiful.
+
+DP-12: Hehe, why, thank you.
+
+DP-12: I apologize for any negligence in my work. Would you like to look at it again after I've corrected the mistakes?
+
+Passerby: (Groans) You're actually bowing... A-alright then, I'll let it slide. In any case, please fix it quickly!
+
+JS9: Sorry I'm late, DP-12...huh? Why's that person running off like that?
+
+JS9: And is he having a nosebleed?
+
+DP-12: I think so? It must be hard to have to come out shopping even when you're ill.
+
+JS9: I don't understand why humans push themselves like that. So these items haven't been set up yet?
+
+DP-12: Yeah, it's mainly this big cabinet here. I honestly have no idea where it should go.
+
+JS9: Ah, this one goes against the wall. After that, leave a gap about this size away from the bed... That way you can open the cabinet door all the way, and you'll also have an easy time picking out the clothes you want to wear the next day because it's close to the bed.
+
+JS9: However, that means you'll have to change the position of the mirror...
+
+DP-12: How about putting the mirror inside the cabinet door?
+
+JS9: Oh! That would work... You sure know a lot about how to arrange furniture, DP-12.
+
+DP-12: I simply value aesthetics and sensibility.
+
+DP-12: Thank you for your input, JS9. You helped me out a lot.
+
+JS9: You're making me blush... Don't mention it! I'd better go.
+
+DP-12: Alright, don't tire yourself out too much.
+
+DP-12: After DP-12 sends off JS9, the crowds who had recently dispersed gather round again.
+
+DP-12: For some reason, the furniture is selling extremely fast, and few of the customers even bother to haggle.
+
+DP-12's display area is soon cleaned out.
+
+DP-12: I still can't sell off this big cabinet...
+
+Customer: What are you thinking about? Please continue with your pitch! It's quite interesting, I'd like to hear the rest of it.
+
+DP-12: Very well. The canopy bed you purchased might be newly made, but the design is vintage. Its workmanship is exquisite and the production cost was anything but cheap. The fact that you can afford one implies your family must be quite well-off.
+
+Customer: Hehe, but of course.
+
+DP-12: While it is a bed, it is practically a room in its own right, which is why we displayed it outside. However, that is not the only reason. Canopy beds like these...
+
+???: Waaaaahhhhhh—
+
+DP-12: Do you...hear that?
+
+???: Mama— Mama...
+
+???: Where... (sobs) ...are you, I'm scared... (sniffles)
+
+DP-12: It's not just my imagination... A child is crying.
+
+Customer: Well, what about canopy beds? Go on.
+
+DP-12: My apologies... I think I heard a child crying. Excuse me for a moment.
+
+Customer: Huh, so there is.
+
+DP-12 strides quickly into the crowd, trying to track down the source of the muffled crying with her sense of hearing.
+
+???: Mama...
+
+???: What should I do... (sobs)
+
+DP-12: Hello there.
+
+DP-12: Did you get separated from your mom?
+
+Child: ...
+
+DP-12: Don't worry, I'm not a bad person.
+
+Child: (Sniffles)
+
+DP-12: Oh dear, look at that. You must have had a hard time waiting on your own.
+
+Child: Mama said...not to talk to strangers...
+
+DP-12: Mm, Mama is right.
+
+DP-12: But I mean you no harm. See, I work over there. Your teacher must have taught you to ask the staff for help if you run into trouble, right?
+
+Child: Yeah...
+
+DP-12: In that case, do you need help, little one?
+
+Child: Yeah... I-I lost my mom...
+
+DP-12: Oh my. How long has it been since you last saw her?
+
+Child: I don't know... I don't have a watch on...
+
+Child: ...I'm scared.
+
+DP-12: There there, no need to be afraid. My counter over there is spacious and well-lit, so it's very eye-catching. Shall we go there and wait for your mom to find you?
+
+Child: Okie...
+
+Customer: Goodness, is this your child?
+
+DP-12: Surely you jest, how could that be? This child was separated from his mother. It would be safer for him to wait here than in a crowd.
+
+Child: ...
+
+DP-12: Don't pull at the ribbon, dear. What's the matter, still scared?
+
+Customer: He's being very brave! If I were separated from my mom at that age, I'm sure I'd ignore everyone and bawl until my mom came to hug me.
+
+DP-12: Oh my...then you HAVE been very brave.
+
+DP-12: Would you like a hug?
+
+Child: That's okay...
+
+Child: I'm just, I'm just scared Mama will leave without finding me...
+
+DP-12: That won't happen. I'm sure your mom is looking for you right now. But you see, the venue's so huge so it'll take a while for her to find you, don't you think?
+
+Child: Yeah...
+
+DP-12: Then sit tight and wait for her here.
+
+DP-12: Moms are amazing, you know? They can find you wherever you are.
+
+Child: Yeah! Mama's amazing!
+
+Customer: You're good with children.
+
+DP-12: I wouldn't go that far.
+
+DP-12: I just hope his mother comes soon. Children only feel truly at ease when they're with their families.
+
+Customer: So, what's the story behind this canopy bed?
+
+Child: Canopy bed?
+
+DP-12: Yes, that's what it's called.
+
+Child: It's so big...
+
+DP-12: When technology wasn't as developed as it is now, it would take three years to make a bed like this. Each design had to be carefully carved into the frame, which naturally made the production cost quite significant.
+
+DP-12: Wealthy families in Southern China would make these beds as dowries and also as a blessing for their daughters' weddings.
+
+DP-12: Of course, in the present day, canopy beds aren't just dowries. They also serve as storybooks.
+
+Child: Storybooks?
+
+DP-12: Oh yes. Take for example these carvings over here. Do you know what they are?
+
+Child: There's a sword, a gourd, flowers, and...
+
+Customer: A flute.
+
+DP-12: Excellent, you recognized it.
+
+DP-12: These carvings are known as the "Hidden Eight Immortals". By invoking the personal items of the Eight Immortals, the bed becomes a symbol of good fortune.
+
+DP-12: See, this flower basket represents the Immortal called Han Xiangzi.
+
+Child: Who's Han Xiangzi?
+
+Customer: The name sounds familiar, is he some kind of divinity?
+
+DP-12: Correct. He was...
+
+As time passes, the number of people stopping to listen to the story steadily increases.
+
+DP-12: ...That's when Han Xiangzi's uncle finally realized that his nephew's poem was actually describing the very scene before his eyes.
+
+DP-12: And that is the story of Han Xiangzi of the Eight Immortals.
+
+人们: Wow...
+
+Broadcast: Ming Ming, Ming Ming, please come to Display Booth 1 if you can hear this, your mother is looking for you.
+
+Child: Ah! It's Mama!
+
+DP-12: See? She found a way to find you after all.
+
+Child: B-but...where's Display Booth 1?
+
+DP-12: This way. You see that red carpet over there? Just follow it and you'll be at Display Booth 1.
+
+Child: I see my Mama!
+
+DP-12: Off you go.
+
+The child jumps off the bench and starts running, then he suddenly turns around and gives DP-12 a firm hug.
+
+Child: Thank you!
+
+DP-12: Oh my... You're welcome.
+
+Customer: Well, the movers have arrived to transport the bed, so I'd better be going. Thank you for the riveting tale.
+
+DP-12: You're too kind. Do come again.
+
+DP-12: Whew... I can finally take a little break now, right?
+
+Passerby: Uh, excuse me...but is there more to that story you were telling just now?
+
+DP-12: Do you like folk tales?
+
+Passerby: I'm curious about that He Xiangu lady. You're a brilliant storyteller!
+
+DP-12: Thank you. If you want to hear more about her, I'll...
+
+Passing Kids: We want to listen too!
+
+DP-12: Oh dear... It seems my audience is bigger than I expected.
+
+Just then, her gaze falls on the cabinet that's been left behind.
+
+DP-12: In that case, let's play a little game, shall we?
+
+DP-12: Anyone who's brave enough can climb inside this cabinet, where I'll tell you a ghost story.
+
+DP-12: Whoever isn't scared out of the cabinet by the time we're finished will win a 25% discount coupon that's usable anywhere in this expo. However, there can only be one winner and the coupon is given out on a first come, first served basis.
+
+Passerby: 25% off?! And I can use it anywhere?
+
+DP-12: Anywhere at all. How about it, anyone up for a challenge?
+
+...
+
+Commander: Whew... The expo is still in full swing...
+
+Commander: Just as well, I'll go see what everyone is doing.
+
+Customer: Eeeeeeeeeep! I give up, I give up!
+
+Commander: What's going on?
+
+Customer 2: I give up too, let me out...
+
+Commander: Is it a terrorist attack? No, it's coming from DP-12's display...
+
+Commander: Let's go take a look.
+
+Customer 3: Ahhh, I can't take it anymore! I give up, let me out! I need to catch my breath...
+
+DP-12: What a shame, nobody managed to last until the end.
+
+DP-12: Does anybody else want to give it a try?
+
+Commander: ...DP-12? Are you hosting some kind of event?
+
+Customer 3: Do you want to try your luck? Better not, it's way too scary. I couldn't take it after just a little bit...
+
+Commander: Scary?
+
+DP-12: It's a test of courage.
+
+DP-12 gestures at the cabinet with the open doors behind her as she explains.
+
+While the cabinet isn't too deep, the darkness within is as dreadful as an endless void.
+
+DP-12: Well, Commander?
+
+DP-12: I have lots of stories to tell you.
+
+Commander: ...I'll pass, I need to start wrapping up the expo. Don't go overboard with this, DP-12!
+
+DP-12: Oh my, what a shame.
+
+DP-12: However, I'm sure I'll have many more opportunities in the future, so I'll let you off for now...
+
+DP-12: In the meantime, I should think about how to sell off this cabinet...

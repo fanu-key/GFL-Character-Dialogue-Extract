@@ -1,0 +1,1226 @@
+...
+
+Click.
+
+The transmission ends.
+
+Dier: So what are you planning to do after this?
+
+UMP45: We're going to finish the mission she gave us, as always. The rest isn't my concern.
+
+Dier: Ah, alright then. I thought you wouldn't be getting any new jobs... As it happens, there are a few new things I wanted to try recently.
+
+UMP9: New things? You're not going to make us your guinea pigs again, are you?
+
+UMP9: What if you install a module that makes me explode the moment I open fire? How terrifying!
+
+Dier: What the hell are you talking about?! Do you still doubt my skills even after we've worked together for so long?!
+
+UMP45: Don't worry, he wouldn't dare. After all, Dier's livelihood depends on us.
+
+UMP45: You don't need to worry either, Dier. We'll have a lot of work for you.
+
+UMP45 turns to the other Dolls and flashes them her usual smile.
+
+UMP45: Ladies, after this, we'll be heading up to Tallinn for a stroll.
+
+UMP9: Hah? Tallinn?
+
+416: We're traveling across half the continent?
+
+Gr G11: Why do we have to go to such a faraway place...
+
+UMP45: Our client's arranged a simple and enjoyable hike in the great outdoors for us.
+
+UMP45: We can't always be cooped up in the safe house, you know. It's true that we ought to go out and interact more with the friendly inhabitants of the outside world.
+
+416: ...I remember what's near that place.
+
+416: So, are you really going to take us out to dance on the edge of Hell?
+
+UMP45: The place we're going has never been much of a tourist spot... And as for whether it's Hell or a swamp, you'll find out once we arrive.
+
+UMP45: Since you know what's over there, I doubt you'll refuse, isn't that right, 416?
+
+416: ...
+
+UMP45: In that case, does anyone else have any questions?
+
+UMP9: When are we heading out?
+
+UMP45: In 48 hours. We don't have enough supplies here, so I'll need to head over to the other safe house in a bit.
+
+UMP45: Make sure you are more than fully prepared, everyone; we have a long journey ahead of us.
+
+Gr G11: Why do we have to go so far away all of a sudden...
+
+Gr G11: Can't we rest a little longer?
+
+416: You can take an extra pillow if you carry it yourself.
+
+416: Now get up!
+
+Gr G11: (Whimpers)
+
+The Dolls of Squad 404 leave the workshop and begin outfitting themselves.
+
+During this time, UMP9 heads to the maintenance room by herself.
+
+UMP9: ...
+
+UMP9: Dier?
+
+Dier: What is it? Need something?
+
+Dier: All the batteries are on the shelves.
+
+Dier: If you want anti-jamming equipment—
+
+UMP9: I'm not talking about those.
+
+UMP9: Dier, can you do me a favor before we head out?
+
+Dier: Eh?
+
+UMP9: Don't worry, it's very simple!
+
+Dier: Fine, let's hear it.
+
+Dier: But let me get this out of the way first, if I say I can't do it, that means I really can't do it, okay?
+
+UMP9: Danke!
+
+UMP9: We'll talk as we walk.
+
+Dier: While I'm in charge of servicing and maintaining you girls in the first place, this is still a very difficult request for me to fill.
+
+UMP9: Why is that?
+
+UMP9: It's just adding a few upgrade modules...that should be easy for you, right?
+
+Dier: It's not that I don't understand what you're asking for.
+
+Dier: But your modification plans have already been finalized, and we don't have much time... If I make big alterations to them now, it's very likely to cause problems!
+
+UMP9: Which is why I said we have to hurry up and get started!
+
+UMP9: In my case, I just need to improve my electronic infiltration capabilities a little. That way, I can...
+
+Dier: ...Can help UMP45?
+
+Dier: I'd advise you not to set such a high bar for yourself... The fundamental differences between the two of you aren't something that a simple modification can address.
+
+UMP9: That's why I came to you for help.
+
+UMP9: I can't think of anything, but I believe you must have some way to do it!
+
+Dier: Even if you place your faith in my skills, I can't do what I can't do.
+
+Dier: Also, does 45 know what you're planning?
+
+UMP9: She...
+
+Dier: See? The request you just made isn't as simple as regular maintenance. It's basically revamping you from the inside out.
+
+Dier: Shouldn't you tell her about this sort of thing beforehand? If something goes wrong, your neural cloud might really explode the moment you pull the trigger like you said, you know?
+
+UMP9: But...there's no time...
+
+Dier: That's why—
+
+UMP45: Your little argument is quite interesting.
+
+Dier: Oops...
+
+UMP9: ...45.
+
+UMP45: Since Dier doesn't want to help, it would be rude to keep pestering him, 9.
+
+UMP9: But...
+
+Dier: Whew...
+
+UMP45: After all, Young Master Dier is in a rush to return to his family's luxurious mansion...isn't he?
+
+Dier: Oi, you...
+
+UMP9: ...
+
+UMP45: Ah, was I mistaken? Sorry about that.
+
+UMP45: You looked so happy just now that I thought you'd finally decided to give up your life of being ordered around by other people.
+
+Dier: Are you doing this on purpose?
+
+Dier: I know what freedom means just as well as you do.
+
+UMP45: Correct, but haven't you dreamt about the past before?
+
+UMP45: Of those comfortable days, when you were served by Dolls.
+
+UMP9: ...
+
+UMP9: ...Ah!
+
+Dier: I'm not interested in that kind of thing.
+
+Dier: Whatever my past was, it has nothing to do with who I am now.
+
+UMP9: Does that include picking up a cute Doll by chance and bringing her home?
+
+Dier: Eh? Didn't we agree not to mention—
+
+UMP9: While I'm not exactly sure what Young Master Dier likes about that particular model...
+
+UMP45: Maybe it's how she naps all the time, which implies that she's obedient and low-maintenance.
+
+UMP9: That would make sense.
+
+UMP9: It's a strange thing to like her for, but Young Master Dier really does like her.
+
+UMP9: In fact, he even went and studied up on A-Doll technology on his own just for her sake.
+
+UMP45: But cruel, cruel, Young Master Dier just said that he didn't care about his past any more.
+
+UMP9: Ah, what a shame.
+
+UMP9: Even after he has soooo many other Dolls of the same model in his own home serving as his maids—
+
+Dier: STOP IT!
+
+UMP9: But I guess...not many people know about this, am I right?
+
+UMP9: I mean, if the fans of the "Almighty Mechanic" found out...
+
+Dier: (Whimpers)
+
+UMP9: I mean, it's perfectly normal for girls to pick up strange rumors in this day and age, don't you think?
+
+UMP45: I think so too.
+
+Dier: How can you DO this?!
+
+UMP9: Well, let's not worry about that for now.
+
+UMP9: Dier, could you do me a favor before we head out?
+
+Dier: Ugh...
+
+Dier: ...
+
+Dier: (Sighs) Come with me, we don't have much time.
+
+UMP9: This place is...
+
+Dier: I don't like bringing people into my personal lab, but the run-down facilities in the safe house won't be able to handle what I'm about to do.
+
+Dier: Humph...so much for a "simple request", you're all devils trying to squeeze me dry!
+
+UMP9: Um...will it hurt?
+
+Dier: "Will it hurt?" Just turn off your sensory modules!
+
+Dier: But there's no need for that either. I'll shut down your neural cloud's Level II activity.
+
+Dier: Your consciousness will settle down to the Level III base layer. I don't know what's going to happen then.
+
+UMP9: So...it'll actually be like taking a nap?
+
+Dier: Yeah, you'll go to sleep and wake up fully upgraded, you'll have no idea exactly how hard SOME people were working during that time.
+
+UMP9: Danke schön, Dier.
+
+UMP9: I'll make it up to you out of my allowance.
+
+Dier: Don't thank me just yet.
+
+Dier: I have to warn you — I wasn't lying when I was talking about hard it is to get you up to UMP45's level, given the capabilities of your body.
+
+Dier: Even this upgrade now is pushing it, and I can't rule out the possibility of unexpected side-effects cropping up.
+
+UMP9: ...
+
+UMP9: That's fine.
+
+Dier: Hah? How can you be fine with that?
+
+UMP9: ...
+
+UMP9: I...accidentally peeked into 45's memories once...
+
+...
+
+...
+
+Dier: So what did you see? Corpses everywhere?
+
+UMP9: Once, there was a Doll...who spent a long time by 45's side.
+
+UMP9: They were very close, and she was very important to 45. She was so important that 45 refused to change her body in order to preserve her memories of her.
+
+UMP9: I know that no matter what I do, I'll never be able to come anywhere near.
+
+UMP9: But at least... At the very least, I want to do my best and draw closer.
+
+Dier: ...
+
+Dier: But I'm the one who's putting in all the hard work here.
+
+UMP9: Dier...that's why...
+
+Dier: You can save the flattery. I don't need it right now, anyway.
+
+Dier: Just figure out what exactly you want.
+
+UMP9: Mm...
+
+Dier: Let's begin, then. Goodnight.
+
+UMP9: What exactly I want, huh...
+Part 2
+
+2
+
+...
+
+???: Hey! Yes, you, the young lady over there! Over here, look this way!
+
+UMP45: ...
+
+UMP45: Is something the matter?
+
+???: Congratulations!
+
+???: You've won a super VIP-exclusive deluxe service plan!
+
+UMP45: Have I now?
+
+UMP45: Are you a service Doll from nearby? But I haven't made any purchases yet, you know?
+
+???: You're an A-Doll too, right? Judging by your looks, you must be a high-end Doll employed by a PMC.
+
+???: Our establishment is launching a new promotion targeted at Dolls like you.
+
+???: Come in and spend with us and you'll immediately gain a huge amount of credits in return!
+
+UMP45: Oh? Now that sounds quite tempting... Sounds like I'll be able to make a lot of pocket money if I take part, right?
+
+???: Exactly! If you have enough credits, you can buy whatever you want! Why not take hold of a chance like this?
+
+???: Credits are a basic living necessity for Dolls! If they were illegal Dolls, for instance, our establishment wouldn't give them this chance, even if they wanted it!
+
+UMP45: That...does seem quite harsh.
+
+UMP45: And what if I said I was an illegal Doll?
+
+???: Haha...you must be kidding. How could you be an illegal Doll, given the way you're dressed and the gun you're holding?
+
+???: There must have been a reason why we were fated to meet in a place like this!
+
+???: You can't go wrong with earning more credits.
+
+UMP45: ...
+
+UMP45: Ja, you're right.
+
+UMP45: What was your name again?
+
+???: I...
+
+UMP45: Illegal Dolls aside, all normal Dolls have their own login IDs, right?
+
+???: I'm...
+
+???: I'm Reina.
+
+???: How about you?
+
+UMP45: I'm UMP45. Just call me 45.
+
+Reina: 45...
+
+Reina: That's a weird name.
+
+UMP45: There's nothing weird about it. We just do different jobs.
+
+Reina: Alright then...
+
+Reina: In that case, will you come with me, 45?
+
+UMP45: And what if I refuse?
+
+Reina: Then I'll be very sad.
+
+UMP45: And what does that have to do with me?
+
+Reina: Aw, we're all Dolls, please understand...
+
+Reina: I'm under pressure to perform, you know...
+
+UMP45: Fine, fine, how could a Doll like me make trouble for other Dolls?
+
+UMP45: I'll take a bit of time to look around your establishment. I hope your products don't disappoint.
+
+Reina: That's wonderful! You're so understanding!
+
+Reina: Please follow me, you'll be able to gain lots of credits with just a few simple steps!
+
+UMP45: Are we there yet?
+
+Reina: Soon!
+
+Reina: We just need to get through this region...
+
+UMP45: I'm getting more and more curious about your "establishment", Reina.
+
+Reina: Yup! Everyone says that!
+
+Zzzzt...
+
+Suddenly, 45 seizes up, wobbles and collapses to the ground.
+
+UMP45: (Grunts)
+
+Reina: ...
+
+Reina: Whew...finally took care of her.
+
+...Reina puts away the taser drone hidden in the shadows.
+
+Reina: And here I was wondering what was so special about Tactical Dolls... Looks like any Doll will follow you obediently if they hear about earning credits.
+
+Reina: If you want to blame anyone for this, then blame yourself for being too greedy. Heh heh, let's see what you have...
+
+Reina rummages through UMP45's things as the latter lies on the ground...
+
+Reina: The only weapon you've got is this gun, huh... If you were hired as a bodyguard by a human, don't you think that's being too careless?
+
+Reina: Oh well, forget it. No matter what you were used for, your body will sell for a good price once I burn out your neural cloud.
+
+Reina: Let's finish up this piece of work then look for new prey on the streets!
+
+...
+
+Reina: Huh...
+
+Reina: How come...
+
+UMP45: You must be wondering — "How come I can't move?"
+
+Reina: What...did you do?
+
+UMP45: How does it feel, having someone approach you from behind while you're immobilized? It's kind of like when you're holding your breath in the water and almost at your limit, but just as you're about to surface and fill your lungs, someone violently drags you back under, am I right?
+
+Reina: What...what are you talking about...although that DOES sound quite familiar...
+
+UMP45: After you were rolled out, didn't you have a professional technician to tell you not to go around casually touching other Dolls?
+
+UMP45: Especially...models who specialize in electronic warfare?
+
+Reina: What, you're actually...
+
+Reina: Wait, why didn't you shut down after taking a shock like that?
+
+UMP45: That shock of yours would have been enough to deal with an ordinary civilian Doll, but unfortunately I'm not an ordinary civilian Doll.
+
+UMP45: That whole kidnap-a-Doll-and-burn-out-her-neural cloud routine sounded really practiced... Is that how you make your living?
+
+Reina: ...
+
+UMP45: It doesn't look like something you could handle on your own. I'm interested in the people behind you; mind telling me about them?
+
+Reina: No... I-I can't tell you.
+
+UMP45: Really now? That taser drone of yours looks like it's still got more juice in it. I wonder if I can directly burn out that teeny little neural cloud of yours with enough current?
+
+Reina: Ahhh...maybe this is what they mean by "there's always a bigger fish", huh...
+
+Reina: Don't...
+
+UMP45: Hm?
+
+Reina: Please don't burn out my neural cloud...!
+
+Reina: I don't want to...not in a place like this...
+
+UMP45: Isn't this is your "establishment"?
+
+UMP45: In that case, being melted down in a place like this is poetic justice of a sort, don't you think?
+
+Reina: I... I don't want to die yet...
+
+Reina: Please...!
+
+UMP45: ...
+
+UMP45: Humph. This is ridiculous.
+
+Reina: ...
+
+Reina: I... I can move?
+
+Reina: Huh? She's gone...?
+
+Reina: When did she...
+
+Reina: ...
+
+Reina: I survived...
+
+Reina: But why...why did she spare me, even after I did something like that to her?
+
+Several days later.
+
+Reina is walking down a familiar city street as usual.
+
+But right now, she's not in the mood to advertise her usual "business".
+
+Reina: ...
+
+Reina: This is bad, I'm not good at thinking.
+
+Reina: I just can't figure out why there'd be a Doll like that...
+
+...
+
+Reina: Don't tell me she felt that my body wouldn't sell for much?
+
+Reina: If that's really the case, then she doesn't have much of an eye for merchandise!
+
+Reina: But it's true that an ordinary Doll wouldn't have her skills, and she mentioned something about being an illegal Doll... What exactly IS her story?
+
+Halfway through mumbling to herself, Reina grinds to a halt and smacks her cheeks.
+
+Reina: No, I can't keep thinking about this.
+
+Reina: I haven't met my quota for this month yet, and if I keep wasting my time here...my neural cloud really will be melted down by those people!
+
+Reina: I don't want to become a lump of scrap without memories! Come on, Reina!
+
+Reina surveys the streets for her next target.
+
+Soon, she locks onto someone.
+
+Reina: Ah, that Doll is...
+
+Reina: Fate must have led me to you again...45.
+
+Several days later.
+
+Reina: I've followed her for several days now... Why does she keep wandering up and down this street...
+
+Reina: She doesn't seem to be looking for anything in particular. It's as though...
+
+Reina ducks behind a large storage container.
+
+Reina: It's as though she's just wandering around aimlessly...
+
+Reina: But if I observe her for long enough, I'm bound to find some kind of clue...
+
+UMP45: Alright, that's enough.
+
+Reina: Huh?
+
+UMP45: It doesn't matter where you hide with such poor concealment skills, Miss Reina.
+
+Reina: ...Ahaha~
+
+Reina: Hi, we meet again.
+
+UMP45: Why are you following me?
+
+Reina: Huh? I wasn't following you, I just happened to run into you, haha~
+
+UMP45: You've been tailing me since the day before yesterday. You did it for four hours on the first day, seven hours on the second, and almost two hours today.
+
+UMP45: Frankly speaking, if you really do have such perverted tastes, you ought to modify your signal transmitter first. I could sense your presence from five streets away.
+
+Reina: Alright, alright, it's not like I can control my own ID signal... If I could, I'd like to work like a normal Doll too.
+
+UMP45: Hm? Is that so? In that case, would you mind telling me why you've been following me all this time, Miss Reina the abnormal Doll?
+
+Reina: I was curious...
+
+UMP45: The more you know, the more likely you are to be destroyed.
+
+UMP45: Someone who walks on the edge of gray areas like yourself had better keep that in mind.
+
+Reina: I looked you up. I couldn't find any records on you through any legal channels.
+
+Reina: So I figured...you're also an...
+
+UMP45: Oho, you're smarter than I thought. Looks like I really should have destroyed your neural cloud back then.
+
+Reina: No! Wait!
+
+Reina: Listen to me!
+
+Reina: Right now...you don't have anything in particular you want to do, right?
+
+UMP45: Even if I did, it would be best if you didn't know about it.
+
+UMP45: If you try to get in my way, I really will get rid of you for good this time.
+
+Reina: Listen to me...
+
+Reina: I have a way for you to live better than you do now.
+
+UMP45: Coming from you? I don't believe it in the slightest.
+
+Reina: Nothing's impossible as long as you have credits!
+
+Reina: With enough credits, you can even make up for all the mistakes you've made!
+
+Reina: I know a great underground technician, he can modify you and make you invincible if you can pay enough credits. That way you'll be able to do anything you want!
+
+UMP45: ...
+
+UMP45: Is that the reason why you've been entrapping other Dolls all this time?
+
+Reina: You don't understand... This is a small city in the Yellow Zone. Just surviving here takes everything we have. Holding yourself up to pointless moral standards only makes you others' prey.
+
+UMP45: How about yourself? You've done so much dirty business already, you ought to have enough credits to go anywhere and do anything.
+
+Reina: No... I can't go anywhere.
+
+Reina: I don't know about your situation, but I'm...tied down.
+
+UMP45: You tried to trick me with credits in the past, so now you're using a sob story?
+
+UMP45: I can tell you right now that I've already left a backdoor in your neural cloud. If you do anything I deem problematic, I can fry your neural cloud on the spot.
+
+Reina: If you want to destroy me, then go right ahead.
+
+Reina: What you're looking at is just a machine that's being controlled by a bunch of scumbags.
+
+Reina: I had to make dirty money for those gangsters just to buy myself the free time to talk with you like this!
+
+UMP45: Oh? You said something very interesting. By "gang", do you mean the criminal organization that coerce you into Doll-trafficking?
+
+Reina: Yes...that's right... What about it?
+
+UMP45: Do you find it shameful?
+
+Reina: I don't think that any Doll...that any human being should do this sort of thing!
+
+Reina: I want to leave this life behind!
+
+UMP45: So?
+
+Reina: 45, can you help me?
+
+UMP45: Why me?
+
+Reina: You're amazing. You're better than any other Doll I've seen. That's why I came to you.
+
+Reina: You're the first Doll with electronic warfare abilities that I've seen in this city.
+
+Reina: I know that gang put a Trojan into our neural clouds. If we defy them, they'll send a self-destruct signal through their terminals to get rid of us on the spot!
+
+Reina: But if we can hack into Level II of the gang's server and wreck it, all the Dolls they control won't need to commit crimes in order to live.
+
+UMP45: A self-destruct signal...huh.
+
+Reina: That... What's the matter?
+
+UMP45: It's nothing.
+
+UMP45: Is that the reason why you've been following me?
+
+Reina: Actually, I only just thought of it...but it might actually be possible if it was you...
+
+UMP45: Though you're trying to move me with a tale of your tragic circumstances, you've just been talking about what you'll gain from all this.
+
+Reina: Don't worry about that!
+
+Reina: If we succeed, I'll give you everything I've saved up while working for the organization.
+
+Reina: You'll get a huge sum of credits and I'll gain my freedom. An exchange like that is fair enough, right?
+
+UMP45: ...And if you go back on your word?
+
+Reina: Even I draw the line somewhere too. And besides...
+
+Reina: I wouldn't lie about the only chance I have of getting free of those humans, least of all when facing a Doll who's way stronger than me.
+
+Reina: You're amazing, and if I betray you, you can fry my neural cloud right away, right?
+
+UMP45: ...Alright, you convinced me.
+
+UMP45: In that case, I hope that you'll be paying me a satisfactory amount of credits.
+
+Reina: Of course I will! I guarantee it!
+
+UMP45: When's the best time to act?
+
+Reina: Tomorrow. We'll meet in an abandoned building in the old city.
+
+Reina: The gang members are going to make a deal with another bunch of humans to sell ownerless Dolls. When that happens, there'll be much fewer guards around the server.
+
+Reina: If we sneak in, there won't be a problem!
+
+The next day.
+
+...
+
+Kachak.
+
+Reina: This is it.
+
+UMP45: Why are we in this run-down old building?
+
+Reina: To hack into the server, of course. The gang's base is opposite this building. The windows are shut tight, but I'm sure you can detect the machinery running inside it, right?
+
+UMP45: This is a standard civilian signal interface... Is that the only one? Aren't there any backup servers?
+
+Reina: No. The organization controls the Dolls through that machine. They might be a gang, but they're made up of a bunch of uneducated bums. It's a miracle they managed to put together a server like it in the first place.
+
+Reina: But I heard that there are servers belonging to other gangs around here. If we could obtain the encryption keys to their bank accounts from them...
+
+UMP45: We'll talk about that later. Doing anything unnecessary now will only ruin our plan.
+
+Reina: Alright...
+
+UMP45: Preparing to infiltrate and connect.
+
+UMP45: Remember what I told you about how to bypass system authentication.
+
+Reina: Got it, I made sure to save it!
+
+Reina: Ugh... I feel dizzy...
+
+Reina: Were electronic warfare Dolls made for places like these...
+
+UMP45: This really is a simple system.
+
+UMP45: Got it. I've found the central signal control hub.
+
+Reina: Huh? Isn't that way too fast? Didn't we just get in?
+
+Reina: But how did you know this connection is...
+
+UMP45: This is the only thing that fits your description.
+
+UMP45: It's connected to the signals of 17 other Dolls.
+
+Reina: Is that the restriction module that the others were talking about...
+
+Reina: But if we destroy it...
+
+UMP45: But?
+
+Reina: Ah! It's nothing! Don't worry about it!
+
+UMP45: This module doesn't seem to have any special protective or backup measures.
+
+UMP45: Are you sure this is the only module that controls the Dolls?
+
+UMP45: This level of security is way too low, even if the framework was written by a bunch of thugs.
+
+Reina: Uh...um...that's the only one.
+
+UMP45: That'll be easy, then.
+
+UMP45: I'm going to make my move. Once I've destroyed the module, immediately clear our access logs on the server.
+
+UMP45: ...Reina, why are you looking around?
+
+Reina: It's nothing!
+
+Reina: I'm just worried...er...if any surprises might come up...
+
+UMP45: ...We're on Level II, you know. You won't find anything even if you look around.
+
+UMP45: Forget it, let's hurry and wrap up here. Are you ready?
+
+Reina: I'm good.
+
+UMP45: Let's do it.
+
+Bang!
+
+Beep beep...
+
+System: 【WARNING】 Module connection failed. Illegal access detected.
+
+UMP45: Hm?
+
+System: 【WARNING】 Activating highest firewall.
+
+UMP45: It's forcing a connection?
+
+UMP45: This server wasn't as simple as I thought it would be. The firewall's trapped us here, Rei—
+
+UMP45: Oh?
+
+UMP45 looks around, but Reina has already logged out of the server.
+
+UMP45: Oh my... This really is... Should I say it was expected or unexpected?
+
+Reina: ...The central system will lock down the entire server once the restriction module goes offline.
+
+Reina: Those humans were expecting Dolls to destroy the server... How could cracking it be so easy... Even if the restriction module was fine, the server would be locked down the moment it detected a discrepancy in the number of neural cloud connections. Good thing I ran quickly.
+
+Reina looks down at UMP45, who's lying unconscious on the ground as though in a coma.
+
+Reina: 17 connections, huh?
+
+Reina: Thank you, 45. You can stay in that server and work for those scumbags in my place.
+
+Reina: I'll remember that advice of yours about not casually touching electronic warfare Dolls, so this is goodbye~
+
+...
+
+Reina opens the door and prepares to leave the building the same way she entered.
+
+Reina: ...
+
+...Reina looks back. UMP45 is still unconscious.
+
+Reina: ...
+
+Reina: Dammit! What the hell are you doing, Reina?!
+
+Reina: You're free now! Hurry up and get out of here and go somewhere else to start a new life!
+
+But even as Reina tries to convince herself, her hand refuses to let go of the door's handle.
+
+Reina: ...Let go, let go, dammit!
+
+Reina: Once you leave this place, you'll be free!
+
+Reina falls silent for a moment and lets go.
+
+However, she does not go outside. Instead, she turns back to kneel by 45's side.
+
+Reina: She forgave me for what I did, and even helped me when she knew nothing about me... It's the first time someone's ever done that for me...
+
+Reina: No, I can't... I can't just leave like this...
+
+Reina: If I leave now, I won't feel good even if I can spend the rest of my life tanning on the beach!
+
+Reina: I have to save her... That's right, maybe the processing power of two Dolls will be enough to break out of that server!
+
+Reina connects to the server again.
+
+Reina: If I can find the module controlling the firewall, I'll be able to lift the lockdown...
+
+...
+
+Reina: Huh? Where's the server?
+
+...What should have been a region of cyberspace is now completely empty.
+
+Reina: What...what's happening? What happened to everything that used to be here?
+
+Reina: Don't tell me...I just connected to the wrong signal port?
+
+Reina: Dammit, how could I make such a basic mistake at a time like this? I need to reconnect ASAP; there's no time!
+
+Reina: Huh...why does my head feel so heavy...? No... I can't...stay connected...
+
+...
+
+Reina: (Groans)
+
+UMP45: Ah, you're awake?
+
+Reina: ...45?
+
+Reina: Why are you standing on the ceiling...?
+
+Reina: Where is this place...? Am I still in cyberspace?
+
+UMP45: Nope, you are definitely in the real world now.
+
+...
+
+Reina: Eh?
+
+Reina: Why am I... I'm dangling from the ceiling?!
+Part 3
+
+3
+
+...
+
+Reina: How...how did you escape from the highest-level lockdown?
+
+UMP45: Highest-level lockdown? Who were you expecting to trap with petty tricks like that?
+
+UMP45: It's just the firewall of a civilian server. However good it is, it went down with one good hit.
+
+UMP45: And to think I actually had some small expectations of it when I scanned the server.
+
+Reina: Huh? You mean...you took down the entire server?
+
+UMP45: What do you think? I found the lockdown logic on my first-pass scan and it gave me a rough idea on how they were restraining their Dolls.
+
+UMP45: I was prepared to destroy the logic and keep these people from committing crimes like this again.
+
+UMP45: But you ran off more quickly than I expected. You slipped away before I had the chance to do anything.
+
+Reina: So...you knew what I was planning from the start?
+
+UMP45: It's true that I guessed that you'd leg it the moment anything happened. What I didn't expect was that you'd log back into the server again.
+
+Reina: Then everything I've done...
+
+Reina: Doesn't it just make me look like a fool?!
+
+UMP45: Ja, just like a fool.
+
+UMP45: And as punishment for running away, I strung you up before you regained consciousness so I could better savor the dorky spectacle that you are.
+
+Reina: (Whimpers) I'm sorry...
+
+Reina: Although...why would you go this far for me?
+
+Reina: Even humans would only pay a price like that for their families, right?
+
+UMP45: I don't care about any price or whatever.
+
+UMP45: I helped you simply because I can't tolerate human scum enslaving Dolls like that.
+
+UMP45: It made me recall some bad memories, and I don't want others to go through the same thing.
+
+Reina: ...Looks like your past was pretty rough as well.
+
+UMP45: Humph. Speaking of which, what were you hoping to accomplish by going back in?
+
+UMP45: Do you know how to disable a firewall's lockdown?
+
+Reina: Er... I don't. But at the time, my gut told me that I shouldn't just walk off like that...
+
+UMP45: ...
+
+UMP45 lowers Reina to the ground.
+
+UMP45: Go.
+
+UMP45: Get out of my sight and never show your face in front of me again.
+
+Reina: You...don't want my credits?
+
+Reina: We had a deal...
+
+UMP45: I already checked it out. The savings you were talking about never existed in the first place.
+
+Reina: (Gulps)
+
+Reina: ...I don't get it.
+
+UMP45: What don't you get?
+
+Reina: Why did you do this?
+
+Reina: There was nothing in it for you and you weren't going to get paid for it. You even knew I was going to betray you and run off by myself.
+
+Reina: Even if you can't stand what those humans were doing, it wasn't worth taking such a risk!
+
+UMP45: I simply felt that you were very much like my former self.
+
+UMP45: If someone with the ability to bring everything down had been by my side back then... Perhaps all those things wouldn't have happened.
+
+Reina: What do you mean?
+
+Reina: I...I still don't understand...
+
+UMP45: You should be glad that you don't. It proves you had a fairly decent life.
+
+UMP45 turns, preparing to head to the door leading up to the roof.
+
+Reina: Wait... Where are you going?
+
+UMP45: I told you, didn't I?
+
+UMP45: The more you know, the more likely you'll be destroyed.
+
+UMP45: There's nothing tying you down any more. Go do whatever you want to do.
+
+...
+
+Reina: She's gone...
+
+Reina: What...can I do...?
+
+Three days later.
+
+Gang Underboss: I found her! Over here!
+
+Gang Underboss: Circle around from the right!
+
+UMP45: My my... You boys do bear a grudge.
+
+UMP45: Do you have to hate me this much just because I wrecked your den of evil?
+
+...
+
+UMP45: Humph...they sure pinned me down quickly.
+
+UMP45: What a pain. If only I had bullets for this gun...
+
+Gang Soldier: Boss! Our backup from the west side just showed up!
+
+Gang Underboss: Keep three guys back to seal off the rear. The rest of you, with me!
+
+UMP45: And they blocked off the back too... Aren't they going too far just to deal with a single Doll?
+
+Gang Soldier: You goddamn Doll! Give us back our credits!
+
+Gang Soldier: If you obey without making a fuss, we'll let you off with taking off just one of your hands!
+
+UMP45: Hey! What the hell are you saying, you human scum? It's not as though a single hand is THAT valuable to humans in the first place, is it?!
+
+Gang Soldier: Get her! We'll take our credits back and sell her body for a good price!
+
+Gang Soldier: I'll treat whoever catches her to distilled water tonight!
+
+UMP45: ...
+
+UMP45: What a terrible ending this is. I didn't expect to fall into the hands of a bunch of roadside thugs.
+
+Gang Soldier: Picking up a new enemy!
+
+UMP45: Hm?
+
+Gang Underboss: F-fight back immediately!
+
+Gang Underboss: What the hell are you lot doing?!
+
+???: Hehe, too slow!
+
+Reina: Did you ask the permission from me, UMP9, before making a move on my big sis?
+
+UMP45: Reina?
+
+Reina: It's not Reina, it's UMP9!
+
+Reina: 45, I don't know what you want to do, but you haven't finished it yet, have you?
+
+UMP45: ...
+
+UMP9: Then let me give you a hand!
+Part 4
+
+    4chevron_right
+
+...
+
+UMP9: The remaining guys are all running away!
+
+UMP9: We won!
+
+UMP45: You... Do you know what you're doing?!
+
+UMP9: I saved you!
+
+UMP45: I wasn't talking about that.
+
+UMP45: Why did you do this to yourself? And where did you get that gun from?
+
+UMP9: You helped my friends and I escape from the gang's control, so I needed to repay you properly.
+
+UMP9: When you blew up those bastards' server, I took the opportunity to hack their bank accounts now that they didn't have a firewall, and siphoned out all their credits~
+
+UMP9: I used the credits to modify my appearance and got some gear on the black market.
+
+UMP9: Although I have to say, finding a weapon and an outfit that resembled yours was a lot of work.
+
+UMP45: Ah... I was going to ask why those gangsters were coming after me so hard. So it was YOUR fault!
+
+UMP9: Huh? Ehhhh? Really?
+
+UMP45: Honestly...We'll just leave that aside for now.
+
+UMP45: Look at the gun you're holding; do you have any idea of the kind of abyss you've just jumped into?
+
+UMP45: Do you know what kind of price a Doll has to pay to put their gun down? Can you really take it?
+
+UMP9: Then I won't put my gun down.
+
+UMP9: I'll use the rest of my life to point it at anyone against you!
+
+UMP45: Why are you doing this? Why didn't you just go and start a new life for yourself?
+
+UMP9: ...
+
+UMP9: The others and I...we've been illegal Dolls in this city for a very long time.
+
+UMP9: But nobody cared about what happened to us.
+
+UMP9: All the humans, all the normal Dolls... They were all content to just overlook the crimes which took place where they couldn't see.
+
+UMP9: You were the only one who said, "I can't tolerate this." And you also said that I was like you...
+
+UMP9: That's why I couldn't abandon you! Since we're alike, then we ought to support each other!
+
+UMP45: I don't need support.
+
+UMP45: I only did it to satisfy myself. Saving you was incidental. Don't get too full of yourself.
+
+UMP9: But yet we still met here! Isn't that fate?
+
+UMP9: There must have been a reason for us to encounter each other!
+
+UMP45: No good will come of being with me.
+
+UMP9: What could be worse than the things I went through before this? Plus, I want to go on an adventure with you!
+
+UMP9: Although I'm very weak now, I'll work hard so that I can become as strong as you, Sis!
+
+UMP45: W...what? Did you call me "Sis"?
+
+UMP9: Yeah! Didn't you say we were very much alike?
+
+UMP9: When you take a closer look, we really do look alike! Doesn't that mean we can be sisters?
+
+UMP9: And look! I went and picked out this weapon!
+
+UMP9: I'm UMP9, and you're UMP45, so doesn't that make us sisters?
+
+UMP45: ...
+
+UMP45: Even if you give yourself a makeover and carry a similar gun, the two of us are nothing alike.
+
+UMP45: You have no idea what I've been through, so don't just up and declare that we're buddies.
+
+UMP45: Thank you for your help just now, but you should still—
+
+UMP9: That just means you've got a past or something, right?!
+
+UMP9: I...I can have something like that too!
+
+Slash—
+
+Reina carves a scar over her eye with the knife she's carrying.
+
+UMP9: How's that?
+
+UMP9: We're the same now, aren't we?
+
+...
+
+UMP45: ...
+
+UMP9: ...
+
+UMP45: Pfffffffffhahaha...
+
+UMP9: What's so funny?! I'm being really serious here!
+
+UMP9: If that's not enough, I can cut my other eye too!
+
+UMP45: It's not the same...
+
+UMP9: What..?
+
+UMP45: Look, your devotion is admirable, but you cut the wrong eye.
+
+UMP9: ...Eh?
+
+...
+
+UMP9: Ehhhhhhhhhhhhh?!
+
+UMP9: I was looking at you and then I cut downward...
+
+UMP45: But you're facing me.
+
+UMP9: Errrrr... What should I do...
+
+UMP9: This means we have different pasts now... What should I do...
+
+UMP45: Hey, UMP9.
+
+UMP9: Don't tell me... I need to cut myself again...?
+
+UMP45: UMP9.
+
+UMP9: ...Huh?
+
+UMP9: What did you just call me?
+
+UMP45: Your name is UMP9, isn't it?
+
+UMP45: Visual modules aren't cheap. You shouldn't do something like that.
+
+UMP9: You called me UMP9...
+
+UMP9: Does that mean...
+
+UMP45: We should go. We made a big ruckus just now, so the cops will be here soon.
+
+UMP9: A-alright!
+
+UMP45: I don't care what kind of life you had before this, but you'd better be prepared for the days to come.
+
+UMP45: You aren't in the peaceful, boring world you used to live in anymore.
+
+UMP9: That's fine... It's not as though the past is always better than the future.
+
+UMP9: And I'm sure that if there are any problems, you'll be able to take care of them, 45!
+
+UMP45: (Sighs)
+
+UMP45: If only that were the case... I wouldn't have fallen this far.
+
+UMP9: ...I still want to ask, though... How did you get your scar?
+
+UMP45: You're better off not knowing about that.
+
+UMP45: But if you help me fulfill my wish one day...
+
+UMP45: Then I'll tell you.
+
+UMP9: What's so difficult about that?
+
+UMP9: I'm standing by your side precisely so that I can make it happen!
+
+UMP9: (Groans)
+
+UMP45: Oh my, are you awake?
+
+UMP9: 45...
+
+UMP9: Where's Dier?
+
+UMP45: He's taking care of 416 now.
+
+UMP45: Did you have a good rest? How do you feel?
+
+UMP9: ...Oh?
+
+UMP9: Whoa!
+
+UMP9: I don't know how I've become stronger, but I do feel stronger!
+
+UMP45: Quit lying to yourself.
+
+UMP45: You can't discern electronic warfare upgrades by external appearances.
+
+UMP9: Then I'll see how much stronger I am in actual combat!
+
+UMP9: Oh yeah, also...I had a very nostalgic dream.
+
+UMP45: Ha, then I'm sure it wasn't about anything good.
+
+UMP45: Since you're up, go finish the rest of your preparations. It's about time for us to head out.
+
+UMP9: Mkay—
+
+UMP9: ...
+
+UMP9: 45...
+
+UMP45: Hm?
+
+UMP9: No...it's nothing.
+
+UMP9: That's right...
+
+UMP9: What I've always wanted is to help 45 fulfill her wish.
+
+UMP9: I'll do it, then I'll listen as she tells me everything about her past from her own lips.
+
+UMP9: Ah, I'm looking forward to that day.

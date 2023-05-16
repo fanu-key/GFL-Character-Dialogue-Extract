@@ -1,0 +1,759 @@
+Dolls' dormitory, Griffin base.
+
+Gr HK45: The rehearsal yesterday went very well!
+
+Gr HK45: I've completely delivered on what I'm currently capable of, both in terms of the dance sequence and the singing. I'm confident that the performance will be completely flawless in three days!
+
+C96: This rehearsal went on longer than usual. Is there going to be some kind of important event?
+
+Gr HK45: Well, important events aren't the only reason for a happy dance.
+
+C96: You're right! Uh, I've recorded the whole thing. Remember our agreement, okay?
+
+Gr HK45: Sure thing!
+
+C96: Hm, good. This recording was filmed with multiple Dummies from different angles! High five!
+
+Gr HK45: Five~!
+
+Gr HK45: Don't worry, your new performance costume is going to be very breezy. Wear it on the early summer ball and you'll definitely set the whole place on fire! Everyone will be pumped to dance through the night!
+
+C96: My new costume! What does it look like?
+
+Gr HK45: A great surprise can't be revealed ahead of time. You'll find out on the day of the performance!
+
+C96: I have to wait that long? That's mean! You said good friends are meant to share the good stuff!
+
+Gr HK45: I want the surprise to be the absolute best precisely because we're good friends!
+
+C96: No, tell me now!
+
+Gr HK45: Don't jump me! Hahaha...
+
+Gr HK45: Cut it out already, I won't tell you!
+
+As the two Dolls are play-fighting, the door is suddenly opened.
+
+Kalina: Is C96 here?
+
+C96: Oh, Miss Kalin, I'm here!
+
+C96: Hm...I just accidentally locked my joint. I'll be right there!
+
+Gr HK45: You locked your joint just to pin me down? Now I know I'm cute, but don't get any weird ideas!
+
+Kalina: Oh, I seem to have come at a bad time.
+
+Kalina: I need to talk to you about a certain matter. Could you come to the café in a minute?
+
+C96: Sure, I'll be there soon!
+
+A few minutes later, at the café.
+
+C96: Sorry to have kept you waiting, Miss Kalin! Am I getting a special assignment? I'm ready to set off anytime!
+
+Kalina: Two glasses of mix juice, please.
+
+Kalina: ...Ah, there you are. Well, it's nothing special...
+
+Kalina: I'll get straight to the point, C96. Why did you turn down the neural upgrade?
+
+C96: Neural upgrade? ...You mean the application form you gave me last night?
+
+Kalina: Yes. With your service record, you're more than qualified for an upgrade, but since you never came forward with a request, I filled in the form for you.
+
+Kalina: Yet you rejected it... May I ask why?
+
+C96: ...
+
+Kalina: You're usually very enthusiastic and proactive with this sort of thing, so what's the problem?
+
+C96: Hm... You ask why I rejected the neural upgrade?
+
+C96: Well, if I have to explain it... The thing is, I can't, Miss Kalin.
+
+C96: I don't understand it myself! I suppose if I must give a reason... I feel perfectly fine the way I am!
+
+Kalina: Perfectly fine the way you are?
+
+C96: Yeah, that's it!
+
+C96: Thank you for the juice, Miss Kalin! I have to go!
+
+Kalina: Wait, where are you going?
+
+C96: I need to leave the base on an errand – I have the Commander's permission... So see you!
+
+Kalina: C96, hold on! Hey!
+
+C96 has already run off in a flash.
+
+???: Commander? Commander, you fell asleep at your desk again?
+
+Kalina: Sheesh, Commander! I told you not to sleep at your desk. If you don't want to make the trip back to your dorm, there's a bed right here.
+
+Commander: ...
+
+Commander:
+If choice 1 was picked
+
+Kalina: Oh c'mon, Commander! We've known each other for ages now, so don't give me any of that...
+If choice 2 was picked
+
+Kalina: Well, you don't have to apologize. But you should really take better care of yourself.
+
+Kalina: I do what I can to take care of you, but I can't be with you 24/7.
+
+Kalina: If you keep doing this to yourself, I'll have to ask your adjutant to pester you!
+
+Commander: Alright, I promise I'll take better care of myself.
+
+Kalina: That's better!
+
+Kalina: Right, I need to ask you something. C96 said you gave her permission to leave the base. Is she on a solo mission?
+
+Commander: No, she filed a request to...
+
+Gr HK45: Commander, you there?
+
+Gr HK45: Can I come in?
+
+Commander: I'm here. What's the matter?
+
+Gr HK45: Well...something happened when the convoy was on their way back to the base.
+
+Gr HK45: C96, stop hiding behind me. Come forward and tell the Commander, okay?
+
+Gr HK45: C96?
+
+C96 only shuffles out from behind Gr HK45 at the latter's repeated insistence.
+
+She seems extremely morose. She grips Gr HK45 tightly by the corner of her sleeve, and her eyes look flat and dull.
+
+C96: ...Commander, I ran into my former master.
+
+Commander: Former?
+
+Gr HK45: That was your former master?
+
+Gr HK45: No way, you mean the scraggy guy who looked as if the Commander had spent 10 days on the frontlines?
+
+Commander: Hey, that's a bit... Ahem, never mind.
+
+Commander: Tell me more about what happened, C96.
+
+C96: He said...I was his last hope.
+
+C96: He got kicked out and he needs my help.
+
+C96: I'm the only one who can help him, so I must.
+
+Commander: Do you want to help him?
+
+C96: I...
+
+C96: I've been doing very well at Griffin. I never thought things would go so badly for him...
+
+C96: If it's possible, Commander, I would very much like to help him.
+
+C96: I'm really the only one who can help, and I have no reason to refuse him, do I?
+
+Commander: Do you even know what exactly he needs help with?
+
+C96: I don't...
+
+Commander: And you still agreed to help?
+
+C96: I...I couldn't turn him down. I just couldn't!
+
+C96: Please, Commander! Please grant me a leave of absence!
+
+Commander: If you're sure that's what you want, I will.
+
+Commander: But if he ever asks you to do anything dangerous, leave him and come back right away.
+
+C96: Understood.
+
+C96 does not smile even though the Commander has granted her request. She simply nods and stumbles absentmindedly out of the room
+
+Gr HK45 eyes C96 as she disappears down the hallway. After a brief pause, she also excuses herself.
+
+Gr HK45: I'll visit you again later, Commander... I'd better go now.
+
+Kalina: So that's it? C96 is going to help her former master?
+
+Kalina: Jeez. She's a Griffin Doll, you know? I'm surprised you're allowing this. What if she gets abducted?
+
+Commander: I'm sure she won't let that happen.
+
+Kalina: Say— Well, I suppose the Dolls all love and respect you precisely because you're so kind.
+
+Gr HK45: Sorry to intrude again, Commander!
+
+Gr HK45: Are you talking to Miss Kalina?
+
+Gr HK45: If I'm interrupting an important conversation, I'll wait outside first!
+
+Kalina: It's nothing important.
+
+Kalina: Aren't you supposed to be preparing for an event? Is something the matter?
+
+Gr HK45: I just saw C96 leave the base in a hurry... She has your permission, right?!
+
+Gr HK45: How much do you know about her former master, Commander?
+Part 2
+
+2
+
+In the Griffin command room.
+
+Gr HK45: How much do you know about her former master, Commander?
+
+Commander: ...
+
+Commander:
+If choice 1 was picked
+
+Kalina: You even know about that? Shouldn't have expected anything less from you, Commander.
+If choice 2 was picked
+
+Kalina: Really? Well, who can blame you...
+
+Gr HK45: I'm also completely clueless about the whole thing.
+
+Gr HK45: ...What kind of friend does that make me?
+
+Gr HK45: I was so determined to organize this grand performance, yet I don't even know what my assistant has been through...
+
+Kalina: Don't beat yourself up, Gr HK45! C96's past isn't exactly a secret, so I'll tell you what I know.
+
+Kalina: Apparently, it was Miss Helian who brought C96 to Griffin.
+
+Gr HK45: Miss Helian?! The beautiful and level-headed woman who nobody dares chat up – that Miss Helian?!
+
+Kalina: I wonder what she would think about such a description... Haha.
+
+Kalina: Yes, that Miss Helian. She brought C96 to Griffin.
+
+Kalina: Back then, a group of mercenaries had just disbanded. It was a really big deal as they put a lot of things up for auction - even firearms and weaponry, and C96 was among the auctioned items.
+
+Kalina: From what I know, her original owner only bought her because of a bet with his friend. She spent most of her time doing chores for the corps and was sometimes sent as bait to hoodwink their enemies.
+
+Gr HK45: Hoodwink their enemies?
+
+Gr HK45: Oh, I think I heard that guy call C96 “Red 9”.
+
+Kalina: I don't really know the specifics, but they probably dressed her up like a harmless little girl to make their enemies lower their guard while they attacked from behind.
+
+Kalina: I heard she also had field experience since she was ordered to fill in as one of their mercs... That's probably what convinced Miss Helian to bid for her and bring her to Griffin.
+
+Kalina: Red 9 could be her designation when she was with the mercenaries.
+
+Gr HK45: So unlike us regular employees, she was basically sold to Griffin... Is that what you mean?
+
+Kalina: More or less... But she's treated no differently than the rest of you, she gets a salary as well as holidays.
+
+Gr HK45: So why would that guy come looking for her? Don't tell me...
+
+Gr HK45: ...He wants her to help get him a job?!
+
+Kalina: Ugh... I have a bad feeling about this...
+
+Commander: So do I.
+
+Kalina: He couldn't care less back when he sold her off, but now he came crawling back, begging for her help. He sounds like one of those horrible ex-boyfriends in web novels that used to be really popular.
+
+Gr HK45: Then...will he force C96 to do something bad?! What if he orders her to sell her body for money...?
+
+Gr HK45: Oh no! I can't focus on anything when I think about what she could be going through...
+
+Gr HK45: What should we do, Commander?!!!
+
+Kalina: I doubt he'd go that far. Surely he knows there will be consequences if he makes off with one of our employees?
+
+Kalina: Though this does sound like a problem, Commander. What do you think?
+
+Commander: ...
+
+In the busy downtown.
+
+C96: Ugh...it's so stuffy here in the city. It's really crowded... I want to take off my jacket. Um, how should I address you, sir? Do you still go by “Toad”...?
+
+Toad?: Don't call me by that disgusting name! I'm not who I used to be! Call me Gold Toad!
+
+Toad?: Yep, that makes me sound richer.
+
+C96: Gold Toad? Yes, Mr. Gold Toad.
+
+Gold Toad: Damn it all... Why are there cameras everywhere in the city these days?
+
+Gold Toad: Hey, Red 9, keep your damn jacket on.
+
+C96: But it's hot...
+
+Gold Toad: I can't have you drawing attention to us. I want this hustle to go smoothly...
+
+Gold Toad: Hey, you can locate all the cameras, can't you?
+
+C96: Yes, sir... Uh, why are you looking for the cameras?
+
+C96: And what do you mean, hus...
+
+Gold Toad: Stop asking stupid questions. You're a Doll, so just do your job.
+
+C96: I can ask all the questions I want at Griffin! They also let me take off my jacket when it's hot.
+
+Gold Toad: Oh, you seem to be doing pretty well over there. Not my business. Finish this job for me and you can go back, so stop complaining.
+
+C96: Griffin is a really nice place! I love working there, and the Commander is really nice.
+
+C96: They have some openings at the moment, so why don't you send in a job application?
+
+Gold Toad: Who'd want to work in a company with so many rules?! Shut up already. Are there any camera blind spots in this area?
+
+C96: Why do you want to know? Those places are dangerous...
+
+Gold Toad: Are you asking for a beating?
+
+C96: No! I found a few potential blind spots.
+
+Gold Toad: That's better. Here's a digital map. Point them out for me.
+
+C96: Um... Here, here, and here.
+
+Gold Toad: This street corner looks decent. That's where we're going.
+
+Gold Toad: Hey, still remember what I taught you about fishing?
+
+C96: I do... What are you planning to do?
+
+Gold Toad: I'll pick a target. You'll go and ask them for help, then draw them to me.
+
+C96: Okay. What next?
+
+Gold Toad: Then I'll knock them out, of course.
+
+C96: Knock them out, right. Then...?
+
+C96: Wait, knock them out?!
+
+Gold Toad: Yep, knock them out and take everything valuable on them. Then I'll give their family a call and make them spit out a large sum!
+
+C96: That's mugging and blackmail! Is this what you need my help for?
+
+Gold Toad: Duh, this is the simplest and quickest way of netting in good money. One hustle can last me for months.
+
+C96: But...but that's illegal!
+
+Gold Toad: Oh, Red 9. You didn't think I'd ask you to help me with escorting goods or that kind of nonsense, did ya?
+
+Gold Toad: Now do as you're told, or I'll shut you down right now and just dump you in the trash!
+
+C96: No... Even if you threaten me, I won't...
+
+C96: I am officially employed. If I get a record of harming innocent humans...
+
+Gold Toad: What the hell are you talking about?
+
+Gold Toad: Griffin? Ha, I've heard all about Griffin & Kryuger. They've made all kinds of shady deals, and who knows how many deaths your lovely Commander is responsible for.
+
+Gold Toad: You say you've never attacked a human while you're working for them?
+
+C96: Never, never, never! Not even once!
+
+Gold Toad: Keep your voice down.
+
+Gold Toad: Then this Commander must be quite good at keeping up appearances. I've heard that name before from the black market dealers.
+
+Gold Toad: Sending Dolls to stir shit up for no freaking reason, and doing that without you knowing?
+
+C96: The Commander is a good person! I won't let you slander the Commander!
+
+Gold Toad: I'm not buying it. Now just do your part. You wouldn't have gotten such a great job if it weren't for me!
+
+C96: No...I can't...
+
+But even as C96 refuses verbally, her head tips in a rigid nod.
+
+C96: Oh no...
+
+Gold Toad: I'm human. You can't disobey me, can you?
+
+C96: The Commander said I mustn't do anything dangerous...
+
+Gold Toad: This isn't dangerous. We're just making ourselves some money; it's no different than begging on the streets.
+
+Gold Toad: C'mon, don't look at me like that.
+
+Gold Toad: I promise, it'll be just this once. I won't kill nobody; I just need some of their money.
+
+Gold Toad: After that, I'll take that cash and live out my days in another country. No one will know your part in this.
+
+C96: I...
+
+Gold Toad: Do it!
+
+C96: ...Yes, sir!
+
+Gold Toad: Tsk, what a pain in the ass. This could have saved me a lot of breath.
+
+Gold Toad: Hm...we're going after that woman. The redhead.
+
+C96: C96 follows where Gold Toad is pointing and looks towards the main street.
+
+C96: A woman...with red hair...
+
+C96: What?!
+
+Gold Toad: Now go!
+
+Shoved roughly in the back, C96 stumbles unsteadily out of the alleyway and falls at the target's feet.
+
+???: Oh dear! What a cute little girl.
+
+???: Are you alright?
+
+C96: I'm fine... You...
+
+The lavishly dressed woman gives C96 a smile and pulls her up to her feet.
+
+???: Me? I'm just a dancer who happens to be passing by.
+Part 3
+
+3
+
+Passing Dancer: You okay there, sweetheart?
+
+C96: Uh... Oh, yeah... Thank you.
+
+C96: C-could you...come with me for a second?
+
+Passing Dancer: For what? It looks pretty dark in there. You'd better not kidnap me just because I'm cute.
+
+C96: Uh...um...
+
+Passing Dancer: You poor thing, you look distraught! Alright, I'll come with you.
+
+Passing Dancer: Did you lose something or...
+
+C96: ...
+
+Passing Dancer: ...What's the meaning of this?
+
+Gold Toad: Listen here, pretty one. You seem all pampered and delicate, I bet you won't like being treated roughly.
+
+Gold Toad: So just hand over your money and your phone.
+
+Passing Dancer: I'm on my way to a performance, so the most valuable item here is myself.
+
+Passing Dancer: If you want money, you'll have to talk to my agent.
+
+Gold Toad: You have their number on your phone?
+
+Gold Toad: ...Where's your phone? Hand it over.
+
+Passing Dancer: I never bring my phone with me to a performance in case of any information leak.
+
+Passing Dancer: But I remember the number. I'll tell you and you can call my agent.
+
+The dancer recites a string of numbers.
+
+Gold Toad: You taking me for a fool? If I call this number, I'll soon find myself sipping tea at the police station.
+
+Gold Toad: What's with my rotten luck...
+
+Gold Toad: Red 9! Lock her up in the house back there and keep her quiet. Let me see what I can do with this phone number...
+
+C96: You said you wouldn't hurt her!
+
+Gold Toad: Am I hurting her? I'm just telling you to move her somewhere else. If anything happens to her, it's your fault.
+
+C96: B...but...this just isn't right! (Sobs) What should I do, Commander...?
+
+Passing Dancer: Ack! It's so dusty in here. My costume is getting all dirty.
+
+C96: What are you doing here, Gr HK45?
+
+Passing Dancer: Hm? Who's Gr HK45? I'm just a cute dancer who loves dancing.
+
+C96: You ARE Gr HK45! This is the breezy costume you were telling me about, isn't it?!
+
+Passing Dancer: Does it matter? Just think of this as a brilliant performance, and I'm a cute dancer who happens to be passing by.
+
+C96: Um... Alright then, “dancer who happens to be passing by” Gr HK45.
+
+Gr HK45: Call me what you like. Idols exist to satisfy people's fantasies.
+
+Gr HK45: That man out there is obviously a scoundrel. What are you doing with that kind of human trash?
+
+C96: I...I can't disobey his orders.
+
+C96: He's human, and I'm a Doll... Dolls are meant to serve humans, right?
+
+C96: We fight Sangvis Ferri because their Dolls don't obey and even attack humans.
+
+Gr HK45: But some humans do illegal things even in human society, don't they?
+
+C96: True... He's always been like this.
+
+Gr HK45: He doesn't dance. He only knows how to bully people and Dolls into doing his bidding... He even sold you once.
+
+C96: I just don't understand...
+
+Gr HK45: What don't you understand?
+
+C96: It is a Doll's duty to obey and serve humans.
+
+C96: The Commander is an unusually kind person who makes life better for Dolls. Miss Kalin is the same. She even took the time to put together a neural upgrade proposal for me.
+
+C96: Also, nobody at Griffin tells me to shut up.
+
+Gr HK45: Yeah, the Commander really is super nice.
+
+Gr HK45: They dance with me and do a brilliant job of directing us in battle...
+
+Gr HK45: Wait, Kalina, don't shove... Speaking of which, Miss Kalina said you turned down the neural upgrade?
+
+C96: It would be wrong for me to accept it... I already had a bad feeling even before I came to meet Gold Toad.
+
+C96: Until I joined Griffin, I never thought I'd ever have such a happy life.
+
+C96: I have friends, a fantastic Commander, a good salary, and even holidays.
+
+C96: I couldn't waste Griffin's resources when I knew I would probably never return...
+
+Gr HK45: Then why are you helping this guy?
+
+C96: Because he is also human... I just don't understand... I didn't even know humans can be so different from one another.
+
+C96: I should help him the way I help the Commander, but I don't want to.
+
+Gr HK45: We can't resist orders given by humans because we are made to serve.
+
+Gr HK45: Just like we can't do anything about the weather on the day of a performance.
+
+C96: I don't think the Commander will ever forgive me.
+
+C96: I asked for a leave of absence to assist Gold Toad in mugging innocent people, now I've abducted you, and you'll probably miss your performance.
+
+Gr HK45: Right, that's exactly right. Griffin can't ignore what happened... We are a security contractor, after all.
+
+C96: If I submit myself to a memory wipe, can we pretend none of this ever happened...?
+
+Gr HK45: C96!
+
+C96: Uh, yes?!
+
+Gr HK45: Question time! What should you do if you trip and twist your ankle during a rehearsal?
+
+C96: Wrap up the ankle and continue with the rehearsal!
+
+Gr HK45: What if an erroneous command has been issued?
+
+C96: Uh...uh... What should I do then?
+
+Gr HK45: You try to correct it.
+
+C96: But I can't defy him...
+
+Gr HK45: His order was to move me into this house, right? You've already completed this task.
+
+C96: Yes, I have.
+
+Gr HK45: You cannot disobey orders given by a human, but right now, you are on standby mode, with no pending orders.
+
+Gr HK45: I would like you to do something for me.
+
+C96: Name it and I'll do it!
+
+Gr HK45: Could you please fetch that man for me? Gold Toad, I believe? Tell him to come in.
+
+C96: Uh...
+
+Gr HK45: I'm not countermanding any orders, am I? Of course, I'm just a Doll like you, so you can always refuse.
+
+Gr HK45: Are you going to refuse?
+
+C96: (I've never seen Gr HK45 like this... She's almost like the Commander.)
+
+C96: No, I'm not! I don't want to!
+
+Gr HK45: Then if you'd please.
+
+The corner of the alleyway is as dark as ever.
+
+Gold Toad: What a pain. Maybe I should just sell her. That might actually be safer.
+
+C96: Mr. Gold Toad, there's a bit of a problem...
+
+C96: I'm not sure what to do. I think you should take a look yourself.
+
+Gold Toad: What problem now? Women are nothing but trouble – be them human or Doll...
+
+Gold Toad keeps mouthing off as he heads into the warehouse.
+
+Weepy Female Voice: Ow...ow ow ow... I think I twisted my ankle...
+
+Gold Toad: Huh? Is this why you asked me to come here?! You're a freaking piece of junk, Red 9!
+
+Gold Toad: Lemme tell you, you little...
+
+Gr HK45: A round of applause as the performance begins!
+
+Gold Toad: The hell?! Hey... Whoa!! ...You bitch!
+
+Gr HK45: Of course, I can't hurt humans either, but this hardly counts, right?
+
+Gr HK45: Here, C96. Stuff this into his mouth.
+
+Gold Toad: (Gargles)
+
+C96: (Pants heavily)
+
+C96: We did it... Unbelievable...
+
+Gr HK45: Well? What do you think about this surprise?
+
+Gr HK45: Call the police! Time for us to withdraw.
+
+C96: ...Okay!
+Part 4
+
+    4chevron_right
+
+Three hours later, back in the Griffin command room.
+
+Kalina: Welcome back, C96!
+
+Kalina: ...What are you looking for?
+
+C96: Huh?! How can you be here, Gr HK45?!
+
+Gr HK45: I've been preparing for the show the whole time.
+
+Gr HK45: Why are you all flustered, C96? Did that guy try to mess with you?
+
+C96: No, this can't be right! You were just helping me! You even had the costume on!
+
+Gr HK45: I've been here the whole time. Ask the Commander if you don't believe me.
+
+Kalina: I can also vouch for that. She hasn't left this room even once. Why do you ask?
+
+C96: Then...the woman who helped me back then really wasn't Gr HK45?
+
+Kalina: What are you talking about, C96?
+
+Kalina: Have you finished your business with your former master?
+
+C96: C96 reporting back for duty! I have!
+
+C96: I sent him to where he belongs!
+
+Kalina: That's great! Then you'll be able to work for us in peace, right?
+
+C96: Affirmative! From now on, I am just C96, nothing more, nothing less!
+
+Kalina: Then to continue our previous conversation – why did you reject the neural upgrade proposal?
+
+C96: Why...why on earth did I do that?
+
+C96: I think...I have no reason to do that at all...
+
+C96: Can I still accept it, Miss Kalin?! I want to become stronger – more like...
+
+Kalina: Like...?
+
+C96: More like the dancer who happened to be passing by!
+
+Kalina: Who?
+
+Kalina: ...Goodness. You'd better be more specific.
+
+Kalina: Good thing I haven't submitted this batch of requests yet. Take this and make your amendments.
+
+C96: Got it!
+
+C96 rushes out of the command room.
+
+Now that she's gone, the trio in the command room exchange a knowing grin with one another.
+
+Kalina: Well, that's problem solved. Commander, you sure did put on a brilliant show!
+
+Commander: And hats off to you too.
+
+Soon afterward, C96 submitted a detailed report on the incident, and Griffin technicians have started to think about how to solve the issue regarding the command prioritization of our Dolls.
+
+Several days later, in the Griffin base.
+
+Commander: Good afternoon, C96.
+
+C96: Oh, Commander! Good afternoon!
+
+Commander: You look great in that outfit.
+
+C96: Heheh... Gr HK45 altered my old uniform and gave it to me before I went through the procedure. It looks awesome so I've been wearing it all the time~
+
+C96: I don't know why, but it feels like we haven't met in ages!
+
+Commander: That's because you've been going on mission after mission without a break.
+
+C96: I feel...empty the moment I stop, so I just want to keeping working.
+
+Commander: Are you still bothered by what happened?
+
+C96: I assisted a human in crime. The attempt wasn't successful, but it was a mistake nonetheless. I have to work hard to make amends!
+
+Commander: It's good that you're so driven. Still, Gr HK45's ball is tonight. Are you sure you want to apply for yet another mission?
+
+C96: Oh...!
+
+My questions seems to have hit her where it hurts. C96's face falls, and she shakes her head.
+
+C96: No...I'll stay.
+
+Commander: Then I'll see you this evening.
+
+C96: Wait, Commander, there's something I'd like to ask you!
+
+C96: Um...about the dancer in the city! Was she really not Gr HK45?
+
+Commander: Well...
+
+Commander:
+If choice 1 was picked
+
+C96: Commander, give me a straight answer!
+If choice 2 was picked
+
+C96: Tell me, tell me, tell me!
+If choice 3 was picked
+
+C96: Commander! Stop pretending you can't hear me! I'll just keep asking!
+
+Commander: I really don't know. I wasn't there on the scene.
+
+Commander: I'm just an ordinary human, not a clairvoyant.
+
+C96: Was I just imagining things then...? Eh, never mind.
+
+C96: I'd better go and help Gr HK45 prepare for the show...
+
+C96: Bye, Commander!
+
+Doll Dummies can be remotely controlled by humans, though nobody would do that normally.
+
+C96 should know about that, right? But the thought doesn't seem to have occurred to her at all.
+
+As I watch C96 run off to the dormitory, I decide it's probably best if I don't tell her.
+
+...
+
+That evening, the ball that Gr HK45 had meticulously planned went ahead smoothly.
+
+C96 and Gr HK45, in their matching outfits, danced through the night.
+
+Though it didn't last too long, the Dolls got to put on pretty outfits and had a great time...
+
+It would've been even better if they hadn't all invited me to dance at the same time. Being caught in a tug of war among Dolls really wasn't pleasant.
+
+Kalina, are my arms still there? I can't feel them...

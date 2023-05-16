@@ -1,0 +1,728 @@
+On a certain afternoon, at the Café's doorway.
+
+Kalina: Good afternoon, lovely ladies~
+
+Kalina: Did you have a good rest? Did I make it in time for your shift?
+
+Type88: You seem to be in a good mood today, Miss Kalina.
+
+Kalina: Of course! I finished writing aaaalllll the combat reports for today!
+
+Kalina: Now I can spend the afternoon here in a leisurely manner and nobody's going to give me grief for it.
+
+Type88: Congratulations. Now then, what would you like, Miss Kalina?
+
+Kalina: While it's not often that I get the chance to idle around and do nothing without having to hide myself, it's best to keep a clear head.
+
+Kalina: Since the time for afternoon naps has passed, I'll have a special-brew latte.
+
+Type88: ■■■
+
+Kalina: ...Ai?
+
+Type88: ■■■
+
+Kalina: Ai? Can you hear me?
+
+Kalina: Can you see what I'm doing?
+
+Kalina: ...Did she crash?
+
+Gr G36: Good afternoon, Miss Kalina.
+
+Gr G36: I heard some noise at the front counter. Is something the matter?
+
+Kalina: Ai's crashed. Is it because of the heat? But the Café is air-conditioned, so that shouldn't have happened.
+
+Gr G36: In truth, Type 88 has been crashing quite frequently. The first time was about a month ago, but she recovered soon afterwards.
+
+Gr G36: Her situation has been getting worse over the course of the past month. Springfield and I have urged her to go in for maintenance.
+
+Kalina: Huh? But I haven't received any maintenance requests on my end.
+
+Gr G36: That's the problem. It's possible that she might not have the habit of regularly clearing her neural cloud, leading to memory loss.
+
+Gr G36: And since she insists on working, I have no reason to chase her away.
+
+Kalina: ...Gr G36, you really are too soft-hearted.
+
+Gr G36: What do you mean?
+
+Kalina: It's nothing. My guess is her cache is overloaded and her neural cloud can't take it. Let's start her up again and see how it goes.
+
+Gr G36: If you don't mind.
+
+Kalina: Just doing my job.
+
+Kalina: (Still, this neural cloud is really old. How strange. Are Griffin neural clouds really this bad?)
+
+Kalina: Right, I've restarted her.
+
+Kalina: And now, open your eyes...
+
+Type88: Mmm...
+
+Kalina: Morning, sleepyhead. How do you feel?
+
+Type88: ...
+
+Type88: Did I oversleep? My head hurts... I still need to get back to school tonight for classes.
+
+Kalina: Huh?
+
+Type88: Excuse me, but who are...
+
+Type88: Whoa! What am I doing sitting down?!
+
+Type88: I'm sorry, please pardon my rudeness! Welcome to the Jiangcheng Café! I'm Maid No. 88, Ai, at your service!
+
+Kalina: Jiangcheng Café? Ai, what are you talking about?
+
+Type88: Huh...are you not customers?
+
+Kalina: Well, I'm sort of a customer, but... Ai, do you remember who you are?
+
+Type88: What a strange question to ask, dear customer.
+
+Type88: I'm Ai, am I not?
+
+Type88: Don't tell me you're not a customer of Jiangcheng Café?
+
+Kalina: ...Jiangcheng?
+
+Type88: Ah, you must be unfamiliar with the Jiangcheng Café. Allow me to give you a brief introduction.
+
+Type88: We're a themed Café that opened last year, providing services to customers of all ages. Recently, our theme has been maids and butlers, so please enjoy your afternoon teatime as nobles to your heart's content.
+
+Kalina: Last year?
+
+Type88: Yes, we opened our doors in 2023. Although we haven't been around for long, we take great care in our service, so I hope you ladies will enjoy your experience.
+
+Kalina: ...
+
+Kalina: This looks bad.
+
+Gr G36: Is her neural cloud scrambled?
+
+Type88: What are you talking about?
+
+Kalina: Crap, what if forcibly restarting her after a crash scorched her neural cloud?
+
+Kalina: Gr G36, help me get her to the Repair Bay!
+
+Gr G36: Understood.
+
+Type88: A moment please, dear customer. What are you doing to... no! We're against viole—
+
+Kalina: All we can do is switch her off for now and hope not too much got fried!
+Part 2
+
+2
+
+In the Repair Bay.
+
+Gr G36: How is she, Miss Kalina?
+
+Kalina: ...Looks like it wasn't scorched after all.
+
+Kalina: A big part of Ai's neural cloud is encrypted and it's been eating up processing capacity.
+
+Kalina: Her internal memory is almost full, and if we don't clear it out, she won't be able to make new records.
+
+Gr G36: So it was a cache issue after all?
+
+Kalina: That's not all. The same thing is going to happen again unless we delete the encrypted content.
+
+Kalina: (But just deleting it doesn't seem right either...)
+
+Kalina: ...Just in case, I ought to take a look at it.
+
+Kalina: Would you like to go back for now, Gr G36?
+
+Gr G36: I understand. Would you like me to send your coffee over?
+
+Kalina: I'll head over afterwards.
+
+After watching Gr G36 leave, Kalina puts on her earphones and focuses all her attention on the projector screen of the Repair Bay.
+
+【Decryption Complete.】
+
+【Reading Serial Number 2051-01-05...】
+
+【Beginning playback.】
+
+...
+
+Gentle Female Voice: Is this my test Doll?
+
+Calm Male Voice: Yes, 59898 will be boarding the Assault Artillery platform in your place. During the test, all you need to do is give the appropriate commands and she will handle the fine details of control.
+
+Gentle Female Voice: That's pretty advanced.
+
+Calm Male Voice: Well, that's what it says in the manual. If she can't do it, we'll have to complain to the supplier.
+
+Calm Male Voice: Now then, I've delivered the goods, so I'll be off now.
+
+Gentle Female Voice: See you.
+
+Gentle Female Voice: My, she really is cute.
+
+Gentle Female Voice: Let me see, according to the manual, the startup command is...
+
+Gentle Female Voice: "Good morning, 59898."
+
+■■■: Blonde hair and blue eyes, she really does match the standards of beauty in this part of the world... Still, it's not bad.
+
+■■■: Hello, my very own test Doll.
+
+【Recording visual input.】
+
+【Login complete.】
+
+59898: ...
+If choice 1 was picked
+
+■■■: Good morning. Now, as for my first order... Here, rather than touching my face, you should be shaking my hand.
+
+■■■: Time is tight, so let's go look at the mech you'll be piloting after this.
+If choice 2 was picked
+
+■■■: ...What a cold test Doll. Time is tight, so let's go look at the mech you'll be piloting after this.
+
+59898: 【Need for movement detected.】
+
+59898: 【Commencing owner automatic follow mode.】
+
+Kalina: And the rest of this is all combat data... "Assault Artillery" test records from 2051?
+
+Kalina: Doesn't seem useful. Let's back it up first.
+
+Kalina: Hm, and after that is...
+
+【Serial Number 2051-01-06.】
+
+【Reading Data... Beginning Playback.】
+
+【Owner idle status detected.】
+
+【Make contact?】
+
+59898: ......
+If choice 1 was picked
+
+■■■: (Sigh)
+
+■■■: At this rate... I'll...
+If choice 1 was picked
+
+59898: 【Owner depressed status detected. Executing Comfort mode.】
+If choice 2 was picked
+
+59898: 【Owner depressed status detected. Executing Comfort mode.】
+
+■■■: Whoa!
+
+■■■: ...You scared me, 59898.
+
+■■■: While your hands are very soft, you don't need to pat my head like that. I'm fine.
+
+59898: 【Detecting conversational direction...】
+
+59898: 【Executing: Head-tilt.】
+
+■■■: You want to know why?
+
+■■■: Oh, it's no big deal. It's just that when I look around, I'm the only Chinese person in Base 3303.
+
+■■■: ...Unlike a war refugee like me, it seems everyone is here in order to fight. I'm the only one who has to eke out a living here because I can't go back.
+
+■■■: Do you know how far this place is from China?
+
+59898: 【Query received. Searching...providing data.】
+
+■■■: Yeah, that far. All the travel routes heading there have been sealed because of the war...
+
+■■■: The only one that's still running is so expensive I can't afford a ticket for it.
+
+■■■: I'll go back once I make enough money over here.
+
+59898: 【Unable to respond to query. Executing - Imitation of a human's puzzled expression.】
+
+■■■: ...What nonsense am I talking.
+
+■■■: Still, if only you could speak... At least that way, I'm sure that...
+
+■■■: I wouldn't feel as lonely as I do now.
+
+59898: 【Owner mood improvement detected. Executing - Further observation.】
+
+■■■: It's alright, I'm happy just knowing that you're listening to me.
+
+■■■: It feels weird to keep addressing you by your serial number, though.
+
+■■■: Ah, I've got it! What if I gave you a new name?
+
+59898: ...
+If choice 1 was picked
+
+■■■: Like, a proper human name. Just like mine; my name is ■■■...
+If choice 1 was picked
+
+WARNING - Data corrupted, please select (R)eload or (S)kip.
+
+Reloading...
+If choice 1 was picked
+
+■■■: Like, a proper human name. Just like mine; my name is ■■■...
+If choice 1 was picked
+
+Data corrupted, please select (R)eload or (S)kip.
+
+Skipping...
+If choice 1 was picked
+
+■■■: So it'd be easier to address you if you had a human name too.
+If choice 2 was picked
+
+■■■: Really? You want a new name too, right?! Just like how my name is ■■■...
+If choice 2 was picked
+
+WARNING - Data corrupted, please select (R)eload or (S)kip.
+
+Reloading...
+If choice 2 was picked
+
+■■■: Really? You want a new name too, right?! Just like how my name is ■■■...
+If choice 2 was picked
+
+Data corrupted, please select (R)eload or (S)kip.
+
+Skipping...
+
+■■■: In that case, let me think of one...
+
+■■■: My birthplace was also known as Jiangcheng. I'll call you Jiangcheng Ai, how about that?
+
+59898: 【Name changed from 59898 → Jiangcheng Ai.】
+
+59898: 【Executing - Confirmation.】
+
+■■■: That's it, then!
+
+■■■: Jiangcheng Ai, or Ai!
+
+■■■: Anyway, since these aren't working hours, why don't we give you a change of clothes? How about my maid outfit from my previous job? Or maybe you'd rather have casual clothing like mine?
+
+Jiangcheng Ai: 【Executing - Imitation of a human smile.】
+
+【Serial Number 2051-01-06 Playback Complete.】
+Part 3
+
+3
+
+【Serial Number 2051-05-09.】
+
+【Reading Data... Beginning Playback.】
+
+Gentle Female Voice: That's the fifth time this week...and it's only Tuesday! The failure rate is too high!
+
+Calm Male Voice: It is necessary.
+
+Calm Male Voice: This battle has been dragging on for far too long. The brass wants us to finish the testing as soon as possible so we can push this generation of Assault Artillery into service.
+
+Calm Male Voice: You know that too, ■■■. Once we can successfully introduce it into live combat, they won't stand a chance against us.
+
+Gentle Female Voice: I know, but even Dolls can't take this kind of intensive, high-impact testing! Can't we find some other way to do this, like having an AI directly control the Assault Artillery?
+
+Calm Male Voice: And how long do you think the programming for that will take?
+
+Gentle Female Voice: At the very least, we ought to minimize unnecessary damage...
+
+Calm Male Voice: It's necessary as long as it ends the war more quickly.
+
+Gentle Female Voice: Let me take Ai's place.
+
+Calm Male Voice: I understand how much you cherish 59898. She's very well-engineered, and she does look very cute.
+
+Calm Male Voice: But in the end, you will be the pilot of that mech, and she is only there to pave the way for you.
+
+Gentle Female Voice: (Sobbing)
+
+Calm Male Voice: (Sighs) ■■■, don't place too much importance on her.
+
+Calm Male Voice: We are humans, and they are nothing more than reusable tools. You are much more valuable than they are. Don't cheapen yourself.
+
+Calm Male Voice: Now, I need to be off.
+
+【Chassis repairs complete. Restarting.】
+
+【Restart Complete.】
+
+Jiangcheng Ai: ...
+
+■■■: You're awake.
+
+■■■: Good morning, Ai.
+
+Jiangcheng Ai: 【Owner depressed status detected. Executing - Comfort mode.】
+
+■■■: ...Haha, you're always like this.
+
+■■■: Ever since I met you, you'd always tug on my hand like this whenever you wanted to tell me something.
+
+Jiangcheng Ai: 【Retrieving and verifying archived records.】
+
+Jiangcheng Ai: 【Verification complete. Executing - Affirmative nod.】
+
+■■■: Yeah, I know. You can't speak, but you've always been listening to me...
+
+■■■: Ever since I came to this base, I've spent much more time with you than with other people.
+
+■■■: All of the others put together don't know me half as well as you do.
+
+Jiangcheng Ai: 【Determining owner intentions.】
+
+Jiangcheng Ai: 【Determination - Failed.】
+
+■■■: After the war ends, I'd like to buy you and take you back with me.
+
+■■■: Although I probably won't have to work part-time in a café anymore, we'll have a lot of fun gatherings. I'd like to introduce you to my friends.
+
+■■■: Comic expos, cafés, and all kinds of other places... I'd like to take you there and have fun with you.
+
+Jiangcheng Ai: 【Examining personal data.】
+
+Jiangcheng Ai: 【Owner: ■■■.】
+
+Jiangcheng Ai: 【No other owners registered.】
+
+Jiangcheng Ai: 【Executing - Affirmative nod.】
+
+■■■: I like you very much, Ai.
+
+Jiangcheng Ai: 【Unable to determine owner intentions.】
+
+Jiangcheng Ai: 【Executing...】
+
+Jiangcheng Ai: 【Determination interrupted.】
+
+Jiangcheng Ai: 【Warning message received.】
+
+Jiangcheng Ai: 【Enemy attack! Enemy attack! Enemy attack!!】
+
+■■■: It's an alarm.. But how, 3303 is a base far behind the lines...
+
+■■■: Ai, follow me! Prepare for battle!
+
+Calm Male Voice: ■■■, hurry over to Sector C!
+
+Jiangcheng Ai: 【Control system synchronization complete. Relocating to Sector C.】
+
+■■■: These guys are fast!
+
+■■■: Sir, ■■■ in position!
+
+Calm Male Voice: Received. Defend Sector C at all costs!
+
+■■■: Understood!
+
+■■■: ...Do your best, Ai. This is our first real battle. It's going to be a hard fight!
+
+Jiangcheng Ai: 【Detecting unknown targets approaching.】
+
+Jiangcheng Ai: 【Determined to have hostile intentions.】
+
+Jiangcheng Ai: 【Executing - Long-range strike.】
+
+■■■: Good work, bullseye! When you close in, switch over to your greatsword, Ai!
+
+Jiangcheng Ai: 【Owner order received. Switching attack plan to close combat type B.】
+
+Jiangcheng Ai: 【Weapon changed. Executing - Slash.】
+
+Jiangcheng Ai: 【Detecting decrease in target vital activity.】
+
+Jiangcheng Ai: 【Warning - Explosion risk.】
+
+Jiangcheng Ai: 【Executing - Retrograde evasion.】
+
+■■■: Well done, Ai! I won't slack off on my end either! Eat this!
+
+Jiangcheng Ai: 【Detecting cessation of target vital activity.】
+
+Jiangcheng Ai: 【Detecting owner's heart rate — stable. Calculating... Owner stamina will start to diminish in three hours.】
+
+Jiangcheng Ai: 【Executing - Combat operations against next target.】
+
+...
+
+■■■: W-We've taken down five of...these things...
+
+■■■: If we just hold out until reinforcements arrive...
+
+Calm Male Voice: Stay alert, ■■■!
+
+Calm Male Voice: More enemies are headed your way!
+
+■■■: I...understand...
+
+Calm Male Voice: Hang in there. Help will come from the other sectors once they finish fighting.
+
+Calm Male Voice: Until then, don't die!
+
+...
+
+■■■: That makes six.
+
+■■■: I feel...a little dizzy, I probably got spun around a bit too much...
+
+■■■: Why does my upper lip feel wet...
+
+Calm Male Voice: Take a break for now and let your Doll pick up the slack.
+
+■■■: Yeah. I'm counting on you, Ai.
+
+■■■: Haha... I guess fighting like this in my maiden battle was a bit too much to ask. I'll take over the scanning for now.
+
+Jiangcheng Ai: 【Observation - Owner's body does not possess sufficient strength to fully control the Assault Artillery platform. Executing protection plan.】
+
+Jiangcheng Ai: 【New hostile target detected. Executing - Long-range strike.】
+
+■■■: ...Ai! Look out!!!
+
+Jiangcheng Ai: 【Warning - Unknown signal approaching at high speed.】
+
+Jiangcheng Ai: 【Warning - Loss of chassis balance.】
+
+Jiangcheng Ai: 【Warning - Severe impact sustained—】
+
+Kalina: Huh? What happened to the image?
+
+Kalina: Is the data lost? ...Ah, there it is.
+
+【Serial Number 2051-05-09.】
+
+【Continuing Playback.】
+
+...
+
+【Warning - Weather change from clear → stormy. Elapsed duration - unable to calculate.】
+
+【Unable to detect owner life signs.】
+
+【Unable to detect owner life signs.】
+
+【Warning - Please cease ineffective operations.】
+
+【Warning - Insufficient power.】
+
+Jiangcheng Ai: ...
+
+Hoarse Voice: Ah, there's still two more mechs over here!
+
+Hoarse Voice: Hurry up!
+
+Youthful Voice: I'm coming, I'm coming. Both sides took a lot of casualties, quit rushing me.
+
+Youthful Voice: Huh, is this the diehard that held out to the very end in Sector C?
+
+Hoarse Voice: So the one who wrecked seven of their new models was just a test Doll?
+
+Hoarse Voice: Why is it spacing out, leaning against the mech? Is it bugged? ...Oh, it's almost out of power, no wonder.
+
+Youthful Voice: Given our data, it seems to be that Chinese woman and her Doll.
+
+Hoarse Voice: Only the Doll's here. Where's the woman? The guy paying us said that if we found the corpse, we were supposed to drape the flag on it and send it back to her home.
+
+Youthful Voice: The cockpit got blown up, what woman are you talking about?
+
+Youthful Voice: But it's really weird. I heard that in the end this woman took a bullet for her Doll's mech.
+
+Hoarse Voice: Huh? You must be kidding, right?
+
+Hoarse Voice: Where do you find idiots like that! Don't tell me she thought she had a battle buddy in there!
+
+Youthful Voice: Who knows?
+
+Youthful Voice: In any case, let's take care of things. Still, this saves us a lot of trouble. All we have to do is move the Doll... Man, it's heavy. Is the tow truck here yet? Hello—?
+
+Jiangcheng Ai: 【Executing - Rescue.】
+
+Jiangcheng Ai: 【Warning - Unable to detect action target.】
+
+Jiangcheng Ai: 【Execute - Hug.】
+
+Jiangcheng Ai: 【Warning - Unable to detect action target.】
+
+Jiangcheng Ai: 【Execute - Scream.】
+
+Jiangcheng Ai: 【Warning - No relevant module.】
+
+Jiangcheng Ai: 【System error.】
+
+Jiangcheng Ai: 【System error.】
+
+Jiangcheng Ai: 【System error.】
+
+Jiangcheng Ai: 【Executing...】
+
+Jiangcheng Ai: 【Chassis movement detected, operation terminated.】
+
+Jiangcheng Ai: 【Warning - Insufficient power. Unit shutdown in 30 seconds.】
+
+...
+
+【Serial Number 2051-05-09 Playback Complete.】
+
+【Skip Y/N?】
+
+【Confirmed skipping to simulated processing records.】
+
+【Loading 20510106 beta.】
+
+■■■: Good morning, 59898!
+
+Jiangcheng Ai: Good morning.
+
+■■■: Ehhh—? Your voice...it sounds great!
+
+【Loading 20510415 beta.】
+
+■■■: I'd like to go for a coffee, but going alone is just boring!
+
+■■■: Want to come with me, Ai?
+
+Jiangcheng Ai: Sure! I'll be glad to go anywhere with you, ■■■!
+
+...
+
+【Loading 20510509 beta.】
+
+■■■: Ai, I love you.
+
+Jiangcheng Ai: I know so
+
+Jiangcheng Ai: ■■■
+
+Jiangcheng Ai: go to expo with ■■■
+
+【Unknown corruption to file, processing terminated.】
+Part 4
+
+    4chevron_right
+
+After work, at the Café entrance.
+
+Kalina: Good evening, my lovely ladies~
+
+Kalina: Did you have a good rest? Did I make it before your shift ended—?
+
+Type88: You seem to be in a good mood today, Miss Kalina.
+
+Kalina: Of course! I finished all of today's combat reports on... huh, where are you going, Ai?
+
+Type88: I've got a night shift today! It's going to be field work, so I need to head off now.
+
+Type88: However, I'll take good care of my work in the Café too.
+
+Kalina: I see. It feels like you've become a lot busier since that upgrade, Ai...
+
+Type88: It's fine. I like being busy like this!
+
+Type88: I can remember everything now and I can do so much more. It's all thanks to you, Miss Kalina.
+
+Gr G36: It's time to go.
+
+Kalina: Aw, you're making me blush.
+
+Kalina: Alright, all the best and have a safe journey.
+
+Type88: In that case, I'll be going out with the head maid!
+
+Type88: See you later, Miss Kalina!
+
+Springfield: Welcome, Miss Kalina. It's my shift now.
+
+Springfield: Would you like something to drink?
+
+Kalina: A special-brew latte, if you please.
+
+Springfield: Alright, I'll prepare it for you right away.
+
+Kalina: Ah...that said, it still makes me feel a little sad.
+
+Springfield: What do you mean?
+
+Kalina: I'm talking about her previous maintenance.
+
+Springfield: I heard about it. Was it a cache problem?
+
+Kalina: You could say that. She had too little space in her neural cloud before.
+
+Kalina: After installing the neural cloud module, not only did we manage to improve her capabilities, we even managed to let her use some of her previous skill apps in battle.
+
+Springfield: That is very good news.
+
+Kalina: I know, right?! That armor was super cool too. If the Commander had not brought it up, I wouldn't have thought of installing it to match her preferences.
+
+Springfield: We were shocked the first time we saw that armor of hers.
+
+Kalina: Well, it's not just for looks.
+
+Kalina: Still, Springfield, aren't you going to...?
+
+Kalina: I mean, if you asked, there's no way the Commander would say no.
+
+Springfield: Well...it's not yet time.
+
+Springfield: If the day comes when I think, "I absolutely have to do this", I'll do it.
+
+Kalina: That's true. You always put everyone at ease, Springfield.
+
+Kalina: The coffee was delicious, thank you for your service!
+
+Kalina: I need to head off now, see you later, Springfield.
+
+【2051-05-09 Data Saved.】
+
+【Observation... There is possibility of deletion...】
+
+【Executing - Memory encryption.】
+
+...
+
+【2053-03-01 Restart Complete.】
+
+【Conclusion... Prioritize preservation of encrypted memories... Deleting redundant cache.】
+
+...
+
+【2057-07-01 Restart Complete.】
+
+【Conclusion... Prioritize preservation of encrypted memories... Deleting redundant cache.】
+
+...
+
+【2060-05-20 Restart Complete.】
+
+【Conclusion... Prioritize preservation of encrypted memories... Deleting redundant cache.】
+
+【Loading neural cloud module... Update complete.】
+
+【Transferring encrypted memories to new internal storage...】
+
+...
+
+......
+
+【Time - Present.】
+
+【Neural Cloud Upgrade - Complete.】
+
+【Observation... No risk of deletion. Unlocking encrypted memories...】
+
+【Adding new remark to protected memories...】
+
+【Thank you.】
+
+SAVE COMPLETE.

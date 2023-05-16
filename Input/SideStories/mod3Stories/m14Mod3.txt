@@ -1,0 +1,824 @@
+In the T-Doll Repair Bay at Griffin.
+
+Kalin: Phew, all done!
+
+Kalin: You can come out now, M14.
+
+M14: Okay, we're coming out!
+
+M14: Thank you so much, Miss Kalin!
+
+Kalin: Heheh, you're welcome. Just be more careful next time.
+
+Kalin: Actually, you seem to be coming for repairs pretty frequently these days...
+
+M14: Sorry to have caused any trouble, but we'll watch it in the future!
+
+M14: We'll be off now. Thanks again, Miss Kalin!
+
+M14 gives Kalin a deep bow, then bounces away.
+
+Kalin: ...Will she really watch it?
+
+Kalin: Sigh, never mind. I'll leave this to whoever wants to worry about it.
+
+In a Griffin dorm.
+
+M14: Hmm, why is the dorm completely empty...?
+
+M14: Where is everybody?
+
+OUTTA MY WAAAAAY!!
+
+M14: Huh?
+
+M14: WHOA!
+
+A T-Doll crashes right into M14 from behind.
+
+M14 turns and sees M9 with a large box in her arms, stumbling to regain her balance.
+
+M9: Ouch, that hurt! I told you to get outta my way!
+
+M9: ...Hmm? If it isn't M14. I remember you coming back in two halves last time. Didn't think you'd get out of the repair bay so soon.
+
+M14: All thanks to Miss Kalin, we're strong as an ox!
+
+M14: By the way, why isn't anybody in the dorm?
+
+M9: Why else? They've all left on a mission.
+
+M14: Mission? But we weren't notified.
+
+M9: Of course you weren't notified lying around in a repair bay.
+
+M9: Right, I've got no time to chat. Our leader is still waiting for my rations.
+
+M9 jogs off with the box.
+
+M14: We didn't even know there's a mission...
+
+M14: We can't miss out on it! We'll go look for our squad leader now!
+
+At the entrance of the Griffin Base.
+
+M14: Thompson! Thompsooooon!
+
+Thompson: M14? Why are you here?
+
+Thompson: I'm pretty sure I didn't recruit you on this mission.
+
+M14: There IS a new mission, right? Bring us along!
+
+Thompson: No.
+
+M14: Huh? Why?
+
+Thompson: Have you counted how many times you've entered the repair bay in the last two weeks?
+
+M14: One...two...three...four...oh! Five times!
+
+Thompson: Yeah. That's also the exact number of times we engaged enemy units in battle on our missions in the last two weeks.
+
+M14: Well...we-we'll do our best not to get hurt!
+
+Thompson: It's true that loss is inevitable in battle.
+
+Thompson: But that doesn't mean you can run amok recklessly in a fight.
+
+Thompson: If you can't promise you won't do that, then don't bother to come. I don't have the luxury to spare manpower on taking care of you if you're badly injured.
+
+M14: But...but we're also part of the team!
+
+M14: We really want to be of help on the field!
+
+Thompson: Do I have to spell it out? You're the one being helped on the field right now.
+
+M14: Oh...
+
+Thompson: If you really want to be helpful, just stay put at the base.
+
+Thompson: Run some logistics if you're bored. Both we and Kalin would be very grateful.
+
+M14: We...understand.
+
+M14 trudges off miserably.
+
+M1911: Wasn't that a bit too much, Thompson?
+
+Thompson: It's about time she calmed down and thought things through. Idiots with nothing but keenness will only end up dead here.
+
+Thompson: Metal scrap lying limp on the ground can never see the sights from high above... True victory belongs to the last person standing.
+
+M1911: You're right.
+
+M1911: But we can't just shelf her indefinitely. We gotta think of a way to help her with her condition.
+
+Thompson: She'll have help.
+
+Thompson: We have no shortage of keen idiots here.
+
+In the Griffin dorm.
+
+M21: Why are you sitting here all alone, M14?
+
+M14: M21...
+
+M14: You're not on the mission either?
+
+M21: This mission doesn't require sniper support so I'm on break.
+
+M21: What is it though? You look like the loan sharks are here to get you.
+
+M14: Thompson doesn't want us on missions...
+
+M21: Huh? Why is that?
+
+M14: Because...
+
+M14 repeats what Thompson said.
+
+M21: Oh...
+
+M21: Don't be too upset. I'm sure Thompson is only concerned about your safety...
+
+M14: But we don't want to be left behind on our own...
+
+M14: We want to fight side by side with our teammates! We don't wanna lose to anyone!
+
+M21: You're not left behind on your own... I'm here with you, aren't I?
+
+M14: But you'll leave as well when you have a mission...
+
+M14: But we...we'll never get that chance again...
+
+M21: Ah... Then we have to make the most of the time we spend together now...
+
+M21: Right, wanna hear a joke?
+
+M14: Will Thompson take us on missions after hearing it?
+
+M21: Uh, well... Uh...haha...
+
+M14: We want to grow stronger...
+
+M14: We want to be strong enough so Thompson won't think we're a deadweight!
+
+M21: Then...let me think...
+
+M21: You can't improve just sitting around... Why don't you ask Miss Kalin if there's any work you can help her with?
+
+M14: What?
+
+M21: Even running logistics is a kind of training!
+
+M21: I'm sure everyone will be very glad to see a heap of supplies when they come back from the mission!
+
+M14: Logistics, huh...
+
+M14: But we still want to be part of the fight.
+
+M21: You'll have to win Thompson's recognition before that though.
+
+M14: Then how can we win her recognition?
+
+M21: If you can't join them in battle, you'll have to prove your mettle some other way!
+
+M21: There is a lot of work to do around the base, and you're always full of energy. You can do this, M14!
+
+M14: Hmm...you have a point. Then we'll give it a go!
+
+M14: Thanks a lot, M21!
+
+M21: Heheh, don't mention it.
+
+M21: We're sisters. Don't hesitate to come to me for anything.
+
+M14: We'll be off then!
+
+M14: We'll definitely convince Thompson to take us onto the battlefield again!
+Part 2
+
+2
+
+At the Griffin base.
+
+M1911 hears some faint gunshots coming from the shooting range.
+
+M1911: Hmm? Who's practicing at this time of night?
+
+M1911: ...Guess I'll go take a look.
+
+M1911 leaves the database and makes her way to the shooting range.
+
+M14: Oh, M1911!
+
+M14: Good evening!
+
+M1911: Good evening, M14.
+
+M1911: Was that you shooting just now?
+
+M14: Yeah. We couldn't sleep so we came to practice!
+
+M14: Are you also here to practice?
+
+M1911: No, I'm here to look through the kids' training data.
+
+M1911: The mission in two days is gonna be tough so we're preparing as thoroughly as we can.
+
+M14: Another mission?
+
+M14: But we guess you won't be taking us this time either...
+
+M1911: Well...I'm afraid I can't answer that right now.
+
+M1911: Candidates for the mission are chosen depending on the job requirement.
+
+M14: Thompson doesn't want us on missions. Miss Kalin doesn't want us at work. Even other T-Dolls don't want our help...
+
+M14: Are we only causing everyone trouble?
+
+M1911: Miss Kalin? Other T-Dolls?
+
+M1911: M14...what have you been up to in the last few days?
+
+M14: (Sobs)
+
+M14: These couple days...we've been...
+
+M1911: Slow down. Let's sit down and hear it...
+
+Three days ago, in the warehouse at the Griffin base.
+
+M14: We're back, Miss Kalin!
+
+Kalin: Oh, M14. Have you brought the supplies?
+
+M14: All here!
+
+Kalin: Great. Let me check...
+
+Kalin inspects the supplies delivered by M14.
+
+Kalin: That's not right... There should be 40 boxes this time. Why are we missing so many?
+
+M14: That can't be right.
+
+M14: This is all we saw at the factory warehouse.
+
+Kalin: The factory only provided...these supplies, M14?
+
+M14: The person in charge said all the goods were at the warehouse reserved for Griffin, so we moved all the boxes outside the warehouse over here!
+
+Kalin: ...What about those INSIDE the warehouse?
+
+M14: Inside the warehouse?
+
+Kalin: All our goods are always placed together... I told you as much before you set off.
+
+M14: Oh!
+
+M14: W-we're sorry...we forgot.
+
+Kalin: Can't be helped. I'm afraid you'll have to make another trip.
+
+Kalin: But the supply schedule is ruined for the day. What a pain...
+
+Kalin: You'd better not miss a single box this time, M14.
+
+M14: We're really sorry...Miss Kalin.
+
+Kalin: Alright, alright. Just go.
+
+M1911: I see...
+
+M1911: There's more, right?
+
+M14: Yeah...
+
+The previous morning.
+
+Kalin: M14, I have to go and inspect a new delivery.
+
+Kalin: If anyone comes asking for supplies while I'm gone, tell them to wait here.
+
+M14: Okay!
+
+Kalin: Right, then I'll be back soon.
+
+Kalin: I'm leaving things here to you.
+
+Kalin leaves the warehouse.
+
+STEN: Miss Kalin, I'm here for ammo-
+
+STEN: M14? Why are you here? Where's Miss Kalin?
+
+M14: She's off to inspect a new delivery!
+
+M14: We're watching the warehouse for her while she's gone.
+
+STEN: Did she say when she'll be back?
+
+M14: Soon, she said!
+
+STEN: Hmm, then I'll wait here.
+
+...20 minutes later.
+
+STEN: Why isn't she back yet...? I'm running out of time.
+
+M14: Are you on some urgent business, Sten?
+
+STEN: Yeah, our team has to go on an emergency mission. I need to get some ammo pronto.
+
+M14: Then just take it first.
+
+M14: We'll tell Miss Kalin when she comes back!
+
+STEN: Huh? Is that okay?
+
+STEN: I think it's better if I wait till she's here...
+
+M14: But aren't you in a hurry?
+
+STEN: I am... My leader was rushing me just now.
+
+STEN: Hmm...can't be helped.
+
+STEN: I'm taking these then. Please apologize to Miss Kalin on my behalf when she's back.
+
+M14: Okay, we'll definitely tell her!
+
+...A few minutes later.
+
+Kalin: Jeez. Suppliers nowadays are SO tenacious...
+
+Kalin: I'm back, M14. Did anyone come by?
+
+M14: Sten was here!
+
+M14 tells Kalin about what happened.
+
+Kalin: ...WHAT?! You let Sten take the ammo?!
+
+M14: Because she looked like she was in a hurry, you know.
+
+Kalin rushes over to the shelves and checks the ammunition.
+
+Kalin: Arghhhhh!!
+
+Kalin: She took blank rounds used for practice!!
+
+Kalin: I need to tell the Commander right now!!
+
+M14: That's what happened...
+
+M14: We wanted to do our logistic duties properly, but we always ended up causing trouble.
+
+M1911: Looks like you've been apologizing all the time...
+
+M14: Will Thompson sack us, M1911?
+
+M14: We want to stay here with everyone at Griffin... We don't want to have our core removed and get sent away...
+
+M1911: Slow down, slow down. Things are that bad yet...
+
+M1911: Right. Since you've been practicing, mind if I take a look at your data? I might find something you're good at.
+
+M14: Really?
+
+M14: Can we really come back to the team?
+
+M1911: You never left, M14.
+
+M14: What?
+
+M1911: We only hope you can readjust yourself and come back on duty at a better time.
+
+M1911: If all you care about is playing the hero and sulk in defeat whenever you botch something up, how could you expect anyone to trust you with their backs?
+
+M14: We...we simply...don't want to be abandoned...
+
+M1911: We haven't abandoned you...
+
+M1911 kneels down and looks at M14.
+
+M1911: If you don't want to give up, then calm down and find something that you really want to do.
+
+M14: We've tried many things, but none of them really worked out.
+
+M1911: Were you actually trying, or were you just trying to get lucky?
+
+M1911: Have you put in any effort for what you want?
+
+M14: Effort...
+
+M1911: That's right. Put in the effort until you're up for the job.
+
+M1911: It's like love... If you don't make an effort, you'll never know the darling of your dreams. If you don't give everything you've got, you'll never win their heart.
+
+M14: That's an odd metaphor...
+
+M14: But...we think we get it.
+
+M14: Yeah, we'll do our best! For what we want to do!
+
+M1911: Great. So, since I'm here anyway...let me see the results from your practice just now.
+
+M1911 pulls up M14's shooting data.
+
+M1911: Hmm...
+
+M14: ...Is it terrible?
+
+M1911: No...it's much better than I expected.
+
+M1911: Perhaps rather than being in the vanguard, M14, you'd be more suited for providing cover from the back.
+
+M14: Providing cover? Like M21?
+
+M1911: That's right. You'll have to stay back to give support. This will make your fighting style vastly different than what you're used to.
+
+M1911: You'll have to rein in your personality to maximize the use of your Imprinted weapon.
+
+M14: Our Imprint...
+
+M14: We're not sure if we can do that...
+
+M1911: It depends on how much change you're willing to make.
+
+M1911: Learning to compromise is also a kind of effort, you know.
+
+M14: Compromise...is also a kind of effort?
+
+M1911: In a team, everyone has to sacrifice a bit of themselves in order to work side by side with each other.
+
+M1911: This kind of sacrifice isn't always noticeable, but it's essential to achieving victory.
+
+M14: Have you, and has Miss Thompson also made this compromise?
+
+M1911: If you know how Thompson used to do things, you'll realize how easy we have it now.
+
+M1911: If you really want to help us, then you have to change.
+
+M1911: Well? If you want to give that a try, I can talk to Thompson and ask her to take you on our next mission.
+
+M14: ...
+
+M14: We want to fight with you.
+
+M14: It doesn't matter from which position. We'll do our best!
+
+M14: We'll also work hard on our shortcomings in order to stay with you...
+
+M14: So...please, M1911, please ask Thompson to let us fight!
+
+M1911: I can see that you do have the determination. I'll keep my promise.
+
+M1911: But next time, if you still charge straight to the front, Thompson might really just tear out your core and dump it in a coal mine...
+
+M14: Ughh... That's scary...
+
+M1911: Haha, just kidding.
+
+M1911: Then I look forward to your performance!
+
+M1911: Don't disappoint us, okay?
+Part 3
+
+3
+
+Squad Thompson in the middle of a mission.
+
+M1911: Are you in position, M21?
+
+M21: M14 and I are ready. We can punch our enemies full of holes anytime!
+
+M1911: Good. Please keep an eye on M14. Tell her about the way you fight if you've got free time.
+
+M21: No problem. Leave it to me!
+
+M1911: Hmm. I know I can count on you.
+
+M1911: I'll see you later.
+
+M1911 terminates the call.
+
+M14: What are we gonna do, M21?
+
+M21: Just wait for the enemy forces to set foot in the trap.
+
+M21: Then "bang, bang, bang" them all!
+
+M14: We understand!
+
+M21: Right, this is the first time you're fighting this way...so you can just be on standby next to me.
+
+M21: If there are too many of them, help me with whatever I miss.
+
+M14: Okay, we'll definitely do our job!
+
+M21: By the way, I've been wondering about this for a while...
+
+M14: What?
+
+M21: Why do you address yourself as "we"?
+
+M14: Well...we do it so that M14 never forgets about our old companions!
+
+M21: Old companions?
+
+M14: Yeah. It was a long time ago...
+
+At that moment, Thompson's voice comes through the comm link with gunshots in the background.
+
+Thompson: Save your chatting for later, ladies.
+
+Thompson: If you want any extra bounty, get to work and pull your weight.
+
+M21: Alright, here we go!
+
+M21: Tell me the rest after the fight, M14.
+
+...Several minutes later.
+
+...
+
+Combat over.
+
+M14: Thompson! Thompson!
+
+Thompson: Looks like you're still in one piece, M14.
+
+M21: Of course she is. I'm with her.
+
+M14: Look, Thompson, we didn't lose a single screw this time!
+
+Thompson: Isn't that how it's supposed to be, M14?
+
+Thompson: You were never meant to be a walking target on the field.
+
+M14: Hmm, we understand... That's why we did as M1911 said and fired from the back.
+
+M14: Were you satisfied with our performance?
+
+Thompson: It's...acceptable. Nothing exceptional.
+
+Thompson: Now let's not waste time and head for the next location.
+
+...In a safe house somewhere.
+
+Thompson: We're now in Phase 2.
+
+Thompson: M14, you stay behind to guard this outpost. Everyone else, with me.
+
+M14: Wait... You're not taking us with you?
+
+Thompson: The operation will be rather risky from now on. You just switched positions so it's unwise to have you with us.
+
+Thompson: We'll rendezvous after the battle.
+
+M14: But...
+
+Thompson: No buts. Squad leader's order.
+
+M21: Don't worry, M14!
+
+M21: We'll sort it out quickly and come back for you soon!
+
+Thompson: Keep in touch.
+
+Thompson: I'll call you over if we need help.
+
+M14: Okay...
+
+The rest of the squad leave the safe house.
+
+M14 sits down against the wall of the building on her own.
+
+M14: ...
+
+M14: It's all the same...
+
+M14: We still got left behind.
+
+M14 curls into a ball and hugs her knees while she waits.
+
+M14: I'm all alone.
+
+M14: ...
+
+M14: I hate how it feels...
+
+M14: It's just like back then...
+
+???: Don't give up. We will definitely pass the test!
+
+???: Our numbers are dwindling...
+
+???: Are we really a defective model?
+
+???: As long as one of us passes the test...
+
+???: All our hopes are on you...
+
+M14!!
+
+M14: ?!
+
+A voice suddenly comes through the comm link. M14 jumps to her feet right away.
+
+M14: We're here!
+
+M14: Is this M21?! Is something wrong?
+
+M21: Cough... M14, withdraw immediately!
+
+M14: But our order is to...
+
+M1911: M14, you must leave that safe house at once!
+
+M1911: The enemy is much tougher than we imagined... A platoon we didn't manage to get is heading straight towards your location!
+
+M9: Stop chatting! They're on us again!
+
+M21: Alright, got it! I'll—
+
+M21: M14, we're in a bit of a spot now, but we'll get you as soon as we can...
+
+M14: (M21 seems to be in serious trouble...)
+
+M14: Why don't we stay here and ambush them?!
+
+M21: What?! Don't even think about it! Not funny at all!
+
+M21: Just run! We'll do our best to catch up!
+
+...Transmission terminated.
+
+M14: Then we're leaving.
+
+M14: But...if we go now...
+
+M1911: Have you put in any effort for what you want?
+
+M14: ...
+
+If I go now, won't I be letting down my companions of old?
+
+There once was a line of T-Doll that was put under hundreds and thousands of test during its development.
+
+Countless units of the same model were screened out from during the testing process.
+
+In the end, only a single unit passed all performance tests...
+
+M14: The remaining unit...was me.
+
+I survived all those tests. I am not defective.
+
+Even I can fight... Even I can achieve victory for everyone!
+
+This is all I want to prove!
+
+If I give up now, their sacrifice would've been for nothing.
+
+The T-Dolls retired in the lab...the ones that didn't pass the tests...
+
+I am the only one who still remembers them.
+
+If even I am retired, all memories of them will be gone.
+
+M14: I...
+
+M14: WE aren't defective, useless T-Dolls!
+
+M14: We have to fight!
+
+M14 connects to Thompson's communication channel.
+
+M14: Thompson!
+
+Thompson: M14? I don't have time...
+
+Thompson: Wait, why are you still at the safe house?!
+
+M14: Listen to us, Thompson!
+
+M14: We have an idea...
+
+...
+
+I will go forward on their behalf. This is our wish.
+
+I will never forget about this wish from now on.
+
+I will remember our past and live on...
+
+This is our fight.
+
+I must work even harder for this goal.
+Part 4
+
+    4chevron_right
+
+At the Griffin café.
+
+M21: ...So that's your story.
+
+M21: Earlier models really had it rough.
+
+M14: But we were really happy!
+
+M14: Thank you so much for listening to our story, M21.
+
+M21: It's nothing. We're friends, after all.
+
+M21: I'm glad to know you better.
+
+M14: Hmm, we've finished our coffee.
+
+M14: Time to rejoin the squad...
+
+M21: You seem nervous?
+
+M14: Yeah...
+
+M14: It's been a while, and we look different now... We wonder how they'll see us.
+
+M21: Don't worry. M14 is M14.
+
+M21: Besides, you did us a huge favor on our last mission. Miss Thompson was all smiles.
+
+M21: She arranged special training for you and even asked the Commander to file you in for a Neural Upgrade.
+
+M21: M1911 never had anything against you. Even M9, fussy as she is, won't have a problem with you.
+
+M14: Really?
+
+M21: Really! I'm not joking this time.
+
+M14: Th-that's a relief!
+
+M21: Now let's go. They're in for a shock when they see how you've turned out.
+
+In the dorm at the Griffin base.
+
+M1911: Say...isn't it the last day of the special training that Thompson put M14 through?
+
+M9: I think so... It's been more than a month. I wonder what M14's like after all that training.
+
+M9: I sure hope she didn't turn into a Thompson 2.0!
+
+M1911: If Thompson were here, you'd probably be full of holes by now.
+
+M9: Humph...
+
+M9: (Mutters) If Thompson ever finds out, some old granny must've snitched on me.
+
+M1911: I heard that, M9.
+
+M14: So you're here!
+
+The two T-Dolls in the lounge turn simultaneously to the door.
+
+M1911: Ah, you're back, M14.
+
+M9: What...? Are you really M14?
+
+M21: The one and only!
+
+M14: It's been a while. We missed you!
+
+M9: You look a lot cooler than before.
+
+M9: Damn, can't believe I'm actually jealous...
+
+M14: Heheh, all thanks to Thompson's special training!
+
+M14: Oh, and Miss Kalin, who acquired a lot of new parts for us.
+
+M14: We can easily take on hundreds of Sangvis now!
+
+M1911: Haha, it's the same old M14, alright.
+
+M1911: Now you don't have to worry, M9.
+
+M9: ...I wasn't worried or anything!
+
+M14: Don't worry. We'll definitely be of help from now on!
+
+M9: I said I wasn't worried...whatever.
+
+M1911: By the way... M14, that's not the first thing you should say when you see us.
+
+M14: Huh? Then what should we say?
+
+M9: Yep, she's still an idiot...
+
+M9: Isn't it obvious that you should say something along the lines of "I'm back" when you get home?
+
+M14: Oh... Then...we're back!
+
+M14: From now on, we will fight side by side with you!

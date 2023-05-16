@@ -1,0 +1,537 @@
+At the convention center.
+
+EM-2: While this is all a little sudden, I believe it won't be a big problem.
+
+EM-2: I heard that in the past, there were Dolls who went on a mission at a strange exhibition, but it wasn't too difficult...
+
+EM-2: So I believe I should be able to complete this assignment, as usual.
+
+After arriving at the expo area, EM-2 unloads the furniture assigned to her from her cart.
+
+EM-2: To a Griffin Doll, selling furniture should be a piece of cake.
+
+EM-2: Of course, I need to figure out exactly what all this furniture is first...
+
+EM-2: Since they were all made to high-end personal specifications by a pre-war firm, their size and shape don't match up to normal furniture.
+
+EM-2: That's probably why my database doesn't yield much relevant information...
+
+EM-2 looks at the unfamiliar furniture all over the ground and sighs.
+
+EM-2: In any case, let's lay all the furniture out first, so that it at least looks like a proper display.
+
+EM-2: This is an oblong wooden frame with some semi-transparent woven fabric in the middle. I guess it's a door or something?
+
+As EM-2 mutters to herself, she arranges the screen she's holding like a closed door.
+
+EM-2: This is a hollow wooden cylinder... Is this some kind of container?
+
+EM-2: I can't open it, guess I'll just put it aside for now.
+
+A rattan stool, densely woven into a near-spherical shape, rolls to the side of the screen in an undignified manner.
+
+EM-2: This is an S-shaped wooden object... What could it be used for? Is it meant to be hung on walls?
+
+EM-2: I guess I'll put it on the ground too.
+
+The sleek-looking wooden table lies all alone in front of the rattan stool, looking very forlorn.
+
+EM-2: This... Finally, a piece of furniture I can identify!
+
+EM-2: ...It's a vintage rotary telephone? An antique telephone from the 1870s to 1880s?
+
+EM-2: And you use it by...
+
+EM-2 tries to connect herself to the phone, then picks up the handset and gently holds it to her ear.
+
+EM-2: Hello?
+
+Telephone: Hello?
+
+EM-2: Good, it can pick up sound,
+
+EM-2: Now then, let's see if it can dial numbers.
+
+Telephone: (Crackle)... (Static)... (Crackle)...
+
+Telephone: ...
+
+Telephone: ...
+
+EM-2: Huh? Why isn't there any sound?
+
+EM-2: Did I break it because I was careless while moving it?
+
+EM-2 nervously checks the phone. The rotary dial is intact, and so are the dial shafts, the spring assembly, and the governor...
+
+EM-2: Going by the condition of its parts, this phone is practically brand new...
+
+EM-2: Looks like it isn't a problem with the parts. Could it be a signal issue? That would be a little tricky...
+
+EM-2 tries to perform a signal analysis on the antique rotary-dial phone.
+
+EM-2: As I thought, it's a signal mismatch issue. This phone uses pulse signals, which fell out of use in the previous century...
+
+EM-2: I guess it'll need to be modified if we're to sell it. Maybe I should add a dial pad too?
+
+EM-2: But then it won't just be changing the rotary dial, I'll also need to add a switch and a mechanical link, which will increase the chances of malfunction...
+
+EM-2: Frequent repairs aren't good for sales either. Maybe I should consider something else...
+
+EM-2 looks up from her examination of the rotary phone and realizes she's surrounded by curious onlookers.
+
+Passerby A: ...Why is the layout of this furniture display so strange?
+
+Passerby B: My worldview has been shaken...
+
+Passerby C: What's she fiddling with?
+
+EM-2: Huh? Where did all these people come from...
+
+EM-2: But I haven't fixed the phone yet, and I haven't researched the furniture either...
+
+JS9: EM-2, what are you setting up here?
+
+Just as EM-2 is wavering over what to do, JS9 walks through the crowd towards her, shining like the sun emerging from the clouds.
+
+EM-2: JS9! I...
+
+JS9: I bet you couldn't find any relevant info about these unusual pieces of furniture...
+
+JS9: I know how hard this must be for you. Come, I'll help you rearrange your display area.
+
+JS9: I just got a great idea from what you have here!
+
+JS9 skillfully rearranges the furniture.
+
+JS9: This is a screen; its purpose is to demarcate spaces and to block drafts from entering the interior.
+
+JS9: I'll put it here and give you a place to use your phone.
+
+JS9: This is a stool. You sit on it to rest when you're tired.
+
+JS9: And this is a table, you can put your phone on it...
+
+EM-2: Wow...
+
+EM-2 can only marvel in silent wonder as she watches JS9 lay out the display booth with immaculate precision.
+
+JS9: What are you standing here for? Go get changed.
+
+EM-2: Eh? Do I have to change?
+
+JS9: Of course! When conducting a Chinese furniture expo like this, the retail staff always change into similarly-styled clothing.
+
+JS9: This isn't just to add to the atmosphere of the expo, but also to show off our professional standards.
+
+JS9: So go change into your qipao while I'm rearranging your area.
+
+EM-2: Got it. Is there anything else a salesperson ought to be able to do?
+
+JS9: Hm... Well, sales isn't just about flogging your highest-priced products, but about satisfying your customers' desires to the best of your abilities!
+
+JS9: That's very important, but you can't cram for it at the last minute. It needs to be learned over time.
+
+JS9: Go change first. We'll start with a professional appearance.
+
+EM-2: ...Alright, I'll leave this place to you until I get back.
+
+EM-2: JS9, I'm back!
+
+EM-2: Wow— I can hardly recognize this place...
+
+JS9: You came back just in time. Stand here and give it a try.
+
+EM-2: Alright. Wow, it feels totally different just standing here and making a call...
+
+JS9: Excellent, this is exactly what I was aiming for.
+
+JS9: Since I've finished my work here, I'll go on to check on the next booth!
+
+JS9: Do your best, EM-2.
+
+EM-2: Sure thing, thank—
+
+EM-2: She's gone already...
+
+Passerby A: Wait a minute, didn't we just walk past this bit before? Was is the same booth?
+
+Passerby B: Yes, but now it looks completely different!
+
+Passerby C: Wow— This is amazing!
+
+EM-2: ...There are so many people all of a sudden!
+
+EM-2: Please, take your time to browse and buy anything you want!
+
+EM-2: I don't have time to worry about the telephone, let's focus on selling the other furniture first...
+
+An hour later, EM-2 has succeeded in selling most of the furniture, and the display area is mostly empty now.
+
+EM-2: Looks like this mission is nearly complete. Maybe I should take a short break while it is relatively quiet?
+
+EM-2: Oh yes, I haven't fixed the phone yet, so I haven't been able to sell it...
+
+EM-2: I'd better go repair it before a customer shows interest in it.
+
+Worried Woman: Excuse me, about this phone...
+
+EM-2: Oh no, speak of the devil...
+
+EM-2: Good day, ma'am. I'm sorry, but this phone isn't for sale at the moment...
+
+Worried Woman: Ah, I'm not here to buy the telephone!
+
+EM-2: Eh? So you want to...take a picture with it?
+
+Worried Woman: I got separated from my son and I'd like to use the PA system to find him.
+
+Worried Woman: I've been walking around this furniture expo for ages but I can't find any PA booths around here. This is the only thing which looks like it...
+
+EM-2: ...
+
+Worried Woman: ...Can this telephone do public announcements?
+
+As she sees the worried and expectant look in the woman's eyes, EM-2 briefly falls silent.
+
+EM-2: JS9 said that a professional salesperson does their best to satisfy their customer's expectations...
+
+EM-2: Although this old rotary-dial phone hasn't been fully modified yet, it might work if I link it to myself...
+
+EM-2: A moment please, ma'am.
+
+EM-2 turns and connects to the phone, using herself as a hub between the telephone and the PA system.
+
+EM-2: I've never tried this before, I wonder if it'll work...
+
+EM-2: I guess I should have given it a try first, huh?
+
+Worried Woman: ...May I use the PA system now?
+
+EM-2: Uh, alright.
+
+EM-2: Wait, I haven't tested it out yet!
+
+EM-2: If I mess up, I'll probably feel so bad I won't even be able to eat biscuits for the next three days...
+
+EM-2 holds the handset to her ear and calmly tests the telephone's functions.
+
+EM-2: ...Hello?
+
+EM-2's uneasy voice suddenly echoes across the noisy convention hall, though only briefly.
+
+EM-2: It worked! It actually worked!
+
+Worried Woman: Whew... Please help me find my child!
+
+EM-2: Certainly, ma'am. May I know your child's name?
+
+Worried Woman: Ming Ming! He's called Ming Ming!
+
+EM-2: Alright, I'll make a missing persons broadcast for you now.
+
+EM-2: Ming Ming, Ming Ming, please come to Display Booth 1 if you can hear this, your mother is looking for you.
+
+Worried Woman: Thank you, thank you so much...
+
+The woman stumbles weakly as relief washes over her. EM-2 guides her to the rattan stool.
+
+EM-2: Ma'am, please rest here. I'm sure your son will be rushing here soon.
+
+EM-2: Oh yes, I have some tasty biscuits here...
+
+Worried Woman: Thank you...
+
+???: Mama...
+
+Worried Woman: Ming Ming?
+
+???: Mama...
+
+???: MAMA!!!
+
+A mother's love surges through the woman's body, bringing her back to her feet and driving her toward her child. She takes him deep into her embrace and presses him firmly against her bosom.
+
+Worried Woman: It's alright, it's alright, I'm here...
+
+Ming Ming: (Sobs)
+
+As she watches the mother leave together with her child, a strange emotion wells up in EM-2's neural cloud.
+
+EM-2: What is this feeling?
+
+EM-2: It's not like how I feel when I part with my friends, and it's not like what happens when I run out of biscuits...
+
+EM-2: It's more like an emotion that comes to me every now and then when I'm alone.
+
+As EM-2 ponders this, an old man nervously approaches her.
+
+Crestfallen Old Man: Hello, I hear you provide telephone services here?
+
+EM-2: Wait a minute, since when did we offer such things?
+
+EM-2: Are people starting to get the wrong idea because of the broadcast I just made...?
+
+EM-2: Should I set the record straight? However, providing phone services might lead to an increase in sales volume...
+
+EM-2: Alright, I'll roll with it and offer those phone services.
+
+At this point, EM-2 blinks away the confusion in her eyes and puts on a professional smile.
+
+EM-2: Hello, these are our fees...
+
+The old man dumps all the change in his wallet onto the counter without waiting for EM-2 to finish.
+
+Clatter clatter clatter — the dull coins reflect a murky image of the old man's weather-beaten face.
+
+Crestfallen Old Man: Technology is so advanced now, and everyone's home is outfitted with communicators.
+
+Crestfallen Old Man: I can't afford to install one, so I had to beg people with cellphones to lend me theirs.
+
+Crestfallen Old Man: But as communicators are becoming more and more widespread, even cell phone users aren't that common anymore...
+
+Crestfallen Old Man: So when I heard someone say that there was a phone here, I rushed over to take a look.
+
+Crestfallen Old Man: ...Will this be enough? If not I'll think of something else.
+
+EM-2: ...
+
+EM-2: Yes, this is enough.
+
+Crestfallen Old Man: Good... good...
+
+EM-2: Who would you like to call?
+
+EM-2: Please give me the phone number, the name of the recipient, and your message.
+
+Crestfallen Old Man: I want to contact my son. He's fighting on the frontlines now.
+
+EM-2: ...Huh?
+
+Crestfallen Old Man: My oh my, young people nowadays don't care about the country anymore. Surely you're aware of something as serious as WWIII?
+
+EM-2: WWIII? But it's been over for years and years...
+
+Crestfallen Old Man: Over? Not for a while yet...
+
+Crestfallen Old Man: My son just wrote me a letter a few days ago, he said the battlefield hospitals were filled with casualties and he's busy every day.
+
+Crestfallen Old Man: He doesn't know when he'll be able to come home, and he said he missed home cooking.
+
+EM-2: ...
+
+Crestfallen Old Man: I checked, he should have half a day off today.
+
+Crestfallen Old Man: The conditions on the front are terrible, and my son has refused to take my calls because he doesn't want me to worry.
+
+Crestfallen Old Man: So help me call him and ask him how things are.
+
+EM-2 stares at the piece of paper with a telephone number written on it and hesitates.
+
+EM-2: Should I tell him the war is over?
+
+EM-2: It was so long ago, and if his son still hasn't come back, then he's most probably...
+
+EM-2: Has he lost himself in fantasy because he can't bring himself to accept the truth?
+
+EM-2 raises her head, and when the old man's eyes meet hers, she suddenly realizes that she's gotten the wrong idea.
+
+WWIII might be over, but to some people, the war is still going on, and it might never end.
+
+EM-2: Alright, I'll make the call.
+
+Telephone: (Crackle)... (Static)... (Crackle)...
+
+Lazy Woman's Voice: Hello? Who's this?
+
+EM-2: Hello, are you Dr. Nathan?
+
+Angry Woman's Voice: Again?! You keep calling this number and harassing me! Haven't I reported you to the police already?
+
+Angry Woman's Voice: Your son's been dead for over ten years and you're still calling this number! How many times do I have to tell you?!
+
+Angry Woman's Voice: It's bad enough that you keep calling me using different numbers, now you're even asking other people to call on your behalf! I've had it with you!
+
+The person hangs up angrily.
+
+EM-2 glances at the old man. He gazes serenely at EM-2, waiting for a reply.
+
+EM-2: ...
+
+EM-2: ...Er, hello, Dr. Nathan, I'm E, a telephone operator from the furniture expo.
+
+EM-2: Your father would like to know how you're doing. Have you been well recently? How's the war going?
+
+Telephone: (Dial tone)
+
+EM-2: Ah, I see, that's good then.
+
+EM-2: Mhm, right, I'll help relay your message.
+
+Telephone: (Dial tone)
+
+EM-2: Huh? Is your break over so soon?
+
+EM-2: Alright, alright, please be mindful of your health and take care of yourself.
+
+EM-2: Goodbye.
+
+EM-2 puts down the handset.
+
+Crestfallen Old Man: How was it? What did he say?
+
+EM-2: ...
+
+EM-2: He says he's doing well. He's in good health and he isn't hurt, just very busy.
+
+EM-2: They did win a battle recently and they're going to organize a celebration, so they will have a brief opportunity to rest.
+
+Crestfallen Old Man: That's good...that's good...
+
+Crestfallen Old Man: What else? Did he say anything else?
+
+EM-2: ...
+
+EM-2: He asked you to take care of yourself and stay in good spirits...
+
+EM-2: And when he comes home, he asks that you cook his favorite dish for him...
+
+Crestfallen Old Man: Hahaha, that little glutton, there's no way frontline rations would suit his palate.
+
+Crestfallen Old Man: When he comes back, I'll make him whatever he wants!
+
+EM-2: ...
+
+Crestfallen Old Man: Thank you, young lady.
+
+EM-2: ...You're welcome.
+
+The old man grabs his things and totters away. His solitary figure is swallowed up by the milling crowds in the blink of an eye.
+
+EM-2: ...
+
+EM-2: Though they haven't even seen each other for so long, his feelings for his son haven't faded in the least...
+
+EM-2: Is this what it's like to miss someone? That stubborn feeling that occupies your heart for a long time, that isn't bound by location or subject?
+
+EM-2: For most people, that yearning fades with the passing of time.
+
+EM-2: But for some, their longing is so strong that even after their loved one has long since departed this world, their feelings still remain.
+
+EM-2: I guess a Doll like me won't go through things like that too often, because even if my friends are gone, they'll return soon enough.
+
+EM-2: Besides, Dolls can always get rid of such relentless agony simply by clearing out their neural clouds.
+
+EM-2 sighs, as though she's recalled an unpleasant experience.
+
+EM-2: That said, when the Commander is on dangerous missions and all I can do at the base is worry...
+
+EM-2: I don't clear out my neural cloud. Instead, I hold onto that bitter feeling...
+
+EM-2: Why is that? I clearly don't have to be tormented by painful longing like humans, yet...
+
+EM-2's visual modules suddenly grow blurry, and she squeezes her eyes shut.
+
+In the darkness, she feels her world slowly sinking.
+
+EM-2: Why am I being so sentimental? All I need to do is carry out the Commander's orders.
+
+EM-2: Speaking of which, my neural cloud is composed of nothing but data and programs, so could such an emotion really be considered "longing"?
+
+EM-2: ...And what does this feeling mean to the Commander?
+
+EM-2: What orders would the Commander give me if I ever reveal these feelings?
+
+EM-2's neural cloud conjures up a familiar figure.
+
+EM-2: ...
+
+EM-2: Commander...
+
+EM-2: If the day came when we could never meet again, what would you do?
+
+EM-2: What sort of order should I carry out then?
+
+EM-2's cool hands rest over where her neural cloud is installed, but that familiar figure simply turns and smiles to her in her mind.
+
+The handset is warmed by her touch.
+
+EM-2 rubs her eyes and dials that familiar number.
+
+At the airport. The Commander is rushing to the furniture expo and has just gotten off the plane.
+
+The communicator beeps with an incoming call.
+
+Commander: ...An unknown number?
+
+???: Commander...
+
+???: It's me. EM-2.
+
+Commander: Why aren't you using your communicator? Did something happen?
+
+EM-2: Nothing happened!
+
+EM-2: I just...
+
+EM-2: Today, I helped several people call those whom they were missing...
+
+EM-2: Which got me thinking a lot about what it means to miss someone.
+
+Commander: ...What it means to miss someone, you say?
+
+EM-2: It's ridiculous for a Tactical Doll, isn't it...
+
+Commander: I think that both humans and Dolls have things they can't forsake, no matter what.
+
+Commander: Even if they're nothing but shadows of the past or untouchable taboos, they want to hold tightly onto them and never let go.
+
+Commander: I guess that's why you long for something or someone, right?
+
+EM-2: But what if...that feeling of "longing" is just the result of some data processing?
+
+Commander: By that logic, human longing would also be nothing more than the results of some data processing.
+
+Commander: The human brain takes all the things it has experienced and converts them into neural and chemical signals, which are then compiled into a network. This gives rise to memories and emotions.
+
+EM-2: ...
+
+Commander: But I think that longing isn't a form of data. It's a private emotion that is exclusively your own, so there's no need to feel bothered by it.
+
+Commander: If you long for someone, it means that you've encountered a person who's made their way deep into your heart, and that is a very fortunate thing.
+
+EM-2: But doesn't it hurt to miss somebody?
+
+EM-2: Because the people I met today...
+
+EM-2's neural cloud plays back what it has recorded today.
+
+A mother who was moved to tears as she embraced her son, and an old man whose eyes lit up after hearing an answer.
+
+EM-2: It was painful, but they took joy in that...
+
+Commander: Something like that. The sweeter your memories, the more bitter your longing, no?
+
+Commander: If we only had sweetness in our lives, we wouldn't be able to appreciate how valuable it was.
+
+Commander: But bitterness reminds you of how hard-won that sweetness you once enjoyed was.
+
+EM-2: ...Is that what longing means?
+
+Commander: Different people have different ways of understanding it. To me, "longing" is something that reminds me to cherish each and every day I have with all of you.
+
+EM-2: Even if someday, we might no longer see each other ever again...?
+
+EM-2: Then to me, longing is —
+
+???: Hi, but is this table for sale?
+
+EM-2: Sorry, Commander, I need to get back to work!
+
+She hangs up in a hurry.
+
+The Commander turns off the communicator and takes a picture out of a carry bag.
+
+In the picture, over 300 girls were looking at the camera - some with a lovely smile, others with cold impassiveness.
+
+Commander: ...What it means to miss someone, huh.

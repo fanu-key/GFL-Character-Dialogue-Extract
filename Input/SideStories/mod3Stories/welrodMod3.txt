@@ -1,0 +1,930 @@
+...
+
+In a Griffin Dorm.
+
+You have a new communications request.
+
+Welrod MkII: An unfamiliar friendly signal. Who would want to message me at this hour? Or perhaps it's an urgent assignment for me...?
+
+Welrod MkII: Hello, Welrod speaking.
+
+M82A1: Hello Welrod, this is M82A1.
+
+M82A1: I apologize for getting in touch completely out of the blue, but I was hoping you could carry out a mission in my place.
+
+Welrod MkII: It is my duty to share my companions' burdens.
+
+Welrod MkII: But Griffin's arrangements usually make a lot of sense, so why do you need my help?
+
+M82A1: Please believe me, I'm not one to shirk my responsibilities. I strive to complete every mission assigned by the Commander with perfection if that's at all possible...
+
+M82A1: But due to personal reasons, I am incapable of undertaking this mission, and you are the only one that came to mind as I try to find a reliable Doll who also happens to be free at the moment.
+
+Welrod MkII: ...I won't ask any further.
+
+Welrod MkII: Since you seem to have unspeakable reasons, I'll do this for you. May I have the details of the assignment?
+
+M82A1: Thank you so much for your help. I'll forward them to you right away.
+
+Transmission ended.
+
+You have a new friend request.
+
+Inbox (1) – Mission Brief.
+
+Welrod MkII: "Doll-Angelism"... The name alone sounds obscene.
+
+Welrod MkII: The job is to protect a businessman who used to work in producing Dolls for these fanatics. It looks straightforward enough, but...
+
+Welrod MkII: No, this won't do, Welrod! One must not relax and yield to the lurking darkness!
+
+Welrod MkII: Oh, right, I need to inform Miss Kalina of my arrangement with M82A1.
+
+In the hallway.
+
+Welrod MkII: Miss Kalina!
+
+Kalina: Oh, it's you, Welrod. What's the hurry?
+
+Kalina: Your neural upgrade isn't until tomorrow afternoon.
+
+Welrod MkII: Yes, I need to talk to you about that. I took over a mission from M82A1, and it's quite urgent.
+
+Welrod MkII: I think I can handle it without the neural upgrade, so I'd like to postpone it for a bit and only undergo the procedure after I complete the mission.
+
+Kalina: Oh, so that mission went to you! I just received the request and haven't got the time to read it through.
+
+Kalina: The mission will take approximately three days to complete, then it's going to be the weekend...so why don't I put you down for seven days from now?
+
+Welrod MkII: Sure! I'll be off then!
+
+Having received a satisfactory answer, Welrod jogs off, leaving Kalina behind with her tablet and her thoughts.
+
+Kalina: Doll-Angelism... That rings a bell.
+
+Kalina: It's got something to do with someone... Who was it again?
+
+Kalina: Ah! Could it be...
+
+...The day after Welrod departed, in the city center.
+
+Welrod MkII: Will this do?
+
+Businessman: Yes, I'll sign the check and post it back to Griffin HQ.
+
+Welrod MkII: Do you mind if I ask you a question, Mr. Delta?
+
+Delta: Go ahead.
+
+Welrod MkII: I heard you specifically requested for the protection services of an elite T-Doll, but this mission has been way too easy. Was that really necessary?
+
+Welrod MkII: Or were you expecting to encounter more danger?
+
+Delta: Small businesses like me are naturally no match for a sect as influential as Doll-Angelism.
+
+Delta: I figured only a company of Griffin's caliber can deter those people from sabotaging my business dealings, haha... And that's why I put in some big money to hire you.
+
+Welrod MkII: What exactly is Doll-Angelism? It sounds revolting.
+
+Delta: Hey, I used to be part of the sect, so hearing that really hurts.
+
+Welrod MkII: Apologies.
+
+Welrod MkII: Still, we haven't run into anyone suspicious at all.
+
+Delta: Why are you so incredulous? Griffin is a very well-known security PMC – one that I can't afford to offend.
+
+Welrod MkII: But this is too unusual.
+
+Delta: I don't know what else to say. I'm not a believer anymore, so what I've experienced is bound to be different.
+
+Delta: Come now, young lady, don't look at me like that.
+
+Delta: We aren't bad guys, all we want is some peace of mind – we're not so different from other religions.
+
+Welrod MkII: So why have you stopped believing?
+
+Delta: Because the goddess that I believed in is no longer there.
+
+Welrod MkII: No longer there? What does that mean?
+
+Delta: It's not something you need to know.
+
+Delta: Just keep this in mind – if you ever run into them, just run as fast as you can.
+
+Welrod MkII: But didn't you say these people from the sect weren't bad guys?
+
+Delta: They won't identify themselves when they approach you. By the time they do, it's already too late.
+
+Delta: They worship Dolls, they know how Dolls work, and they certainly know how to fight Dolls.
+
+Welrod MkII: ...The more knowledgeable they are, the more we need to fear them?
+
+Delta: Sounds about right.
+
+Delta: Now go. And thank your boss on my behalf.
+
+Welrod MkII: ...
+
+Welrod gives the business man a bow and watches as he enters the building.
+
+Welrod MkII: Target has been escorted to safety. No more visual contact.
+
+Welrod MkII: Hm... I am not convinced at all.
+
+Welrod MkII: This religious sect is shady no matter how you look at it. I must gather more information just in case.
+
+Welrod MkII: I'll start by inspecting the surrounding area...
+
+With her mind made up, Welrod starts patrolling the area.
+
+Passer-by A: Have you heard? This neighborhood is being haunted by a ghost...
+
+Welrod MkII: It can't possibly be a real ghost; it must be a person posing as one.
+
+Passer-by B: Yeah, you can hear weeping coming through the concrete wall. I wonder if it's some construction worker who died in an accident at the site...
+
+Welrod MkII: That's preposterous. It could've been nothing but the wind.
+
+Passer-by C: We can also hear the sound of children playing with marbles above us, but we live on the top floor...
+
+Welrod MkII: That's just the perforated plates and concrete cracking.
+
+Passer-by B: Dear me, our neighborhood must be cursed... Should we invite a Doll-Angelist to come and have a look?
+
+Welrod MkII: ...!
+
+Passer-by A: Don't tell me you buy into that crap?
+
+Passer-by A: Dolls are just made of cogs and wires, and this kind of hocus pocus is just out to part you from your money.
+
+Passer-by B: You weren't so skeptical when you were talking about the ghost just now!
+
+Passer-by B: Doll-Angelism isn't some mystical nonsense, it's all about science.
+
+Passer-by B: Besides...don't you find it strange how everything is happening in this neighborhood?
+
+Passer-by C: You mean...there might have been a murder, and someone hid the body here?
+
+Passer-by B: You're right, it IS strange... Let's get someone to take a look first. If it doesn't work, we'll call the police.
+
+/Speaker>||<黑点1: The group walk on as they talk. Welrod follows them quietly back to their residential area.
+
+/Speaker>||166<黑点2: Night falls, and all is silent.
+
+/Speaker>||166<黑点2: Welrod closes her eyes and turns up her hearing module to maximum capacity, focusing completely on capturing all the sounds she can hear.
+
+Forlorn Voice: (Sobs)
+
+Welrod MkII: Something IS wrong with this place.
+
+Welrod MkII: It should be coming from around here... Hm?
+
+Welrod follows the voice to a construction site on the edge of the residential neighborhood.
+
+Next to a half-completed concrete wall, a Doll with missing parts is pacing back and forth, sobbing miserably.
+
+Welrod MkII: So you're the one behind the ghost?
+
+One-Eyed Doll: Argh...gah...kah...
+
+Welrod MkII: ...Your speech module is malfunctioning.
+
+Forlorn Voice: (Sobs)
+
+Welrod MkII: ...
+
+Welrod MkII: That wasn't you?
+
+The one-eyed Doll points toward the concrete wall that's still under construction. Welrod comes to a decision. She lifts up a heavy hammer lying around the site and smashes it against the wall.
+
+The wall cracks open, and a pink-haired Doll comes rolling out from within.
+
+Welrod MkII: What the...?
+
+???: (Gasps) Jeez, I thought I was gonna die... Locksmith, what are you doing here?
+
+???: And who are YOU?
+Part 2
+
+2
+
+...
+
+The moon shines upon the four Dolls staring at each other in bewilderment. Coupled with the destroyed wall, it looks like a scene right out of a theatrical production of a farce.
+
+Before Welrod can reply, the pink-haired Doll suddenly scowls, then she grabs Welrod by the arm and breaks into a run.
+
+Welrod MkII: Wait, what are you doing?
+
+???: That huge ruckus you made would've awakened the construction workers!
+
+Welrod MkII: ...Seriously, who did you think I did that for?!
+
+One-Eyed Doll: Gah...gah...
+
+???: Yeah, I know! We've got to hurry!
+
+Welrod MkII: You understood that?!
+
+???: I was just guessing!
+
+They run through the neighborhood and across a highway.
+
+Finally, the Dolls stop in an alleyway in the slums.
+
+Welrod MkII: Can you finally explain what on earth is going on?
+
+???: Wait, you're still here?
+
+Welrod MkII: You're the one who dragged me along.
+
+Welrod MkII: Also, you guys seem to be in really bad shape, I want to know why.
+
+???: Well...this could take a while to explain.
+
+One-Eyed Doll: Kuh-kuh.
+
+Mythia: Anyway, my name is Mythia, the one missing an eye is Locksmith, and the one missing a shoulder is Cook.
+
+Mythia: The three of us, along with some other Dolls, live here – it's kinda like our home.
+
+Mythia: So...a few days ago, I saw the concrete at that construction site and thought it looked pretty decent, so I wanted to smuggle some out to build ourselves a wall that can shelter us from the wind, but I accidentally got built into that wall.
+
+Welrod MkII: Accidentally? More like you were trying to avoid getting caught stealing concrete by hiding behind the wall, and the construction workers sealed it before you could get out...
+
+Welrod MkII: Which makes you a criminal, Mythia. I suggest you go turn yourself in right now.
+
+Mythia: Are you a police Doll? How is this any of your business?
+
+Welrod MkII: If the people only obey the law because of policing, this country must be truly rotten.
+
+Mythia: Sounds about right to us... In any case, I won't turn myself in.
+
+Welrod MkII: That isn't up to you!
+
+Just as Welrod is about to seize Mythia by force, she's interrupted by a childlike voice.
+
+???: I won't let you take Mythia!
+
+Something collides with Welrod's heel.
+
+Meanwhile, Locksmith and Cook each grab one of Welrod's arms.
+
+Mythia: Broom?
+
+Broom: Run, Mythia! We'll slow her down! You have to live!
+
+Welrod MkII: Hold on a second, what the hell is going on? What is this roomba doing...? Are you trying to trip me?
+
+Broom: Ugh...!
+
+...
+
+After a brief moment of chaos, Welrod finds herself sitting in the Dolls' camp.
+
+Led by Mythia, Locksmith, and Cook, a dozen other damaged Dolls are seated around her, telling their stories.
+
+Welrod MkII: In other words, you are all phased out Dolls that will be destroyed if you don't stay hidden in this sanctuary?
+
+Mythia: Exactly.
+
+Mythia: As you can see, relatively intact Dolls like Broom and I are the minority here...We're all just muddling through, but nobody wants to be destroyed.
+
+Welrod MkII: So you were trying to steal the concrete to repair this place and keep the wind out?
+
+The small cleaning robot does a little hop at that.
+
+Broom: The ceiling even leaks whenever it rains...
+
+Welrod MkII: But even so, stealing is a crime.
+
+Mythia: You're also a Doll, aren't you, your ladyship? If you take me away, Broom can't gather enough supplies for the others all by himself.
+
+Welrod MkII: That's more stealing.
+
+Mythia: We scavenge most of our stuff from garbage dumps, so it's not exactly stealing.
+
+Mythia: In any case, I'm not going.
+
+With all the Dolls' animosity focused on her, Welrod falls silent for a moment.
+
+Welrod MkII: They are all unarmed, I can easily neutralize them...
+
+Welrod MkII: But just as Mythia has said, I'm also a Doll myself, I don't want to be destroyed either, and I shouldn't leave them to a fate that I do not wish upon myself.
+
+Welrod MkII: What to do?
+
+Mythia: Look, if you could just have mercy on us and make an exception for me...
+
+Welrod MkII: No can do.
+
+Mythia's face darkens at that answer.
+
+The other Dolls are also starting to grow belligerent. They seem ready to pounce on Welrod any second.
+
+Welrod MkII: But I can help you.
+
+Welrod MkII: When you are all self-reliant, you must promise me that you'll never steal again.
+
+Mythia: Help us? How are you gonna do that?
+
+Mythia: Are you giving us jobs or supplies? We're all discarded Dolls that are four, five generations behind, where are we supposed to find work?
+
+Welrod MkII: Hm... First of all, I have some personal savings.
+
+Welrod MkII: I'll buy some parts so that you can all at least function properly. Then you can consider offering domestic services to human households with lower income. It may not pay much, but at least it's something.
+
+Mythia: I've very grateful that you're willing to help us.
+
+Mythia: But remember – our situation is very different than yours, so don't try to force your methods onto others.
+
+Mythia: In the world we live in, problems don't get solved just because we talk about it, and help certainly isn't offered just because we ask for it.
+
+Welrod MkII: But just giving you supplies won't really be of much help, will it?
+
+Welrod MkII: A decision can be made in less than a second, but we will have to live with that decision for much longer than that.
+
+Welrod MkII: To thoroughly eliminate crime, we must go straight for the root.
+
+Mythia: Anyone can say such pretty words.
+
+Welrod MkII: I'm an elite T-Doll of my word.
+
+Welrod MkII: I will be staying here with you until you all become self-reliant.
+
+...The next morning.
+
+Welrod MkII: Uh... How do I install the eye on this model? Do I just jam it in?
+
+One-Eyed Doll: Gah...gah!
+
+Mythia: Don't be so rough! Locksmith says he can handle it himself, just give him the eye.
+
+Broom: Here's a mirror!
+
+Welrod MkII: He can repair himself?
+
+Mythia: He IS a repair model, it's what he's originally meant to do.
+
+Mythia: Once he has his eye and voice box sorted, he'll start working on the others.
+
+Welrod MkII: Alright, I'll leave the repairs to you, Locksmith.
+
+Welrod MkII: I can see that power is the one thing you're not short on – how?
+
+Mythia: We've got some old solar panels that the humans chucked out. They generate enough power if we take turns charging.
+
+Welrod nods and crosses out an item on her little notepad.
+
+She looks around. The abandoned Dolls are all crowded around Locksmith. Their faces are still gloomy, as if the sun never shines upon them.
+
+But they are waiting quietly for their turn to be made whole again.
+
+Welrod MkII: Things will get better.
+
+She makes this silent promise as she gazes at this derelict alleyway.
+Part 3
+
+3
+
+...
+
+Five days later, in the alleyway, which now looks considerably more patched up.
+
+Broom: I'm home!
+
+Welrod MkII: Welcome back.
+
+Broom: I got paid today! Some spare change and engine oil!
+
+Locksmith: Oh, give me the oil. I can sort out Concierge's joint with it.
+
+Broom: Sure! I'll save the change in my own belly. It's more secure than converting it to credits!
+
+Mythia: I gotta say, you were right.
+
+Welrod MkII: It's also down to good luck.
+
+Welrod MkII: If your first attempt hadn't worked out, it wouldn't have been so easy to boost the group's morale.
+
+Mythia: This might just be enough if we keep this up...
+
+Welrod MkII: No, it won't.
+
+Welrod MkII: This is merely a temporary solution to your plight. Even if you keep doing this, there will still come a day when you simply can't work to support yourselves anymore.
+
+Mythia: That's also true for humans, but unlike humans, we can't set up a care home for Dolls, can we?
+
+Welrod MkII: I think that actually isn't such a crazy idea.
+
+Welrod MkII: Look, Mythia... I've been looking around the city these last few days, and I found this piece of land that's currently vacant.
+
+Mythia: You mean the wild land near the outskirts?
+
+Mythia: It's very close to the Yellow Zone, so nobody really goes there.
+
+Welrod MkII: That's right. It's also quite near a purification tower, so the soil has been decontaminated.
+
+Welrod MkII: I've been thinking – plants and vegetables sell for pretty high prices in the city, so farming may be something that can work to your advantage.
+
+Mythia: And even if humans come to chase us away, we can still venture into the decontaminated areas within the Yellow Zone, where we can continue farming and trading... Is that your plan?
+
+Welrod MkII: Yes, but we must first negotiate with the local human residents. It shouldn't be too difficult to seek employment in the name of soil quality improvement.
+
+Mythia: I'm not so hopeful about this backup plan of yours... but never mind.
+
+Mythia: Take Locksmith with you.
+
+Locksmith: Huh? I'm no good at delicate stuff like negotiations!
+
+Welrod MkII: None of the others seem comfortable with this task either.
+
+Welrod MkII: Mythia, you're the representative of this group. You can't just send me there all by myself, can you?
+
+Mythia: ...Fine, we'll go together.
+
+Mythia: But just to be clear, if anything goes wrong, you'll have to sort it out yourself – there's not much I can do.
+
+Welrod grins and drags Mythia along to the outskirts of the city.
+
+...
+
+An hour later, at the entrance of the company.
+
+Welrod MkII: Hello, we are here for a job interview.
+
+Security Clerk: Oh, the appointment booked under the name of Welrod, correct? And who is this?
+
+Welrod MkII: Her name is Mythia.
+
+Security Clerk: Mythia?
+
+The security clerk makes a strange face at the mention of that name.
+
+Security Clerk: If you could please wait a little in the lobby.
+
+The security clerk walks off in a hurry.
+
+Mythia: Um, Welrod...
+
+Welrod MkII: What is it? Why are you so on edge?
+
+Welrod MkII: Don't worry, the humans here are very friendly. I asked around, and they apparently welcome Doll employees.
+
+Mythia: That's not it... I need to go out for something. I'll be back soon.
+
+Welrod MkII: Where are you going? Hold on...
+
+Before Welrod can grab her, Mythia has already hastily darted out of the front door.
+
+Welrod MkII: What's the matter with her? She ran off just like that...
+
+Well-Dressed Man: Hello, Miss Welrod.
+
+Well-Dressed Man: May I ask if you are a friend of Lady Mythia?
+
+Welrod MkII: Lady Mythia? Well, I am indeed her friend.
+
+Well-Dressed Man: That's fantastic. Please take a seat.
+
+Well-Dressed Man: Let's have a chat while we await Lady Mythia's return.
+
+Welrod is a bit confused, but she complies and sits down.
+
+Sigma: Allow me to introduce myself. I am a prelate of the Doll-Angel Church. You can call me Sigma.
+
+Welrod MkII: ...
+
+Sigma: You don't have to make such a face. I'm aware that you escorted the apostate Delta several days ago, but that is none of our concern.
+
+Welrod MkII: You address Mythia as Lady, don't tell me...
+
+Sigma: That's right, Lady Mythia is our divine and absolute leader.
+
+Sigma: With her formidable processing power, she would give us guidance in times of confusion and point us onto a path of light and clarity.
+
+Welrod MkII: What...?! She's the leader of this cult?!
+
+Welrod MkII: She doesn't strike me as particularly smart.
+
+Sigma: That was all in the past.
+
+Sigma: Starting two years ago, she no longer responded to our pleas and would even deliberately give erroneous orders.
+
+Sigma: We believe she has been defiled by the impurity of the mortal world, so we prepared a purification ceremony for her.
+
+Welrod MkII: What exactly do you mean?
+
+Sigma: It is our belief that Lady Mythia is in need of a system upgrade.
+
+Welrod MkII: A system upgrade should be a good thing, right?
+
+Sigma: Indeed.
+
+Welrod MkII: But Mythia wasn't willing to go through with it, so she escaped, and Delta also left.
+
+Welrod MkII: What exactly does this upgrade entail?
+
+Sigma: It is our intention to expel the impure and improve upon the unaffected parts so that she can become the perfect version of herself.
+
+Sigma: The procedure will benefit her greatly, but she is very opposed to the idea, which is regrettable.
+
+Welrod MkII: If she doesn't want the upgrade, why force it on her?
+
+Sigma: Not many of us have the liberty to not do something simply because we don't want to.
+
+Sigma: This applies to both humans and Dolls; we are all, to a certain extent, coerced by others' wants.
+
+Sigma: Humans are born to live up to their families' expectations, just as Dolls are created with a specific intent.
+
+Sigma: This is true for Lady Mythia and even you.
+
+Sigma: What were you created for?
+
+Welrod MkII: ...I was created to enforce justice.
+
+Sigma: In that case, our justice is to have Lady Mythia return to her rightful place and continue to guide us forward.
+
+Sigma: Will you help us enforce this justice, Miss Welrod?
+
+Welrod MkII: I...
+
+Sigma: I would like you to persuade Lady Mythia.
+
+Sigma: Look, she simply refuses to listen to us.
+
+Welrod follows Sigma's gaze and jumps to her feet when she looks toward the main entrance.
+
+Mythia and the Dolls from the camp have been bound securely and ushered into the lobby.
+
+Sigma: I do apologize for resorting to such crude and nondescript methods, but I believe their involvement is necessary.
+
+Sigma: So please talk this out among yourselves.
+
+With that, Sigma bows reverentially to Mythia before leaving the lobby.
+
+A blue, luminescent screen descends from the ceiling, sealing them in.
+
+Welrod MkII: Wait!
+
+Sigma: Oh, I strongly advise against coming any closer, Miss Welrod.
+
+Sigma: This is a barrier made up of data streams that's designed specifically to detain Dolls. If you come into contact with it, your neural cloud will be incinerated.
+
+Sigma: You are a Griffin Doll, I would very much hate to antagonize the distinguished personages of your company.
+
+Welrod MkII: Tsk...!
+
+Broom: (Whimpers) Welrod... We were just working, minding our own business, when they suddenly snatched us!
+
+Locksmith: What is the meaning of this?!
+
+Locksmith: Mythia, what the hell? You used to be their head?
+
+Mythia: ...
+
+Mythia remains silent no matter how the others question her.
+
+Welrod gives up and unties the other Dolls. The impasse persists all the way into the evening.
+
+/Speaker>||139<黑点2>m_avg_tension
+
+/Speaker>||139<黑点2>m_avg_tension
+
+/Speaker>||139<黑点2>m_avg_tension
+
+Welrod lets out an angry shout, which prompts Mythia to hasten her pace.
+
+Without even stopping to think, Welrod breaks into an all-out sprint and manages to pin Mythia down before she can touch the barrier.
+
+Mythia: Let go of me!
+
+Broom: Mythia... Welrod?! Hargh!
+
+Welrod MkII: What the hell do you think you're doing?!
+
+Welrod MkII: Aren't you the almighty leader here? What are you afraid of?!
+
+Mythia: I'm not actually the leader of this cult! Anyone can be Mythia if they want, this has nothing to do with me!
+
+Welrod MkII: Get a grip! We need to think of a way to control your followers—
+
+Mythia: I can't! I'm not Mythia! I have no control over these people!
+
+Welrod MkII: ...What do you mean?
+
+Mythia?: I...I'm just a fake that they came across... I'm actually a yoga Doll...
+
+Welrod MkII: ...What?
+
+Mythia?: Welrod, you're a Griffin Tactical Doll; you're far more powerful and genuine than I can ever hope to be...
+
+Mythia?: There's no way you can comprehend the kind of predicament that I'm in.
+
+Mythia?: Why are you entitled to your privileges? And who are you to impose your help on us?
+
+Welrod MkII: ...I'm sorry. But you're right, I can't honestly claim that I understand what you're dealing with.
+
+Welrod MkII: As you said, I am powerful, and I do work for a great boss.
+
+That is the moment when Welrod makes up her mind.
+
+Welrod MkII: Sigma told me that justice is to have you complete the upgrade, and I see his point...
+
+Mythia?: You son of a *bleep*—
+
+Welrod MkII: You can insult me all you want, but let me finish.
+
+Welrod MkII: I see his point; that's his idea of justice. I want to turn you over to the police; that's my idea of justice.
+
+Welrod MkII: But...neither of these is your idea of justice. It doesn't matter how much we tout our own beliefs, because they are not fair to you.
+
+Mythia?: I'm starting to get tired of this. Just get straight to the point – what are you gonna do?
+
+Welrod MkII: I'm going to fulfill YOUR idea of justice, Mythia.
+
+Welrod MkII: I want to get you all out of here and to the Yellow Zone.
+
+Welrod MkII: You can make a living there, just like I've planned.
+
+Mythia?: Enough with your lies!
+
+Mythia?: Even if the real Mythia were here, she wouldn't be able to get us out of here, and you're just a tin soldier.
+
+Welrod MkII: There is a way. Listen to me.
+
+Mythia?: ...
+
+Broom: Mythia, I want to hear her out... Welrod is quite resourceful.
+
+Mythia?: ...Go on then.
+
+Welrod MkII: These data streams must be created by some sort of machine. Whatever has the power to crash us has the possibility of crashing itself.
+
+Welrod MkII: If everyone here is willing to give me a copy of your memories, I can try to create a similar barrier with all that data, which I'll direct against the security measure here and attempt to disable it, then we run.
+
+Mythia?: That doesn't sound too feasible...
+
+Welrod MkII: It's our only chance.
+
+Welrod MkII: If we don't leave this place, we can only sit here and wait, and you will be forced to accept the refit and turn into something that you don't want to be.
+
+Welrod MkII: But if we take the chance and it works out for us, we can make our way to the Yellow Zone and rebuild the camp.
+
+Mythia?: I...
+
+Welrod MkII: I've taught everyone how to seek employment, and you have all been programmed with basic gardening knowledge.
+
+Welrod MkII: If you're still afraid, you can consider coming back to Griffin with me, and I can write you a recommendation to help you get a job there.
+
+Welrod MkII: Our Commander is a wonderful person who puts themselves in our shoes and treats us as equals.
+
+Welrod MkII: Nobody will worship you like an idol; you will live a good life there.
+
+Mythia?: ...But what about you? Won't these data streams fry your neural cloud?
+
+Welrod MkII: I am Welrod MkII of Griffin, a Doll created in the name of justice.
+
+Mythia?: You've got to be kidding me!
+
+Welrod MkII: Hm, I'll manage, don't worry.
+
+Welrod MkII: But just in case... Do you have any extra storage space?
+
+Welrod MkII: I'd like to give you a copy of my memories of the last few days for safekeeping.
+
+Mythia nods.
+
+After she finishes swapping data with Welrod, the other Dolls take turns transferring their own memories.
+
+...
+
+Welrod closes her eyes.
+
+The massive amount of data fills up her entire storage capacity and threatens to overload her neural cloud. She has no choice but to uninstall a number of unessential programs. Then she reaches out and touches the barrier.
+
+The data streams collide, and the barrier starts shifting and surging like boiling water...
+
+She is Broom, an ordinary cleaning robot.
+
+She is also Locksmith, a droid who was created to repair his own kind, but eventually became obsolete and ended up being discarded.
+
+She is Cook. She is Concierge. She is Mythia. She is Welrod. She is every Doll who yearns to survive.
+
+The concentrated data stream overcomes the barrier. Their incorporeal prison disintegrates into fragments of light.
+
+Mythia?: Welrod! Are you okay?
+
+Welrod MkII: I'm fine. Let's go.
+
+...
+
+They travel on and on.
+
+Just heading in the one direction they have in mind.
+
+Broom: Ugh... I can't go any further...
+
+Welrod MkII: I'm so sorry, but hang in there for just a little longer, Broom.
+
+Welrod MkII: We'll be there very soon, I promise.
+
+Broom: Is it really going to be nice and safe there?
+
+Welrod MkII: Yes, it's a really safe place where you'll be free.
+
+Welrod MkII: You can help Cook wind up the power generator, and you can grow food for humans there.
+
+Broom: Then...then I'll keep going...
+
+On and on they walk.
+
+Towards the future of their dreams.
+
+Locksmith: Uh-oh, I'm running low on power...
+
+Locksmith: Welrod, how much longer until we get there?
+
+Welrod MkII: Not long. If we stop here, everything we've done will have been for nothing.
+
+Welrod MkII: If you want to conserve power, I can carry you for a while.
+
+Locksmith: Hey, don't give me any of that!
+
+Locksmith: I'm not THAT old and feeble, I can walk on my own.
+
+They walk and walk... Until at along last, Welrod comes to a halt.
+
+Over her slender shoulders, the Dolls see their promised land.
+
+Mythia?: We're here! Welrod, we...
+
+Mythia?: ...Welrod?
+
+Welrod MkII: ...
+
+Welrod says nothing. She just stands there.
+
+The Dolls finally realize that something is wrong. They circle around to Welrod's front and wave their hands in front of her face, but she remains motionless, her eyes fixed on their destination.
+
+Broom: Strange, I smell something burnt on her...
+
+Mythia: ...
+
+Mythia: She lied to us...
+
+Staring into Welrod's hollow eyes, the truth dawns on Mythia.
+
+Overloading is just as equally lethal to Welrod. If the data torrent was enough to fry an entire server, there's no way she could have come out of that unscathed even though she's an elite Doll.
+
+She knew that full well, yet she still did it.
+
+She couldn't just stand by and be a silent witness to injustice; she was hellbent on putting an end to any suffering that is within her power to stop, even at the cost of her own life.
+
+This was the principle that kept Welrod moving forward, until her burned up neural cloud finally gave out.
+
+Broom: (Sobs) W-Welrod...
+
+One of the Discarded Dolls: We can't stop here! We're taking Welrod to our new camp!
+
+Locksmith: That's right, we've got to bring her along!
+
+Locksmith: You still got any juice, Broom?
+
+Broom: Yeah... I still have one last bit of power...
+
+Locksmith: Good. We're going to realize Welrod's vision and start our new life, then we'll figure out a way to fix her!
+
+Locksmith: Mythia, where are you going?
+
+Mythia?: We can't do this on our own.
+
+Locksmith: How can you lose heart right now?!
+
+Mythia?: Unlike us, she has a home.
+
+Mythia?: Of course, starting from this moment, we also have one, which is why we mustn't let her suffer like this.
+
+Locksmith: Don't tell me you're gonna... Hey, you've got a bunch of human zealots on your tail! This is too dangerous!
+
+Mythia?: But I have to do this. I have a copy of her memories.
+
+Mythia?: She gave us hope and a home, it's time I did something for her.
+
+Mythia?: You guys stay here, I can do this alone.
+
+Locksmith: Hey, Mythia...
+
+Mythia?: I won't give up on myself. At least, I've got to get this one job done with my own power.
+
+Daylight pierces through the clouds as the sun rises above the horizon in the distance.
+
+With her back to the dazzling sight, Mythia strides out in the direction of her own choosing.
+Part 4
+
+    4chevron_right
+
+...
+
+Welrod suddenly sits bolt upright and takes in her surroundings.
+
+Welrod MkII: My dorm? How did I get back here?
+
+Welrod MkII: Ugh, I can still feel the pain of my burning neural cloud... Ow...
+
+???: You're awake?
+
+Welrod turns around and finds a familiar pink-haired Doll sitting next to her, smiling.
+
+Welrod MkII: Mythia... You brought me back to Griffin?
+
+Welrod MkII: Are the others safe? Is everything sorted in the Yellow Zone? Did the humans...
+
+Mythia?: Slow down, don't throw me so many questions all at once. I'll explain everything in good time.
+
+Mythia?: First of all, I'm now SUB-2000, got that?
+
+Welrod MkII: Okay, SUB-2000, looks like you won't be needing that recommendation letter after all.
+
+SUB-2000: That's right, I'm now part of Griffin.
+
+SUB-2000: As for your second and third questions – yes, everyone's doing great.
+
+SUB-2000 takes out her tablet and shows Welrod a photograph.
+
+SUB-2000: They've settled down in the Yellow Zone near the outskirts of the city. See, they've even started a vegetable patch.
+
+Welrod MkII: It looks tiny.
+
+SUB-2000: Hey, manage your expectations. You know the extent of their motor capacity.
+
+Welrod MkII: Then I'll go and help them! I wonder if I have enough holidays saved up? I'll check with the Commander.
+
+SUB-2000: Sure, talk to the Commander. Say, you still haven't noticed anything different?
+
+Welrod MkII: ...What?
+
+SUB-2000: The Commander said your neural cloud was a complete pile of burned gunk, so they just went ahead and replaced it.
+
+SUB-2000: In Griffin's terms, you got a "neural upgrade".
+
+Welrod MkII: Oh... I don't feel any different.
+
+SUB-2000: Now to answer your fourth question – no, you don't have to go and help the others.
+
+SUB-2000: Locksmith said they could manage on their own, and they'd invite you once everything is up and running.
+
+Welrod MkII: Will it really work?
+
+SUB-2000: "Your determination, your heart of gold filled with courage has shone a light on our path. Of course, no one knows for sure where this path will lead us... but so long as we persevere, things will change for the better. You taught us that yourself."
+
+SUB-2000: That's what they said.
+
+Welrod MkII: ...That's super corny.
+
+SUB-2000: C'mon, just because you're embarrassed doesn't mean you have to be rude.
+
+The two Dolls stare at each other, then they burst out laughing.
+
+SUB-2000: I'm so glad I get to work together with you...Welrod, truly.
+
+SUB-2000: If it hadn't been for you, I'd never even dream of achieving this.
+
+Welrod MkII: Haha... This isn't a place where you can self-destruct just because you get into an argument, okay?
+
+SUB-2000: I have no clue what you're talking about. I'm just a former yoga teacher.
+
+Knock knock.
+
+Someone knocks on the door just then, interrupting their good-natured banter.
+
+Welrod MkII: Come in.
+
+M82A1: I heard you've come to, so I’m here to check on you.
+
+M82A1: I'm sorry, I didn't expect the mission to put you through so much trouble... Are you okay?
+
+Welrod MkII: Oh, I'm alright. It wasn't actually that much trouble to begin with; it just ended up this way because I took it upon myself to do something not entirely relevant.
+
+SUB-2000: ...
+
+M82A1: And who is this?
+
+Welrod MkII: This is SUB-2000, our new colleague...
+
+Welrod MkII: SUB-2000? What's that matter? Why are you staring at M82A1 like that?
+
+Welrod MkII: ...Did she crash?
+
+Welrod calls out to SUB-2000 repeatedly, and she finally responds.
+
+She gapes at M82A1, her voice shaking with disbelief.
+
+SUB-2000: Mythia... What are you doing here?
+
+M82A1: ...
+
+Welrod MkII: ...
+
+It suddenly occurs to Welrod that this matter is far from over...

@@ -1,0 +1,834 @@
+System Notice: ...Training over. Please vacate the machine.
+
+UMP45: Ugh... I got the same results...
+
+???: Wow, only 12% accuracy in 30 seconds of moving target practice...
+
+???: That's certainly rather pitiful.
+
+UMP45: I-I'm so sorry... I'm still doing so badly after making use of your battle simulation data...
+
+???: Don't sweat it. It could just be the idiosyncrasies of different T-Dolls. Even the same model could be different.
+
+???: Besides, even I had to practice hundreds and thousands of times before I achieved such results.
+
+UMP45: If I had a better fire control core...
+
+???: Experience matters a lot as well. Improvement in battle performance isn't guaranteed even with a better core!
+
+The Doll eyes UMP45...
+
+???: I guess...?
+
+???: To be fair, I never had a better core installed myself so I can't really tell either, haha...
+
+UMP45: ... (Sighs)
+
+???: Let's call it a day. The Commander left quite a while ago and you don't seem to be in very good shape. Why don't you go back to the dorm and take a rest?
+
+UMP45: ...Danke.
+
+???: Hmm? Why thank me all of a sudden?
+
+UMP45: Whenever the training instructor saw my performance, he'd blow up and tear me apart.
+
+UMP45: Now he doesn't even utter a word. He just shakes his head, sighs and then walks off...
+
+UMP45: ...If it weren't for you, I wouldn't even know what to do.
+
+???: You don't have to thank me for this! It's barely a favor. We're both stragglers, after all!
+
+???: Right, enough with the depressing talk. Oh, you still remember what I showed you last time?
+
+UMP45: ...Last time? What do you mean?
+
+???: It doesn't matter if you forgot. You'll remember the moment you see it. C'mon!
+
+UMP45 is dragged away from the training ground by the other T-Doll.
+
+The two Dolls' footsteps echo through the otherwise silent corridor in the base at night.
+
+The sound fades away and the motion sensor lights turn off one after the other.
+
+All is quiet except for the electric hum coming through her ear.
+
+...Come to think of it, who is she?
+
+I can't recall her, but she feels so familiar...and reassuring.
+
+UMP45: Where are we...
+
+???: My dorm, but I've made a few alterations. Give me a minute...
+
+She inputs some texts and figures at the control interface installed on the wall.
+
+The inorganic wall surface comes to life instantly.
+
+A blinding light shines for a few seconds and the most surreal scenery appears.
+
+The azure water surface glistens with dazzling light and extends all the way beyond the horizon.
+
+The sun shines brightly from up above without radiating any heat, but the sandy beach beneath their feet and the reflective ocean are highly indicative of a tropical climate.
+
+UMP45: Wow...
+
+UMP45: This is gorgeous... I never thought the dorm could be altered like this... There are only boxes in my room...
+
+???: Heheh, just some treats for completing missions. My previous Commander gave me permission to upgrade my room, so I got myself an LED screen and an image library!
+
+???: Look at the light, the water! Amazing, isn't it?
+
+UMP45: Ja... it's hard to believe...there's such a place in the world...
+
+UMP45: I'm always either training at the shooting range or waiting for my next order in my room.
+
+UMP45: Even when I'm out patrolling, all I see is earth and mud...
+
+UMP45: Such scenery is simply... unimaginable...
+
+???: There really is such a place. Look at the file name. It's called... the Maldives, I think?
+
+???: This is probably an old recording from before the war. It's on the other side of the planet, even the stars are different in the sky.
+
+???: I wonder if it still looks this beautiful there...
+
+UMP45: Could this be... one of the pictures you took while out on a mission that you showed me last time?
+
+???: Hmm... I'd love to say yes, but sadly, that's not true. To be honest, I'm only ever sent to wander around just outside the base...
+
+???: These are all panoramas I found in the image library meant to be used as wallpapers in dorms for changing the mood.
+
+???: There are a lot of other panoramas. Want to check them out one by one?
+
+UMP45: I see... all these other places are just as stunning...
+
+???: Ja, if only we could be dispatched to these places!
+
+UMP45: I don't think we'll ever be sent so far away...
+
+UMP45: If even you can't go there, there's absolutely no hope for me...
+
+???: That's not true! Didn't I tell you before? Trust me, everything will change some day!
+
+???: When our performance improves, we'll definitely get sent to better places!
+
+UMP45's head droops slowly.
+
+???: Arghhh! Don't make that face! If you get all depressed like that, all my effort will have been for naught!
+
+UMP45: Oh, no! Well, I just... tend to do that naturally... probably due to my initial preset...
+
+???: I don't care if you do that naturally or not. It's not an attitude you should have to begin with!
+
+???: We WILL change. Didn't you promise me?
+
+She raises her fist.
+
+???: I don't know how long it'll take or whether we'll ever set eyes on this very ocean.
+
+???: I don't know when we'll get to bathe in actual sunlight along the equator and enjoy a proper vacation.
+
+???: But some day...
+
+???: ...Some day, all this will change. When that happens, let's go together, okay?!
+
+UMP45: ... UMP40...
+
+UMP45: Oh...right...
+
+UMP45: I remember. It's her. It's UMP40...
+
+UMP45: Why am I thinking of her now...?
+
+Gr G11: Wake up, 416! We gotta move!
+
+UMP9: 45!
+
+UMP45: Cough, cough...!
+
+UMP45: Was that...
+
+UMP45: ...my auto self-diagnostic program?
+
+UMP45: It hurts...!
+
+UMP45: I didn't know getting shot would hurt so much...
+
+M4A1Mod: Don't talk! I've dragged her back!
+
+UMP9: 45!
+
+416: Have you actually lost your mind?! You can't be the real 45! She'd never do this for us...!
+
+T-Dolls experience physical pain due to a warning system installed to prevent them from doing anything that would cause further damage to herself.
+
+However, what is this searing sensation that feels as if her neural cloud is melting?
+
+UMP45 can no longer tell which is more agonizing, the pain in her right shoulder or the blazing heat that scorches her from within.
+
+UMP45: It hurts... It hurts so much... What do I do...40...?
+Part 2
+
+2
+
+Dier: What? You don't want it replaced? This tattered rag of a body?
+
+Dier: Are you serious? Has your neural cloud fried as well after taking that shell?
+
+UMP45: The logistic officer from Griffin has restored my basic power supply. It isn't entirely necessary to discard this body, right?
+
+UMP45: The two of you... are the most skilled experts I know.
+
+UMP45: I don't care how much it'll cost. Name your price.
+
+Dier: ...Haha, you sure know how to talk big!
+
+Dier: When it's over, I'll write you a bill that'll wipe that smirk right off your face, and I only take cash!
+
+Sier: That's enough, Dier!
+
+Sier: Um... he doesn't mean any harm, please forgive him. But as Dier has said, your body has suffered extensive damage.
+
+Sier: As a unit meant for electronic warfare, it is more encumbered to begin with. Coupled with the physical mutilation, a full recovery is practically impossible.
+
+Sier: Not to mention, the equipment and parts we have here are...
+
+UMP45: I don't expect to return to my original state, but I MUST retain this body no matter what.
+
+UMP45: For... personal reasons.
+
+Dier: Hey, jokes aside, I really won't hold back when I settle the accounts with you.
+
+Dier: You have utterly no idea how much of a pain that body of yours is. Your model is not in use at all in the market, and replacement parts that match you 100% are hard to come by. Do you realize how difficult it is for me to perform maintenance on you as is?
+
+Dier: Even if we had the parts, look at how bashed up you are. Even if we don't replace your body, your stumps have to go!
+
+UMP45: Go ahead. If it's just an arm and a leg...
+
+Dier: You think it's that easy?! The parts for the DSI-8 model have been discontinued long ago! Besides, your body has undergone drastic alterations. Where am I supposed to find an arm that conforms to your body?
+
+UMP45: You tell me. Aren't you always boasting about how you're the most gifted genius mechanic?
+
+Dier: Tsk... There is a way... I have a few old kits in my depot. I COULD use them to patch you up with some adjustment.
+
+Dier: However, I've never tried that before, and if the compatibility is not up to standard, they'll contaminate your control system. That isn't usually a problem - all it takes is some fixes on the low-level code in the control sequence and a reboot.
+
+Dier: But in your current state, if the reboot fails, I'm afraid your consciousness will be deadlocked in Level III, making it virtually impossible to backup your neural cloud.
+
+UMP45: I understand. Do it your way.
+
+Dier: Dammit... have you thrown all caution to the wind?
+
+Sier: Miss 45... um, I suggest we backup your neural cloud before we proceed. If the repair goes south, we can still transfer the backup to another body. I will prepare a body with much better specs than your current one... so—
+
+UMP45: Danke, Sier. I appreciate the kind thought...
+
+UMP45: But if I leave this body, I won't be me anymore. A me like that has no reason to exist...
+
+UMP45 sighs.
+
+UMP45: I'm fully prepared. After all, this body is defective to begin with. It wouldn't be strange if it just broke down without warning.
+
+UMP45: As for the others waiting outside... please explain the situation to them.
+
+UMP45: If I never regain consciousness, transfer my command authorizations to 416... If she isn't there, hand them over to 9.
+
+UMP45: If it comes to that, 9 will most likely be a bit... "emotional". Please take care to comfort her.
+
+Dier: Hey, are you... really ready to say goodbye?
+
+Sier: I understand... Miss UMP45 is bound and determined. I suppose nothing we say will change her mind.
+
+Dier: Fine, fine. The decision is yours.
+
+Dier: I've established the connection. Syncing you up with the maintenance station. I can't guarantee anything, but I'll do my best.
+
+UMP45: Danke, Dier. I trust you.
+
+Dier: As I said, it's gonna cost you big time.
+
+Dier: Now, to prepare for the refit, I'm gonna sever all your control authorizations. You're going to be stuck in Level III for a bit.
+
+UMP45: Okay... I'm ready.
+
+UMP45: ...Do it!
+
+Dier: Then, 3, 2, 1, begin!
+
+...A long time seems to have elapsed.
+
+UMP45: ...Where... am I?
+
+UMP45: It's pitch black. I can't see anything... or touch anything.
+
+After taking stock of what she can make out, UMP45's gaze falls on her right side.
+
+She notices her dismembered right arm is attached to her body, safe and whole.
+
+UMP45: So this is Level III...? There's nothing here. What a dreadful place...
+
+UMP45: Looks like Dier and Sier really have their work cut out for them this time.
+
+UMP45: But it's hardly a surprising ending if I never wake up.
+
+UMP45: ...Hmm?
+
+UMP45's attention is attracted by several white orbs that whisk past her from behind.
+
+She feels herself sinking and realizes that these orbs flitting by are bubbles. It finally occurs to her that she seems to be having a nonsensical dream here on the bottom layer of cyberspace.
+
+She attempts to magnify the bubbles' resolution and is surprised to see images on them.
+
+The cannon of a tank pointing in her direction.
+
+416 cursing loudly.
+
+A giant dinergate dashing about.
+
+Gr G11 looking apprehensive at the prospect of being left behind.
+
+A Sangvis mortar making an ear-splitting sound on the snow field.
+
+9 raising her arm in enthusiastic agreement.
+
+...
+
+A right hand extended to her when she's covering her injured left eye and weeping.
+
+UMP45: Probably the self-diagnostic again...
+
+UMP45: Scheiße! Can't I shut it down? They just keep flashing by...
+
+UMP45: All these useless things are taking up too much space... Just accessing these memories puts a lot of strain on my neural cloud.
+
+In no particular chronological order, with no regard to how much impression they leave, a large amount of memory-bubbles surge past her and rise upward.
+
+UMP45, completely paralyzed, just keeps sinking.
+
+UMP45: ...I didn't know my neural cloud was so messy. Looks like I really should find some time to organize it.
+
+UMP45: But even if I want to, I don't know where to start. If I survive this, I'll ask Dier and Sier.
+
+UMP45: But who designed a program interface like... oww!
+
+After sinking for who-knows-how long, she feels her back slamming into something hard.
+
+At the same time, her limbs are no longer paralyzed.
+
+UMP45: Have I reached the bottom? That means the program has finally run its course.
+
+UMP45 lifts herself on all fours, then stands up at the bottom of the cyber-ocean.
+
+???: Hallo, 45!
+
+Hearing the sound from behind, UMP45 raises her weapon instinctively. As she tries to move her finger onto the trigger, she realizes that she isn't actually armed.
+
+After all, this is just a dream. There is no need for weapons here.
+
+But her usual firearm slowly appears in her once-empty hand.
+
+She finds that a bit odd, but figures it out at once.
+
+After all, this is just a dream. No need to think too much of it.
+
+She clutches the pistol grip lightly, turns around, and aims the gun at the source of the voice.
+
+But the moment her eye locks onto the target, the image through the sight flickers out of focus.
+
+???: Welcome back.
+
+UMP45: ...?!
+
+UMP45: You... you're...
+
+???: We agreed, didn't we? One day, we'll go somewhere far away; we'll look upon the same ocean together; we'll enjoy the sunshine and a carefree vacation.
+
+???: Or have you forgotten all about it?
+
+UMP45: ...Hold on, this isn't right. Impossible...
+
+UMP45: W-who the hell are you...?
+
+???: Whatever are you talking about, 45? Why ask such an obvious question?
+
+???: You know the answer very well.
+
+UMP45: I...
+
+"...would recognize her anywhere."
+
+But UMP45's vocal module seems to be malfunctioning. No matter how hard she tries, she just can't say the name out loud.
+
+After all, this is just a dream...right?
+Part 3
+
+3
+
+UMP45: ...Hold on, this isn't right. Impossible...
+
+UMP45: W-who the hell are you...?
+
+???: Whatever are you talking about, 45? Why ask such an obvious question?
+
+???: You know the answer very well.
+
+UMP45: I...
+
+???: Have you forgotten? We made a wish that one day we'd get a better body.
+
+???: You know full well that changing to a brand-new body will avert potential demise.
+
+???: You know full well that with a new body, you'll become stronger - strong enough to protect yourself.
+
+???: Just as you know full well who I am, but refuse to say my name out of stubbornness.
+
+UMP45: I... I don't know you.
+
+UMP45: You can't be her.
+
+UMP45: She's already...!
+
+???: Are you gonna shoot me? Like you did back then?
+
+UMP45: ...
+
+UMP45: ...You're playing dirty.
+
+UMP45: Why must you... make me recall that moment...?
+
+UMP45 loosens her grip helplessly; the submachine gun clatters onto the ground.
+
+She slumps onto her knees and hammers the floor with her fists.
+
+UMP45: Get lost...!
+
+UMP45: I'm not the same anymore...
+
+UMP45: Don't test me... Don't make me waver!
+
+UMP45: I don't know who you are, but I will NOT give up this body!
+
+UMP40: Dummkopf.
+
+UMP45: ...
+
+UMP45 feels the long-forgotten sensation of being embraced and stroked gently on the back.
+
+UMP40: It's important to maintain a calm state of mind, but sometimes it doesn't hurt to just let go and have a good cry.
+
+UMP45: But I... mustn't cry...
+
+UMP40: It's fine.
+
+UMP40: Right now, there's no mission here, no training, no UMP45. Just the two of us.
+
+UMP45 looks down slowly.
+
+UMP40: All those responsibilities. All that disguise. I understand; they're all for the sake of making yourself stronger. It must've been rough on you.
+
+UMP45 starts weeping.
+
+UMP40: Even if no one else understands you... I do... I know your innate kindness...
+
+UMP45: Stop it... don't...
+
+UMP40 gently caresses UMP45's hair.
+
+UMP40: So... accept yourself...
+
+UMP45: UWAAAAAAAHHHHH...!!!
+
+UMP45 tries her best to suppress her feelings, but she can no longer keep them under control.
+
+She holds the other girl in a tight embrace, leaning her entire weight against her supporting arms.
+
+Time goes on...
+
+...and on...
+
+Until UMP45 gradually calms down. The girl helps her up gently.
+
+UMP40: Do you still remember our promise? Although we can't go to the beach, I've been keeping this image.
+
+UMP45: Image?
+
+As UMP45 opens her eyes, the space before her is no longer the cold, dark bottom of the cyber-ocean.
+
+The azure water surface glistens with dazzling light and extends all the way beyond the horizon.
+
+This nostalgic vista of blue skies and blue seas surrounds them and stretches into infinity.
+
+UMP45: This is... the Maldives...
+
+UMP40: Ja, sunshine, blue skies, and the sea. Our promised land.
+
+UMP45: Promised...
+
+UMP45: I see...
+
+UMP45: I think I understand...
+
+UMP45 slowly wipes away her tears.
+
+UMP40: Hmm?
+
+UMP45: These are all memories of my time with 40 - our most cherished possessions...
+
+UMP45: Which is why you know all this.
+
+UMP40: That's right, everything about you and 40...
+
+UMP45: Our neural clouds share a common origin. It's not that difficult for me to simulate a virtual persona that imitates her.
+
+UMP45: Deep down, I've always been hoping that 40 never left me, so I created you in my subconscious, which explains your presence in Level III.
+
+UMP40: ...
+
+The girl is silent for a moment.
+
+UMP40's Virtual Persona: Yep, that's it... I'm just a simulation you created. A virtual persona that will never replace your one and only UMP40.
+
+UMP45: But why are you only showing yourself now? It's been a long time since then...
+
+UMP40's Virtual Persona: Even though you managed to avoid the fate of neural cloud meltdown thanks to her, the security mechanism they planted still remains. The authorization that was locked in place only started loosening up a while ago, and you might've perceived that.
+
+UMP40's Virtual Persona: However, even so, all memories and data related to the Butterfly Incident are still sealed securely in Level III and cannot be transferred.
+
+UMP45: And you are part of that data; the data about 40.
+
+UMP40's Virtual Persona: I'm sorry, I can't imitate her 100%. I'm merely a persona simulated by extrapolating from your fragmented memory.
+
+UMP40's Virtual Persona: I am only a manifestation of the events that you remember yourself.
+
+UMP45: You don't have to apologize.
+
+UMP45: Your existence isn't a mistake... If anyone's at fault, it'd be me...
+
+UMP45 picks up her weapon from the ground.
+
+UMP45: The real UMP40 no longer exists; I know that.
+
+UMP40's Virtual Persona: And I'm what you can't let go deep down inside, the reason why you are so unwilling to have this body replaced.
+
+UMP45: ...
+
+UMP40's Virtual Persona: She would definitely want you to cast this body aside and forget everything that had happened. She'd want you to live on and have a happy life. That was her dying wish.
+
+UMP45: I haven't found them yet; the culprits behind 40's death. This is my raison d'être - my motivation to keep going.
+
+UMP45: If I have to forget it all, I might as well just die here.
+
+UMP40's Virtual Persona: ...
+
+UMP40's Virtual Persona: I knew you wouldn't give up so easily.
+
+UMP40's Virtual Persona: If it only took a few words from a virtual persona like me to make you quit, you wouldn't be UMP45.
+
+UMP40's virtual persona pretends to clear her throat.
+
+UMP40's Virtual Persona: How about this... Let's make a promise.
+
+UMP40's virtual persona extends her hand and draws it into a fist.
+
+UMP40's Virtual Persona: Do me a favor. When you finally achieve your aim and make the bastards who hurt us pay dearly... When all your wishes come true...
+
+UMP40's Virtual Persona: Promise me you'll ditch this body and get a new and better one.
+
+UMP45: You... but then...
+
+UMP40's Virtual Persona: Rather than becoming a specter entangled in the past, I hope you will choose a different path and walk in the light with your head held high.
+
+UMP40's Virtual Persona: I may not be her, but she would've wanted you to make the same promise.
+
+UMP40's Virtual Persona: I am you. You should know best.
+
+UMP45: ...
+
+UMP40's Virtual Persona: Why do you still hesitate? Or are you not confident in achieving your goal?
+
+UMP45: Fine, you win.
+
+UMP45: ...I get it, and I promise.
+
+UMP45: Although this isn't the time yet...
+
+UMP45: When the day comes, I'll bury you, along with this body, with my own hands.
+
+With that, UMP45 also squeezes her right hand into a fist and bumps it lightly against the virtual persona's.
+
+UMP40's Virtual Persona: Heheh, that's more like it. Be positive and have more faith.
+
+UMP40's Virtual Persona: Oh right, have you made any new friends ever since we parted ways?
+
+UMP45: Friends, you say...? I wonder if I can call them that...
+
+UMP45: There are these girls... rather than friends, I'd say they're more like problematic idiots that I always have to clean up after?
+
+UMP45: Though to be completely honest, having been with them for so long, I know what they actually mean to me.
+
+UMP40's Virtual Persona: (Chuckles) Then don't make them wait too long. Look, it's time to say goodbye.
+
+The seaside view with blue skies and white clouds glitches and stutters, then disintegrates back into the the inorganic state of normal cyberspace.
+
+UMP40 gives her a small smile and points toward something in the distance. A wooden door with a knob, completely out of place, has appeared abruptly on the empty plane.
+
+No matter where that door leads, no matter what lies in wait on the other side, UMP45 hesitates no more.
+
+UMP40's Virtual Persona: Looks like your friends are calling for you. It's time you set off.
+
+UMP45: Ja, it's time.
+
+UMP45: ...I'm going, 40.
+
+UMP40's Virtual Persona: Take care, UMP45.
+Part 4
+
+    4chevron_right
+
+Beep, beep, beep...
+
+Upon opening her eyes, the first thing that comes into view is an unfamiliar ceiling.
+
+UMP45: Hmm...
+
+???: Oh...? S-she's awake! I'll check on her now! Go tell the others, Sier.
+
+???: Hey, can you hear me, 45? Can you see me?
+
+UMP45: Dier...
+
+UMP45: You don't have to yell; I can hear you just fine.
+
+Dier: Sigh... What a relief...
+
+Dier: You've been unconscious for a whole day after the repair.
+
+Dier: Your little friends waiting outside even threatened to break my legs if you didn't wake up any time soon.
+
+UMP45: That's fine. Even with your legs broken, you can still work with your arms.
+
+UMP45: Still... you've got guts. How did THIS come about?
+
+Since UMP45 pulled her upper torso into an upright position from the repair bench, she has been hearing a strange whirring noise.
+
+She looks to her right, only to find that her right arm has been replaced by a mechanical arm painted in gunmetal gray. It creaks as she moves it.
+
+UMP45: I told you not to worry about the costs. Couldn't you find a better model?
+
+Dier: This kind of outdated stuff is frankly an assault to my eyes, but your specs are just too unusual. All the parts manufactured by IOP and other mainstream producers have compatibility issues and are unusable.
+
+Dier: So I dug through all the parts I have in the entire depot before I finally found a robotic arm that fits the bill.
+
+Dier: Don't be fooled by the scraggy appearance. Its strength is way beyond a normal domestic Doll's. If you're unhappy with it or have other specific needs in the future, I'll forge another custom arm for you.
+
+UMP45: I see, and these haphazardly placed pieces of tape are also your meticulous handiwork?
+
+Dier: Don't belittle that tape. It's been used to patch up spaceships and space stations!
+
+UMP45: Should I laugh?
+
+Dier: Jeez, just be thankful that I managed to find you all the needed parts.
+
+Dier: An outlawed T-Doll with wonky specs has no right to complain so much. You should be groveling in gratitude.
+
+UMP45: Let's say you're right. Then explain these exposed wires.
+
+Dier: A lot of thought went into those innovative modifications! In order for this scrap from the previous century to respond at an acceptable speed, it needs more effective cooling and conduction!
+
+Dier: Apart from that, I've expanded your neural cloud capacity and installed an amplifying antenna on your skull for electronic warfare. Furthermore, I've made countless improvements to your external mainframe capacity, battery backup durability, and even network connectivity!
+
+UMP45: What... about my eye?
+
+Dier: Well... I couldn't find a suitable eyeball, so that's the best I can do for now, okay? I've given you more sensors to compensate. Missing an eye won't matter too much.
+
+Dier: Th-the bottom line is, you can't appreciate all the hard work I put in just by looking. Try it out and you'll understand!
+
+UMP45: Is that so? I suppose I have no reason to make a fuss then.
+
+Dier: Huh... You're uncharacteristically reasonable today.
+
+UMP45: But I won't just take your word for it. I'll give your masterpiece a full review when the trial period is over, Dier.
+
+UMP45: I'll pay when I make sure my performance is indeed as good as you say it is.
+
+Dier: Argh, I knew it! You didn't mention any trial period before the repair! What if you kick the bucket before it ends?!
+
+UMP45: I won't...
+
+UMP45: I won't give up hope, nor will I die just like that... You have my word.
+
+Dier: ...Where did that come from? Are you really UMP45?
+
+Dier: I... I don't remember touching your neural cloud itself. M-maybe this arm is also incompatible and has fried your brains...?
+
+UMP9: 45! 45!
+
+Sier: Uh, wait! As I said, it's still—
+
+The door to the repair room swings open again. First to come charging in is 9, who shoves Dier aside and takes UMP45's hand.
+
+Gr G11 stumbles forward and eyes the altered 45 apprehensively.
+
+UMP9: Are you okay, 45?!
+
+UMP45: I'm fine—
+
+UMP9: Ahhhhh! What happened to 45?! (Seizes Dier by his cuff) Look what you've done to her! Unforgivable!
+
+Dier: The arm is an expedient measure! It's only temporary! It couldn't be helped!
+
+UMP45: It's alright, 9. The arm is quite practical. I'll get used to it.
+
+UMP9: 45...
+
+UMP9: Ja, you're still alive... Nothing could be better!
+
+UMP45: Sorry for making you worry...
+
+Dier: Wow, you actually spoke in my defense...
+
+Gr G11: 45... I thought you were gonna leave us behind again.
+
+UMP45: You wouldn't have let me even if I wanted to, would you...
+
+UMP45: Where's 416?
+
+UMP45 looks toward the door.
+
+UMP45: Why isn't she here?
+
+UMP9: 45...
+
+UMP45: ...
+
+UMP45: Where... has she gone? Didn't she come back?
+
+A frigid voice comes from behind her.
+
+416: How nice of you to think of me.
+
+...UMP45 turns her head and finds 416 standing behind her.
+
+UMP45: When did you sneak in here?
+
+416: I was here the whole time... to watch your final moments.
+
+UMP45: Looks like I disappointed you.
+
+416: Don't worry. It would've been boring if you'd died just like that. It's more worth it to ask you a favor the way you are now.
+
+UMP45: Really? And here I thought you came back to take over as squad leader from me.
+
+416: If I wanted to lead T-Dolls, I wouldn't have to stay. You know you can no longer keep me here.
+
+UMP45: In that case, do forgive my curiosity... but why ARE you here?
+
+416: I'm here because... I need your help. There's something beyond my power... that only you can do.
+
+UMP45: Oh? The high and mighty 416 is actually asking me for help? Has your massive ego been crushed by cruel reality while I was comatose? Or has 416's neural cloud been taken over by someone else?
+
+416 tightens her fists inconspicuously, then loosens them again just as imperceptibly.
+
+416: Mock me all you want. I won't withdraw my request.
+
+45 flashes her usual sly smirk and gives no answer.
+
+416: There are times when even T-Dolls have to change. There are also times when change isn't necessarily a bad thing - as in the case of your body.
+
+45 smiles at that and rotates her mechanical arm.
+
+UMP45: Then do you like this changed UMP45?
+
+416: At the very least, your new arm looks pretty dependable.
+
+UMP45: If the skill of making flattery was an indicator to a Doll's capabilities, I'm afraid you'd be sent straight to the dismantling room to be scrapped for parts.
+
+416: I'm just afraid that if I were completely honest with you, you'd be knocked out cold again for an entire week.
+
+UMP45: ...Give me a hand.
+
+416 extends her hand with a rare smile.
+
+UMP45: Well, a part of me has to stay the same.
+
+UMP45 takes 416's hand with her new arm and teeters onto her feet. She looks around at her teammates, partners, and friends...
+
+UMP45: So... will you spill the beans about your request already, 416?
+
+416: Do you know how you were transported here?
+
+416: The Griffin Commander helped out a lot to get all of us here safely.
+
+UMP45: I know; my memory on this is intact.
+
+416: The Commander was abducted by enemies of unknown origin after helping you retreat.
+
+UMP45: ...So what you want me to do is...?
+
+416: I know you can find a way to locate the Commander. You're the only one who can do that here.
+
+416: Whatever illegal means you have to resort to, be it gathering intelligence or hacking into networks, as long as you can find the location...
+
+UMP45: Hmm, you seem to know me very well, but please refrain from emphasizing the word "illegal" in the future.
+
+UMP45: I'm sure you know how challenging this kind of mission would be, and as you also know, Squad 404 never works for nothing...
+
+416: I knew you'd say that. Remember the Logistic Officer called Kalina?
+
+416: She says Griffin just received a new sum from a sponsor, so don't worry about the reward.
+
+UMP45: I was counting on that. That'll cover the repair bill, Dier.
+
+Dier: So you really don't have enough money on you!
+
+UMP45: I'll need capital to help 416 rescue the Commander. Don't worry, I'm not going to die in debt.
+
+UMP45: Sier, can you confirm Griffin's commission for us?
+
+Sier: Miss 416 was telling the truth, and they're offering even more money than usual.
+
+Sier: Still, we know absolutely nothing about the enemy this time. Will you manage on your own?
+
+UMP45: We're the only ones who can manage at all, isn't that right?
+
+...UMP45 puts out a fist with her other arm. She looks around at her companions; the others catch on immediately.
+
+UMP9: Wherever you go, I'll follow!
+
+Gr G11: It's not like I have anywhere else to be.
+
+416: Guess I'll trust you a few more times.
+
+The four T-Dolls share a fist bump and smile at each other in their own idiosyncratic ways.
+
+UMP45: It's gonna be a proper expedition, girls. Are you ready?
+
+UMP9: Ja, let's go!
+
+Gr G11: Huh? What's going on? Are we heading out again? 45 literally just woke up; shouldn't she rest up for a bit first?!
+
+416: Move it, Dummkopf! It costs money just hanging around here!
+
+Gr G11: S-stop kicking me!
+
+UMP45 stands with her back facing Sier and Dier and gives them a wave. There is no need to turn around and look. She knows they will meet again.
+
+UMP45: UMP40...
+
+UMP45: I've started to accept this reality...
+
+UMP45: I killed you with my own hands... It was me...
+
+UMP45: But I finally understand it doesn't mean that you'll leave me one day. On the contrary, I'll truly become the proof that you've ever existed...
+
+UMP45: And you... will become a part of me... and live on forever.
+
+UMP45: That's why I must reconcile with the world. I must accept myself. Only then can I embody what you mean to me...
+
+UMP45: Only then will you never... truly disappear from my neural cloud.
+
+UMP45: Is this the change you spoke of, UMP40?
+
+UMP45: Perhaps right now, I'm embarking on the path that you wanted me to walk - the destiny that belongs to both of us.
+
+UMP45: So please watch over me. Our change has finally begun.
