@@ -26,6 +26,7 @@ To-Do:
 - ~~dynamic character dialogue extracting, specify which character to extract dialogue for on program start~~ done
 - ~~Still creates a dialogue file for characters that don't exist, if character does not exist -> dont make the file and quit program or return to beginning~~ done
 - ~~Maybe incorporate functions / defs just for fun~~ done
+- check for updates on startup
 - GUI
 - exe file
 
