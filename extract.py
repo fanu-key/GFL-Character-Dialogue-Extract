@@ -10,7 +10,6 @@ dirPath = r'Input'
 
 # Fixing character name to include firearm origin for clarity (e.g., MP7 becomes "Gr MP7")
 async def copyright_fix(char_name: str) -> str:
-    # Преобразуем имя персонажа в нижний регистр для поиска
     char_name_lower = char_name.lower()
 
     firearms_dict = {
