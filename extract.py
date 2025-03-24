@@ -1,211 +1,143 @@
-# Import libraries
 import os
-import glob
-import shutil
-import pandas as pd
-import sys
-import threading
+import aiofiles
 import time
+import asyncio
+import csv
+from concurrent.futures import ThreadPoolExecutor
 
-def firearmFix(x):
-    # Firearms copyright fix
-    copyrightFix = x
-    
-    # If input character in list, append Gr to front
-    hkFirarms = ['MP7', 'G41', 'G3', 'G36', 'Mk23', 'G36c',
-                 'MG5', 'PSG-1', 'G11', 'MG4', 'USP Compact', 'G28',
-                 'HK45', 'MG23', 'MG36', 'HK33', 'P30', 'SL8']
-    
-    # If input character in list, append FF to front
-    fnFirearms = ['FN49', 'FNC', 'M249SAW', 'FNP9', 'F2000']
-    
-    # If input character in list, append Fr to front
-    masFirearms = ['FAMAS']
-    
-    if copyrightFix in hkFirarms:
-        copyrightFix = 'Gr {}'.format(copyrightFix)
+OUTPUT_CHARACTER_LINES = r'./Output/CharacterLines'
+dirPath = r'Input'
 
-    if copyrightFix in fnFirearms:
-        copyrightFix = 'FF {}'.format(copyrightFix)
+# Fixing character name to include firearm origin for clarity (e.g., MP7 becomes "Gr MP7")
+async def copyright_fix(char_name: str) -> str:
+    char_name_lower = char_name.lower()
 
-    if copyrightFix in masFirearms:
-        copyrightFix = 'Fr {}'.format(copyrightFix)
-    
-    return copyrightFix
+    firearms_dict = {
+        'MP7': 'Gr', 'G41': 'Gr', 'G3': 'Gr', 'G36': 'Gr', 'Mk23': 'Gr', 'G36c': 'Gr',
+        'MG5': 'Gr', 'PSG-1': 'Gr', 'G11': 'Gr', 'MG4': 'Gr', 'USP Compact': 'Gr', 'G28': 'Gr',
+        'HK45': 'Gr', 'MG23': 'Gr', 'MG36': 'Gr', 'HK33': 'Gr', 'P30': 'Gr', 'SL8': 'Gr',
+        'FN49': 'FF', 'FNC': 'FF', 'M249SAW': 'FF', 'FNP9': 'FF', 'F2000': 'FF',
+        'FAMAS': 'Fr'
+    }
 
-def continueQuestion():
-    # Asks user if they would like to run the program again
-    yesInput = ["YES", 'Y']
-    noInput = ["NO", "N"]
-    
+    firearms_dict_lower = {key.lower(): key for key in firearms_dict}
+
+    for key in firearms_dict_lower:
+        if char_name_lower in key:  # "usp" === "USP Compact"
+            original_name = firearms_dict_lower[key]
+            return f"{firearms_dict[original_name]} {original_name}"
+
+    return char_name
+
+
+# At breakneck speed (almost) we search for txt files
+async def search_files() -> list:
+    loop = asyncio.get_event_loop()
+    files = await loop.run_in_executor(None, lambda: [
+    os.path.join(root, file) 
+    for root, _, filenames in os.walk(dirPath) 
+    for file in filenames if file.endswith(".txt")
+])
+    return files
+
+# We read files into memory at the same speed
+async def read_files(files: list) -> list:
+    content_in_files = []
+
+    for file_path in files:
+        async with aiofiles.open(file_path, mode='r', encoding='utf-8') as file:
+            content = await file.read()
+            content_in_files.append(content)
+
+    return content_in_files
+
+# Extract lines where the character speaks, removing any unwanted symbols (like '�')
+async def extract_lines(character_name: str, content: list) -> list:
+    character_lines = []
+    count_lines = 0
+
+    for chapter in content:
+        for line in chapter.split("\n"):
+            if line.startswith(f"{character_name}:"):
+                line.replace('�', ' ')
+                character_lines.append(line.split(":", 1)[1].strip())
+                count_lines += 1
+
+    return character_lines, count_lines
+
+# Synchronously write to a CSV file in a separate thread to avoid blocking the main thread
+def write_csv_sync(file_path, content):
+    with open(file_path, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        for line in content:
+            writer.writerow([line])
+
+# We write txt and csv files at a furious speed (probably)
+async def write_files(character_name: str, character_content: list):
+    async with aiofiles.open(f"{OUTPUT_CHARACTER_LINES}/{character_name}_Dialogue.txt", mode='w', encoding='utf-8') as file:
+        await file.write("\n".join(character_content))
+
+    loop = asyncio.get_event_loop()
+    await loop.run_in_executor(None, write_csv_sync, f"{OUTPUT_CHARACTER_LINES}/{character_name}_Dialogue.csv", character_content)
+
+# Manage tasks like Caesar, call all the necessary functions
+# Orchestrate the entire workflow: fix character name, search files, extract lines, and write output
+async def task_scheduler(character_name: str) -> str:
+    character_name = await copyright_fix(character_name)
+    files = await search_files()
+    content = await read_files(files)
+    character_content, count_lines = await extract_lines(character_name, content)
+    await write_files(character_name, character_content)
+
+    return count_lines
+
+# We could have simply included main() in the While loop, but it was decided that making a separate function would be more interesting and convenient
+# Separate this function to allow the user to easily continue the process or quit
+async def continue_main():
+    yesInput = ["yes", 'y']
+
+
     continueProgram = input("Would you like to extract again? [Y/N]: ")
-    for accept in yesInput:
-        if continueProgram.upper() == accept.upper():
-            print("...Running Program Again...")
-            main() # Run again if yes
+    if continueProgram.lower() not in yesInput:
+        print("Okay, Goodbye, Commander!")
+        return
+    
+    print("\nOkay, Commander, let's do it again!\n")
+    await main()
 
-    for decline in noInput:
-        if continueProgram.upper() == decline.upper():
-            print("...Exiting Program in 5 seconds...")
-            time.sleep(5)
-            sys.exit() # Exit if no
+# And let's make another asynchronous synchronous function with input! Yes, we just create a folder and do checks
+# Create output directory if it doesn't already exist, with error handling
+async def make_dir():
+    try:
+        os.makedirs(OUTPUT_CHARACTER_LINES)
+    except FileExistsError:
+        pass
+    except PermissionError:
+        print("Oh... Commander, You don't have permission to create the directory.")
+    except OSError as e:
+        print(f"Commaaaaander! Operating system error occurred: {e}")
+    except Exception as e:
+        print(f"Commaaaaander! An unexpected error occurred: {e}")
 
-    else:
-        print("...Invalid input...\n")
-        continueQuestion() #Loop back if invalid input
+# The entry point to our program, we will calculate the execution time (which is ~2.5 times less compared to the previous synchronous version)
+# Main entry point of the program. Calculates execution time and orchestrates the entire flow
+async def main():
+    await make_dir()
 
-def extract(x):
-    # Start timer
+    character_name = input('\nEnter character name: ')
+    print("\n\nThank you, Commander!\n\n")
+
     startTime = time.perf_counter()
 
-    # Input for which character to extract dialogue for
-    inputCharacter = x
-    
-    # Check if input included copyright fix
-    inputCharacter = firearmFix(inputCharacter)
+    count_lines = await task_scheduler(character_name)
+    print("\n\nCommander! All tasks were completed on time!\n\n")
+    print("Total {} lines extracted:".format(character_name), count_lines)
 
-    # Make directories for output
-    pathOutputInput = './Output/InputLines'
-    pathOutputCharacter = './Output/CharacterLines'
-
-    try:
-        os.makedirs(pathOutputInput)
-        os.makedirs(pathOutputCharacter)
-    except FileExistsError:
-        print()
-
-    success = False
-
-    # path to text files to be read
-    dirPath = r'Input\**\*.txt'
-    #savePath = r'Output\InputLines'
-
-    # This will list all text files in the input folder, only use for debugging
-    """for file in glob.glob(dirPath, recursive=True):
-        print(file)
-    print('\n')"""
-
-    # Read each text file in input folder and write each file to one big combined text file
-    inputFolder = glob.glob(dirPath, recursive=True)
-    mergedInput = open("merged.txt", "w+", encoding='utf8')
-    
-    # Threadlock to make sure all files are read
-    lock = threading.Lock()
-    lock.acquire()
-
-    for file in inputFolder:
-        with open('{}'.format(file), 'r+', encoding='utf8') as input:
-            mergedInput.write(input.read())
-
-    lock.release()
-    mergedInput.close()
-
-    # Move the combined text file to output folder
-    sourceFolder = r'merged.txt'
-    destinationFolder = r'Output/InputLines/merged.txt'
-    shutil.move(sourceFolder, destinationFolder)
-
-    # Open merged file to read
-    allTextPath = r'Output/InputLines/merged.txt'
-    allText = open(allTextPath, 'r+', encoding='utf8')
-
-    # Ascii handling, replace � with a space and move to output folder
-    fixedMerged = open('fixedMerged.txt', 'w+', encoding='utf8')
-
-    for line in allText:
-        line.replace('�', ' ')
-        fixedMerged.write(line)
-
-    fixedMerged.close()
-
-    fixedMergedSourceFolder = r'fixedMerged.txt'
-    fixedMergedDestFolder = r'Output/Inputlines/fixedMerged.txt'
-    shutil.move(fixedMergedSourceFolder, fixedMergedDestFolder)
-
-    # Extract all character dialogue and put into a text file and into a list
-    fixedMergedPath = r'Output/InputLines/fixedMerged.txt'
-    readFixedMerged = open(fixedMergedPath, 'r+', encoding='utf8')
-    characterDialogue = open('{}_Dialogue.txt'.format(inputCharacter), 'w+', encoding='utf8')
-    characterLines = []
-
-    characterCheck = ':'
-    
-    charLinesCounter = 0
-
-    # Threadlocking so we don't have a race condition error
-    lock.acquire()
-
-    for line in readFixedMerged:
-        if line.startswith('{}:'.format(inputCharacter)):
-            index = line.find(characterCheck)
-            characterDialogue.write(line[index + 2:])
-            characterLines.append(line[index + 2:].rstrip('\n'))
-            charLinesCounter += 1
-            #ak12Dialogue.write(f"{line}\n")
-            
-    characterDialogue.close()
-    lock.release()
-    
-    print("Total {} lines extracted:".format(inputCharacter), charLinesCounter)
-
-    # Reading all lines in characterLines for debugging
-    """for lines in characterLines:
-        print(lines)"""
-
-    # This shit is the reason why some characters did not work for extraction
-    # Commenting until I can fix it (May 13 2023)
-    # May 15 2023 - Fixed it
-    # Possible explanation after sleeping on it: Race condition
-    # Check if text file is empty, if yes delete file and exit program
-    if os.path.getsize('{}_Dialogue.txt'.format(inputCharacter)) == 0:
-        print('{} does not exist in story files. Dialouge file is empty. Check if input is typed correctly\n'.format(inputCharacter))
-        os.remove('{}_Dialogue.txt'.format(inputCharacter))
-        continueQuestion()
-
-    # Convert lines in list to csv file
-    characterCsv = open('{}_Dialogue.csv'.format(inputCharacter), 'w+', encoding='utf8')
-
-    dataFrame = pd.DataFrame(data = characterLines)
-    dataFrame.to_csv('{}_Dialogue.csv'.format(inputCharacter), header=False, index=False, encoding='utf8')
-
-    # Close files so we can move them into folders
-    fixedMerged.close()
-    readFixedMerged.close()
-    characterDialogue.close()
-    characterCsv.close()
-    mergedInput.close()
-    allText.close()
-
-    # Move character_Dialogue.txt, and character_Dialogue.csv to their respective folders
-    characterDialogueTxtSourceFolder = r'{}_Dialogue.txt'.format(inputCharacter)
-    characterDialogueCsvSourceFolder = r'{}_Dialogue.csv'.format(inputCharacter)
-
-    characterDialogueTxtDestFolder = r'Output/CharacterLines/{}_Dialogue.txt'.format(inputCharacter)
-    characterDialogueCsvDestFolder = r'Output/CharacterLines/{}_Dialogue.csv'.format(inputCharacter)
-
-    shutil.move(characterDialogueTxtSourceFolder, characterDialogueTxtDestFolder)
-    shutil.move(characterDialogueCsvSourceFolder, characterDialogueCsvDestFolder)
-
-    success=True
-
-    # If success, print message to console, else print failure
-    if success==True:
-        print("Extract Success. Check Output folder.")
-
-    if success==False:
-        print('Extract Failure.\n')
-        
-    # Print out total time program takes to execute
     endTime = time.perf_counter()
     elapsedTime = str(endTime - startTime)
-    print(elapsedTime[:7], 'seconds to extract.\n')
+    print(elapsedTime[:3], 'seconds to extract.\n')
 
-    continueQuestion()
-
-def main():
-    # Input for which character to extract dialogue for
-    inputCharacter = input('\nEnter character name: ')
-    extract(inputCharacter)
+    await continue_main()
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
