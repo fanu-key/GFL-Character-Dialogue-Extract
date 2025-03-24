@@ -14,7 +14,7 @@ def firearmFix(x):
     # If input character in list, append Gr to front
     hkFirarms = ['MP7', 'G41', 'G3', 'G36', 'Mk23', 'G36c',
                  'MG5', 'PSG-1', 'G11', 'MG4', 'USP Compact', 'G28',
-                 'HK45', 'MG23', 'MG36', 'HK33' 'P30', 'SL8']
+                 'HK45', 'MG23', 'MG36', 'HK33', 'P30', 'SL8']
     
     # If input character in list, append FF to front
     fnFirearms = ['FN49', 'FNC', 'M249SAW', 'FNP9', 'F2000']
