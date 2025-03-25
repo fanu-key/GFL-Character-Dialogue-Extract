@@ -31,3 +31,34 @@ button {
 button:hover {
     background: #b0051c;
 }
+
+#result {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f50404;
+    color: #333;
+    border: 1px solid #540000;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.3s ease;
+}
+
+#result.success {
+    background-color: #99fb9c;
+    border-color: #26812b;
+    color: #247c29;
+}
+
+#result.error {
+    background-color: #f82839;
+    border-color: #67020c;
+    color: #721c24;
+}
+
+#result.processing {
+    color: #c24b02;
+    background-color: #ffb236;
+    border-color: #fbb141;
+}

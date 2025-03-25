@@ -12,11 +12,44 @@
         <p>Extract dialogue lines from GFL</p>
     </header>
     <main>
-        <form action="/extract" method="post">
+        <form id="extractForm">
             <label for="character">Enter character name:</label>
             <input type="text" id="character" name="character" required>
             <button type="submit">Extract</button>
         </form>
+
+        <div id="result"></div>
     </main>
+    <script>
+        /* I really don't like JS syntax */
+        document.getElementById("extractForm").addEventListener("submit", async function(event) {
+            event.preventDefault();
+
+            let formData = new FormData(this);
+            let resultDiv = document.getElementById("result");
+            
+            resultDiv.className = "processing";
+            resultDiv.innerHTML = "Commander, Processing...";
+
+            let response = await fetch("/extract", {
+                method: "Post",
+                body: formData
+            });
+
+            let data = await response.json();
+
+            if (response.ok) {
+                resultDiv.className = "success";
+                resultDiv.innerHTML = `
+                    <p><strong>Character:</strong> ${data.character}</p>
+                    <p><strong>Lines Extracted:</strong> ${data.lines_extracted}</p>
+                `;
+            } else {
+                resultDiv.className = "error";
+                resultDiv.innerHTML = `<p style="color:red;"><strong>Error:</strong> ${data.error}</p>`;
+            }
+        });
+        
+    </script>
 </body>
 </html>

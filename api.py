@@ -1,5 +1,6 @@
 from imports import *
 from config import *
+from extract import *
 
 app = Quart(__name__)
 
@@ -10,13 +11,17 @@ async def home():
 @app.route('/extract', methods=['POST'])
 async def extract():
     form = await request.form
-
     character_name = form.get('character')
-    if not character_name:
-        return redirect(url_for('home'))
     
-    result = "Okay, puppy, just wait..."
-    return result
+    if not character_name:
+        return jsonify({'error': 'Character name is required'}), 400
+    
+    try:
+        count_lines = await task_scheduler(character_name)
+        return jsonify({
+            'character': character_name,
+            'lines_extracted': count_lines
+        })
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
-# If you see this, don't pay attention, I just write code and it goes to the repository. Check back later!
-app.run()

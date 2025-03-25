@@ -48,7 +48,11 @@ This project extracts dialogue spoken by a specified character from the game **G
 1. **Run the Program:**  
    Run the script via command line:  
    ```bash
-   python your_script_name.py
+   python extractCLI.py
+   ```
+   OR
+   ```bash
+   python main.py
    ```
 
 2. Enter a Character Name:
