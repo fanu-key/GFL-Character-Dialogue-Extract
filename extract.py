@@ -1,12 +1,4 @@
-import os
-import aiofiles
-import time
-import asyncio
-import csv
-from concurrent.futures import ThreadPoolExecutor
-
-OUTPUT_CHARACTER_LINES = r'./Output/CharacterLines'
-dirPath = r'Input'
+import imports
 
 # Fixing character name to include firearm origin for clarity (e.g., MP7 becomes "Gr MP7")
 async def copyright_fix(char_name: str) -> str:
@@ -138,6 +130,7 @@ async def main():
     print(elapsedTime[:3], 'seconds to extract.\n')
 
     await continue_main()
+
 
 if __name__ == "__main__":
     asyncio.run(main())
