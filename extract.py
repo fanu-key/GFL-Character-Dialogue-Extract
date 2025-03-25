@@ -1,4 +1,5 @@
-import imports
+from imports import *
+from config import *
 
 # Fixing character name to include firearm origin for clarity (e.g., MP7 becomes "Gr MP7")
 async def copyright_fix(char_name: str) -> str:
