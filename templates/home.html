@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Line Extractor</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Character Line Extractor</h1>
+        <p>Extract dialogue lines from GFL</p>
+    </header>
+    <main>
+        <form action="/extract" method="post">
+            <label for="character">Enter character name:</label>
+            <input type="text" id="character" name="character" required>
+            <button type="submit">Extract</button>
+        </form>
+    </main>
+</body>
+</html>
