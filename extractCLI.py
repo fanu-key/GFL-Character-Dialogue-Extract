@@ -35,14 +35,11 @@ async def search_files() -> list:
 
 # We read files into memory at the same speed
 async def read_files(files: list) -> list:
-    content_in_files = []
-
-    for file_path in files:
+    async def read_file(file_path):
         async with aiofiles.open(file_path, mode='r', encoding='utf-8') as file:
-            content = await file.read()
-            content_in_files.append(content)
+            return await file.read()
 
-    return content_in_files
+    return await asyncio.gather(*[read_file(file) for file in files])
 
 # Extract lines where the character speaks, removing any unwanted symbols (like '�')
 async def extract_lines(character_name: str, content: list) -> list:
